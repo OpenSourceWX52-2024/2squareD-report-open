@@ -1,4 +1,4 @@
-![UPC_logo_transparente]([https://tinyurl.com/4nbhn6df](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf))
+![UPC_logo_transparente](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263743755-2ff342be-dc34-415c-925e-1e7133e49abf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240326T011051Z&X-Amz-Expires=300&X-Amz-Signature=8ed63cf6c09cf1beb91e5b23f73c7bfef6313b6d528dcb2e877acfe8c5ad3729&X-Amz-SignedHeaders=host&actor_id=59981756&key_id=0&repo_id=679038627)
 
 Universidad Peruana de Ciencias Aplicadas
 

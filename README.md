@@ -23,7 +23,7 @@ Integrantes:
 - Apellido Apellido, Nombre Nombre
 - Apellido Apellido, Nombre Nombre
 - Minaya Mundines, Pietro Gerardo - U201718387
-- Ybañez Esquerre, Miguel Angel
+- Ybañez Esquerre, Miguel Angel - U20201B298
 - Yen Cerna, Lucio Heli - U202213143
 
 Junio del 2024

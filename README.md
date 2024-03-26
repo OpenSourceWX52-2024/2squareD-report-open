@@ -22,7 +22,7 @@ Integrantes:
 - Apellido Apellido, Nombre Nombre
 - Apellido Apellido, Nombre Nombre
 - Apellido Apellido, Nombre Nombre
-- Apellido Apellido, Nombre Nombre
+- Minaya Mundines, Pietro Gerardo - U201718387
 - Apellido Apellido, Nombre Nombre
 - Yen Cerna, Lucio Heli - U202213143
 

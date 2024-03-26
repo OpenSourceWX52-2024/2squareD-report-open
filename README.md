@@ -172,6 +172,16 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 1.1.1 Descripción de la Startup
 ### 1.1.2 Perfiles de integrantes del equipo
 
+![Sharon Barrial Marin](https://media.licdn.com/dms/image/D4E03AQF-BpC3iNzlyA/profile-displayphoto-shrink_400_400/0/1711488671744?e=1717027200&v=beta&t=hE737w7wKwpyaczZLMD4z2KQpHEsozE_WNg_Tohk5oA)
+
+Nombre completo: Sharon Antuanet Ivet Barrial Marin
+
+Código de estudiante: U202114900
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy una estudiante que se caracteriza por poseer cualidades como la perseverencia, el compañerismo y la comunicación interpersonal. Además de tener conocimientos en diversos lenguajes de programación (Python, C++, C#...), también tengo habilidades en la edición de fotos y videos, y en el enfoque al marketing digital. Espero que estas pocas cualidades sirvan como aporte al proyecto durante el presente ciclo y curso. 
+
 ![Miguel Angel Ybañez](https://media.licdn.com/dms/image/D4E03AQGhEmnn3PY4Pw/profile-displayphoto-shrink_200_200/0/1698899674739?e=1717027200&v=beta&t=Nh3jCG4JwuTnk5JP7vxmFsFbhj6o2kJrG8nHcrO_G7g)
 
 Nombre completo: Miguel Angel Ybañez Esquerre

@@ -196,6 +196,17 @@ Acerca de mí:Soy estudiante de Ingeniería de Software apasionado por la tecnol
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
+
+En la actualidad, el aprendizaje de las matemáticas puede representar un desafío para muchos estudiantes debido a la falta de motivación y la dificultad para encontrar recursos educativos atractivos y efectivos. A menudo, los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, lo que lleva a una falta de compromiso y participación por parte de los estudiantes.
+
+Según El Comercio (2022), los resultados de la prueba PISA 2022 indicaron una disminución en el rendimiento académico de los estudiantes peruanos en matemáticas, con una reducción de nueve puntos en comparación con la evaluación anterior realizada hace cuatro años. Esto situó al país en el puesto 59 en la categoría de matemáticas, con un total de 391 puntos.
+
+Esto resalta la urgencia de abordar las deficiencias en el aprendizaje de las matemáticas y promover enfoques innovadores para mejorar el rendimiento académico en esta área (El Comercio, 2022).
+
+Cada estudiante tiene sus propias fortalezas, debilidades y ritmo de aprendizaje, por lo que es crucial proporcionar una experiencia de aprendizaje adaptativa que se ajuste a las necesidades individuales de cada usuario.
+
+Por lo tanto, se identifica la necesidad de desarrollar un juego educativo de matemáticas en 2D que aborde estas problemáticas al ofrecer una experiencia interactiva, motivadora y personalizable que pueda ayudar a los estudiantes a mejorar sus habilidades matemáticas de manera efectiva y divertida.
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 Segmento objetivo: Estudiantes de primaria
@@ -222,7 +233,7 @@ Hemos notado que las empresas educativas y organizaciones que ofrecen servicios 
 
 ---
 # Bibliografía
-
+- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/lima/sucesos/semana-santa-estas-son-las-vias-alternas-a-la-carretera-central-que-pueden-ser-usadas-durante-el-feriado-largo-mtc-sutran-viernes-santo-deviandes-ultimas-noticia/).
 
 ---
 # Anexos

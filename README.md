@@ -170,6 +170,23 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
+2squareD: Transformando el Aprendizaje de las Matemáticas con MathPlayOpen
+
+<ins>**Misión:**</ins>
+En 2squareD, nuestra misión es revolucionar la forma en que se aprenden las matemáticas, ofreciendo una experiencia educativa accesible, dinámica y enriquecedora a través de nuestra plataforma MathPlayOpen. Nos comprometemos a proporcionar a los usuarios de todas las edades herramientas interactivas y divertidas que fomenten el amor por las matemáticas y potencien su desarrollo académico.
+
+<ins>**Visión:**</ins>
+Nuestra visión en 2squareD es crear un mundo donde cada individuo tenga la oportunidad de dominar las habilidades matemáticas de manera significativa y gratificante. Buscamos convertirnos en líderes globales en educación matemática, ofreciendo una plataforma innovadora que trascienda las barreras tradicionales del aprendizaje y empodere a las personas para alcanzar su máximo potencial en el ámbito académico y profesional.
+
+<ins>**Valores:**</ins>
+1. **Excelencia Educativa:** Nos comprometemos a ofrecer contenido educativo de la más alta calidad, respaldado por métodos pedagógicos efectivos y actualizados.
+2. **Innovación Continua:** Buscamos constantemente nuevas formas de mejorar y enriquecer la experiencia de aprendizaje de nuestros usuarios, mediante la incorporación de tecnologías emergentes y prácticas educativas innovadoras.
+3. **Accesibilidad Universal:** Creemos en la importancia de hacer que el aprendizaje de las matemáticas sea accesible para todos, independientemente de su ubicación geográfica, nivel socioeconómico o habilidades previas.
+4. **Empatía y Diversidad:** Valoramos la diversidad de perspectivas y experiencias, y nos esforzamos por crear un entorno inclusivo donde cada individuo se sienta valorado y respetado.
+5. **Colaboración y Comunidad:** Reconocemos el poder del trabajo en equipo y la colaboración, tanto dentro de nuestra organización como con nuestros usuarios, educadores y socios estratégicos, para lograr un impacto positivo duradero en la educación matemática.
+
+Con MathPlayOpen, en 2squareD estamos comprometidos a transformar el aprendizaje de las matemáticas en una experiencia emocionante, estimulante y verdaderamente transformadora para personas de todas las edades y habilidades.
+
 ### 1.1.2 Perfiles de integrantes del equipo
 
 ![Sharon Barrial Marin](https://media.licdn.com/dms/image/D4E03AQF-BpC3iNzlyA/profile-displayphoto-shrink_400_400/0/1711488671744?e=1717027200&v=beta&t=hE737w7wKwpyaczZLMD4z2KQpHEsozE_WNg_Tohk5oA)
@@ -201,8 +218,17 @@ Código de estudiante: U202317002
 
 Carrera: Ingeniería de Software
 
-Acerca de mí:Soy estudiante de Ingeniería de Software apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas herramientas y técnicas para mejorar mis habilidades en programación y diseño de sistemas. Disfruto enfrentando desafíos y resolviendo problemas complejos mediante el desarrollo de soluciones innovadoras y eficientes. Mi objetivo es contribuir al avance de la industria del software y convertirme en un profesional altamente capacitado y comprometido con la excelencia en mi campo.
+Acerca de mí: Soy estudiante de Ingeniería de Software apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas herramientas y técnicas para mejorar mis habilidades en programación y diseño de sistemas. Disfruto enfrentando desafíos y resolviendo problemas complejos mediante el desarrollo de soluciones innovadoras y eficientes. Mi objetivo es contribuir al avance de la industria del software y convertirme en un profesional altamente capacitado y comprometido con la excelencia en mi campo.
 
+<img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+
+Nombre completo: Pietro Gerardo Minaya Mundines 
+
+Código de estudiante: U201718387
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez. 
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática

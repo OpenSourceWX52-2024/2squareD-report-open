@@ -232,6 +232,39 @@ Hemos notado que las empresas educativas y organizaciones que ofrecen servicios 
 ¿Cómo podríamos desarrollar una plataforma educativa digital que proporcione a empresas educativas y organizaciones herramientas efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, al tiempo que fomente la innovación en prácticas educativas?
 
 #### 1.2.2.2. Lean UX Assumptions
+
+**Bussiness Assumptions**
+What need(s)? How can we solve them? Who are/will be the users?
+- Mejora el rendimiento académico de las matemáticas: 
+- Aumenta las formas didácticas de enseñar las matemáticas:
+- Motiva el aprendizaje de las matemáticas:
+- Estimula la mejora continua personalizada:
+- Facilita la visualización del rendimiento académico de los estudiantes:
+- What is the #1 value the users want from my service/product?
+- Other benefits?
+- How will I acquire the customers?
+- How will I make money?
+- Who will the main competitors be for this?
+- How will we beat them?
+- What is the biggest project risk?
+- How can we solve it?
+- What other assumptions do we have that, if proven false, will cause our business/project to fail?
+
+**Usser Assumptions**
+Who is the user? Where does our product fit in his life? What problems does our product used? 
+
+- Empresas educativas: Como una herramienta didáctica y con enfoque educativo, cada institución educativa puede optar como un reforzamiento de lo enseñado en clase. Además, podrán ver los registros académicos de su institución y compararlas con otras instituciones académicas del mismo nivel.
+- Estudiantes: Ligados o no a la misma institución, los estudiantes pueden aprender o reforzar conocimientos matemáticos de manera más eficaz que las enseñanzas tradicionales. 
+- What features are important?
+- How should our product look and behave?
+
+**Technical Assumptions**
+What devices are impacted? What constraints could block us from delivering the product? What dependancies could be required for the product?
+- Computadoras personales
+- Smartphones: 
+- Consolas de videojuegos:
+- Tabletas:
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo

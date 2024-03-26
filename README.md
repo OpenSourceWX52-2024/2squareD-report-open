@@ -19,7 +19,7 @@ Startup: 2squareD
 Producto: MathPlayOpen
 
 Integrantes:
-- Apellido Apellido, Nombre Nombre
+- Barrial Marin, Sharon Antuanet Ivet - U202114900
 - Apellido Apellido, Nombre Nombre
 - Llacchua Peralta, Joseph Ulysses - U202317002
 - Minaya Mundines, Pietro Gerardo - U201718387

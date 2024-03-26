@@ -21,7 +21,7 @@ Producto: MathPlayOpen
 Integrantes:
 - Apellido Apellido, Nombre Nombre
 - Apellido Apellido, Nombre Nombre
-- Apellido Apellido, Nombre Nombre
+- Llacchua Peralta, Joseph Ulysses - U202317002
 - Minaya Mundines, Pietro Gerardo - U201718387
 - Ybañez Esquerre, Miguel Angel - U20201B298
 - Yen Cerna, Lucio Heli - U202213143
@@ -182,10 +182,34 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy una persona amigable, me gusta hacer creación de contenido, y también me agrada el trabajo en equipo. Tengo experiencia en Frontend y Backend, he realizado proyectos para empresas pequeñas. Me especializo en la programación y tengo conocimientos en la creación de páginas web y videojuegos. Además de usar herramientas para edición de imágenes o videos.
 
+
+![Joseph Llacchua Peralta](https://media.licdn.com/dms/image/D4E03AQESEoiwSF0wVg/profile-displayphoto-shrink_200_200/0/1711066191126?e=1717027200&v=beta&t=VfdC8dmxVyXLOah6_ifJ7LUAozXPoHEe0porWkg-ABs)
+
+Nombre completo: Joseph Ulysses Llacchua Peralta
+
+Código de estudiante: U202317002
+
+Carrera: Ingeniería de Software
+
+Acerca de mí:Soy estudiante de Ingeniería de Software apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas herramientas y técnicas para mejorar mis habilidades en programación y diseño de sistemas. Disfruto enfrentando desafíos y resolviendo problemas complejos mediante el desarrollo de soluciones innovadoras y eficientes. Mi objetivo es contribuir al avance de la industria del software y convertirme en un profesional altamente capacitado y comprometido con la excelencia en mi campo.
+
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+Segmento objetivo: Estudiantes de primaria
+
+Hemos observado que muchos estudiantes de primaria enfrentan dificultades para comprometerse y progresar en el aprendizaje de las matemáticas. Esto se debe a la falta de recursos educativos interactivos y atractivos que aborden adecuadamente sus necesidades de aprendizaje. A menudo, los métodos tradicionales de enseñanza no logran captar su interés ni motivarlos para explorar y comprender conceptos matemáticos de manera efectiva. Este problema es especialmente significativo en entornos donde los recursos educativos son limitados o poco accesibles.
+
+¿Cómo podríamos desarrollar una plataforma educativa innovadora y divertida que motive a los estudiantes de primaria a mejorar sus habilidades matemáticas de una manera efectiva y accesible?
+
+Segmento objetivo: Empresas educativas y organizaciones que trabajan con escuelas primarias
+
+Hemos notado que las empresas educativas y organizaciones que ofrecen servicios para escuelas primarias carecen de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en el nivel primario. Esta falta de recursos adecuados dificulta su capacidad para evaluar y monitorear el progreso de los estudiantes de manera efectiva, lo que puede limitar el impacto de sus programas educativos. Además, la falta de opciones interactivas y atractivas dificulta la implementación de prácticas educativas innovadoras que puedan mejorar significativamente la experiencia de aprendizaje de los estudiantes.
+
+¿Cómo podríamos desarrollar una plataforma educativa digital que proporcione a empresas educativas y organizaciones herramientas efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, al tiempo que fomente la innovación en prácticas educativas?
+
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas

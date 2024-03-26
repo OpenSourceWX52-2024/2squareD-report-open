@@ -24,7 +24,7 @@ Integrantes:
 - Apellido Apellido, Nombre Nombre
 - Apellido Apellido, Nombre Nombre
 - Apellido Apellido, Nombre Nombre
-- Apellido Apellido, Nombre Nombre
+- Yen Cerna, Lucio Heli - U202213143
 
 Junio del 2024
 

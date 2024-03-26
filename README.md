@@ -23,7 +23,7 @@ Integrantes:
 - Apellido Apellido, Nombre Nombre
 - Apellido Apellido, Nombre Nombre
 - Minaya Mundines, Pietro Gerardo - U201718387
-- Apellido Apellido, Nombre Nombre
+- Ybañez Esquerre, Miguel Angel
 - Yen Cerna, Lucio Heli - U202213143
 
 Junio del 2024
@@ -167,6 +167,20 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 - [5.4. Video About-the-Product]()
 
 ---
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+### 1.1.1 Descripción de la Startup
+### 1.1.2 Perfiles de integrantes del equipo
+## 1.2 Solution Profile
+### 1.2.1 Antecedentes y problemática
+### 1.2.2 Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.3. Lean UX Hypothesis Statements
+#### 1.2.2.4. Lean UX Canvas
+## 1.3. Segmentos objetivo
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team

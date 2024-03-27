@@ -232,6 +232,19 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
+What: La falta de motivación y recursos educativos atractivos y efectivos, así como la disminución en el rendimiento académico en matemáticas según los resultados de la prueba PISA 2022, son las principales problemáticas identificadas.
+
+Why: Los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, lo que lleva a una falta de compromiso y participación por parte de los estudiantes. Además, la falta de recursos educativos efectivos puede contribuir al bajo rendimiento académico en matemáticas.
+
+Who:Los estudiantes peruanos de primaria y secundaria son los principales involucrados en la problemática del bajo rendimiento académico en matemáticas, así como también sus padres y educadores que buscan herramientas educativas efectivas para apoyar su aprendizaje.
+
+Where: Esta problemática se observa específicamente en el contexto educativo peruano, donde los estudiantes enfrentan desafíos en el aprendizaje de las matemáticas.
+
+When: Los desafíos en el aprendizaje de las matemáticas y los resultados de la prueba PISA 2022 se están observando en la actualidad, lo que resalta la urgencia de abordar esta problemática.
+
+How: Se identifica la necesidad de desarrollar un juego educativo de matemáticas en 2D que ofrezca una experiencia interactiva, motivadora y personalizable para ayudar a los estudiantes a mejorar sus habilidades matemáticas de manera efectiva y divertida.
+
+How much: Aunque no se especifica una cantidad exacta, se reconoce que un porcentaje significativo de estudiantes peruanos enfrenta dificultades en el aprendizaje de las matemáticas y que el país ha experimentado una reducción en los resultados de la prueba PISA 2022 en esta área.
 
 En la actualidad, el aprendizaje de las matemáticas puede representar un desafío para muchos estudiantes debido a la falta de motivación y la dificultad para encontrar recursos educativos atractivos y efectivos. A menudo, los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, lo que lleva a una falta de compromiso y participación por parte de los estudiantes.
 

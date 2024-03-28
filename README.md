@@ -20,7 +20,7 @@ Producto: MathPlayOpen
 
 Integrantes:
 - Barrial Marin, Sharon Antuanet Ivet - U202114900
-- Apellido Apellido, Nombre Nombre
+- Carpio Cornejo, Miguel Ángel - U20221C360
 - Llacchua Peralta, Joseph Ulysses - U202317002
 - Minaya Mundines, Pietro Gerardo - U201718387
 - Ybañez Esquerre, Miguel Angel - U20201B298

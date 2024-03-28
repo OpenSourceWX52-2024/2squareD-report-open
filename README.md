@@ -334,7 +334,7 @@ Este juego les ofrece la oportunidad de participar en una experiencia de aprendi
 
 ---
 # Bibliografía
-- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/lima/sucesos/semana-santa-estas-son-las-vias-alternas-a-la-carretera-central-que-pueden-ser-usadas-durante-el-feriado-largo-mtc-sutran-viernes-santo-deviandes-ultimas-noticia/).
+- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/respuestas/como/como-le-fue-a-peru-en-los-resultados-de-la-prueba-pisa-2022-tdpe-noticia/).
 
 ---
 # Anexos

@@ -317,24 +317,35 @@ Los juegos son inherentemente divertidos y atractivos. Por eso, al presentar en 
 
 No solo los alumnos tienen un reporte de su rendimiento académico, asimismo, la institución a la que pertenece el estudiante y solo si está inscrita a nuestro plan para empresas educativas recibe el mismo reporte. Esto les permite hacer una comparación de conocimientos entre sus alumnos, descubrir la deficiencia de un tema  o temas específicos en matemáticas y la comparación de su actual estado académico con el promedio del país.
 
-Los servicios que brinda *MathPlayOpen* son muy importantes tanto para las empresas educativas que están suscritos a nuestro plan de paga para instituciones, como para los diversos estudiantes que están dentro de nuestro plan gratuito para estudiantes. Puesto que, ya sea por los convenios institucionales o por conocer la aplicación solo de nombre. *MathPlayOpen* ha demostrado tener mayor validez que otras aplicaciones de juegos enfocados a conocimientos, mediante la entrega de feedback inmediata y el modo competencia multijugador. Aunque, corremos el riesgo de que esta función multijugador presente fallas, el hecho de que cada institución pueda obtener un reporte académico por cada uno de sus estudiantes y verificar lo que han aprendido fuera de clases, es la función clave de *MathPlayOpen* para que ambos segmentos queden satisfechos y nuestra aplicación sea un éxito.
+Los servicios que brinda *MathPlayOpen* son muy importantes tanto para las empresas educativas que están suscritos a nuestro plan de paga para instituciones, como para los diversos estudiantes que están dentro de nuestro plan gratuito para estudiantes. Puesto que, ya sea por los convenios institucionales o por conocer la aplicación solo de nombre *MathPlayOpen* ha demostrado tener mayor validez que otras aplicaciones de juegos enfocados a conocimientos, mediante la entrega de feedback inmediata y el modo competencia multijugador. 
+
+Aunque, corremos el riesgo de que esta función multijugador presente fallas, el hecho de que cada institución pueda obtener un reporte académico por cada uno de sus estudiantes y verificar lo que han aprendido fuera de clases, es la función clave de *MathPlayOpen* para que nuestros segmentos objetivos queden satisfechos y nuestra aplicación sea un éxito.
     
 **Usser Assumptions**
 
-Who is the user? Where does our product fit in his life? What problems does our product used? 
+>Empresas educativas
 
-- Empresas educativas: Como una herramienta didáctica y con enfoque educativo, cada institución educativa puede optar como un reforzamiento de lo enseñado en clase. Además, podrán ver los registros académicos de su institución y compararlas con otras instituciones académicas del mismo nivel.
-- Estudiantes: Ligados o no a la misma institución, los estudiantes pueden aprender o reforzar conocimientos matemáticos de manera más eficaz que las enseñanzas tradicionales. 
-- What features are important?
-- How should our product look and behave?
+ Al ser una herramienta didáctica y con enfoque educativo, cada institución educativa opta por usar *MathPlayOpen* como reforzamiento de los conocimientos enseñados en clase. Pueden visualizar los reportes académicos de su institución y no solo comparar el nivel académico de sus estudiantes entre ellos, también compararlo con el promedio del país, demostrando en que rama de las matemáticas presentan mayor deficiencia y por lo que deberían darle más enfoque en clases. 
+
+>Estudiantes
+
+ Ligados o no a la misma institución, los estudiantes aprenden o refuerzan conocimientos matemáticos de manera más eficaz que las enseñanzas tradicionales. Incluso, el tratar de superar los desafíos o ganar las competencias con otros estudiantes los motiva a aprender de manera autodidacta y autodirigida. Aprendiendo no solo conceptos, también la mejor manera en que ellos pueden adquirir conocimientos.
 
 **Technical Assumptions**
 
-What devices are impacted? What constraints could block us from delivering the product? What dependancies could be required for the product?
-- Computadoras personales
-- Smartphones: 
-- Consolas de videojuegos:
-- Tabletas:
+>Computadoras de escritorio y portátiles (linux?)
+
+>Dispositivos móviles
+
+>Navegadores web modernos
+
+Las capacidades de los dispositivos y navegadores pueden limitar la ejecución de gráficos o interacciones complejas, lo que puede causar problemas de rendimiento en dispositivos más antiguos o menos potentes, afectando la experiencia del usuario.
+
+Es por lo que, *MathPlayOpen* tiene como compatibilidad a diferentes sistemas operativos como Windows, macOS y Linux.Asimismo, para su desarrollo hizo uso de bibliotecas como React, Angular o Vue.js. Y también se requirió del uso de la herramienta de desarrollo IntelliJ IDEA ULTIMATE para su compilación.
+
+Por otro lado, también se hizo uso de APIs para los servicios externos y PostgreSQL para la base de datos. A su vez contamos con herramientas adecuadas para probar y depurar el producto en diversas plataformas y entornos.
+
+-Además, es fundamental garantizar la accesibilidad del juego para estudiantes con discapacidades visuales o motoras.-
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 

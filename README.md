@@ -740,6 +740,73 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="3">As-is Scenario Mapping</td>
+            <td colspan="1">Segmento Objetivo 1</td>
+		</tr>
+		<tr>
+			<td colspan="1">Fase</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+			<td colspan="1">Doing</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+			<td colspan="1">Thinking</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+			<td colspan="1">Feeling</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="3">As-is Scenario Mapping</td>
+            <td colspan="1">Segmento Objetivo 2</td>
+		</tr>
+		<tr>
+			<td colspan="1">Fase</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+			<td colspan="1">Doing</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+			<td colspan="1">Thinking</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+			<td colspan="1">Feeling</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+	</tbody>
+</table>
+
+
 ## 2.4. Ubiquitous Language
 
 # Conclusiones

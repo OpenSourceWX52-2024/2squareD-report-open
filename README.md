@@ -688,6 +688,15 @@ Segmento Objetivo 1: Institución / Empresa educativa
 
 Segmento Objetivo 2: Estudiantes de Secundaria 
 
+Entrevistado: 1
+
+Nombre y apellidos: Luis Carbajal
+
+Edad: 16
+
+<img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
+
+[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?e=IpxTJy)
 
 ### 2.2.3. Análisis de entrevistas
 Segmento Objetivo 1: Institución / Empresa educativa

@@ -260,23 +260,31 @@ Hemos notado que las empresas educativas y organizaciones que ofrecen servicios 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Bussiness Assumptions**
-What need(s)? How can we solve them? Who are/will be the users?
-- Mejora el rendimiento académico de las matemáticas: 
-- Aumenta las formas didácticas de enseñar las matemáticas:
-- Motiva el aprendizaje de las matemáticas:
-- Estimula la mejora continua personalizada:
-- Facilita la visualización del rendimiento académico de los estudiantes:
-- What is the #1 value the users want from my service/product?
-- Other benefits?
-- How will I acquire the customers?
-- How will I make money?
-- Who will the main competitors be for this?
-- How will we beat them?
-- What is the biggest project risk?
-- How can we solve it?
-- What other assumptions do we have that, if proven false, will cause our business/project to fail?
 
+>Mejora el rendimiento académico de los estudiantes
+
+ *MathPlayOpen* permite a los estudiantes desarrollar habilidades cognitivas como el razonamiento lógico, la resolución de problemas, la atención y la memoria. Estas habilidades son fundamentales para el éxito en matemáticas y en otras áreas académicas.
+
+>Aumenta las formas didácticas de enseñar la asignatura
+
+En comparación a los métodos de enseñanza tradicionales,*MathPlayOpen* ofrece un entorno interactivo donde los estudiantes experimentan directa y activamente con conceptos matemáticos mientras juegan, lo que aumenta su comprensión y retención de la información. Además, la competencia y la posibilidad de ganar incentivan a los estudiantes a participar y a dedicar tiempo a la práctica de las matemáticas de una manera divertida y entretenida.
+
+>Motiva el aprendizaje de las matemáticas
+
+Los juegos son inherentemente divertidos y atractivos. Por eso, al presentar en *MathPlayOpen* los conceptos matemáticos de una manera lúdica y entretenida, los estudiantes están más motivados para participar y comprometerse con el aprendizaje. Asimismo, el haber incluido elementos de desafío personal y competencia entre jugadores con tablas de clasificación, motiva a los estudiantes a esforzarse por mejorar su rendimiento y superar a sus compañeros de manera saludable.
+
+>Estimula la mejora continua personalizada
+
+*MathPlayOpen* proporciona a los estudiantes oportunidades para practicar conceptos matemáticos una y otra vez. En este tipo de situaciones, la repetición es clave para la memorización y la comprensión profunda de estos conceptos. Además, los estudiantes reciben una retroalimentación inmediata sobre su rendimiento después de resolver cada desafío o competencia, y eso les permite corregir sus errores y mejorar de manera continua mientras juegan. Esto fomenta el aprendizaje activo y autodirigido.
+
+>Facilita la visualización del rendimiento académico de los estudiantes
+
+No solo los alumnos tienen un reporte de su rendimiento académico, asimismo, la institución a la que pertenece el estudiante y solo si está inscrita a nuestro plan para empresas educativas recibe el mismo reporte. Esto les permite hacer una comparación de conocimientos entre sus alumnos, descubrir la deficiencia de un tema  o temas específicos en matemáticas y la comparación de su actual estado académico con el promedio del país.
+
+Los servicios que brinda *MathPlayOpen* son muy importantes tanto para las empresas educativas que están suscritos a nuestro plan de paga para instituciones, como para los diversos estudiantes que están dentro de nuestro plan gratuito para estudiantes. Puesto que, ya sea por los convenios institucionales o por conocer la aplicación solo de nombre. *MathPlayOpen* ha demostrado tener mayor validez que otras aplicaciones de juegos enfocados a conocimientos, mediante la entrega de feedback inmediata y el modo competencia multijugador. Aunque, corremos el riesgo de que esta función multijugador presente fallas, el hecho de que cada institución pueda obtener un reporte académico por cada uno de sus estudiantes y verificar lo que han aprendido fuera de clases, es la función clave de *MathPlayOpen* para que ambos segmentos queden satisfechos y nuestra aplicación sea un éxito.
+    
 **Usser Assumptions**
+
 Who is the user? Where does our product fit in his life? What problems does our product used? 
 
 - Empresas educativas: Como una herramienta didáctica y con enfoque educativo, cada institución educativa puede optar como un reforzamiento de lo enseñado en clase. Además, podrán ver los registros académicos de su institución y compararlas con otras instituciones académicas del mismo nivel.
@@ -285,6 +293,7 @@ Who is the user? Where does our product fit in his life? What problems does our 
 - How should our product look and behave?
 
 **Technical Assumptions**
+
 What devices are impacted? What constraints could block us from delivering the product? What dependancies could be required for the product?
 - Computadoras personales
 - Smartphones: 
@@ -302,7 +311,7 @@ What devices are impacted? What constraints could block us from delivering the p
 
 ---
 # Bibliografía
-- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/lima/sucesos/semana-santa-estas-son-las-vias-alternas-a-la-carretera-central-que-pueden-ser-usadas-durante-el-feriado-largo-mtc-sutran-viernes-santo-deviandes-ultimas-noticia/).
+El Comercio. (2022). *Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas.* Recuperado de [El Comercio](https://elcomercio.pe/lima/sucesos/semana-santa-estas-son-las-vias-alternas-a-la-carretera-central-que-pueden-ser-usadas-durante-el-feriado-largo-mtc-sutran-viernes-santo-deviandes-ultimas-noticia/). [Consulta: 26 de marzo del 2024]
 
 ---
 # Anexos

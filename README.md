@@ -20,7 +20,7 @@ Producto: MathPlayOpen
 
 Integrantes:
 - Barrial Marin, Sharon Antuanet Ivet - U202114900
-- Apellido Apellido, Nombre Nombre
+- Carpio Cornejo, Miguel Ángel - U20221C360
 - Llacchua Peralta, Joseph Ulysses - U202317002
 - Minaya Mundines, Pietro Gerardo - U201718387
 - Ybañez Esquerre, Miguel Angel - U20201B298
@@ -172,6 +172,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 1.1.1 Descripción de la Startup
 2squareD: Transformando el Aprendizaje de las Matemáticas con MathPlayOpen
 
+2squareD transforma el aprendizaje de las matemáticas. Con nuestra plataforma innovadora, MathPlayOpen, estamos cambiando la forma en que las personas interactúan con las matemáticas. En un mundo donde el dominio de estas habilidades es cada vez más crucial, nos enorgullece ofrecer una experiencia educativa accesible, dinámica y enriquecedora para personas de todas las edades y habilidades. Permita que nos sumerjamos en nuestra misión y visión, donde aspiramos a impactar positivamente el aprendizaje de las matemáticas en todo el pais.
+
 <ins>**Misión:**</ins>
 En 2squareD, nuestra misión es revolucionar la forma en que se aprenden las matemáticas, ofreciendo una experiencia educativa accesible, dinámica y enriquecedora a través de nuestra plataforma MathPlayOpen. Nos comprometemos a proporcionar a los usuarios de todas las edades herramientas interactivas y divertidas que fomenten el amor por las matemáticas y potencien su desarrollo académico.
 
@@ -230,6 +232,26 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez. 
 
+<img src="./assets/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="200" height="200">
+
+Nombre completo: Lucio Heli Yen Cerna
+
+Código de estudiante: U202213143
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy una persona líder, autodidacta y dedicada. Mis características me permiten tener un gran impacto en el trabajo en equipo debido a que siempre busco que todos los integrantes, entreguemos el mejor entregable posible y aprendamos durante el desarrollo del proyecto. Por otro lado, tengo conocimientos en C++, HTML, CSS, git bash, MsSql y MongoDB, los cuáles serán beneficiosos para cumplir con el Student Outcome y criterios de evaluación del curso. 
+
+<img src="./assets/profile-miguel.png" alt="Miguel Angel Carpio Cornejo" width="200" height="200">
+
+Nombre completo: Miguel Ángel Carpio Cornejo
+
+Código de estudiante: U20221C360
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy estudiante de 5to ciclo en la Universidad Peruana de Ciencias Aplicadas, tengo conocimientos en lenguajes de programación como C++, C#, Python, HTML, Java, MySQL. Lo cual podré beneficiar en el progreso de nuestro trabajo de curso. 
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
@@ -238,6 +260,20 @@ En la actualidad, el aprendizaje de las matemáticas puede representar un desaf�
 Según El Comercio (2022), los resultados de la prueba PISA 2022 indicaron una disminución en el rendimiento académico de los estudiantes peruanos en matemáticas, con una reducción de nueve puntos en comparación con la evaluación anterior realizada hace cuatro años. Esto situó al país en el puesto 59 en la categoría de matemáticas, con un total de 391 puntos.
 
 Esto resalta la urgencia de abordar las deficiencias en el aprendizaje de las matemáticas y promover enfoques innovadores para mejorar el rendimiento académico en esta área (El Comercio, 2022).
+
+What: La falta de motivación y recursos educativos atractivos y efectivos, así como la disminución en el rendimiento académico en matemáticas según los resultados de la prueba PISA 2022, son las principales problemáticas identificadas.
+
+Why: Los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, lo que lleva a una falta de compromiso y participación por parte de los estudiantes. Además, la falta de recursos educativos efectivos puede contribuir al bajo rendimiento académico en matemáticas.
+
+Who:Los estudiantes peruanos de primaria y secundaria son los principales involucrados en la problemática del bajo rendimiento académico en matemáticas, así como también sus padres y educadores que buscan herramientas educativas efectivas para apoyar su aprendizaje.
+
+Where: Esta problemática se observa específicamente en el contexto educativo peruano, donde los estudiantes enfrentan desafíos en el aprendizaje de las matemáticas.
+
+When: Los desafíos en el aprendizaje de las matemáticas y los resultados de la prueba PISA 2022 se están observando en la actualidad, lo que resalta la urgencia de abordar esta problemática.
+
+How: Se identifica la necesidad de desarrollar un juego educativo de matemáticas en 2D que ofrezca una experiencia interactiva, motivadora y personalizable para ayudar a los estudiantes a mejorar sus habilidades matemáticas de manera efectiva y divertida.
+
+How much: Aunque no se especifica una cantidad exacta, se reconoce que un porcentaje significativo de estudiantes peruanos enfrenta dificultades en el aprendizaje de las matemáticas y que el país ha experimentado una reducción en los resultados de la prueba PISA 2022 en esta área.
 
 Cada estudiante tiene sus propias fortalezas, debilidades y ritmo de aprendizaje, por lo que es crucial proporcionar una experiencia de aprendizaje adaptativa que se ajuste a las necesidades individuales de cada usuario.
 
@@ -301,9 +337,399 @@ What devices are impacted? What constraints could block us from delivering the p
 - Tabletas:
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Basados en** la observación de la falta de motivación y recursos educativos efectivos, así como la disminución del rendimiento académico en matemáticas según los resultados de la prueba PISA 2022, **creemos que** al desarrollar un juego educativo de matemáticas en 2D interactivo y motivador, podemos impactar positivamente en el rendimiento académico de los estudiantes peruanos. **Si** implementamos esta solución, esperamos ver una mejora significativa en los puntajes de las pruebas estandarizadas y una mayor participación en el aprendizaje de las matemáticas entre los estudiantes. **Entonces sabremos que** es cierto cuando observemos un aumento en los puntajes promedio de matemáticas en las evaluaciones estandarizadas y un incremento en la participación activa de los estudiantes en actividades de aprendizaje de matemáticas.
+
+- **Basados en** la identificación de que los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, llevando a una falta de compromiso y participación estudiantil, **creemos que** al proporcionar una experiencia interactiva y personalizable a través del juego educativo de matemáticas en 2D, podemos mejorar el compromiso de los estudiantes. **Si** los estudiantes se involucran y participan activamente en el juego, esperamos observar un aumento en el tiempo dedicado al aprendizaje de matemáticas fuera del aula, una mayor participación en actividades relacionadas con las matemáticas y una actitud más positiva hacia el aprendizaje de esta materia. **Entonces sabremos que** es cierto cuando veamos un incremento en la asistencia a clases de matemáticas y una reducción en las tasas de deserción, así como una actitud más favorable hacia el aprendizaje de matemáticas.
+
+- **Basados en** la falta de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, **creemos que** al desarrollar una plataforma educativa digital que proporcione estas herramientas, podemos fomentar la innovación educativa. **Si** implementamos esta solución, anticipamos un aumento en la adopción de la plataforma por parte de empresas educativas y organizaciones, así como una mejora en la calidad y efectividad de la enseñanza de matemáticas en escuelas secundarias, medida a través de la retroalimentación positiva de educadores y una mejora en los resultados académicos de los estudiantes. **Entonces sabremos que** es cierto cuando veamos una mayor colaboración entre los educadores para compartir mejores prácticas, así como una mayor participación en talleres y capacitaciones relacionadas con la implementación de tecnología educativa.
+
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
+Empresas Educativas:
 
+- Las empresas educativas representan un segmento objetivo clave, ya que pueden utilizar el juego educativo de matemáticas en 2D como una herramienta didáctica para reforzar los conceptos enseñados en clase. Este juego puede servir como un complemento a los métodos tradicionales de enseñanza, ofreciendo una experiencia interactiva y motivadora para los estudiantes.
+- Además, las empresas educativas pueden utilizar el juego para acceder a registros académicos y comparar el rendimiento de sus estudiantes con otras instituciones académicas del mismo nivel. Esto les permitirá identificar áreas de mejora y tomar medidas para fortalecer el aprendizaje de las matemáticas en su institución.
+
+Estudiantes:
+
+- Los estudiantes, ya sea que estén vinculados o no a una institución educativa específica, constituyen otro segmento objetivo importante. Pueden beneficiarse del juego educativo de matemáticas en 2D como una forma más eficaz de aprender y reforzar conocimientos matemáticos en comparación con las enseñanzas tradicionales.
+Este juego les ofrece la oportunidad de participar en una experiencia de aprendizaje interactiva y personalizable, adaptada a sus necesidades individuales. 
+- Además, les permite explorar conceptos matemáticos de manera lúdica y motivadora, lo que puede aumentar su compromiso y participación en el proceso de aprendizaje.
+
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1 Competidores
+<img src="./assets/competitor-logo-brilliant.png" alt="Brilliant" width="200" height="200">
+
+***Brilliant:*** Plataforma de aprendizaje en línea que se centra en temas relacionados con STEM. Cuenta con más de 60 cursos interactivos y ha crecido hasta tener 10 millones de usuarios desde su fundación en 2012.
+
+<img src="./assets/competitor-logo-smartick.jpeg" alt="Smartick" width="200" height="200">
+
+***Smartick:*** Plataforma de aprendizaje en línea que ayuda a entender conceptos difíciles de STEM de manera atractiva. Fomenta en los estudiantes una mentalidad de resolución de problemas y desarrolla habilidades de razonamiento y lógica.
+
+<img src="./assets/competitor-logo-arbolABC.jpeg" alt="ArbolABC" width="200" height="200">
+
+***ArbolABC:*** Plataforma de aprendizaje en línea que ofrece contenido en español a traves de minijuegos.
+
+### 2.1.1 Análisis competitivo
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Competitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>2squareD</td>
+			<td>Brilliant</td>
+			<td>Smartick</td>
+			<td>ArbolABC</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Overview</td>
+			<td>Aplicación web diseñada para la enseñanza de matematicas a estudiantes de secundaria</td>
+			<td>Aplicación diseñada para la enseñanza de diversos campos STEAM</td>
+			<td>Aplicación web diseñada para la enseñanza de diversos campos STEAM</td>
+			<td>Aplicación web diseñada para la enseñanza de diversos campos STEAM. Contenido en español</td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+			<td>Ser una plataforma que ofrece ensenar matematicas a estudiantes de secundaria a un precio acorder a la realidad socioeconomica del pais</td>
+			<td>Ser una plataforma de aprendizaje en línea que se centra en temas relacionados con STEM</td>
+			<td>Ser una plataforma de aprendizaje en línea que ayuda a entender conceptos difíciles de STEM de manera atractiva</td>
+			<td>Ser una plataforma que de aprendizaje en línea que ofrece contenido en español a traves de minijuegos </td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td>
+                <ul>
+                    <li>Empresas Educativas</li>
+                    <li>Estudiantes</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Empresas Educativas</li>
+                    <li>Estudiantes</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Empresas Educativas</li>
+                    <li>Estudiantes</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Empresas Educativas</li>
+                    <li>Estudiantes</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos &amp; Servicios</td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Precios &amp; Costos</td>
+			<td>
+                <ul>
+                    <li>Pago (con capa gratiuta)</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Pago (con capa gratiuta)</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Pago (con capa gratiuta)</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Pago (con capa gratiuta)</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Canales de distribución (Web y/o Móvil)</td>
+			<td>
+                <ul>
+                    <li>Web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Web</li>
+                    <li>Móvil</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>
+                <ul>
+                    <li>Precio competitivo</li>
+                    <li>Actualizaciones continuas</li>
+                    <li>Enfoque en matematicas secundarias a nivel de prueba PISA</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Antiguedad</li>
+                    <li>Reconocimiento</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Interactividad</li>
+                    <li>Enfocado en Matematicas y Lectura </li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precio comenpetitivo</li>
+                    <li>Varias materias y varios niveles</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>
+                <ul>
+                    <li>Novedad en el mercado</li>
+                    <li>Confianza en las empresas educactivas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precio prohibitivo en dólares (facturado anualmente)</li>
+                    <li>Solo en ingles</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precio variable (en funcion de la inscripcion de niños)</li>
+                    <li>Material muy general</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precio alto dólares (facturado anualmente)</li>
+                    <li>Enfocado en niños de entre 3 a 10 anos</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>
+                <ul>
+                    <li>Expansión de la plataforma a nivel internacional hispanoablante</li>
+                    <li>Establecer asociaciones extensas y duraredas con empresas educativas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precios en base a nivel socieconomico de cada region disponible</li>
+                    <li>Permiter cambiar de idioma</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precio fijos en base a un usuario</li>
+                    <li>Actualizacion del material</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precios en base a nivel socieconomico de cada region disponible</li>
+                    <li>Optimizacion del redimiento de la aplicacion web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<td>
+                <ul>
+                    <li>Presencia de competidores estalecidos</li>
+                    <li>Aceptacion por parte de las empresas educativas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similares</li>
+                    <li>Precio Caro (en dolares)</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similares</li>
+                    <li>Precio Variable</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similares</li>
+                    <li>Precio Caro (en dolares)</li>
+                </ul>
+            </td>
+		</tr>
+	</tbody>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+#### Estrategias
+1. Diferenciación de Producto:
+    - Destacar la especialización en la enseñanza de matemáticas para estudiantes de secundaria y el enfoque en el nivel de prueba PISA.
+    - Desarrollar contenido específico y de alta calidad centrado en los estándares de matemáticas de nivel secundario. Realizar campañas de marketing destacando la especialización en matemáticas y su relevancia para el éxito académico.
+2. Expansión Internacional:
+    - Aprovechar la oportunidad de expandir la plataforma a nivel internacional, especialmente en regiones de habla hispana.
+    - Localizar la plataforma y el contenido para adaptarse a diferentes culturas y sistemas educativos. Establecer alianzas con escuelas y organizaciones educativas en países de habla hispana para promover la plataforma.
+3. Precios Competitivos y Flexibles:
+    - Ofrecer precios competitivos y flexibles para atraer a una amplia gama de usuarios, especialmente en mercados donde los competidores tienen precios prohibitivos.
+    - Implementar una estructura de precios escalonada que se adapte al nivel socioeconómico de cada región. Ofrecer opciones de pago flexibles, como suscripciones mensuales o anuales, para aumentar la accesibilidad.
+#### Tácticas
+1. Marketing de Contenido y SEO:
+    - Crear contenido educativo de alta calidad relacionado con las matemáticas y optimizarlo para mejorar el ranking en los motores de búsqueda.
+    - Publicar regularmente blogs, artículos y recursos educativos en el sitio web de 2squareD. Utilizar palabras clave relevantes y etiquetas meta para mejorar la visibilidad en línea.
+2. Alianzas Estratégicas
+    - Establecer asociaciones estratégicas con escuelas, maestros y organizaciones educativas para aumentar el alcance y la adopción de la plataforma.
+    - Colaborar con escuelas locales para ofrecer descuentos o acceso gratuito a la plataforma para sus estudiantes. Participar en eventos educativos y conferencias para promover la plataforma y establecer contactos con educadores.
+3. Optimización de la Experiencia del Usuario
+    - Mejorar constantemente la experiencia del usuario en la plataforma para aumentar la retención y la satisfacción del cliente.
+    - Realizar pruebas de usabilidad y recopilar comentarios de los usuarios para identificar áreas de mejora. Implementar actualizaciones periódicas de la plataforma para agregar nuevas características y mejorar la funcionalidad.
+
+Estas estrategias y tácticas nos ayudaran a 2squareD a diferenciarse de sus competidores, expandir su alcance y proporcionar una experiencia educativa de alta calidad a sus usuarios.
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+Segmento Objetivo 1: Institución / Empresa educativa
+1. ¿Cuáles son los principales desafíos que enfrenta la institución en el contexto educativo actual?
+2. ¿Qué acciones se desarrollan para fortalecer la formación docente y la innovación pedagógica?
+3. ¿En qué medida están familiarizados con el uso de videojuegos didácticos como herramienta educativa?
+4. ¿Qué características o funcionalidades consideran imprescindibles en un videojuego didáctico?
+5. ¿Cómo les gustaría que se realizara la evaluación del aprendizaje a través de los videojuegos didácticos?
+6. ¿Qué tipo de videojuegos didácticos consideran más adecuados para sus necesidades?
+7. ¿Qué tipo de soporte técnico o capacitación necesitarían para implementar el uso de videojuegos didácticos en su institución?
+8. ¿Qué aspectos les preocupan o generan dudas sobre el uso de videojuegos didácticos en el ámbito educativo?
+9. ¿Qué expectativas tienen sobre los resultados que se pueden obtener con la implementación de videojuegos didácticos?
+10. ¿Qué información adicional necesitarían para tomar una decisión sobre la implementación de videojuegos didácticos en su institución?
+
+Segmento Objetivo 2: Estudiantes de Secundaria 
+1. ¿Qué aspectos de las matemáticas te resultan más desafiantes?
+2. ¿Cómo crees que un enfoque interactivo podría mejorar tu experiencia de aprendizaje en matemáticas?
+3. ¿Qué tipo de actividades o recursos en línea encuentras más útiles para aprender matemáticas?
+4. ¿Cuáles son tus mayores dificultades al estudiar matemáticas y cómo crees que una aplicación web podría ayudarte a superarlas?
+5. ¿Qué características te gustaría ver en una aplicación de aprendizaje de matemáticas para que te resulte más atractiva y útil?
+6. ¿Consideras importante que una aplicación de aprendizaje de matemáticas tenga la capacidad de realizar un seguimiento de tu progreso y ofrecerte retroalimentación personalizada?
+7. ¿Qué opinas sobre la idea de competir o colaborar con otros estudiantes a través de una aplicación de aprendizaje de matemáticas?
+8. ¿Cómo crees que una aplicación de aprendizaje de matemáticas podría integrarse de manera efectiva en tu rutina diaria de estudio?
+9. ¿Qué sugerencias tendrías para hacer que una aplicación de aprendizaje de matemáticas sea más atractiva y fácil de usar para estudiantes de tu edad?
+10. ¿Qué impacto crees que podría tener una aplicación de aprendizaje interactivo de matemáticas en tu desempeño académico y tu actitud hacia esta materia?
+
+### 2.2.2. Registro de entrevistas
+Segmento Objetivo 1: Institución / Empresa educativa
+
+Segmento Objetivo 2: Estudiantes de Secundaria 
+
+Entrevistado: 1
+
+Nombre y apellidos: Luis Carbajal
+
+Edad: 16
+
+<img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
+
+[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?e=IpxTJy)
+
+### 2.2.3. Análisis de entrevistas
+Segmento Objetivo 1: Institución / Empresa educativa
+
+Segmento Objetivo 2: Estudiantes de Secundaria 
+- Desafíos en Matemáticas: El estudiante identifica aspectos desafiantes en las matemáticas, lo que sugiere una conciencia de las áreas en las que necesita más apoyo y comprensión.
+- Valor del Enfoque Interactivo: Reconoce la utilidad de un enfoque interactivo para mejorar su experiencia de aprendizaje en matemáticas, lo que indica una apertura hacia métodos de enseñanza más dinámicos y participativos.
+- Recursos en Línea: Muestra preferencia por recursos en línea para aprender matemáticas, lo que refleja la familiaridad y comodidad con la tecnología digital como medio de aprendizaje.
+- Identificación de Dificultades y Soluciones Potenciales: El estudiante identifica sus mayores dificultades en el estudio de matemáticas y sugiere cómo una aplicación web podría ayudarlo a superarlas, demostrando una reflexión sobre sus propias necesidades y cómo una herramienta tecnológica podría abordarlas.
+- Características Deseadas en una Aplicación: Expresa preferencias sobre las características que le gustaría ver en una aplicación de aprendizaje de matemáticas, lo que indica la importancia de la usabilidad y la funcionalidad para él como usuario.
+- Valor de la Retroalimentación Personalizada: Reconoce la importancia de la retroalimentación personalizada en una aplicación de aprendizaje de matemáticas, lo que sugiere una comprensión de cómo la retroalimentación puede mejorar su aprendizaje y comprensión.
+- Opinión sobre Colaboración y Competencia: Muestra interés en la idea de competir o colaborar con otros estudiantes a través de una aplicación de aprendizaje de matemáticas, lo que sugiere una apertura hacia la interacción social y la motivación a través de la competencia sana.
+- Integración en la Rutina Diaria: Considera cómo una aplicación de aprendizaje de matemáticas podría integrarse efectivamente en su rutina diaria de estudio, lo que refleja una comprensión de la importancia de la consistencia y la practicidad en el aprendizaje.
+- Sugerencias para Mejoras: Ofrece sugerencias para hacer que una aplicación de aprendizaje de matemáticas sea más atractiva y fácil de usar para estudiantes de su edad, lo que indica una participación activa en el diseño y la mejora de herramientas educativas.
+- Impacto en el Desempeño y la Actitud: Considera el impacto potencial de una aplicación de aprendizaje interactivo de matemáticas en su desempeño académico y su actitud hacia la materia, lo que sugiere una expectativa positiva sobre el poder transformador de la tecnología en el aprendizaje.
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language
 
 # Conclusiones
 ### Conclusiones y recomendaciones
@@ -311,7 +737,7 @@ What devices are impacted? What constraints could block us from delivering the p
 
 ---
 # Bibliografía
-El Comercio. (2022). *Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas.* Recuperado de [El Comercio](https://elcomercio.pe/lima/sucesos/semana-santa-estas-son-las-vias-alternas-a-la-carretera-central-que-pueden-ser-usadas-durante-el-feriado-largo-mtc-sutran-viernes-santo-deviandes-ultimas-noticia/). [Consulta: 26 de marzo del 2024]
+- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/lima/sucesos/semana-santa-estas-son-las-vias-alternas-a-la-carretera-central-que-pueden-ser-usadas-durante-el-feriado-largo-mtc-sutran-viernes-santo-deviandes-ultimas-noticia/).
 
 ---
 # Anexos

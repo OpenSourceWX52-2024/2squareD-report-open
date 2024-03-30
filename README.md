@@ -747,6 +747,12 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+<img src="./assets/Journey Mapping/User Journey Mapping-Estudiante.png" alt="User Estudiante de Segundaria">
+
+
+
+
+
 ### 2.3.4. Empathy Mapping
 - Estudiante de secundaria:
 <img src="./assets/empathy_map/Empathy Map Student.png"/>

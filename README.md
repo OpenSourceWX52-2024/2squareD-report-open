@@ -281,17 +281,18 @@ Por lo tanto, se identifica la necesidad de desarrollar un juego educativo de ma
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-Segmento objetivo: Estudiantes de primaria
+Segmento objetivo: Estudiantes de secundaria peruanos
 
-Hemos observado que muchos estudiantes de primaria enfrentan dificultades para comprometerse y progresar en el aprendizaje de las matemáticas. Esto se debe a la falta de recursos educativos interactivos y atractivos que aborden adecuadamente sus necesidades de aprendizaje. A menudo, los métodos tradicionales de enseñanza no logran captar su interés ni motivarlos para explorar y comprender conceptos matemáticos de manera efectiva. Este problema es especialmente significativo en entornos donde los recursos educativos son limitados o poco accesibles.
+Hemos observado que muchos estudiantes de secundaria en Perú enfrentan dificultades para comprometerse y progresar en el aprendizaje de las matemáticas. Esto se debe a la falta de recursos educativos interactivos y atractivos que aborden adecuadamente sus necesidades de aprendizaje. A menudo, los métodos tradicionales de enseñanza no logran captar su interés ni motivarlos para explorar y comprender conceptos matemáticos de manera efectiva. Este problema es especialmente significativo en entornos donde los recursos educativos son limitados o poco accesibles.
 
-¿Cómo podríamos desarrollar una plataforma educativa innovadora y divertida que motive a los estudiantes de primaria a mejorar sus habilidades matemáticas de una manera efectiva y accesible?
+¿Cómo podríamos desarrollar una plataforma educativa innovadora y divertida que motive a los estudiantes de secundaria peruanos a mejorar sus habilidades matemáticas de una manera efectiva y accesible?
 
-Segmento objetivo: Empresas educativas y organizaciones que trabajan con escuelas primarias
+Segmento objetivo: Organizaciones e instituciones educativas
 
-Hemos notado que las empresas educativas y organizaciones que ofrecen servicios para escuelas primarias carecen de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en el nivel primario. Esta falta de recursos adecuados dificulta su capacidad para evaluar y monitorear el progreso de los estudiantes de manera efectiva, lo que puede limitar el impacto de sus programas educativos. Además, la falta de opciones interactivas y atractivas dificulta la implementación de prácticas educativas innovadoras que puedan mejorar significativamente la experiencia de aprendizaje de los estudiantes.
+Hemos notado que las organizaciones e instituciones educativas que trabajan con estudiantes de secundaria en Perú carecen de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en este nivel educativo. Esta falta de recursos adecuados dificulta su capacidad para evaluar y monitorear el progreso de los estudiantes de manera efectiva, lo que puede limitar el impacto de sus programas educativos. Además, la falta de opciones interactivas y atractivas dificulta la implementación de prácticas educativas innovadoras que puedan mejorar significativamente la experiencia de aprendizaje de los estudiantes.
 
-¿Cómo podríamos desarrollar una plataforma educativa digital que proporcione a empresas educativas y organizaciones herramientas efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, al tiempo que fomente la innovación en prácticas educativas?
+¿Cómo podríamos desarrollar una plataforma educativa digital que proporcione a organizaciones e instituciones educativas herramientas efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en estudiantes de secundaria peruanos, al tiempo que fomente la innovación en prácticas educativas?
+
 
 #### 1.2.2.2. Lean UX Assumptions
 

@@ -744,6 +744,11 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
+- Estudiante de secundaria:
+<img src="./assets/empathy_map/Empathy Map Student.png"/>
+
+- Institución educativa:
+<img src="./assets/empathy_map/Empathy Map Educator.png"/>
 ### 2.3.5. As-is Scenario Mapping
 
 <table border="1" style="text-align: center;">
@@ -821,7 +826,7 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 
 ---
 # Bibliografía
-- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/lima/sucesos/semana-santa-estas-son-las-vias-alternas-a-la-carretera-central-que-pueden-ser-usadas-durante-el-feriado-largo-mtc-sutran-viernes-santo-deviandes-ultimas-noticia/).
+- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/peru/prueba-pisa-2022-resultados-de-los-estudiantes-peruanos-en-matematicas-lectura-y-ciencias-rendimiento-academico-ultimas-noticia/).
 
 ---
 # Anexos

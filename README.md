@@ -1,4 +1,4 @@
-![UPC_logo_transparente](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263743755-2ff342be-dc34-415c-925e-1e7133e49abf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240326T011051Z&X-Amz-Expires=300&X-Amz-Signature=8ed63cf6c09cf1beb91e5b23f73c7bfef6313b6d528dcb2e877acfe8c5ad3729&X-Amz-SignedHeaders=host&actor_id=59981756&key_id=0&repo_id=679038627)
+![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 Universidad Peruana de Ciencias Aplicadas
 
@@ -356,6 +356,9 @@ Por otro lado, también se hizo uso de APIs para los servicios externos y Postgr
 - **Basados en** la falta de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, **creemos que** al desarrollar una plataforma educativa digital que proporcione estas herramientas, podemos fomentar la innovación educativa. **Si** implementamos esta solución, anticipamos un aumento en la adopción de la plataforma por parte de empresas educativas y organizaciones, así como una mejora en la calidad y efectividad de la enseñanza de matemáticas en escuelas secundarias, medida a través de la retroalimentación positiva de educadores y una mejora en los resultados académicos de los estudiantes. **Entonces sabremos que** es cierto cuando veamos una mayor colaboración entre los educadores para compartir mejores prácticas, así como una mayor participación en talleres y capacitaciones relacionadas con la implementación de tecnología educativa.
 
 #### 1.2.2.4. Lean UX Canvas
+
+<img src="./assets/LEAN UX CANVAS.png" alt="Lean UX Canvas">
+
 ## 1.3. Segmentos objetivo
 Empresas Educativas:
 

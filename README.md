@@ -321,6 +321,7 @@ No solo los alumnos tienen un reporte de su rendimiento académico, asimismo, la
 Los servicios que brinda *MathPlayOpen* son muy importantes tanto para las empresas educativas que están suscritos a nuestro plan de paga para instituciones, como para los diversos estudiantes que están dentro de nuestro plan gratuito para estudiantes. Puesto que, ya sea por los convenios institucionales o por conocer la aplicación solo de nombre *MathPlayOpen* ha demostrado tener mayor validez que otras aplicaciones de juegos enfocados a conocimientos, mediante la entrega de feedback inmediata y el modo competencia multijugador. 
 
 Aunque, corremos el riesgo de que esta función multijugador presente fallas, el hecho de que cada institución pueda obtener un reporte académico por cada uno de sus estudiantes y verificar lo que han aprendido fuera de clases, es la función clave de *MathPlayOpen* para que nuestros segmentos objetivos queden satisfechos y nuestra aplicación sea un éxito.
+<br>
     
 **Usser Assumptions**
 
@@ -331,6 +332,8 @@ Aunque, corremos el riesgo de que esta función multijugador presente fallas, el
 >Estudiantes
 
  Ligados o no a la misma institución, los estudiantes aprenden o refuerzan conocimientos matemáticos de manera más eficaz que las enseñanzas tradicionales. Incluso, el tratar de superar los desafíos o ganar las competencias con otros estudiantes los motiva a aprender de manera autodidacta y autodirigida. Aprendiendo no solo conceptos, también la mejor manera en que ellos pueden adquirir conocimientos.
+
+ <br>
 
 **Technical Assumptions**
 
@@ -776,7 +779,7 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
 
 >Segmento Objetivo 1
 
-<table border="1" style="text-align: center;">
+<table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
 			<td colspan="1" rowspan=2>As-is Scenario Mapping</td>
@@ -820,10 +823,10 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
 	</tbody>
 </table>
 
-
+<br>
 
 >Segmento objetivo 2
-<table border="1" style="text-align: center;">
+<table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
 			<td colspan="1" rowspan="2">As-is Scenario Mapping</td>
@@ -873,7 +876,7 @@ El mapa To-Be crea una representación visual que muestra exactamente cómo debe
 
 >Segmento Objetivo 1
 
-<table border="1" style="text-align: center;">
+<table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
 			<td colspan="1" rowspan=2>To-Be Scenario Mapping</td>
@@ -916,9 +919,10 @@ El mapa To-Be crea una representación visual que muestra exactamente cómo debe
 		</tr>
 	</tbody>
 </table>
+<br>
 
 >Segmento Objetivo 2
-<table border="1" style="text-align: center;">
+<table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
 			<td colspan="1" rowspan=2>To-Be Scenario Mapping</td>
@@ -963,6 +967,70 @@ El mapa To-Be crea una representación visual que muestra exactamente cómo debe
 </table>
 
 ## 3.2. User Stories
+
+Para elaborar user stories que pertenecen a un epic. A continuación, las epics que consideramos como equipo:
+
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">Código</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Epic</td>
+		</tr>
+		<tr>
+            <td colspan="1">EP001</td>
+            <td colspan="1">....</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP002</td>
+            <td colspan="1">....</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP003</td>
+            <td colspan="1">....</td>
+            <td colspan="1">...</td>
+		</tr>
+	</tbody>
+</table>
+
+A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Epica:
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">ID de Historia de Usuario</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Descripción</td>
+            <td colspan="1">Criterios de Aceptación con Escenarios	</td>
+            <td colspan="1">ID de Épica</td>
+		</tr>
+		<tr>
+            <td colspan="1">US001</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP002</td>
+            <td colspan="1">....</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP003</td>
+            <td colspan="1">....</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+	</tbody>
+</table>
+
 
 ## 3.3. Impact Mapping
 

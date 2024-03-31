@@ -783,9 +783,9 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 		<tr>
             <td colspan="1">Fase</td>
             <td colspan="1">Resolver desafíos matemáticos</td>
-            <td colspan="1"></td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Visualizar los resultados de los desafíos</td>
+            <td colspan="1">Entrar en la competencia de conocimientos</td>
+            <td colspan="1">Ver la tabla de clasificación</td>
 		</tr>
         <tr>
 			<td colspan="1">Doing</td>

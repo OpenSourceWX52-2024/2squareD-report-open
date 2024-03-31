@@ -772,8 +772,8 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 		</tr>
 		<tr>
             <td colspan="1">Fase</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Resolver desafíos matemáticos</td>
+            <td colspan="1"></td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
@@ -805,7 +805,10 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 	<tbody>
 		<tr>
 			<td colspan="1" rowspan=2>As-is Scenario Mapping</td>
-            <td colspan="4" rowspan="1"></td>
+            <td colspan="4" rowspan="1">Institución Educativa</td>
+		</tr>
+        <tr>
+            <td colspan="4">Harvey Specter</td>
 		</tr>
 		<tr>
 			<td colspan="1">Fase</td>

@@ -774,10 +774,107 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 
 El mapa As-is proporciona una representación visual de cómo opera actualmente el proceso, identificando las decisiones, sentimientos y pensamientos que toman los usuarios.
 
+>Segmento Objetivo 1
+
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
 			<td colspan="1" rowspan=2>As-is Scenario Mapping</td>
+            <td colspan="5" rowspan="1">Estudiante de secundaria</td>
+		</tr>
+        <tr>
+            <td colspan="5">Aina Soler</td>
+		</tr>
+		<tr>
+            <td colspan="1">Phase</td>
+            <td colspan="1">Elección de la rama de matemática</td>
+            <td colspan="1">Iniciación del juego</td>
+            <td colspan="1">Visualización de los resultados</td>
+            <td colspan="1">Competición entre jugadores</td>
+            <td colspan="1">Visualización la tabla de clasificación</td>
+		</tr>
+        <tr>
+			<td colspan="1">Doing</td>
+            <td colspan="1">Elige la rama de matemática a estudiar</td>
+            <td colspan="1">Resuelve las diferentes preguntas</td>
+            <td colspan="1">Visualiza sus resultados obtenidos</td>
+            <td colspan="1">Resuelve preguntas junto con otro jugador</td>
+            <td colspan="1">Observa sus resultados y su posición dentro de la tabla</td>
+		</tr>
+        <tr>
+			<td colspan="1">Thinking</td>
+            <td colspan="1">No existe una clasificación de temas</td>
+            <td colspan="1">Las preguntas no están en orden</td>
+            <td colspan="1">Las respuestas erróneas no presentan resolución ni explicación</td>
+            <td colspan="1">Las batallas amistosas serían de gran ayuda</td>
+            <td colspan="1">No hay una opción para volver a competir</td>
+		</tr>
+        <tr>
+			<td colspan="1">Feeling</td>
+            <td colspan="1">Confundido por no saber que estoy estudiando</td>
+            <td colspan="1">Irritado por no saber a qué tema pertenece cada pregunta</td>
+            <td colspan="1">Frustrado por no entender qué es lo que hice mal</td>
+            <td colspan="1">Incómodo por no poder practicar para las competencias oficiales</td>
+            <td colspan="1">Frustración por no poder volver a intentarlo<td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+>Segmento objetivo 2
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">As-is Scenario Mapping</td>
+            <td colspan="4" rowspan="1">Institución Educativa</td>
+		</tr>
+        <tr>
+            <td colspan="4">Harvey Specter</td>
+		</tr>
+		<tr>
+			<td colspan="1">Phase</td>
+            <td colspan="1">Inicialización de convenio</td>
+            <td colspan="1">Visualización de los reportes de alumnos</td>
+            <td colspan="1">Visualización de la tabla de lugares de los alumnos</td>  
+            <td colspan="1">Visualización del reporte promedio de la escuela</td>
+		</tr>
+        <tr>
+			<td colspan="1">Doing</td>
+            <td colspan="1">Ingresa los datos de la esuela</td>
+            <td colspan="1">Visualiza los resultados de los alumnos</td>
+            <td colspan="1">Observa en que puesto están cada uno de los alumnos</td>
+            <td colspan="1">Comtempla el reporte general de la escuela</td>
+		</tr>
+        <tr>
+			<td colspan="1">Thinking</td>
+            <td colspan="1">Este juego podría funcionar para mejorar el rendimiento académico de la escuela</td>
+            <td colspan="1">No hay una forma de visualizar las deficiencias de enseñaza</td>
+            <td colspan="1">Esta función sirve para saber como podemos agrepar a los alumnos</td>
+            <td colspan="1">No hay muchos detalles</td>
+		</tr>
+        <tr>
+			<td colspan="1">Feeling</td>
+            <td colspan="1">Interés en este juego de matemáticas</td>
+            <td colspan="1">Decepción por no poder ver esta función</td>
+            <td colspan="1">Alivio y felicidad por saber cómo podemos seleccionar los grupos de estudio</td>
+            <td colspan="1">Frustración y decepción por querer saber más detalles sobre el rendimiento de su escuela</td>
+		</tr>
+	</tbody>
+</table>
+
+
+## 2.4. Ubiquitous Language
+
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+
+El mapa To-Be crea una representación visual que muestra exactamente cómo debería funcionar el proceso, qué decisiones se deben tomar y qué resultados se pueden lograr.
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan=2>To-Be Scenario Mapping</td>
             <td colspan="4" rowspan="1">Estudiante de secundaria</td>
 		</tr>
         <tr>
@@ -817,48 +914,6 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
 		</tr>
 	</tbody>
 </table>
-
-<table border="1" style="text-align: center;">
-	<tbody>
-		<tr>
-			<td colspan="1" rowspan=2>As-is Scenario Mapping</td>
-            <td colspan="4" rowspan="1">Institución Educativa</td>
-		</tr>
-        <tr>
-            <td colspan="4">Harvey Specter</td>
-		</tr>
-		<tr>
-			<td colspan="1">Phase</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
-			<td colspan="1">Doing</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
-			<td colspan="1">Thinking</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
-			<td colspan="1">Feeling</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-	</tbody>
-</table>
-
-
-## 2.4. Ubiquitous Language
-
-# Capítulo III: Requirements Specification
-## 3.1. To-Be Scenario Mapping
 
 ## 3.2. User Stories
 

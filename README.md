@@ -804,15 +804,16 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
             <td colspan="1">Ojalá hubiera una clasificación de temas</td>
             <td colspan="1">Ojalá hubiera un orden en las preguntas</td>
             <td colspan="1">Ojalá hubiera resolución o explicación de las preguntas erróneas</td>
-            <td colspan="1">Ojalá hubiera batallas amistosas</td>
+            <td colspan="1">Ojalá hubiera batallas amistosas de práctica</td>
             <td colspan="1">Ojalá hubiera opción de volver a competir</td>
 		</tr>
         <tr>
 			<td colspan="1">Feeling</td>
-            <td colspan="1"></td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Confundido por no saber que estoy estudiando</td>
+            <td colspan="1">Irritado por no saber a qué tema pertenece cada pregunta</td>
+            <td colspan="1">Frustrado por no entender qué es lo que hice mal</td>
+            <td colspan="1">Incómodo por no poder practicar para las competencias oficiales</td>
+            <td colspan="1">Frustración por no poder volver a intentarlo</td>
 		</tr>
 	</tbody>
 </table>

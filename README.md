@@ -743,11 +743,15 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
-			<td colspan="3">As-is Scenario Mapping</td>
-            <td colspan="1">Segmento Objetivo 1</td>
+			<td colspan="1" rowspan=2>As-is Scenario Mapping</td>
+            <td colspan="4" rowspan="1">Estudiante de secundaria</td>
+		</tr>
+        <tr>
+            <td colspan="4">Aina Soler</td>
 		</tr>
 		<tr>
-			<td colspan="1">Fase</td>
+            <td colspan="1">Fase</td>
+            <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
@@ -757,15 +761,18 @@ Segmento Objetivo 2: Estudiantes de Secundaria
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
+            <td colspan="1">...</td>
 		</tr>
         <tr>
 			<td colspan="1">Thinking</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
+            <td colspan="1">...</td>
 		</tr>
         <tr>
 			<td colspan="1">Feeling</td>
+            <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
@@ -776,8 +783,8 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
-			<td colspan="3">As-is Scenario Mapping</td>
-            <td colspan="1">Segmento Objetivo 2</td>
+			<td colspan="1" rowspan=2>As-is Scenario Mapping</td>
+            <td colspan="4" rowspan="1"></td>
 		</tr>
 		<tr>
 			<td colspan="1">Fase</td>

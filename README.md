@@ -797,18 +797,19 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
             <td colspan="1">Resuelve las diferentes preguntas</td>
             <td colspan="1">Visualiza sus resultados obtenidos</td>
             <td colspan="1">Resuelve preguntas junto con otro jugador</td>
-            <td colspan="1">Observa sus resultados y su posición dentro de la tabla que obtuvo</td>
+            <td colspan="1">Observa sus resultados y su posición dentro de la tabla</td>
 		</tr>
         <tr>
 			<td colspan="1">Thinking</td>
             <td colspan="1">Ojalá hubiera una clasificación de temas</td>
             <td colspan="1">Ojalá hubiera un orden en las preguntas</td>
             <td colspan="1">Ojalá hubiera resolución o explicación de las preguntas erróneas</td>
-            <td colspan="1">Ojalá </td>
+            <td colspan="1">Ojalá hubiera batallas amistosas</td>
+            <td colspan="1">Ojalá hubiera opción de volver a competir</td>
 		</tr>
         <tr>
 			<td colspan="1">Feeling</td>
-            <td colspan="1">...</td>
+            <td colspan="1"></td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>

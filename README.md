@@ -710,6 +710,16 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 ### 2.2.2. Registro de entrevistas
 Segmento Objetivo 1: Institución / Empresa educativa
 
+Entrevistado 1
+
+Nombre y apellidos: Mauricio Acosta
+
+Edad: 28
+
+<img src="./assets/interview-joseph.png" alt="Entrevista Joseph" width="600" height="300">
+
+[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EfssLV85i7NMnbhxBMBKkSEBIA1GFDT3P6tBUbDv5WgyJQ?e=zFge6A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 Segmento Objetivo 2: Estudiantes de Secundaria 
 
 Entrevistado: 1

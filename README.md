@@ -871,14 +871,61 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
 
 El mapa To-Be crea una representación visual que muestra exactamente cómo debería funcionar el proceso, qué decisiones se deben tomar y qué resultados se pueden lograr.
 
+>Segmento Objetivo 1
+
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
 			<td colspan="1" rowspan=2>To-Be Scenario Mapping</td>
-            <td colspan="4" rowspan="1">Estudiante de secundaria</td>
+            <td colspan="5" rowspan="1">Estudiante de secundaria</td>
 		</tr>
         <tr>
-            <td colspan="4">Aina Soler</td>
+            <td colspan="5">Aina Soler</td>
+		</tr>
+		<tr>
+            <td colspan="1">Phase</td>
+            <td colspan="1">Elección de la rama de matemática</td>
+            <td colspan="1">Iniciación del juego</td>
+            <td colspan="1">Visualización de los resultados</td>
+            <td colspan="1">Competición entre jugadores</td>
+            <td colspan="1">Visualización la tabla de clasificación</td>
+		</tr>
+        <tr>
+			<td colspan="1">Doing</td>
+            <td colspan="1">Elige la rama de matemática a estudiar</td>
+            <td colspan="1">Resuelve las diferentes preguntas</td>
+            <td colspan="1">Visualiza sus resultados obtenidos</td>
+            <td colspan="1">Resuelve preguntas junto con otro jugador</td>
+            <td colspan="1">Observa sus resultados y su posición dentro de la tabla</td>
+		</tr>
+        <tr>
+			<td colspan="1">Thinking</td>
+            <td colspan="1">Ojalá hubiera una clasificación de temas</td>
+            <td colspan="1">Ojalá hubiera un orden en las preguntas</td>
+            <td colspan="1">Ojalá hubiera resolución o explicación de las preguntas erróneas</td>
+            <td colspan="1">Ojalá hubiera batallas amistosas de práctica</td>
+            <td colspan="1">Ojalá hubiera opción de volver a competir</td>
+		</tr>
+        <tr>
+			<td colspan="1">Feeling</td>
+            <td colspan="1">Confundido por no saber que estoy estudiando</td>
+            <td colspan="1">Irritado por no saber a qué tema pertenece cada pregunta</td>
+            <td colspan="1">Frustrado por no entender qué es lo que hice mal</td>
+            <td colspan="1">Incómodo por no poder practicar para las competencias oficiales</td>
+            <td colspan="1">Frustración por no poder volver a intentarlo</td>
+		</tr>
+	</tbody>
+</table>
+
+>Segmento Objetivo 2
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan=2>To-Be Scenario Mapping</td>
+            <td colspan="5" rowspan="1">Institución Educativa</td>
+		</tr>
+        <tr>
+            <td colspan="5">Harvey Specter</td>
 		</tr>
 		<tr>
             <td colspan="1">Phase</td>

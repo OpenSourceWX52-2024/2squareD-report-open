@@ -1,4 +1,4 @@
-![UPC_logo_transparente](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263743755-2ff342be-dc34-415c-925e-1e7133e49abf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240326T011051Z&X-Amz-Expires=300&X-Amz-Signature=8ed63cf6c09cf1beb91e5b23f73c7bfef6313b6d528dcb2e877acfe8c5ad3729&X-Amz-SignedHeaders=host&actor_id=59981756&key_id=0&repo_id=679038627)
+![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 Universidad Peruana de Ciencias Aplicadas
 
@@ -281,17 +281,18 @@ Por lo tanto, se identifica la necesidad de desarrollar un juego educativo de ma
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-Segmento objetivo: Estudiantes de primaria
+Segmento objetivo: Estudiantes de secundaria peruanos
 
-Hemos observado que muchos estudiantes de primaria enfrentan dificultades para comprometerse y progresar en el aprendizaje de las matemáticas. Esto se debe a la falta de recursos educativos interactivos y atractivos que aborden adecuadamente sus necesidades de aprendizaje. A menudo, los métodos tradicionales de enseñanza no logran captar su interés ni motivarlos para explorar y comprender conceptos matemáticos de manera efectiva. Este problema es especialmente significativo en entornos donde los recursos educativos son limitados o poco accesibles.
+Hemos observado que muchos estudiantes de secundaria en Perú enfrentan dificultades para comprometerse y progresar en el aprendizaje de las matemáticas. Esto se debe a la falta de recursos educativos interactivos y atractivos que aborden adecuadamente sus necesidades de aprendizaje. A menudo, los métodos tradicionales de enseñanza no logran captar su interés ni motivarlos para explorar y comprender conceptos matemáticos de manera efectiva. Este problema es especialmente significativo en entornos donde los recursos educativos son limitados o poco accesibles.
 
-¿Cómo podríamos desarrollar una plataforma educativa innovadora y divertida que motive a los estudiantes de primaria a mejorar sus habilidades matemáticas de una manera efectiva y accesible?
+¿Cómo podríamos desarrollar una plataforma educativa innovadora y divertida que motive a los estudiantes de secundaria peruanos a mejorar sus habilidades matemáticas de una manera efectiva y accesible?
 
-Segmento objetivo: Empresas educativas y organizaciones que trabajan con escuelas primarias
+Segmento objetivo: Organizaciones e instituciones educativas
 
-Hemos notado que las empresas educativas y organizaciones que ofrecen servicios para escuelas primarias carecen de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en el nivel primario. Esta falta de recursos adecuados dificulta su capacidad para evaluar y monitorear el progreso de los estudiantes de manera efectiva, lo que puede limitar el impacto de sus programas educativos. Además, la falta de opciones interactivas y atractivas dificulta la implementación de prácticas educativas innovadoras que puedan mejorar significativamente la experiencia de aprendizaje de los estudiantes.
+Hemos notado que las organizaciones e instituciones educativas que trabajan con estudiantes de secundaria en Perú carecen de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en este nivel educativo. Esta falta de recursos adecuados dificulta su capacidad para evaluar y monitorear el progreso de los estudiantes de manera efectiva, lo que puede limitar el impacto de sus programas educativos. Además, la falta de opciones interactivas y atractivas dificulta la implementación de prácticas educativas innovadoras que puedan mejorar significativamente la experiencia de aprendizaje de los estudiantes.
 
-¿Cómo podríamos desarrollar una plataforma educativa digital que proporcione a empresas educativas y organizaciones herramientas efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, al tiempo que fomente la innovación en prácticas educativas?
+¿Cómo podríamos desarrollar una plataforma educativa digital que proporcione a organizaciones e instituciones educativas herramientas efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en estudiantes de secundaria peruanos, al tiempo que fomente la innovación en prácticas educativas?
+
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -356,6 +357,9 @@ Por otro lado, también se hizo uso de APIs para los servicios externos y Postgr
 - **Basados en** la falta de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, **creemos que** al desarrollar una plataforma educativa digital que proporcione estas herramientas, podemos fomentar la innovación educativa. **Si** implementamos esta solución, anticipamos un aumento en la adopción de la plataforma por parte de empresas educativas y organizaciones, así como una mejora en la calidad y efectividad de la enseñanza de matemáticas en escuelas secundarias, medida a través de la retroalimentación positiva de educadores y una mejora en los resultados académicos de los estudiantes. **Entonces sabremos que** es cierto cuando veamos una mayor colaboración entre los educadores para compartir mejores prácticas, así como una mayor participación en talleres y capacitaciones relacionadas con la implementación de tecnología educativa.
 
 #### 1.2.2.4. Lean UX Canvas
+
+<img src="./assets/LEAN UX CANVAS.png" alt="Lean UX Canvas">
+
 ## 1.3. Segmentos objetivo
 Empresas Educativas:
 
@@ -735,9 +739,26 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+- Estudiante de secundaria:
+<img src="./assets/user_person/User  Person Student.png" alt="User Person Student"/>
+
+- Institución educativa:
+<img src="./assets/user_person/User Person Educator.png"/>
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+<img src="./assets/Journey Mapping/User Journey Mapping-Estudiante.png" alt="User Estudiante de Segundaria">
+
+
+
+
+
 ### 2.3.4. Empathy Mapping
+- Estudiante de secundaria:
+<img src="./assets/empathy_map/Empathy Map Student.png"/>
+
+- Institución educativa:
+<img src="./assets/empathy_map/Empathy Map Educator.png"/>
 ### 2.3.5. As-is Scenario Mapping
 
 <table border="1" style="text-align: center;">
@@ -816,13 +837,286 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 
 ## 2.4. Ubiquitous Language
 
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
+
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines
+En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
+### 4.1.1. General Style Guidelines
+* Colores: la consideración de los colores es crucial porque influyen en la coherencia visual, la legibilidad y accesibilidad del diseño, la capacidad para transmitir mensajes y emociones, así como en la atracción visual y la usabilidad del producto final. En resumen, los colores dentro de las directrices de estilo son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comuniquen eficazmente el mensaje deseado y mejoren la experiencia del usuario.
+
+![IMAGEN-Colores]()
+
+* Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario. Establecer reglas sobre el tamaño, el estilo y el espaciado de la fuente ayuda a mantener la coherencia visual y a garantizar una lectura cómoda, mientras que la elección de tipos de letra adecuados puede reflejar la identidad de la marca y transmitir emociones específicas. En resumen, las directrices de estilo para la tipografía son fundamentales para crear diseños legibles, coherentes y efectivos que mejoren la experiencia del usuario y fortalezcan la identidad de la marca.
+
+![IMAGEN-Tipografia]()
+
+* Tono de comunicacion y lenguaje aplicado: El tono de comunicación es un aspecto muy importante de los estilos que planeamos integrar en las páginas. Considerar el tono de comunicación implica definir si el contenido será formal, informal, técnico, amigable, entre otros. Estas decisiones afectan la manera en que la audiencia percibe la marca y su mensaje, así como la efectividad de la comunicación. Además, las directrices de estilo establecen el lenguaje aplicado, incluyendo la elección de palabras, la estructura de las oraciones y el nivel de complejidad del texto, lo cual impacta en la claridad, la accesibilidad y la capacidad de conexión con la audiencia.
+
+### 4.1.2. Web Style Guidelines
+Los colores utilizados en la web de nuestra aplicación siguen las pautas de la guía general de diseño. Estas personalizaciones se basan no sólo en el nuevo formato y estilo de visualización, sino también en la sección o página específica que el usuario esté utilizando en la aplicación. Para corregir estas variaciones, hemos identificado diferentes secciones donde los colores y transparencias se ajustan según el diseño:
+
+* Fondos: para asegurar una estética clásica que se adapte a los diversos fondos degradados presentes en nuestras aplicaciones, hemos elegido una paleta de grises. Esta decisión permite una mayor versatilidad visual, manteniendo la elegancia y la legibilidad del contenido sin importar la combinación de colores específica en la pantalla.
+
+![IMAGEN-Fondos]()
+
+* Tipografia: 
+
+La elección de colores en el diseño dependerá del fondo en el que se sitúen, y para mantener un estilo clásico, hemos optado por una paleta de grises que se adapta a la mayoría de los tipos de fondo. Esta selección permite una versatilidad visual que conserva la elegancia y la sobriedad requeridas para un estilo clásico, mientras garantiza una armonía estética con una amplia variedad de contextos. Además, los tonos de gris ofrecen un contraste suave y equilibrado, lo que asegura una legibilidad óptima del contenido en cualquier entorno, añadiendo una sensación de atemporalidad al diseño.
+
+![IMAGEN-Tipografia-Colores]()
+
+El estilo para la tipografía son fundamentales para crear diseños legibles, coherentes y efectivos que mejoren la experiencia del usuario y fortalezcan la identidad de la marca.
+Por eso usaremos la tipografía Open Sans con un tamaño de 95px y estilo light ofrece una estética moderna y elegante, ideal para títulos y encabezados que requieran un aspecto sofisticado y fácil de leer. El peso ligero de la fuente proporciona una apariencia delicada y atractiva, mientras que el tamaño grande garantiza una excelente legibilidad, especialmente en dispositivos con pantallas de alta resolución. Esta combinación de tamaño y estilo es ideal para crear un impacto visual fuerte mientras se mantiene una sensación de sutileza y claridad en el diseño.
+
+![IMAGEN-Tipografia-Estilo]()
+
+## 4.2. Information Architecture
+Como equipo decidimos que el diseño de la aplicacion se organizara con una paleta de colores llamativos y de acuerdo con la temática de nuestro trabajo. La principal característica que decidimos llevar a cabo es en relación a la experiencia de los usuarios, queremos que los estudiantes tengan un contenido accesible y asegurado para que puedan resolver cualquiera de sus dudas.
+### 4.2.1. Organization Systems
+En el presente punto se indicará los grupos de información en los cuales se aplicarán los tipos de estructuración visual, además, se indicará para qué segmento objetivo está diseñado y que tipo de categorización se utilizará
+
+**Segmento Objetivo: LLENAR**
+
+**Jerárquica:**
+
+- 
+- 
+
+**Secuencial:**
+
+-
+
+**Matricial:**
+
+-
+
+**Segmento: Exportadores o comerciantes que desean vender productos de calidad**
+
+**Jerárquica:**
+
+-
+
+**Secuencial:**
+
+-
+
+**Jerarquica:**
+
+-
+
+**Matricial:**
+
+-
+
+### 4.2.2. Labeling Systems
+A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información brindada por la Landing Page.
+
+**Los encabezados serán los siguientes:**
+
+- Inicio/Home: Sección preseleccionada por defecto que brindara una frase representativa y el logo de la aplicación, además brindara una idea principal del objetivo de esta.
+
+- Sobre nosotros/About Us: Sección donde el cliente obtiene información acerca del equipo de desarrollo, será capaz de visualizar nuestra misión, visión, quienes somos y qué hacemos.
+
+- Services/Funcionalidades: Sección dividida para cada segmento objetivo donde se mostrará las funcionalidades que otorga la aplicación para ellos.
+
+- Contactanos/Contact Us: Sección donde se muestran nuestros canales de comunicación.
+
+A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de las funcionalidades brindadas por la aplicación web-
+
+**Los encabezados son los siguientes:**
+
+**Para SEGMENTO OBJETIVO 1**
+
+-  
+
+**Para SEGMENTO OBJETIVO 2:**
+
+- 
+
+### 4.2.3. SEO Tags and Meta Tags
+En esta sección, se presentarán las etiquetas que identificarán y diferenciarán al sitio web de los demás en internet. Gracias a ellos, se podrá encontrar a Ayni en los diversos buscadores.
+
+Para el sitio web estático:
+
+Tittle: 
+
+Description: 
+
+Keywords: 
+
+Authors: 
+
+Para la aplicación web:
+
+Tittle: 
+
+Description: 
+
+Keywords: 
+
+Authors: 
+
+### 4.2.4. Searching Systems
+En esta sección se presentarán los sistemas de búsqueda que se implementarán en la aplicación. Al hacer uso de esos sistemas, los usuarios podrán encontrar la información que requieran.
+
+En el sitio web estático, los usuarios podrán utilizar la barra de navegación para buscar la información acerca del producto solución, paralelas funcionalidades se hará uso interactivo de un botón donde se alternará entre “Para productores” y “Para comerciantes”
+
+**En la aplicación web:**
+
+**Segmento: Productores que desean mejorar la calidad de sus productos**
+
+- 
+
+**Segmento: Exportadores o comerciantes que desean mejorar la calidad de sus ventas**
+
+-
+
+### 4.2.5. Navigation Systems
+A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
+
+En el Landing Page, se cuenta con encabezados que representan a las diversas secciones que estarán presentes. Estas estarán ubicadas en la parte superior de la página como menú horizontal siempre presente a la hora de bajar y subir con el ratón. Para que el usuario no tenga que realizar una traslación de manera manual por toda la página para llegar a una sección, se podrá usar estos encabezados para ubicarse inmediatamente en el sector que se desee. Obviamente, el visitante tiene que haber leído el título del encabezado para asegurarse de que se ubicará en la zona adecuada. Gracias a esto, se genera una traslación fácil e intuitiva.
+
+En el caso de la aplicación web, se presenta un proceso similar para el menú principal, se utilizarán diversas opciones que presenta para trasladarse a otra página del sitio web. Estas opciones variarán de acuerdo al segmento objetivo al que pertenezca el usuario. Del mismo modo, se utilizan listados para los grupos de elementos, Dentro de estas listas podrán aplicar filtros que permitan a los usuarios navegar entre esas opciones.
+
+## 4.3. Landing Page UI Design
+En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
+### 4.3.1. Landing Page Wireframe
+![WIREFRAME-LandingPage]()
+### 4.3.2. Landing Page Mock-up
+Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
+![MOCK_UP-LandingPage]()
+
+[Link Figma]()
+
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+Pantalla relacianada a la :
+![WIREFRAME-WebApplication]()
+
+### 4.4.2. Web Applications Wireflow Diagrams
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
+
+[Link LucidChart]()
+
+**Usar Goal: Como usuario, quiero ...**
+
+**Task Flow:**
+
+![IMAGEN-WireFlow]()
+
+**Usar Goal: Como usuario, quiero ...**
+
+**Task Flow:**
+
+![IMAGEN-WireFlow]()
+
+### 4.4.3. Web Applications Mock-ups
+En esta sección, se presenta el diseño viusal y de interacción en formato de mockups del producto solución.
+
+![MOCK_UP_WEB APPLICATION]()
+### 4.4.4. Web Applications User Flow Diagrams 
+En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo.
+
+[Link LucidChart]()
+
+**User Goal:**
+
+**Task Flow:**
+
+![IMAGEN-UserFlow]()
+
+## 4.5. Web Applications Prototyping
+En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
+
+**Principio de elección:**
+Procuramos que la aplicación web posea una cantidad de secciones a todo momento, por lo que se cuenta con la barra superior siempre en la aplicación con 4 secciones, los cuales podrá acceder a las funcionalidades rapidamente desde cualquier pantalla.
+
+**Principio de divulgación:**
+La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee.
+
+![IMAGE]()
+[Link Prototipo]()
+
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+![IMG-SystemContext-Diagram]()
+
+### 4.6.2. Software Architecture Container Diagrams
+![IMG-Container-Diagram]()
+
+### 4.6.3. Software Architecture Components Diagrams
+![IMG-Component_1-Diagram]()
+![IMG-Component_2-Diagram]()
+![IMG-Component_3-Diagram]()
+![IMG-Component_4-Diagram]()
+
+## 4.7. Software Object-Oriented Design
+En esta sección, se utilizará el enfoque de diseño orientado a objetos para desarrollar la aplicación web. Asimismo, se aplicarán los principios y conceptos fundamentales de la programación orientada a objetos.
+### 4.7.1. Class Diagrams
+En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
+
+![IMG-ClassDiagram]()
+
+[Link del Diagrama de Clases]()
+
+### 4.7.2. Class Dictionary
+
+![IMG-ClassDictionary]()
+
+[Link del Diagrama de Clases]()
+
+## 4.8. Database Design
+En esta sección, se definirán las tablas y relaciones necesarias para almacenar y gestionar los datos de manera eficiente.
+### 4.8.1. Database Diagram
+En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas.
+
+![IMG-DB]()
+
+[Link de la Base de Datos]()
+
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+
+### 5.1.2. Source Code Management
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+### 5.1.4. Software Deployment Configuration
+
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
+
+#### 5.2.1.2. Sprint Backlog 1
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team
 
 ---
 # Bibliografía
-- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/lima/sucesos/semana-santa-estas-son-las-vias-alternas-a-la-carretera-central-que-pueden-ser-usadas-durante-el-feriado-largo-mtc-sutran-viernes-santo-deviandes-ultimas-noticia/).
+- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/peru/prueba-pisa-2022-resultados-de-los-estudiantes-peruanos-en-matematicas-lectura-y-ciencias-rendimiento-academico-ultimas-noticia/).
 
 ---
 # Anexos

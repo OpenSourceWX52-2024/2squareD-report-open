@@ -752,8 +752,8 @@ Edad: 16
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="5"><img src="./assets/interview-sharon.png" alt="Entrevista de Sharon" width="400" height="250"></td>
-            <td colspan="1" rowspan="1"><strong>Nombre
+			<td colspan="1" rowspan="6"><img src="./assets/interview-sharon.png" alt="Entrevista de Sharon" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
             <br>
             </strong> Nicolás Fernando Javier
             <br> Barrial Marin
@@ -767,7 +767,28 @@ Edad: 16
         </tr>
         <tr>
             <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Sharon Antuanet Ivet 
+            <br>Barrial Marin
+            </td>
+        </tr>
+        <tr>
+            <td>
              <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/Ec23R8PSbkxMiUXJVqZ6m4sBNZ2IlfGFQ1QJ8pRZ72EFgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gxART0">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/Ec23R8PSbkxMiUXJVqZ6m4sBO-AHTPe9fKYFmpSXqB2-uQ?e=FZsUw6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTg2LjQ5fX0%3D"><u>03:04</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/Ec23R8PSbkxMiUXJVqZ6m4sBO-AHTPe9fKYFmpSXqB2-uQ?e=vYdvMm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDczLjM4fX0%3D"><u>07:49</u>
             </td>
         </tr>
 	</tbody>

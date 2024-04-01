@@ -752,7 +752,7 @@ Edad: 16
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="5"><img src="./assets/interview-sharon.png" alt="Entrevista de Sharon" width="600" height="300"></td>
+			<td colspan="1" rowspan="5"><img src="./assets/interview-sharon.png" alt="Entrevista de Sharon" width="400" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre
             <br>
             </strong> Nicolás Fernando Javier Barrial Marin

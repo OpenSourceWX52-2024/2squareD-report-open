@@ -1100,8 +1100,85 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">...</td>
 		</tr>
         <tr>
-            <td colspan="1">EP003</td>
-            <td colspan="1">....</td>
+            <td colspan="1">US003</td>
+            <td colspan="1">Inicio de sesión de usuarios estudiante en la plataforma</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US003</td>
+            <td colspan="1">Inicio de sesión de instituciones educativas en la plataforma</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US004</td>
+            <td colspan="1">Recuperación de contraseña para usuarios registrados</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US005</td>
+            <td colspan="1">Búsqueda de una rama de matemática</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US006</td>
+            <td colspan="1">Elección de una rama de matemática</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US006</td>
+            <td colspan="1">Búsqueda de una unidad</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US007</td>
+            <td colspan="1">Elección de una unidad</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US008</td>
+            <td colspan="1">Elección de un tema</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US009</td>
+            <td colspan="1">Elección de categoría</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US010</td>
+            <td colspan="1">Inicio del juego de preguntas con respecto a la categoría y el tema seleccionado</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US011</td>
+            <td colspan="1">Inicio del juego de preguntas con respecto a la categoría y el tema seleccionado</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US012</td>
+            <td colspan="1"></td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>

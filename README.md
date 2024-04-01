@@ -755,7 +755,8 @@ Edad: 16
 			<td colspan="1" rowspan="5"><img src="./assets/interview-sharon.png" alt="Entrevista de Sharon" width="400" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre
             <br>
-            </strong> Nicolás Fernando Javier Barrial Marin
+            </strong> Nicolás Fernando Javier
+            <br> Barrial Marin
             <br>
             <strong>Edad<br></strong> 16 años
             <br>

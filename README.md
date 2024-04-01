@@ -1068,15 +1068,34 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
 		<tr>
             <td colspan="1">US001</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">
+            Registro de usuarios estudiantes en la plataforma
+            </td>
+            <td colspan="1">
+            <strong>Como</strong> usuario esudiante <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.	
+            </td>
+            <td colspan="1">
+            <strong>E01: Registro Exitoso</strong>
+            <br>
+            <strong><u>Caso 01: Registro con GMAIL?</u></strong>
+            <br>
+            <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario estudiante selecciona la opción de registro
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario estudiante llene el formulario con sus datos
+            <br>
+            <strong>Y</strong> el sistema verifique  
+            </td>
+            <td colspan="1">EP01</td>
 		</tr>
         <tr>
-            <td colspan="1">EP002</td>
-            <td colspan="1">....</td>
-            <td colspan="1">...</td>
+            <td colspan="1">US002</td>
+            <td colspan="1">Registro de instituciones educativas en la plataforma</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
+            </td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>

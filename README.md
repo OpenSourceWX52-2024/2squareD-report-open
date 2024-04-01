@@ -723,7 +723,7 @@ Edad: 28
 
 [URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EfssLV85i7NMnbhxBMBKkSEBIA1GFDT3P6tBUbDv5WgyJQ?e=zFge6A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Segmento Objetivo 2: Estudiantes de Secundaria 
+>**Segmento Objetivo 2: Estudiantes de Secundaria**
 
 Entrevistado: 1
 
@@ -734,6 +734,26 @@ Edad: 16
 <img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
 
 [URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?e=IpxTJy)
+
+<br>
+
+**Entrevistado 2**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="5"><img src="./assets/interview-sharon.png" alt="Entrevista de Sharon" width="600" height="150"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre
+            <br>
+            </strong> Nicolás Fernando Javier Barrial Marin
+            <br>
+            <strong>Edad<br></strong> 16 años
+            <br>
+            <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/Ec23R8PSbkxMiUXJVqZ6m4sBNZ2IlfGFQ1QJ8pRZ72EFgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gxART0">URL Entrevista</a></strong>
+            </td>
+		</tr>
+	</tbody>
+</table>
 
 ### 2.2.3. Análisis de entrevistas
 Segmento Objetivo 1: Institución / Empresa educativa
@@ -777,7 +797,7 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 
 El mapa As-is proporciona una representación visual de cómo opera actualmente el proceso, identificando las decisiones, sentimientos y pensamientos que toman los usuarios.
 
->Segmento Objetivo 1
+>**Segmento Objetivo 1**
 
 <table border="1" style="text-align: left;">
 	<tbody>

@@ -757,12 +757,19 @@ Edad: 16
             <br>
             </strong> Nicolás Fernando Javier
             <br> Barrial Marin
-            <br>
-            <strong>Edad<br></strong> 16 años
-            <br>
-            <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/Ec23R8PSbkxMiUXJVqZ6m4sBNZ2IlfGFQ1QJ8pRZ72EFgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gxART0">URL Entrevista</a></strong>
             </td>
 		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 16 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/Ec23R8PSbkxMiUXJVqZ6m4sBNZ2IlfGFQ1QJ8pRZ72EFgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gxART0">URL Entrevista</a></strong>
+            </td>
+        </tr>
 	</tbody>
 </table>
 

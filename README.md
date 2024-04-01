@@ -723,6 +723,16 @@ Edad: 28
 
 [URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EfssLV85i7NMnbhxBMBKkSEBIA1GFDT3P6tBUbDv5WgyJQ?e=zFge6A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+Entrevistado 2
+
+Nombre y apellidos: Magnolia Cornejo
+
+Edad: 49
+
+<img src="./assets/Interview_MiguelCarpio01.png" alt="Entrevista Miguel 01" width="600" height="300">
+
+[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EWOP03rfpYFKhJTiheudN3gBtVCNF1hEzZOliQFPmB0S3Q?e=KzQNxq)
+
 >**Segmento Objetivo 2: Estudiantes de Secundaria**
 
 Entrevistado: 1

@@ -1195,15 +1195,33 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 ## 4.1. Style Guidelines
 En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
 ### 4.1.1. General Style Guidelines
+
+* Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario. Elegiremos una tipografía legible y moderna para garantizar una experiencia de lectura cómoda. 
+
+<img src="./assets/Typography/alfa.PNG">
+<img src="./assets/Typography/bitter.PNG">
+<img src="./assets/Typography/serif.PNG">
+
+###### Alfa Slab Font para títulos,Bitter Font para subtítulos, y fuente serif para el cuerpo del texto para mejorar la legibilidad.
+
+* Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo
+“Regular”.
+* Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.
+* Los textos de la aplicación utilizarán el tamaño 14 en estilo “Regular”.
+* Los títulos utilizarán el tamaño 55 y estilo “Regular”.
+* Los subtítulos utilizarán el tamaño 28 en estilo “Medium”.
+* Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.
+* Los textos pequeños utilizarán el tamaño 12 en “Light”.
+
+
 * Colores: la consideración de los colores es crucial porque influyen en la coherencia visual, la legibilidad y accesibilidad del diseño, la capacidad para transmitir mensajes y emociones, así como en la atracción visual y la usabilidad del producto final. En resumen, los colores dentro de las directrices de estilo son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comuniquen eficazmente el mensaje deseado y mejoren la experiencia del usuario.
 
 ![IMAGEN-Colores]()
 
-* Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario. Establecer reglas sobre el tamaño, el estilo y el espaciado de la fuente ayuda a mantener la coherencia visual y a garantizar una lectura cómoda, mientras que la elección de tipos de letra adecuados puede reflejar la identidad de la marca y transmitir emociones específicas. En resumen, las directrices de estilo para la tipografía son fundamentales para crear diseños legibles, coherentes y efectivos que mejoren la experiencia del usuario y fortalezcan la identidad de la marca.
+Se escogieron tonalidades azules, verdes y blanco, ya que reflejan una sensación de frescura,claridad,confianza y tranquilidad,ideales para el sentido del negocio. Descartamos los colores demasiado vibrantes para evitar distracciones en los usuarios.
 
-![IMAGEN-Tipografia]()
+* Tono de comunicacion y lenguaje aplicado: El tono de comunicación es un aspecto muy importante de los estilos que planeamos integrar en las páginas. Considerar el tono de comunicación implica definir si el contenido será formal, informal, técnico, amigable, entre otros. Estas decisiones afectan la manera en que la audiencia percibe la marca y su mensaje, así como la efectividad de la comunicación. El tono de comunicación del aplicativo será amigable, accesible y profesional al mismo tiempo. Debe dirigirse tanto a los estudiantes como a los educadores de manera empática y motivadora. Un lenguaje claro y sencillo para explicar conceptos matemáticos, evitando tecnicismos innecesarios que puedan resultar intimidantes para algunos usuarios.
 
-* Tono de comunicacion y lenguaje aplicado: El tono de comunicación es un aspecto muy importante de los estilos que planeamos integrar en las páginas. Considerar el tono de comunicación implica definir si el contenido será formal, informal, técnico, amigable, entre otros. Estas decisiones afectan la manera en que la audiencia percibe la marca y su mensaje, así como la efectividad de la comunicación. Además, las directrices de estilo establecen el lenguaje aplicado, incluyendo la elección de palabras, la estructura de las oraciones y el nivel de complejidad del texto, lo cual impacta en la claridad, la accesibilidad y la capacidad de conexión con la audiencia.
 
 ### 4.1.2. Web Style Guidelines
 Los colores utilizados en la web de nuestra aplicación siguen las pautas de la guía general de diseño. Estas personalizaciones se basan no sólo en el nuevo formato y estilo de visualización, sino también en la sección o página específica que el usuario esté utilizando en la aplicación. Para corregir estas variaciones, hemos identificado diferentes secciones donde los colores y transparencias se ajustan según el diseño:

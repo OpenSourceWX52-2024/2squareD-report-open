@@ -1196,31 +1196,53 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
 ### 4.1.1. General Style Guidelines
 
-* Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario. Elegiremos una tipografía legible y moderna para garantizar una experiencia de lectura cómoda. 
+* Branding: 
 
-<img src="./assets/Typography/alfa.PNG">
-<img src="./assets/Typography/bitter.PNG">
-<img src="./assets/Typography/serif.PNG">
+* Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario.
 
-###### Alfa Slab Font para títulos,Bitter Font para subtítulos, y fuente serif para el cuerpo del texto para mejorar la legibilidad.
+     Elegiremos una tipografía legible y moderna para garantizar una experiencia de lectura cómoda. 
 
-* Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo
-“Regular”.
-* Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.
-* Los textos de la aplicación utilizarán el tamaño 14 en estilo “Regular”.
-* Los títulos utilizarán el tamaño 55 y estilo “Regular”.
-* Los subtítulos utilizarán el tamaño 28 en estilo “Medium”.
-* Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.
-* Los textos pequeños utilizarán el tamaño 12 en “Light”.
+    <img src="./assets/Typography/alfa.PNG">
+    <img src="./assets/Typography/bitter.PNG">
+    <img src="./assets/Typography/serif.PNG">
+
+    Alfa Slab Font para títulos,Bitter Font para subtítulos, y fuente serif para el cuerpo del texto para mejorar la legibilidad.
+
+    * Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo “Regular”.
+
+    * Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.
+
+    * Los textos de la aplicación utilizarán el tamaño 14 en estilo “Regular”.
+
+    * Los títulos utilizarán el tamaño 55 y estilo “Regular”.
+    
+    * Los subtítulos utilizarán el tamaño 28 en estilo “Medium”.
+
+    * Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.
+
+    * Los textos pequeños utilizarán el tamaño 12 en “Light”.
 
 
 * Colores: la consideración de los colores es crucial porque influyen en la coherencia visual, la legibilidad y accesibilidad del diseño, la capacidad para transmitir mensajes y emociones, así como en la atracción visual y la usabilidad del producto final. En resumen, los colores dentro de las directrices de estilo son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comuniquen eficazmente el mensaje deseado y mejoren la experiencia del usuario.
 
-![IMAGEN-Colores]()
+    <img src="./assets/colors/colores app.PNG">
+    <img src="./assets/colors/color2.PNG">
 
-Se escogieron tonalidades azules, verdes y blanco, ya que reflejan una sensación de frescura,claridad,confianza y tranquilidad,ideales para el sentido del negocio. Descartamos los colores demasiado vibrantes para evitar distracciones en los usuarios.
+    Como colores primarios se utilizarán los colores hexadecimal #11698E y #16C79A. Los secundarios serán los sobrantes.
 
-* Tono de comunicacion y lenguaje aplicado: El tono de comunicación es un aspecto muy importante de los estilos que planeamos integrar en las páginas. Considerar el tono de comunicación implica definir si el contenido será formal, informal, técnico, amigable, entre otros. Estas decisiones afectan la manera en que la audiencia percibe la marca y su mensaje, así como la efectividad de la comunicación. El tono de comunicación del aplicativo será amigable, accesible y profesional al mismo tiempo. Debe dirigirse tanto a los estudiantes como a los educadores de manera empática y motivadora. Un lenguaje claro y sencillo para explicar conceptos matemáticos, evitando tecnicismos innecesarios que puedan resultar intimidantes para algunos usuarios.
+    Se escogieron tonalidades azules, verdes y blanco, ya que reflejan una sensación de frescura,claridad,confianza y tranquilidad,ideales para el sentido del negocio. Descartamos los colores demasiado vibrantes para evitar distracciones en los usuarios.
+
+* Spacing: Utilizaremos un espaciado adecuado entre elementos para mejorar la legibilidad y la navegación del sitio web.
+Nos aseguramos de que los elementos de la página tengan suficiente espacio alrededor para evitar la sensación de aglomeración y mejorar la organización visual.
+
+    * Entre un título y un texto en la aplicación habrá una separación de 2.5 px.
+    * Entre un título y un texto del landing page habrá una separación de 8 px.
+    * Entre un subtítulo y el párrafo del landing page habrá una separación de 31 px.
+
+
+* Tono de comunicacion y lenguaje aplicado: El tono de comunicación es un aspecto muy importante de los estilos que planeamos integrar en las páginas. Considerar el tono de comunicación implica definir si el contenido será formal, informal, técnico, amigable, entre otros. Estas decisiones afectan la manera en que la audiencia percibe la marca y su mensaje, así como la efectividad de la comunicación. 
+
+    El tono de comunicación del aplicativo será amigable, accesible y profesional al mismo tiempo. Debe dirigirse tanto a los estudiantes como a los educadores de manera empática y motivadora. Un lenguaje claro y sencillo para explicar conceptos matemáticos, evitando tecnicismos innecesarios que puedan resultar intimidantes para algunos usuarios.
 
 
 ### 4.1.2. Web Style Guidelines

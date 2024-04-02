@@ -1198,7 +1198,7 @@ En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño
 
 * Branding: Desarrollamos un logotipo distintivo y memorable que representa la identidad de la plataforma educativa. Incorporamos elementos visuales relacionados con las matemáticas, como lapices, numeros y colores habituales en el tema educativo.
 
-<img src="./assets/Branding/logoApp.png">
+    <img src="./assets/Branding/logoApp.png">
 
 * Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario.
 

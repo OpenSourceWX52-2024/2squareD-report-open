@@ -1196,7 +1196,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
 ### 4.1.1. General Style Guidelines
 
-* Branding: 
+* Branding: Desarrollamos un logotipo distintivo y memorable que representa la identidad de la plataforma educativa. Incorporamos elementos visuales relacionados con las matemáticas, como lapices, numeros y colores habituales en el tema educativo.
+
+<img src="./assets/Branding/logoApp.png">
 
 * Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario.
 

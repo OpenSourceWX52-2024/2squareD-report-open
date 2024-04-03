@@ -794,6 +794,19 @@ Edad: 16
 	</tbody>
 </table>
 
+Entrevistado: 3
+
+Nombre y apellidos: Fabrizio Flores 
+
+Edad: 16
+
+<img src="./assets/interview-lucio.png" alt="Entrevista Pietro" width="600" height="300">
+
+[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EXBp0YibIpFJkmQwcXfOQpMBT43UwpRwhhPf7uuZP5FPjw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9uXN2r) 
+<br>
+<br>
+Nota. Fabrizio Flores es estudiante de quinto grado de secundaria del colegio San Luis Martistas de Barranco. El estudiante comenta que el área que le resulta más dificultosa de aprender del curso de matemáticas es trigonometría por la cantidad de fórmulas y práctica que requiere, debido a ello, el interés y motivación del alumno por aprender disminuye exponencialmente a pesar que afirma que esta materia es la más importante. En cuánto a sus métodos de estudio con herramientas digitales, menciona que ha utilizado geogebra o photomath, instrumentos que proporcionan soluciones gráficas y númericas mediante parámetros ingresados manualmente, y que se necesita dinamismo para evitar el desinterés y entender una gran cantidad de conceptos. Con respecto al dinamismo, aporta con la idea de que una plataforma web con videojuegos sería un gran instrumento de educación para los jóvenes como él debido a que es una forma de que estos estén enganchados, especialmente si estos videojuegos están diseñados para competir con otros usuarios. En síntesis, Fabrizio describe que realizar una gran cantidad de ejercicios termina siendo tedioso y aburrido por lo que una plataforma web que eduque mediante videojuegos sería ideal para neutralizar ese obstáculo de aprendizaje.
+
 ### 2.2.3. Análisis de entrevistas
 Segmento Objetivo 1: Institución / Empresa educativa
 
@@ -930,7 +943,24 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
 
 
 ## 2.4. Ubiquitous Language
+Según Domain Driven Design (2019), The ubiquitous language o el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
 
+- Problema: En lugar de “ejercicio” o “pregunta”, se utiliza “problema” como un término genérico.
+- Operación: Para referirse a sumas, restas, multiplicaciones, divisiones, etc.
+- Variable: En lugar de “incógnita”.
+- Ecuación: Para describir relaciones matemáticas.
+- Gráfico: Para representaciones visuales de datos.
+- Geometría: Para conceptos relacionados con formas y figuras.
+- Álgebra: Para expresiones algebraicas y fórmulas.
+- Trigonometría: Para conceptos relacionados con la medición de triángulos.
+- Aritmética: Para conceptos relacionados con operaciones y conteo.
+- Nivel: En lugar de “lección” o “unidad”, utiliza “nivel” para describir las etapas de progreso en los videojuegos.
+- Puntuación: Para medir el desempeño del estudiante en los juegos.
+- Logros: Para destacar los hitos alcanzados por los estudiantes.
+- Desafío: En lugar de “tarea” o “ejercicio”.
+- Avatar: Para representar al estudiante en la plataforma web.
+- Misión: Para describir las metas específicas del usuario en los videojuegos.
+  
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
@@ -1513,6 +1543,6 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 ---
 # Bibliografía
 - El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/peru/prueba-pisa-2022-resultados-de-los-estudiantes-peruanos-en-matematicas-lectura-y-ciencias-rendimiento-academico-ultimas-noticia/).
-
+- Domain Driven Design. (2019, 21 de abril). Developing the ubiquituos language Recuperado el 3 de abril de 2024, de [Domain Driven Deisgn](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)  
 ---
 # Anexos

@@ -1224,7 +1224,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US012</td>
-            <td colspan="1"></td>
+            <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>

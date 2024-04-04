@@ -31,6 +31,9 @@ Junio del 2024
 ---
 # Registro de Versiones del Informe
 
+| Versión | Fecha | Author |Descripción de modificación|
+|----------|----------|----------|----------|
+| TB1    | XX/04/2024  | Miguel Carpio   |asd|
 
 ---
 # Project Report Collaboration Insights
@@ -794,6 +797,19 @@ Edad: 16
 	</tbody>
 </table>
 
+Entrevistado: 3
+
+Nombre y apellidos: Fabrizio Flores 
+
+Edad: 16
+
+<img src="./assets/interview-lucio.png" alt="Entrevista Pietro" width="600" height="300">
+
+[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EXBp0YibIpFJkmQwcXfOQpMBT43UwpRwhhPf7uuZP5FPjw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9uXN2r) 
+<br>
+<br>
+Nota. Fabrizio Flores es estudiante de quinto grado de secundaria del colegio San Luis Martistas de Barranco. El estudiante comenta que el área que le resulta más dificultosa de aprender del curso de matemáticas es trigonometría por la cantidad de fórmulas y práctica que requiere, debido a ello, el interés y motivación del alumno por aprender disminuye exponencialmente a pesar que afirma que esta materia es la más importante. En cuánto a sus métodos de estudio con herramientas digitales, menciona que ha utilizado geogebra o photomath, instrumentos que proporcionan soluciones gráficas y númericas mediante parámetros ingresados manualmente, y que se necesita dinamismo para evitar el desinterés y entender una gran cantidad de conceptos. Con respecto al dinamismo, aporta con la idea de que una plataforma web con videojuegos sería un gran instrumento de educación para los jóvenes como él debido a que es una forma de que estos estén enganchados, especialmente si estos videojuegos están diseñados para competir con otros usuarios. En síntesis, Fabrizio describe que realizar una gran cantidad de ejercicios termina siendo tedioso y aburrido por lo que una plataforma web que eduque mediante videojuegos sería ideal para neutralizar ese obstáculo de aprendizaje.
+
 ### 2.2.3. Análisis de entrevistas
 Segmento Objetivo 1: Institución / Empresa educativa
 
@@ -817,13 +833,26 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 - Institución educativa:
 <img src="./assets/user_person/User Person Educator.png"/>
 
-### 2.3.2. User Task Matrix
+### 2.3.2. User Task Matrix  
+| Tareas                                                   | Estudiantes de Secundaria | Institución Educativa |
+|----------------------------------------------------------|----------------------------|------------------------|
+| Resolver problemas de matemáticas                        | A menudo                  | Nunca                  |
+| Estudiar para exámenes de matemáticas                    | A menudo                  | Nunca                  |
+| Practicar ejercicios de matemáticas de manera divertida  | A menudo                  | Nunca                  |
+| Utilizar herramientas educativas para el aprendizaje de matemáticas | A menudo           | A veces                |
+| Monitorear el progreso académico de los estudiantes      | Nunca                     | A menudo               |
+| Dar retroalimentación continua para mejorar el rendimiento | Nunca                    | A veces                |
+| Comparar el desempeño académico con otras instituciones educativas | Nunca            | A veces                |
+
 ### 2.3.3. User Journey Mapping
-<img src="./assets/Journey Mapping/User Journey Mapping-Estudiante.png" alt="User Estudiante de Segundaria">
 
+- Estudiante de secundaria:
 
+<img src="./assets/Journey Mapping/journey EST.png" alt="User Estudiante de Segundaria">
 
+- Institución educativa:
 
+<img src="./assets/Journey Mapping/journey ORG.png" alt="User Estudiante de Segundaria">
 
 ### 2.3.4. Empathy Mapping
 - Estudiante de secundaria:
@@ -927,7 +956,24 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
 
 
 ## 2.4. Ubiquitous Language
+Según Domain Driven Design (2019), The ubiquitous language o el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
 
+- Problema: En lugar de “ejercicio” o “pregunta”, se utiliza “problema” como un término genérico.
+- Operación: Para referirse a sumas, restas, multiplicaciones, divisiones, etc.
+- Variable: En lugar de “incógnita”.
+- Ecuación: Para describir relaciones matemáticas.
+- Gráfico: Para representaciones visuales de datos.
+- Geometría: Para conceptos relacionados con formas y figuras.
+- Álgebra: Para expresiones algebraicas y fórmulas.
+- Trigonometría: Para conceptos relacionados con la medición de triángulos.
+- Aritmética: Para conceptos relacionados con operaciones y conteo.
+- Nivel: En lugar de “lección” o “unidad”, utiliza “nivel” para describir las etapas de progreso en los videojuegos.
+- Puntuación: Para medir el desempeño del estudiante en los juegos.
+- Logros: Para destacar los hitos alcanzados por los estudiantes.
+- Desafío: En lugar de “tarea” o “ejercicio”.
+- Avatar: Para representar al estudiante en la plataforma web.
+- Misión: Para describir las metas específicas del usuario en los videojuegos.
+  
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
@@ -1180,7 +1226,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US012</td>
-            <td colspan="1"></td>
+            <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
@@ -1197,15 +1243,57 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 ## 4.1. Style Guidelines
 En esta sección, vamos a exponer el plan que hemos desarrollado para el diseño, los estilos y la apariencia de nuestra página web y las páginas de nuestra aplicación, con el fin de asegurar que nuestros usuarios disfruten de una interfaz que sea fácil de usar y amigable. Para alcanzar este objetivo, hemos decidido utilizar elementos visuales que sean tanto claros como estéticamente agradables, al mismo tiempo que hemos establecido ciertas restricciones para evitar la inclusión de elementos gráficos poco atractivos.
 ### 4.1.1. General Style Guidelines
+
+* Branding: Desarrollamos un logotipo distintivo y memorable que representa la identidad de la plataforma educativa. Incorporamos elementos visuales relacionados con las matemáticas, como lapices, numeros y colores habituales en el tema educativo.
+
+    <img src="./assets/Branding/logoApp.png">
+
+* Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario.
+
+     Elegiremos una tipografía legible y moderna para garantizar una experiencia de lectura cómoda. 
+
+    <img src="./assets/Typography/alfa.PNG">
+    <img src="./assets/Typography/bitter.PNG">
+    <img src="./assets/Typography/serif.PNG">
+
+    Alfa Slab Font para títulos,Bitter Font para subtítulos, y fuente serif para el cuerpo del texto para mejorar la legibilidad.
+
+    * Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo “Regular”.
+
+    * Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.
+
+    * Los textos de la aplicación utilizarán el tamaño 14 en estilo “Regular”.
+
+    * Los títulos utilizarán el tamaño 55 y estilo “Regular”.
+    
+    * Los subtítulos utilizarán el tamaño 28 en estilo “Medium”.
+
+    * Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.
+
+    * Los textos pequeños utilizarán el tamaño 12 en “Light”.
+
+
 * Colores: la consideración de los colores es crucial porque influyen en la coherencia visual, la legibilidad y accesibilidad del diseño, la capacidad para transmitir mensajes y emociones, así como en la atracción visual y la usabilidad del producto final. En resumen, los colores dentro de las directrices de estilo son fundamentales para crear diseños atractivos, legibles, accesibles y coherentes que comuniquen eficazmente el mensaje deseado y mejoren la experiencia del usuario.
 
-![IMAGEN-Colores]()
+    <img src="./assets/colors/colores app.PNG">
+    <img src="./assets/colors/color2.PNG">
 
-* Tipografia: las directrices de estilo, que incluyen pautas para la tipografía, son esenciales para garantizar la coherencia y legibilidad del contenido. La consideración de la tipografía es crucial porque influye en la percepción del mensaje, la jerarquía de la información y la experiencia del usuario. Establecer reglas sobre el tamaño, el estilo y el espaciado de la fuente ayuda a mantener la coherencia visual y a garantizar una lectura cómoda, mientras que la elección de tipos de letra adecuados puede reflejar la identidad de la marca y transmitir emociones específicas. En resumen, las directrices de estilo para la tipografía son fundamentales para crear diseños legibles, coherentes y efectivos que mejoren la experiencia del usuario y fortalezcan la identidad de la marca.
+    Como colores primarios se utilizarán los colores hexadecimal #11698E y #16C79A. Los secundarios serán los sobrantes.
 
-![IMAGEN-Tipografia]()
+    Se escogieron tonalidades azules, verdes y blanco, ya que reflejan una sensación de frescura,claridad,confianza y tranquilidad,ideales para el sentido del negocio. Descartamos los colores demasiado vibrantes para evitar distracciones en los usuarios.
 
-* Tono de comunicacion y lenguaje aplicado: El tono de comunicación es un aspecto muy importante de los estilos que planeamos integrar en las páginas. Considerar el tono de comunicación implica definir si el contenido será formal, informal, técnico, amigable, entre otros. Estas decisiones afectan la manera en que la audiencia percibe la marca y su mensaje, así como la efectividad de la comunicación. Además, las directrices de estilo establecen el lenguaje aplicado, incluyendo la elección de palabras, la estructura de las oraciones y el nivel de complejidad del texto, lo cual impacta en la claridad, la accesibilidad y la capacidad de conexión con la audiencia.
+* Spacing: Utilizaremos un espaciado adecuado entre elementos para mejorar la legibilidad y la navegación del sitio web.
+Nos aseguramos de que los elementos de la página tengan suficiente espacio alrededor para evitar la sensación de aglomeración y mejorar la organización visual.
+
+    * Entre un título y un texto en la aplicación habrá una separación de 2.5 px.
+    * Entre un título y un texto del landing page habrá una separación de 8 px.
+    * Entre un subtítulo y el párrafo del landing page habrá una separación de 31 px.
+
+
+* Tono de comunicacion y lenguaje aplicado: El tono de comunicación es un aspecto muy importante de los estilos que planeamos integrar en las páginas. Considerar el tono de comunicación implica definir si el contenido será formal, informal, técnico, amigable, entre otros. Estas decisiones afectan la manera en que la audiencia percibe la marca y su mensaje, así como la efectividad de la comunicación. 
+
+    El tono de comunicación del aplicativo será amigable, accesible y profesional al mismo tiempo. Debe dirigirse tanto a los estudiantes como a los educadores de manera empática y motivadora. Un lenguaje claro y sencillo para explicar conceptos matemáticos, evitando tecnicismos innecesarios que puedan resultar intimidantes para algunos usuarios.
+
 
 ### 4.1.2. Web Style Guidelines
 Los colores utilizados en la web de nuestra aplicación siguen las pautas de la guía general de diseño. Estas personalizaciones se basan no sólo en el nuevo formato y estilo de visualización, sino también en la sección o página específica que el usuario esté utilizando en la aplicación. Para corregir estas variaciones, hemos identificado diferentes secciones donde los colores y transparencias se ajustan según el diseño:
@@ -1394,16 +1482,22 @@ La información presentada se separa por partes, de tal manera que el usuario en
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-![IMG-SystemContext-Diagram]()
+![IMG-SystemContext-Diagram](./assets/C4%20Model/1_Context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-![IMG-Container-Diagram]()
+![IMG-Container-Diagram](./assets/C4%20Model/2_Container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-![IMG-Component_1-Diagram]()
-![IMG-Component_2-Diagram]()
-![IMG-Component_3-Diagram]()
-![IMG-Component_4-Diagram]()
+#### User Managment Context
+![IMG-Component_1-Diagram](./assets/C4%20Model/3_a-UserComponent.png)
+#### Payment Context
+![IMG-Component_2-Diagram](./assets/C4%20Model/3_b-PaymentComponent.png)
+#### Document Context
+![IMG-Component_3-Diagram](./assets/C4%20Model/3_c-DocumentComponent.png)
+#### Content Management Context
+![IMG-Component_4-Diagram](./assets/C4%20Model/3_d-ContentComponent.png)
+#### Analytics Context
+![IMG-Component_5-Diagram](./assets/C4%20Model/3_e-AnalyticsComponent.png)
 
 ## 4.7. Software Object-Oriented Design
 En esta sección, se utilizará el enfoque de diseño orientado a objetos para desarrollar la aplicación web. Asimismo, se aplicarán los principios y conceptos fundamentales de la programación orientada a objetos.
@@ -1464,6 +1558,6 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 ---
 # Bibliografía
 - El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/peru/prueba-pisa-2022-resultados-de-los-estudiantes-peruanos-en-matematicas-lectura-y-ciencias-rendimiento-academico-ultimas-noticia/).
-
+- Domain Driven Design. (2019, 21 de abril). Developing the ubiquituos language Recuperado el 3 de abril de 2024, de [Domain Driven Deisgn](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)  
 ---
 # Anexos

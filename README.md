@@ -1092,12 +1092,27 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 		</tr>
         <tr>
             <td colspan="1">EP002</td>
-            <td colspan="1">....</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Vistas y Control de la Pagina Web</td>
+            <td colspan="1"></td>
 		</tr>
         <tr>
             <td colspan="1">EP003</td>
-            <td colspan="1">....</td>
+            <td colspan="1">Gestión de Eventos</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP004</td>
+            <td colspan="1">Gestión de funciones para estudiantes</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP005</td>
+            <td colspan="1">Gestión de herramientas para la institución educativa</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">EP006</td>
+            <td colspan="1">Manejo de información de los usuarios</td>
             <td colspan="1">...</td>
 		</tr>
 	</tbody>
@@ -1559,5 +1574,5 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 # Bibliografía
 - El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/peru/prueba-pisa-2022-resultados-de-los-estudiantes-peruanos-en-matematicas-lectura-y-ciencias-rendimiento-academico-ultimas-noticia/).
 - Domain Driven Design. (2019, 21 de abril). Developing the ubiquituos language Recuperado el 3 de abril de 2024, de [Domain Driven Deisgn](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)  
----
+ ---
 # Anexos

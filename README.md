@@ -31,6 +31,9 @@ Junio del 2024
 ---
 # Registro de Versiones del Informe
 
+| Versión | Fecha | Author |Descripción de modificación|
+|----------|----------|----------|----------|
+| TB1    | XX/04/2024  | Miguel Carpio   |asd|
 
 ---
 # Project Report Collaboration Insights

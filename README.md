@@ -1039,8 +1039,10 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 		</tr>
 		<tr>
             <td colspan="1">EP001</td>
-            <td colspan="1">....</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Registro e inicio de sesión</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma<strong> quiero</strong> registrarme en la página web <strong>para</strong> poder acceder a las funciones de la aplicación. 
+</td>
 		</tr>
         <tr>
             <td colspan="1">EP002</td>
@@ -1063,7 +1065,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 			<td colspan="1">ID de Historia de Usuario</td>
             <td colspan="1">Título</td>
             <td colspan="1">Descripción</td>
-            <td colspan="1">Criterios de Aceptación con Escenarios	</td>
+            <td colspan="1">Criterios de Aceptación con Escenarios</td>
             <td colspan="1">ID de Épica</td>
 		</tr>
 		<tr>
@@ -1076,9 +1078,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             </td>
             <td colspan="1">
             <strong>E01: Registro Exitoso</strong>
-            <br>
-            <strong><u>Caso 01: Registro con GMAIL?</u></strong>
-            <br>
+            <br><br>
+            <strong><u>Caso 01: Registro con e-mail</u></strong>
+            <br><br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario estudiante selecciona la opción de registro

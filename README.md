@@ -1085,35 +1085,45 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 		</tr>
 		<tr>
             <td colspan="1">EP001</td>
-            <td colspan="1">Registro e inicio de sesión</td>
+            <td colspan="1">Gestión de cuentas</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma<strong> quiero</strong> registrarme en la página web <strong>para</strong> poder acceder a las funciones de la aplicación. 
+            <strong>Como</strong> usuario de la plataforma<strong> quiero</strong> acceder a la plataforma web <strong>para</strong> gestionar mi cuenta.
 </td>
 		</tr>
         <tr>
             <td colspan="1">EP002</td>
-            <td colspan="1">Vistas y Control de la Pagina Web</td>
-            <td colspan="1"></td>
+            <td colspan="1">Visualización de UI</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page y la plataforma <strong>para </strong>explorar sus diferentes funcionalidades. 
+            </td>
 		</tr>
         <tr>
             <td colspan="1">EP003</td>
-            <td colspan="1">Gestión de Eventos</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Interacción con la plataforma</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> interactuar con sus diferentes características <strong>para</strong> realizar diversas acciones y obtener resultados esperados. 
+            </td>
 		</tr>
         <tr>
             <td colspan="1">EP004</td>
-            <td colspan="1">Gestión de funciones para estudiantes</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Planificación de flujo de videojuegos</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> explorar los diferentes videojuegos <strong>para</strong> poder apredender cada rama de las matemáticas
+            </td>
 		</tr>
         <tr>
             <td colspan="1">EP005</td>
-            <td colspan="1">Gestión de herramientas para la institución educativa</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Análisis de desempeño</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> acceder a un apartado donde se visualice el desempeño del usuario estudiante <strong>para</strong> analizar su rendimiento académico dentro de la plataforma.
+            </td>
 		</tr>
         <tr>
             <td colspan="1">EP006</td>
-            <td colspan="1">Manejo de información de los usuarios</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Soporte técnico</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> contar con un apartado técnico <strong>para</strong> reportar cualquier problema que pueda haber en el sistema.
+            </td>
 		</tr>
 	</tbody>
 </table>

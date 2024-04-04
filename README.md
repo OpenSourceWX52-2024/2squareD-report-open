@@ -833,7 +833,17 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 - Institución educativa:
 <img src="./assets/user_person/User Person Educator.png"/>
 
-### 2.3.2. User Task Matrix
+### 2.3.2. User Task Matrix  
+| Tareas                                                   | Estudiantes de Secundaria | Institución Educativa |
+|----------------------------------------------------------|----------------------------|------------------------|
+| Resolver problemas de matemáticas                        | A menudo                  | Nunca                  |
+| Estudiar para exámenes de matemáticas                    | A menudo                  | Nunca                  |
+| Practicar ejercicios de matemáticas de manera divertida  | A menudo                  | Nunca                  |
+| Utilizar herramientas educativas para el aprendizaje de matemáticas | A menudo           | A veces                |
+| Monitorear el progreso académico de los estudiantes      | Nunca                     | A menudo               |
+| Dar retroalimentación continua para mejorar el rendimiento | Nunca                    | A veces                |
+| Comparar el desempeño académico con otras instituciones educativas | Nunca            | A veces                |
+
 ### 2.3.3. User Journey Mapping
 
 - Estudiante de secundaria:

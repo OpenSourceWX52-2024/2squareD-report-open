@@ -1128,7 +1128,7 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 	</tbody>
 </table>
 
-A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Epica:
+A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
 
 <table border="1" style="text-align: left;">
 	<tbody>
@@ -1145,7 +1145,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             Registro de usuarios estudiantes en la plataforma
             </td>
             <td colspan="1">
-            <strong>Como</strong> usuario esudiante <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.	
+            <strong>Como</strong> usuario estudiante <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
             </td>
             <td colspan="1">
             <strong>E01: Registro Exitoso</strong>
@@ -1155,11 +1155,51 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario estudiante selecciona la opción de registro
+            <br>
             <strong>Cuando</strong> el sistema muestre el formulario de registro 
             <br>
-            <strong>Y</strong> el usuario estudiante llene el formulario con sus datos
+            <strong>Y</strong> el usuario estudiante llene todo el formulario con sus datos y su dirección e-mail institucional
             <br>
-            <strong>Y</strong> el sistema verifique  
+            <strong>Y</strong> el usuario estudiante seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema verifique los datos colocados por el usuario estudiante
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que su cuenta ha sido registrada exitosamente.
+            <br><br>
+            <strong>E02: Registro Fallido</strong>
+            <br><br>
+            <u><strong>Caso 01: Datos inválidos</strong></u>
+            <br><br>
+            <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario estudiante selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario estudiante llene todo el formulario con sus datos y su dirección e-mail institucional
+            <br>
+            <strong>Y</strong> el usuario estudiante seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario estudiante son incorrectos
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
+            <br><br>
+            <u><strong>Caso 02: Datos incompletos</strong></u>
+            <br><br>
+            <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario estudiante selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario estudiante llene solo algunas partes del formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario estudiante seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que el formulario de registro esté incompleto
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
+            <br><br>
             </td>
             <td colspan="1">EP01</td>
 		</tr>
@@ -1167,17 +1207,95 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">US002</td>
             <td colspan="1">Registro de instituciones educativas en la plataforma</td>
             <td colspan="1">
-            <strong>Como</strong> usuario <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación.
+            <strong>Como</strong> usuario esudcador <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.
             </td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">
+            <strong>E01: Registro Exitoso</strong>
+            <br><br>
+            <strong><u>Caso 01: Registro con e-mail</u></strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario educador selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario educador llene todo el formulario con sus datos y su dirección e-mail institucional
+            <br>
+            <strong>Y</strong> el usuario educador seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema verifique que los datos colocados por el usuario educador existen
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que su cuenta ha sido registrada exitosamente.
+            <br><br>
+            <strong>E02: Registro Fallido</strong>
+            <br><br>
+            <u><strong>Caso 01: Datos inválidos</strong></u>
+            <br><br>
+            <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario educador selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario educador llene todo el formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario educador seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
+            <br><br>
+            <u><strong>Caso 02: Datos incompletos</strong></u>
+            <br><br>
+            <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario educador selecciona la opción de registro
+            <br>
+            <strong>Cuando</strong> el sistema muestre el formulario de registro 
+            <br>
+            <strong>Y</strong> el usuario educador llene solo algunas partes del formulario con sus datos
+            <br>
+            <strong>Y</strong> el usuario educador seleccione la opción "registrar cuenta"
+            <br>
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario educador son incorrectos
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
+            <br><br>
+            </td>
+            <td colspan="1">EP001</td>
 		</tr>
         <tr>
             <td colspan="1">US003</td>
             <td colspan="1">Inicio de sesión de usuarios estudiante en la plataforma</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">
+            <strong>Como </strong> usuario estudiante quiero iniciar sesión en mi cuenta <strong>para</strong> utilizar los videojuegos de estudio.
+            </td>
+            <td colspan="1">
+            <strong>E01: Inicio de sesión exitoso</strong>
+            <br><br>
+            <strong>Caso 01: Inicio de sesión con e-mail</strong>
+            <br><br>
+            <strong>Dado que</strong> el usuario estudiante se encuentra en la plataforma
+            <br>
+            <strong>Y</strong> el usuario estudiante selecciona la opción iniciar sesión
+            <br>
+            <strong>Y</strong> el usuario estudiante hace clic en la opción estudiante???
+            <br>
+            <strong>Cuando</strong> el usuario estudiante ingrese su correo y contraseña
+            <br>
+            <strong>Y</strong> el usuario estudiante seleccione la opción iniciar sesión
+            <br>
+            <strong>Entonces</strong> el sistema verifica que los datos existen dentro de la base de datos???
+            <strong>Y</strong> el sistema muestra la interfaz inicial de la plataforma.
+            <br><br>
+            <strong>E02: Inicio de sesión fallido</strong> 
+            <br><br>
+            <strong>Caso 01: Correo e-mail incorrecto</strong>
+            <strong>Caso 02: Contraseña incorrecta</strong>
+            <strong>Caso 03: Correo inexistente en la base de datos</strong>
+            </td>
+            <td colspan="1">EP001</td>
 		</tr>
         <tr>
             <td colspan="1">US003</td>

@@ -1662,9 +1662,9 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 ### 4.8.1. Database Diagram
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas.
 
-![IMG-DB]()
+<img src="./assets/DataBaseDiagram.png" alt="DataBaseDiagram" width="800" height="800">
 
-[Link de la Base de Datos]()
+[Link de la Base de Datos](https://my.vertabelo.com/doc/c2pNMXNHAjv6lC48LTnQCxxGZJ5eckwK)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management

@@ -1370,9 +1370,25 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <tr>
             <td colspan="1">US012</td>
             <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como </strong> usuario de la plataforma, <strong>quiero </strong> poder ver mi progreso y actividad dentro de la plataforma, <strong>para </strong> tener una idea clara de mis logros y compromisos.</td>
+            <td colspan="1"><strong>E01: Visualización de progreso por un estudiante</strong>
+            <br><br> <strong>Dado que</strong> soy un estudiante registrado en la plataforma de aprendizaje<br>
+    <strong>Y</strong> estoy interesado en seguir mi progreso en un curso específico,<br>
+    <strong>Cuando</strong> inicio sesión en mi cuenta<br>
+    <strong>Y</strong> accedo a la sección de cursos, selecciono el curso deseado<br>
+    <strong>Y</strong> completo una lección o tarea dentro del curso,<br>
+   <strong>Entonces</strong> puedo ver una lista de cursos y mi progreso, con información actualizada sobre lecciones completadas, porcentaje de avance y mi calificación (si está disponible).
+	<br><br>
+	<strong>E02: Visualización del progreso del estudiante por un docente</strong>
+    	<br><br> 
+    <strong>Dado que</strong> soy un docente registrado en la plataforma de aprendizaje
+    <br><strong>Y</strong> necesito supervisar el progreso de mis estudiantes en un curso específico,
+    <br><strong>Cuando</strong> accedo a mi cuenta como docente
+    <br><strong>Y</strong> selecciono el curso deseado
+    <br><strong>Y</strong> deseo revisar el progreso de un estudiante en particular,
+    <br><strong>Entonces</strong> puedo ver el progreso del estudiante, incluyendo lecciones completadas, porcentaje de avance y calificación actual del curso.
+</td>
+            <td colspan="1">EP005</td>
 		</tr>
 	</tbody>
 </table>

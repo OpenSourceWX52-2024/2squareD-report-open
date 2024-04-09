@@ -2757,6 +2757,19 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 | academic_level   | Nivel académico              |
 | institute_id (FK)| Identificador de la institución asociada|
 
+**Relaciones:**
+
+- La tabla **payment** tiene una relación de clave foránea (**institute_id**) con la tabla **institute**.
+- La tabla **membresy** no tiene relaciones directas con otras tablas.
+- La tabla **game** no tiene relaciones directas con otras tablas.
+- La tabla **achivements** tiene una relación de clave foránea (**game_id**) con la tabla **game**.
+- La tabla **student** tiene relaciones de clave foránea (**institute_id** y **city_id**) con las tablas **institute** y **city** respectivamente.
+- La tabla **history_game_student** tiene relaciones de clave foránea (**student_id** y **game_id**) con las tablas **student** y **game** respectivamente.
+- La tabla **city** tiene una relación de clave foránea (**country_id**) con la tabla **country**.
+- La tabla **support** tiene una relación de clave foránea (**student_id**) con la tabla **student**.
+- La tabla **institute** tiene una relación de clave foránea (**city_id**) con la tabla **city** y (**membresy_id**) con la tabla **membresy**.
+- La tabla **personal_autorized** tiene una relación de clave foránea (**institute_id**) con la tabla **institute**.
+- La tabla **course** tiene una relación de clave foránea (**institute_id**) con la tabla **institute**.
 
 ### 4.8.1. Database Diagram
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas.

@@ -718,13 +718,50 @@ Segmento Objetivo 1: Institución / Empresa educativa
 
 Entrevistado 1
 
-Nombre y apellidos: Mauricio Acosta
-
-Edad: 28
-
-<img src="./assets/interview-joseph.png" alt="Entrevista Joseph" width="600" height="300">
-
-[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EfssLV85i7NMnbhxBMBKkSEBIA1GFDT3P6tBUbDv5WgyJQ?e=zFge6A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./assets/interview-joseph.png" alt="Entrevista Joseph 02" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Mauricio Sebastian
+            <br> Acosta Rojas
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 28 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Joseph Ulysses
+            <br>Llacchua Peralta
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/personal/u202317002_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317002%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Ewebm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/personal/u202317002_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317002%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Ewebm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1"><u>00:14</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/personal/u202317002_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317002%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Ewebm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1"><u>04:20</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
 
 Entrevistado 2
 

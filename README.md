@@ -2650,7 +2650,114 @@ En esta sección, se presentarán los diagramas de clases, en las cuales se repr
 [Link del Diagrama de Clases]()
 
 ## 4.8. Database Design
-En esta sección, se definirán las tablas y relaciones necesarias para almacenar y gestionar los datos de manera eficiente.
+En esta sección, se definirán las tablas y relaciones necesarias para almacenar y gestionar los datos de manera eficiente.  
+**Entidades**:  
+
+### Payment:  
+| Atributo      | Descripción            |
+|---------------|------------------------|
+| id (PK)       | Identificador          |
+| institute_id  | Identificador de la institución (FK) |
+| amount        | Monto del pago         |
+| type_payment  | Tipo de pago           |
+
+
+### Membresy:  
+| Atributo            | Descripción                  |
+|---------------------|------------------------------|
+| id (PK)             | Identificador                |
+| membresy_type       | Tipo de membresía            |
+| membresy_description| Descripción de la membresía  |
+| initial_date        | Fecha inicial de la membresía|
+| final_date          | Fecha final de la membresía  |
+
+### Game:  
+| Atributo     | Descripción         |
+|--------------|---------------------|
+| id (PK)      | Identificador       |
+| difficulty   | Dificultad del juego|
+| disponibility| Disponibilidad      |
+| description  | Descripción del juego|
+
+### Achivements:  
+| Atributo     | Descripción         |
+|--------------|---------------------|
+| id (PK)      | Identificador       |
+| game_id (FK) | Identificador del juego asociado|
+| description  | Descripción del logro|
+| points       | Puntos del logro    |
+
+### Student:  
+| Atributo       | Descripción             |
+|----------------|-------------------------|
+| id (PK)        | Identificador           |
+| first_name     | Nombre                  |
+| last_name      | Apellido                |
+| institute_id (FK)| Identificador de la institución asociada|
+| city_id (FK)   | Identificador de la ciudad asociada|
+| client_address | Dirección del cliente   |
+
+### History_Game_Student:  
+| Atributo         | Descripción                     |
+|------------------|---------------------------------|
+| id (PK)          | Identificador                   |
+| student_id (FK)  | Identificador del estudiante asociado|
+| game_id (FK)     | Identificador del juego asociado|
+| date_has_played  | Fecha de juego                  |
+| time_played      | Tiempo jugado                   |
+| high_score       | Puntuación más alta             |
+
+### City:  
+| Atributo     | Descripción         |
+|--------------|---------------------|
+| id (PK)      | Identificador       |
+| city_name    | Nombre de la ciudad |
+| country_id (FK)| Identificador del país asociado|
+
+### Country:  
+| Atributo     | Descripción         |
+|--------------|---------------------|
+| id (PK)      | Identificador       |
+| country_name | Nombre del país     |
+ 
+### Support:  
+| Atributo        | Descripción               |
+|-----------------|---------------------------|
+| solicitude_id (PK)| Identificador de solicitud|
+| creation_date   | Fecha de creación         |
+| student_id (FK) | Identificador del estudiante asociado|
+| solicitude_type| Tipo de solicitud         |
+| description     | Descripción de la solicitud|
+
+### Institute:  
+| Atributo         | Descripción                  |
+|------------------|------------------------------|
+| id (PK)          | Identificador                |
+| institute_name   | Nombre de la institución     |
+| institute_address| Dirección de la institución  |
+| city_id (FK)     | Identificador de la ciudad asociada|
+| institute_type   | Tipo de institución          |
+| membresy_id (FK) | Identificador de membresía asociada|
+
+### Personal_Autorized:  
+| Atributo       | Descripción             |
+|----------------|-------------------------|
+| personal_id (PK)| Identificador del personal autorizado|
+| first_name     | Nombre                  |
+| last_name      | Apellido                |
+| job_tittle     | Título de trabajo       |
+| phone_number   | Número de teléfono      |
+| institute_id (FK)| Identificador de la institución asociada|
+
+### Course:  
+| Atributo         | Descripción                  |
+|------------------|------------------------------|
+| id (PK)          | Identificador                |
+| course_name      | Nombre del curso             |
+| academic_level   | Nivel académico              |
+| institute_id (FK)| Identificador de la institución asociada|
+
+
 ### 4.8.1. Database Diagram
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas.
 

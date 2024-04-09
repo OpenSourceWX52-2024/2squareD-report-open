@@ -728,13 +728,50 @@ Edad: 28
 
 Entrevistado 2
 
-Nombre y apellidos: Magnolia Cornejo
-
-Edad: 49
-
-<img src="./assets/Interview_MiguelCarpio01.png" alt="Entrevista Miguel 01" width="600" height="300">
-
-[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EWOP03rfpYFKhJTiheudN3gBtVCNF1hEzZOliQFPmB0S3Q?e=KzQNxq)
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./assets/Interview_MiguelCarpio01.png" alt="Entrevista Miguel 01" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Magnolia Rocío
+            <br> Cornejo Peralta
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 49 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Miguel Ángel 
+            <br>Carpio Cornejo
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EWOP03rfpYFKhJTiheudN3gBtVCNF1hEzZOliQFPmB0S3Q?e=KzQNxq">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EWOP03rfpYFKhJTiheudN3gBtVCNF1hEzZOliQFPmB0S3Q?e=KzQNxq"><u>00:10</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EWOP03rfpYFKhJTiheudN3gBtVCNF1hEzZOliQFPmB0S3Q?e=KzQNxq"><u>14:50</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
 
 >**Segmento Objetivo 2: Estudiantes de Secundaria**
 

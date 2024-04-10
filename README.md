@@ -194,7 +194,7 @@ Con MathPlayOpen, en 2squareD estamos comprometidos a transformar el aprendizaje
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-<img src="./assets/profile-sharon.png" alt="Sharon Antuanet Ivet Barrial Marin" width="200" height="200">
+<img src="./assets/profile-sharon.jpg" alt="Sharon Antuanet Ivet Barrial Marin" width="200" height="200">
 
 Nombre completo: Sharon Antuanet Ivet Barrial Marin
 

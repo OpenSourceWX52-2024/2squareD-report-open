@@ -235,7 +235,7 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez. 
 
-<img src="./assets/profile-lucio.png" alt="Lucio Heli Yen Cerna" width="200" height="200">
+<img src="./assets/lucio-profile.png" alt="Lucio Heli Yen Cerna" width="200" height="200">
 
 Nombre completo: Lucio Heli Yen Cerna
 

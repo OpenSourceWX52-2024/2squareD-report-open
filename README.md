@@ -873,7 +873,11 @@ Resumen: Luis Carbajal es estudiante de quinto grado de secundaria del colegio L
 	</tbody>
 </table>
 
-Entrevistado 3
+Resumen: Nicolás Barrial es un estudiante de quinto nivel de secundaria, que como todo alumno, se le dificulta el aprendizaje sobre ciertos temas en la vida estudiantil. En este caso, la matemática. Nicolás comenta que lo que más se le dificulta en esta última etapa de nivel secundario son los cursos de geometría y trigonometría. Uno por tener que expandir no solo su conocimiento, sino su imaginación al tratar temas con respecto a la proyección de planos. Por otro lado, trigonometría es la nueva asignatura que su institución educativa decidió aplicar a la malla curricular del presente año escolar. Es por lo que, Nicolás opina que el uso de un reforzador presentado como videojuego le ayudaría a entender mejor los conceptos con respecto a trigonometría y los patrones que presentan los problemas de geometría para entender la proyección de planos. Debido a que, las sesiones tradicionales de la escuela no le ayudan a entender y ver tutoriales en youtube puede solucionar su problema, pero a corto plazo, ya que mientras más pasa el timepo, el nivel de dificultad aumenta. Además, siente que su cerebro trabaja mejor cuando estudia en grupo y debate sus conocimientos. Así que, la idea de una competencia amistosa entre compañeros no le desagrada porque le mostraría en qué lugar se encuentra y eso lo motivaría a susperar y conseguir mayores conocimientos en los cursos. 
+
+<br>
+
+**Entrevistado 3**
 
 <table border="1" style="text-align: left;">
 	<tbody>
@@ -1247,7 +1251,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 			<td colspan="1">ID de Historia de Usuario</td>
             <td colspan="1">Título</td>
             <td colspan="1">Descripción</td>
-            <td colspan="1">Criterios de Aceptación con Escenarios</td>
+            <td colspan="5">Criterios de Aceptación con Escenarios</td>
             <td colspan="1">ID de Épica</td>
 		</tr>
 		<tr>
@@ -1258,11 +1262,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">
             <strong>Como</strong> usuario estudiante <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
             </td>
-            <td colspan="1">
+            <td colspan="5">
             <strong>E01: Registro Exitoso</strong>
             <br><br>
-            <strong><u>Caso 01: Registro con e-mail</u></strong>
-            <br><br>
+            <strong>Caso 01: Registro con e-mail</strong>
+            <br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario estudiante selecciona la opción de registro
@@ -1279,8 +1283,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>E02: Registro Fallido</strong>
             <br><br>
-            <u><strong>Caso 01: Datos inválidos</strong></u>
-            <br><br>
+            <strong>Caso 01: Datos inválidos</strong>
+            <br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario estudiante selecciona la opción de registro

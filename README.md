@@ -763,6 +763,9 @@ Entrevistado 1
 	</tbody>
 </table>
 
+Resumen: 
+Mauricio Acosta, de 28 años, trabaja en una institución educativa dedicada a mejorar el aprendizaje mediante enfoques innovadores. Durante la entrevista, mencionó desafíos como la falta de participación estudiantil y la adaptación a nuevas tecnologías educativas. Aunque conocen los videojuegos didácticos, aún no los implementan en las aulas. Consideran esenciales la personalización, retroalimentación inmediata y alineación con estándares educativos en estos videojuegos. Prefieren evaluaciones transparentes e integradas en el juego. Valorarían capacitación para docentes y soporte técnico para implementarlos. Tienen inquietudes sobre distracción estudiantil y alineación con objetivos educativos. Esperan mejorar la participación y comprensión estudiantil con su implementación, pero necesitan más información para tomar una decisión.
+
 Entrevistado 2
 
 <table border="1" style="text-align: left;">

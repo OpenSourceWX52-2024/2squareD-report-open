@@ -810,7 +810,60 @@ Entrevistado 2
 	</tbody>
 </table>
 
->**Segmento Objetivo 2: Estudiantes de Secundaria**
+Entrevistado 3
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./assets/Interview_MiguelYbañez01.png" alt="Entrevista Miguel 01" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Johan Raul
+            <br> Moreno Vergara
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 24 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Miguel Angel 
+            <br>Ybañez Esquerre
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b298_upc_edu_pe/Ef4VwiV9w_FJgQUABrr7g4gBsIuMi0OqQiIlSq4XhrGcyA?e=UpZTxJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b298_upc_edu_pe/Ef4VwiV9w_FJgQUABrr7g4gBsIuMi0OqQiIlSq4XhrGcyA?e=pPRrXr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzguNDV9fQ%3D%3D"><u>00:38</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b298_upc_edu_pe/Ef4VwiV9w_FJgQUABrr7g4gBsIuMi0OqQiIlSq4XhrGcyA?e=LysWym&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTQzLjQ3fX0%3D"><u>09:03</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+Resumen: Johan menciona que los principales desafíos que enfrentan las instituciones en la actualidad son dos. En primer lugar, está la cuestión de los docentes, quienes a menudo no están debidamente capacitados para enseñar. Es decir, pueden tener un conocimiento sólido sobre la materia, pero carecen de la habilidad para retener la atención de los estudiantes o para hacer que las clases sean más dinámicas. Por otro lado, los jóvenes estudiantes presentan un déficit de atención debido al constante uso de las redes sociales en la actualidad.
+
+Johan señala que en su institución reciben charlas pedagógicas con el fin de mejorar la capacidad de captar la atención de los alumnos. Respecto al uso de videojuegos como herramienta educativa, menciona que nunca ha visto uno específicamente diseñado con ese propósito. Considera que sería interesante desarrollar un videojuego didáctico que motive a los estudiantes hacia el aprendizaje. También expresa su interés en tener un mejor control sobre las evaluaciones que podrían implementarse en dicho videojuego.
+
+La falta de atención de los estudiantes y la necesidad de mejorar las habilidades pedagógicas de los docentes son desafíos significativos en el ámbito educativo. Para abordar estos problemas, es importante implementar estrategias innovadoras y capacitación adecuada para los docentes. La integración de tecnologías educativas, como los videojuegos didácticos, podría ser una solución efectiva para involucrar a los estudiantes y fomentar su interés en el aprendizaje.
+
+**Segmento Objetivo 2: Estudiantes de Secundaria**
 
 Entrevistado: 1
 

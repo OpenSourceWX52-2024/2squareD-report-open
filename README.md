@@ -876,7 +876,11 @@ Resumen: Luis Carbajal es estudiante de quinto grado de secundaria del colegio L
 	</tbody>
 </table>
 
-Entrevistado 3
+Resumen: Nicolás Barrial es un estudiante de quinto nivel de secundaria, que como todo alumno, se le dificulta el aprendizaje sobre ciertos temas en la vida estudiantil. En este caso, la matemática. Nicolás comenta que lo que más se le dificulta en esta última etapa de nivel secundario son los cursos de geometría y trigonometría. Uno por tener que expandir no solo su conocimiento, sino su imaginación al tratar temas con respecto a la proyección de planos. Por otro lado, trigonometría es la nueva asignatura que su institución educativa decidió aplicar a la malla curricular del presente año escolar. Es por lo que, Nicolás opina que el uso de un reforzador presentado como videojuego le ayudaría a entender mejor los conceptos con respecto a trigonometría y los patrones que presentan los problemas de geometría para entender la proyección de planos. Debido a que, las sesiones tradicionales de la escuela no le ayudan a entender y ver tutoriales en youtube puede solucionar su problema, pero a corto plazo, ya que mientras más pasa el timepo, el nivel de dificultad aumenta. Además, siente que su cerebro trabaja mejor cuando estudia en grupo y debate sus conocimientos. Así que, la idea de una competencia amistosa entre compañeros no le desagrada porque le mostraría en qué lugar se encuentra y eso lo motivaría a susperar y conseguir mayores conocimientos en los cursos. 
+
+<br>
+
+**Entrevistado 3**
 
 <table border="1" style="text-align: left;">
 	<tbody>
@@ -1250,7 +1254,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 			<td colspan="1">ID de Historia de Usuario</td>
             <td colspan="1">Título</td>
             <td colspan="1">Descripción</td>
-            <td colspan="1">Criterios de Aceptación con Escenarios</td>
+            <td colspan="5">Criterios de Aceptación con Escenarios</td>
             <td colspan="1">ID de Épica</td>
 		</tr>
 		<tr>
@@ -1261,11 +1265,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">
             <strong>Como</strong> usuario estudiante <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
             </td>
-            <td colspan="1">
+            <td colspan="5">
             <strong>E01: Registro Exitoso</strong>
             <br><br>
-            <strong><u>Caso 01: Registro con e-mail</u></strong>
-            <br><br>
+            <strong>Caso 01: Registro con e-mail</strong>
+            <br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario estudiante selecciona la opción de registro
@@ -1282,8 +1286,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>E02: Registro Fallido</strong>
             <br><br>
-            <u><strong>Caso 01: Datos inválidos</strong></u>
-            <br><br>
+            <strong>Caso 01: Datos inválidos</strong>
+            <br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario estudiante selecciona la opción de registro
@@ -1917,11 +1921,294 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
+En este apartado, el equipo establece las decisiones y pactos que asegurarán la coherencia en todas las etapas del proceso de desarrollo. Esto incluye la inclusión de secciones particulares enfocadas en la administración del código fuente, la configuración del entorno de desarrollo y la implementación de la configuración.
+
 ### 5.1.1. Software Development Environment Configuration
+La siguiente tabla presenta los nombres de los productos, su función dentro del proyecto y ofrece enlaces de referencia o descarga para cada uno de los productos de software requeridos para colaborar a lo largo de todo el ciclo de vida del producto digital. Estos abarcan actividades como gestión de proyectos, gestión de requisitos, diseño de UX/UI del producto, desarrollo de software, pruebas de software, implementación de software y documentación de software, todo ello considerando las limitaciones especificadas sobre los productos de software y las herramientas autorizadas para su utilización.
+
+
+| Actividad             | Propósito de uso       | Nombre del producto | Descripción                                                              |
+|-----------------------|------------------------|---------------------|--------------------------------------------------------------------------|
+| Project Management    | Gestión general        | Microsoft Office    | Suite de ofimática que permite trabajar con documentos de texto y presentaciones.              |
+| Project Management    | Gestión general        | Google Drive        | Servicio en la nube que permite compartir documentos y avances de cada entregable.              |
+| Project Management    | Gestión general        | Discord             | Servicio de mensajería instantánea que permite tener reuniones internas semanales.               |
+| Project Management    | Gestión general        | Whatsapp            | Servicio de mensajería instantánea que se utiliza para tener conversaciones frecuentes.           |
+| Project Management    | Gestión de proyectos   | Trello              | Software de administración de proyectos que facilita el seguimiento de las tareas de cada integrante. |
+| Requirements Management| Elaboración de artefactos | Miro            | Plataforma colaborativa que permite utilizar pizarras interactivas con múltiples templates.     |
+| Requirements Management| Elaboración de artefactos | Meet            | Software de videochat que permite entrevistar a los diferentes públicos objetivos.              |
+| Requirements Management| Elaboración de artefactos | UXPressia       | Plataforma colaborativa que permite crear user personas e integrarlos con múltiples mapas.       |
+| Requirements Management| Elaboración de artefactos | Structurizr     | Colección de herramientas que permite diagramar modelos C4 de nuestros productos de manera colaborativa. |
+| Requirements Management| Elaboración de artefactos | Vertabelo       | Plataforma colaborativa que permite crear diagramas de base de datos.                             |
+| Requirements Management| Elaboración de artefactos | LucidChart      | Plataforma colaborativa que permite crear diversos tipos de diagramas con templates.             |
+| Product UX/UI Design  | Diseño de UX/UI        | Figma               | Herramienta colaborativa que permite desarrollar wireframes y mockups.                             |
+| Product UX/UI Design  | Diseño de UX/UI        | LucidChart          | Herramienta colaborativa que permite desarrollar wireframes y mockups con templates.               |
+| Software Development  | Gestión general        | Git                 | Software de control de versiones en proyectos colaborativos.             |
+| Software Development  | Gestión general        | Node.js             | Entorno de ejecución de JavaScript que permite instalar bibliotecas externas de manera sencilla. |
+| Software Development  | Gestión general        | GitHub              | Repositorio colaborativo en la nube que trabaja con Git en la gestión de proyectos.               |
+| Software Development  | Gestión general        | GitHub Desktop      | Herramienta de escritorio que permite el manejo interactivo de versiones con GitHub.             |
+| Software Development  | Frontend               | HTML5               | Lenguaje de marcado para la elaboración de páginas web.                   |
+| Software Development  | Frontend               | CSS3                | Lenguaje de diseño gráfico para crear la presentación de un documento escrito en HTML.         |
+| Software Development  | Frontend               | JavaScript          | Lenguaje de programación orientado a objetos dinámico que permite, en nuestro caso, implementar funcionalidades a un documento HTML. |
+| Software Development  | Frontend               | WebStorm            | IDE diseñado específicamente para el desarrollo web. Está orientado principalmente al desarrollo con tecnologías web como HTML, CSS, JavaScript y sus frameworks como Angular, React y Vue.js.                          |
+| Software Development  | Frontend               | Angular                 |  Framework de desarrollo de aplicaciones web desarrollado por Google que se utiliza para construir aplicaciones de una sola página (SPA).                            |
+| Software Development  | Frontend               | Bootstrap           | Herramienta estándar de escritorio para el desarrollo de Vue.js.         |
+| Software Development  | Backend                | Java                  | Java es un lenguaje de programación versátil y portátil, utilizado en una variedad de aplicaciones y conocido por su capacidad de ejecución en diferentes plataformas sin necesidad de recompilación. |
+| Software Development  | Backend                | Webstorm            | IDE que utilizaremos para trabajar con C#.                             |
+| Software Testing      | Pruebas de software    | Gherkin             | Herramienta de software que permite correr test automatizados en lenguaje plano.                |
+| Software Deployment   | Despliegue de software | GitHub Pages        | Plataforma que permite hacer deployments sencillos desde un repositorio de GitHub.               |
+
 
 ### 5.1.2. Source Code Management
 
+Enlace a la organización del equipo “InnovaTec” en GitHub, en la cual se incluirán todos los repositories del Proyecto: https://github.com/OpenSourceWX52-2024
+
+Enlace al Landing Page Repository: https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-Landing-Page
+
+
+### Master branch: 
+Es la rama principal del proyecto, donde reside el código en uso actualmente en producción.
+
+### Develop branch: 
+Aquí se integran las últimas actualizaciones y cambios planificados para la próxima versión del proyecto.
+
+### Release branch: 
+Se emplea para preparar una nueva versión del producto, abordando correcciones de errores y permitiendo que la rama Develop continúe recibiendo actualizaciones.
+
+### Feature branches: 
+Utilizadas para desarrollar nuevas funcionalidades o características del producto destinadas a la próxima versión o a versiones futuras. Estas funcionalidades se fusionan con la rama Develop cuando están completas.
+
+### Hotfix branch: 
+Se utiliza para corregir rápidamente errores en la versión en producción del producto, permitiendo soluciones rápidas mientras el equipo continúa trabajando en otras áreas del proyecto.
+
+### Semantic Versioning
+El versionado semántico sigue una estructura X.Y.Z, donde X representa la versión principal, Y la versión secundaria y Z la versión de parche. Inicialmente, las versiones siguen el esquema 0.X.Y. Los incrementos en Z corresponden a correcciones de errores compatibles con versiones anteriores, Y indica la inclusión de nuevas funcionalidades compatibles con versiones anteriores, y X señala cambios incompatibles con versiones anteriores.
+
+### Conventional Commits
+En cuanto a los commits, estos siguen una plantilla específica: git commit -m "<tipo>[ámbito opcional]: <título>" -m "<descripción>". Esta convención está basada en el artículo Conventional Commits 1.0.0.
+
+### Types
+- add: Para la adición de archivos o carpetas.
+- fix: Para la corrección de errores en el código.
+- feat: Para la incorporación de nuevas funcionalidades.
+- test: Para la inclusión de archivos de prueba.
+- BREAKING CHANGE: Para indicar cambios importantes en el código que no son compatibles con versiones anteriores.
+
+### optional scope
+[ámbito opcional]: Se utilizará solo en las ramas release, hotfix y master para indicar la versión del producto.
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Como regla general, todos los miembros del equipo deben redactar todo el código en inglés completo.
+
+
+- **Use Lowercase Element Names**: Se recomienda usar minúsculas para los nombres de los elementos HTML.
+
+```[html]
+    <body> 
+        <p>Esto es un párrafo</p> 
+    <body> 
+```
+
+- **Close All HTML Elements**: Se recomienda cerrar todos los elementos HTML.
+```[html]
+    <body> 
+    <p>Esto es un párrafo</p> 
+    <p>Esto es otro párrafo</p> 
+    <body> 
+```
+
+- **Use Lowercase Attribute Names**: Se recomienda usar minúsculas para los nombres de los atributos HTML.
+
+```[html]
+    <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>  
+```
+
+- **Always Specify alt, width, and height for Images**: Es recomendado especificar alt, width y height para imágenes.
+
+```[html]
+    <img src="html5.gif" alt="HTML5" style="width:128px;height:128px">  
+```
+
+### CSS
+Para información sobre las convenciones de CSS se usará como referencia [este enlace](https://google.github.io/styleguide/htmlcssguide.html#CSS).
+
+- **ID and Class Naming**: Usar nombres de clases y ID significativos.
+```[css]
+    #gallery {} 
+    #login {} 
+    .video {} 
+```
+
+- **ID and Class Name Style**: Usar nombres cortos pero descriptivos.
+```[css]
+    #nav {} 
+    .author {}
+``` 
+
+- **Shorthand Properties**: Usar propiedades abreviadas CSS cuando sea posible.
+```[css]
+    border-top: 0; 
+    font: 100%/1.6 palatino, georgia, serif; 
+    padding: 0 1em 2em; 
+```
+
+- **0 and Units**: Evitar unidades después de usar 0.
+```[css]
+    margin: 0; 
+    padding: 0; 
+```
+
+- **ID and Class Name Delimiters**: Separar palabras en ID y clases con guiones.
+```[css]
+    #video-id {} 
+    .ads-sample {} 
+```
+- **Declaration Order**: Colocar declaraciones en orden alfabético.
+```[css]
+    background: fuchsia; 
+    border: 1px solid; 
+    border-radius: 4px; 
+    color: black; 
+    text-align: center; 
+    text-indent: 2em; 
+```
+
+- **Selector and Declaration Separation**: Separar selectores y declaraciones en nuevas líneas.
+```[css]
+    h1, h2, h3 { 
+        font-weight: normal; 
+        line-height: 1.2; 
+    } 
+```
+
+### JavaScript
+Para información sobre las convenciones de JavaScript se usará como referencia [este enlace](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript#creating_arrays).
+
+- **Use expanded syntax**: Cada línea de JavaScript en una nueva línea.
+```[javascript]
+    function myFunc() { 
+     console.log('Hello!');  
+    }; 
+```
+
+- **Variable naming**: Usar lowerCamelCase para el nombre de variables.
+```[javascript]
+    let playerScore = 0; 
+    let speed = distance / time; 
+```
+
+- **Declaring variables**: Usar let y const, evitar var.
+```[javascript]
+    const myName = 'Chris'; 
+    console.log(myName); 
+    let myAge = '40'; 
+    myAge++; 
+    console.log('Happy birthday!');  
+```
+
+- **Use strict equality**: Siempre usar igualdad estricta.
+```[javascript]
+    name === 'Chris'; 
+    age !== 25; 
+```
+
+- **Function naming**: Usar lowerCamelCase para el nombre de funciones.
+```[javascript]
+    function sayHello() { 
+     alert('Hello!'); 
+    }; 
+```
+
+- **Creating objects**: Usar literales para la creación de objetos.
+```[javascript]
+    let myObject = {}; 
+```
+
+- **Object classes**: Usar la sintaxis de clase de ES para objetos.
+```[javascript]
+    class Person { 
+     constructor(name, age, gender) {  
+        this.name = name; 
+        this.age = age; 
+        this.gender = gender; 
+     } 
+     greeting() { 
+        console.log(`Hi! I'm ${this.name}`); 
+     }; 
+    } 
+```
+
+- **Creating arrays**: Usar literales para la creación de arrays.
+```[javascript]
+    let myArray = [ ]; 
+```
+
+### Angular
+Para información sobre las convenciones de Angular se usará como referencia [este enlace](https://angular.io/guide/styleguide/).
+
+- **Component nomenclature:** PascalCase para nombres de componentes: Los nombres de los componentes deben seguir el formato PascalCase.
+
+```[typescript]
+
+@Component({
+  selector: 'AppComponent',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent { }
+
+```
+- **File naming:** Kebab-case para nombres de archivos: Los nombres de archivos deben usar kebab-case para separar palabras con guiones.
+  
+```[typescript]
+    kebab-case.ts
+    mat-form-field.html
+    hero-detail.component.ts
+```
+- **File and folder organization:** División por funcionalidad: Los archivos y carpetas deben organizarse en función de la funcionalidad que proporcionan.
+  
+```[bash]
+    /app
+        /components
+            /home
+                home.component.ts
+                home.component.html
+                home.component.css
+            /user
+                user.component.ts
+                user.component.html
+                user.component.css
+        /services
+            user.service.ts 
+```
+- **interpolation:** Una forma de enlace de datos de propiedad en la que una expresión de plantilla entre llaves dobles se representa como texto. 
+```[javascript]  
+    <label>My current hero is {{hero.name}}</label>
+```
+- **Built-in control flow**: en esta version nueva de Angular 17 la documentación dice lo siguiente: "Usamos una nueva sintaxis de bloque para un flujo de control integrado y optimizado. Después de realizar estudios de usuarios, identificamos que muchos desarrolladores tienen dificultades con , y *ngIf *ngSwitch *ngFor" la cual es la siguiente.
+  
+```[javascript]
+    //declaraciones condicionales:
+    @if (loggedIn) {
+        The user is logged in
+    } @else {
+        The user is not logged in
+    }
+
+    //Declaraciones de cambio:
+    @switch (accessLevel) {
+        @case ('admin') { <admin-dashboard/> }
+        @case ('moderator') { <moderator-dashboard/> }
+        @default { <user-dashboard/> }
+    }
+    
+    //Y para bucle:
+    @for (user of users; track user.id) {
+        {{ user.name }}
+    } @empty {
+        Empty list of users
+    }
+```
 
 ### 5.1.4. Software Deployment Configuration
 

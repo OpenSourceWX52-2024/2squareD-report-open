@@ -1962,22 +1962,250 @@ Enlace a la organización del equipo “InnovaTec” en GitHub, en la cual se in
 Enlace al Landing Page Repository: https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-Landing-Page
 
 
-### Rama Master: 
+### Master branch: 
 Es la rama principal del proyecto, donde reside el código en uso actualmente en producción.
 
-### Rama Develop: 
+### Develop branch: 
 Aquí se integran las últimas actualizaciones y cambios planificados para la próxima versión del proyecto.
 
-### Rama Release: 
+### Release branch: 
 Se emplea para preparar una nueva versión del producto, abordando correcciones de errores y permitiendo que la rama Develop continúe recibiendo actualizaciones.
 
-### Ramas Feature: 
+### Feature branches: 
 Utilizadas para desarrollar nuevas funcionalidades o características del producto destinadas a la próxima versión o a versiones futuras. Estas funcionalidades se fusionan con la rama Develop cuando están completas.
 
-### Rama Hotfix: 
+### Hotfix branch: 
 Se utiliza para corregir rápidamente errores en la versión en producción del producto, permitiendo soluciones rápidas mientras el equipo continúa trabajando en otras áreas del proyecto.
 
+### Semantic Versioning
+El versionado semántico sigue una estructura X.Y.Z, donde X representa la versión principal, Y la versión secundaria y Z la versión de parche. Inicialmente, las versiones siguen el esquema 0.X.Y. Los incrementos en Z corresponden a correcciones de errores compatibles con versiones anteriores, Y indica la inclusión de nuevas funcionalidades compatibles con versiones anteriores, y X señala cambios incompatibles con versiones anteriores.
+
+### Conventional Commits
+En cuanto a los commits, estos siguen una plantilla específica: git commit -m "<tipo>[ámbito opcional]: <título>" -m "<descripción>". Esta convención está basada en el artículo Conventional Commits 1.0.0.
+
+### Types
+- add: Para la adición de archivos o carpetas.
+- fix: Para la corrección de errores en el código.
+- feat: Para la incorporación de nuevas funcionalidades.
+- test: Para la inclusión de archivos de prueba.
+- BREAKING CHANGE: Para indicar cambios importantes en el código que no son compatibles con versiones anteriores.
+
+### optional scope
+[ámbito opcional]: Se utilizará solo en las ramas release, hotfix y master para indicar la versión del producto.
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Como regla general, todos los miembros del equipo deben redactar todo el código en inglés completo.
+
+
+- **Use Lowercase Element Names**: Se recomienda usar minúsculas para los nombres de los elementos HTML.
+
+```[html]
+    <body> 
+        <p>Esto es un párrafo</p> 
+    <body> 
+```
+
+- **Close All HTML Elements**: Se recomienda cerrar todos los elementos HTML.
+```[html]
+    <body> 
+    <p>Esto es un párrafo</p> 
+    <p>Esto es otro párrafo</p> 
+    <body> 
+```
+
+- **Use Lowercase Attribute Names**: Se recomienda usar minúsculas para los nombres de los atributos HTML.
+
+```[html]
+    <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>  
+```
+
+- **Always Specify alt, width, and height for Images**: Es recomendado especificar alt, width y height para imágenes.
+
+```[html]
+    <img src="html5.gif" alt="HTML5" style="width:128px;height:128px">  
+```
+
+### CSS
+Para información sobre las convenciones de CSS se usará como referencia [este enlace](https://google.github.io/styleguide/htmlcssguide.html#CSS).
+
+- **ID and Class Naming**: Usar nombres de clases y ID significativos.
+```[css]
+    #gallery {} 
+    #login {} 
+    .video {} 
+```
+
+- **ID and Class Name Style**: Usar nombres cortos pero descriptivos.
+```[css]
+    #nav {} 
+    .author {}
+``` 
+
+- **Shorthand Properties**: Usar propiedades abreviadas CSS cuando sea posible.
+```[css]
+    border-top: 0; 
+    font: 100%/1.6 palatino, georgia, serif; 
+    padding: 0 1em 2em; 
+```
+
+- **0 and Units**: Evitar unidades después de usar 0.
+```[css]
+    margin: 0; 
+    padding: 0; 
+```
+
+- **ID and Class Name Delimiters**: Separar palabras en ID y clases con guiones.
+```[css]
+    #video-id {} 
+    .ads-sample {} 
+```
+- **Declaration Order**: Colocar declaraciones en orden alfabético.
+```[css]
+    background: fuchsia; 
+    border: 1px solid; 
+    border-radius: 4px; 
+    color: black; 
+    text-align: center; 
+    text-indent: 2em; 
+```
+
+- **Selector and Declaration Separation**: Separar selectores y declaraciones en nuevas líneas.
+```[css]
+    h1, h2, h3 { 
+        font-weight: normal; 
+        line-height: 1.2; 
+    } 
+```
+
+### JavaScript
+Para información sobre las convenciones de JavaScript se usará como referencia [este enlace](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript#creating_arrays).
+
+- **Use expanded syntax**: Cada línea de JavaScript en una nueva línea.
+```[javascript]
+    function myFunc() { 
+     console.log('Hello!');  
+    }; 
+```
+
+- **Variable naming**: Usar lowerCamelCase para el nombre de variables.
+```[javascript]
+    let playerScore = 0; 
+    let speed = distance / time; 
+```
+
+- **Declaring variables**: Usar let y const, evitar var.
+```[javascript]
+    const myName = 'Chris'; 
+    console.log(myName); 
+    let myAge = '40'; 
+    myAge++; 
+    console.log('Happy birthday!');  
+```
+
+- **Use strict equality**: Siempre usar igualdad estricta.
+```[javascript]
+    name === 'Chris'; 
+    age !== 25; 
+```
+
+- **Function naming**: Usar lowerCamelCase para el nombre de funciones.
+```[javascript]
+    function sayHello() { 
+     alert('Hello!'); 
+    }; 
+```
+
+- **Creating objects**: Usar literales para la creación de objetos.
+```[javascript]
+    let myObject = {}; 
+```
+
+- **Object classes**: Usar la sintaxis de clase de ES para objetos.
+```[javascript]
+    class Person { 
+     constructor(name, age, gender) {  
+        this.name = name; 
+        this.age = age; 
+        this.gender = gender; 
+     } 
+     greeting() { 
+        console.log(`Hi! I'm ${this.name}`); 
+     }; 
+    } 
+```
+
+- **Creating arrays**: Usar literales para la creación de arrays.
+```[javascript]
+    let myArray = [ ]; 
+```
+
+### Angular
+Para información sobre las convenciones de Angular se usará como referencia [este enlace](https://angular.io/guide/styleguide/).
+
+- **Component nomenclature:** PascalCase para nombres de componentes: Los nombres de los componentes deben seguir el formato PascalCase.
+
+```[typescript]
+
+@Component({
+  selector: 'AppComponent',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent { }
+
+```
+- **File naming:** Kebab-case para nombres de archivos: Los nombres de archivos deben usar kebab-case para separar palabras con guiones.
+  
+```[typescript]
+    kebab-case.ts
+    mat-form-field.html
+    hero-detail.component.ts
+```
+- **File and folder organization:** División por funcionalidad: Los archivos y carpetas deben organizarse en función de la funcionalidad que proporcionan.
+  
+```[bash]
+    /app
+        /components
+            /home
+                home.component.ts
+                home.component.html
+                home.component.css
+            /user
+                user.component.ts
+                user.component.html
+                user.component.css
+        /services
+            user.service.ts 
+```
+- **interpolation:** Una forma de enlace de datos de propiedad en la que una expresión de plantilla entre llaves dobles se representa como texto. 
+```[javascript]  
+    <label>My current hero is {{hero.name}}</label>
+```
+- **Built-in control flow**: en esta version nueva de Angular 17 la documentación dice lo siguiente: "Usamos una nueva sintaxis de bloque para un flujo de control integrado y optimizado. Después de realizar estudios de usuarios, identificamos que muchos desarrolladores tienen dificultades con , y *ngIf *ngSwitch *ngFor" la cual es la siguiente.
+  
+```[javascript]
+    //declaraciones condicionales:
+    @if (loggedIn) {
+        The user is logged in
+    } @else {
+        The user is not logged in
+    }
+
+    //Declaraciones de cambio:
+    @switch (accessLevel) {
+        @case ('admin') { <admin-dashboard/> }
+        @case ('moderator') { <moderator-dashboard/> }
+        @default { <user-dashboard/> }
+    }
+    
+    //Y para bucle:
+    @for (user of users; track user.id) {
+        {{ user.name }}
+    } @empty {
+        Empty list of users
+    }
+```
 
 ### 5.1.4. Software Deployment Configuration
 

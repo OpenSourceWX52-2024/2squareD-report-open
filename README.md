@@ -1918,9 +1918,64 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
+En este apartado, el equipo establece las decisiones y pactos que asegurarán la coherencia en todas las etapas del proceso de desarrollo. Esto incluye la inclusión de secciones particulares enfocadas en la administración del código fuente, la configuración del entorno de desarrollo y la implementación de la configuración.
+
 ### 5.1.1. Software Development Environment Configuration
+La siguiente tabla presenta los nombres de los productos, su función dentro del proyecto y ofrece enlaces de referencia o descarga para cada uno de los productos de software requeridos para colaborar a lo largo de todo el ciclo de vida del producto digital. Estos abarcan actividades como gestión de proyectos, gestión de requisitos, diseño de UX/UI del producto, desarrollo de software, pruebas de software, implementación de software y documentación de software, todo ello considerando las limitaciones especificadas sobre los productos de software y las herramientas autorizadas para su utilización.
+
+
+| Actividad             | Propósito de uso       | Nombre del producto | Descripción                                                              |
+|-----------------------|------------------------|---------------------|--------------------------------------------------------------------------|
+| Project Management    | Gestión general        | Microsoft Office    | Suite de ofimática que permite trabajar con documentos de texto y presentaciones.              |
+| Project Management    | Gestión general        | Google Drive        | Servicio en la nube que permite compartir documentos y avances de cada entregable.              |
+| Project Management    | Gestión general        | Discord             | Servicio de mensajería instantánea que permite tener reuniones internas semanales.               |
+| Project Management    | Gestión general        | Whatsapp            | Servicio de mensajería instantánea que se utiliza para tener conversaciones frecuentes.           |
+| Project Management    | Gestión de proyectos   | Trello              | Software de administración de proyectos que facilita el seguimiento de las tareas de cada integrante. |
+| Requirements Management| Elaboración de artefactos | Miro            | Plataforma colaborativa que permite utilizar pizarras interactivas con múltiples templates.     |
+| Requirements Management| Elaboración de artefactos | Meet            | Software de videochat que permite entrevistar a los diferentes públicos objetivos.              |
+| Requirements Management| Elaboración de artefactos | UXPressia       | Plataforma colaborativa que permite crear user personas e integrarlos con múltiples mapas.       |
+| Requirements Management| Elaboración de artefactos | Structurizr     | Colección de herramientas que permite diagramar modelos C4 de nuestros productos de manera colaborativa. |
+| Requirements Management| Elaboración de artefactos | Vertabelo       | Plataforma colaborativa que permite crear diagramas de base de datos.                             |
+| Requirements Management| Elaboración de artefactos | LucidChart      | Plataforma colaborativa que permite crear diversos tipos de diagramas con templates.             |
+| Product UX/UI Design  | Diseño de UX/UI        | Figma               | Herramienta colaborativa que permite desarrollar wireframes y mockups.                             |
+| Product UX/UI Design  | Diseño de UX/UI        | LucidChart          | Herramienta colaborativa que permite desarrollar wireframes y mockups con templates.               |
+| Software Development  | Gestión general        | Git                 | Software de control de versiones en proyectos colaborativos.             |
+| Software Development  | Gestión general        | Node.js             | Entorno de ejecución de JavaScript que permite instalar bibliotecas externas de manera sencilla. |
+| Software Development  | Gestión general        | GitHub              | Repositorio colaborativo en la nube que trabaja con Git en la gestión de proyectos.               |
+| Software Development  | Gestión general        | GitHub Desktop      | Herramienta de escritorio que permite el manejo interactivo de versiones con GitHub.             |
+| Software Development  | Frontend               | HTML5               | Lenguaje de marcado para la elaboración de páginas web.                   |
+| Software Development  | Frontend               | CSS3                | Lenguaje de diseño gráfico para crear la presentación de un documento escrito en HTML.         |
+| Software Development  | Frontend               | JavaScript          | Lenguaje de programación orientado a objetos dinámico que permite, en nuestro caso, implementar funcionalidades a un documento HTML. |
+| Software Development  | Frontend               | WebStorm            | IDE diseñado específicamente para el desarrollo web. Está orientado principalmente al desarrollo con tecnologías web como HTML, CSS, JavaScript y sus frameworks como Angular, React y Vue.js.                          |
+| Software Development  | Frontend               | Angular                 |  Framework de desarrollo de aplicaciones web desarrollado por Google que se utiliza para construir aplicaciones de una sola página (SPA).                            |
+| Software Development  | Frontend               | Bootstrap           | Herramienta estándar de escritorio para el desarrollo de Vue.js.         |
+| Software Development  | Backend                | Java                  | Java es un lenguaje de programación versátil y portátil, utilizado en una variedad de aplicaciones y conocido por su capacidad de ejecución en diferentes plataformas sin necesidad de recompilación. |
+| Software Development  | Backend                | Webstorm            | IDE que utilizaremos para trabajar con C#.                             |
+| Software Testing      | Pruebas de software    | Gherkin             | Herramienta de software que permite correr test automatizados en lenguaje plano.                |
+| Software Deployment   | Despliegue de software | GitHub Pages        | Plataforma que permite hacer deployments sencillos desde un repositorio de GitHub.               |
+
 
 ### 5.1.2. Source Code Management
+
+Enlace a la organización del equipo “InnovaTec” en GitHub, en la cual se incluirán todos los repositories del Proyecto: https://github.com/OpenSourceWX52-2024
+
+Enlace al Landing Page Repository: https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-Landing-Page
+
+
+### Rama Master: 
+Es la rama principal del proyecto, donde reside el código en uso actualmente en producción.
+
+### Rama Develop: 
+Aquí se integran las últimas actualizaciones y cambios planificados para la próxima versión del proyecto.
+
+### Rama Release: 
+Se emplea para preparar una nueva versión del producto, abordando correcciones de errores y permitiendo que la rama Develop continúe recibiendo actualizaciones.
+
+### Ramas Feature: 
+Utilizadas para desarrollar nuevas funcionalidades o características del producto destinadas a la próxima versión o a versiones futuras. Estas funcionalidades se fusionan con la rama Develop cuando están completas.
+
+### Rama Hotfix: 
+Se utiliza para corregir rápidamente errores en la versión en producción del producto, permitiendo soluciones rápidas mientras el equipo continúa trabajando en otras áreas del proyecto.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 

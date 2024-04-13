@@ -818,7 +818,7 @@ Entrevistado 3
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="./assets/Interview_MiguelYbañez01.png" alt="Entrevista Miguel 01" width="400" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="./assets/Interview_MiguelYbañez01.PNG" alt="Entrevista Miguel 01" width="400" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
             <br>
             </strong> Johan Raul

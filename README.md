@@ -245,7 +245,7 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy una persona líder, autodidacta y dedicada. Mis características me permiten tener un gran impacto en el trabajo en equipo debido a que siempre busco que todos los integrantes, entreguemos el mejor entregable posible y aprendamos durante el desarrollo del proyecto. Por otro lado, tengo conocimientos en C++, HTML, CSS, git bash, MsSql y MongoDB, los cuáles serán beneficiosos para cumplir con el Student Outcome y criterios de evaluación del curso. 
 
-<img src="./assets/profile-miguel.png" alt="Miguel Angel Carpio Cornejo" width="200" height="200">
+<img src="./assets/MiguelC_profile.png" alt="Miguel Angel Carpio Cornejo" width="200" height="200">
 
 Nombre completo: Miguel Ángel Carpio Cornejo
 

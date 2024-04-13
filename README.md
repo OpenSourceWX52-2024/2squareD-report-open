@@ -1256,7 +1256,7 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 		</tr>
         <tr>
             <td colspan="1">EP002</td>
-            <td colspan="1">Visualización de UI</td>
+            <td colspan="1">Visualización de UI Landing Page</td>
             <td colspan="1">
             <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page y la plataforma <strong>para </strong>explorar sus diferentes funcionalidades. 
             </td>
@@ -1291,9 +1291,9 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 		</tr>
         <tr>
             <td colspan="1">EP007</td>
-            <td colspan="1">Soporte técnico</td>
+            <td colspan="1">Gestión de reseñas</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> contar con un apartado técnico <strong>para</strong> reportar cualquier problema que pueda haber en el sistema.
+            Como usuario, quiero poder ver reseñas y puntuaciones de otros jugadores para tomar decisiones informadas sobre qué juegos probar.
             </td>
 		</tr>
 	</tbody>
@@ -1355,8 +1355,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
             <br><br>
-            <u><strong>Caso 02: Datos incompletos</strong></u>
-            <br><br>
+            <strong>Caso 02: Datos incompletos</strong>
+            <br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario estudiante selecciona la opción de registro
@@ -1372,19 +1372,19 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
             <br><br>
             </td>
-            <td colspan="1">EP01</td>
+            <td colspan="1">EP001</td>
 		</tr>
         <tr>
             <td colspan="1">US002</td>
             <td colspan="1">Registro de instituciones educativas en la plataforma</td>
             <td colspan="1">
-            <strong>Como</strong> usuario esudcador <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.
+            <strong>Como</strong> usuario educador <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.
             </td>
-            <td colspan="1">
+            <td colspan="5">
             <strong>E01: Registro Exitoso</strong>
             <br><br>
-            <strong><u>Caso 01: Registro con e-mail</u></strong>
-            <br><br>
+            <strong>Caso 01: Registro con e-mail</strong>
+            <br>
             <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario educador selecciona la opción de registro
@@ -1401,8 +1401,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             <strong>E02: Registro Fallido</strong>
             <br><br>
-            <u><strong>Caso 01: Datos inválidos</strong></u>
-            <br><br>
+            <strong>Caso 01: Datos inválidos</strong>
+            <br>
             <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario educador selecciona la opción de registro
@@ -1417,8 +1417,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
             <br><br>
-            <u><strong>Caso 02: Datos incompletos</strong></u>
-            <br><br>
+            <strong>Caso 02: Datos incompletos</strong>
+            <br>
             <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario educador selecciona la opción de registro
@@ -1438,88 +1438,146 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US003</td>
-            <td colspan="1">Inicio de sesión de usuarios estudiante en la plataforma</td>
+            <td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
             <td colspan="1">
-            <strong>Como </strong> usuario estudiante quiero iniciar sesión en mi cuenta <strong>para</strong> utilizar los videojuegos de estudio.
+            <strong>Como </strong> usuario quiero iniciar sesión en mi cuenta <strong>para</strong> utilizar los videojuegos de estudio.
             </td>
-            <td colspan="1">
+            <td colspan="5">
             <strong>E01: Inicio de sesión exitoso</strong>
             <br><br>
             <strong>Caso 01: Inicio de sesión con e-mail</strong>
-            <br><br>
-            <strong>Dado que</strong> el usuario estudiante se encuentra en la plataforma
             <br>
-            <strong>Y</strong> el usuario estudiante selecciona la opción iniciar sesión
+            <strong>Dado que</strong> el usuario se encuentra en la plataforma
             <br>
-            <strong>Y</strong> el usuario estudiante hace clic en la opción estudiante???
+            <strong>Y</strong> el usuario selecciona la opción iniciar sesión
             <br>
-            <strong>Cuando</strong> el usuario estudiante ingrese su correo y contraseña
+            <strong>Cuando</strong> el usuario ingrese su correo y contraseña
             <br>
-            <strong>Y</strong> el usuario estudiante seleccione la opción iniciar sesión
+            <strong>Y</strong> el usuario seleccione la opción iniciar sesión
             <br>
-            <strong>Entonces</strong> el sistema verifica que los datos existen dentro de la base de datos???
+            <strong>Entonces</strong> el sistema verifica que los datos existen dentro de la base de datos
+            <br>
             <strong>Y</strong> el sistema muestra la interfaz inicial de la plataforma.
             <br><br>
             <strong>E02: Inicio de sesión fallido</strong> 
             <br><br>
-            <strong>Caso 01: Correo e-mail incorrecto</strong>
-            <strong>Caso 02: Contraseña incorrecta</strong>
-            <strong>Caso 03: Correo inexistente en la base de datos</strong>
+            <strong>Caso 01: Credenciales incorrectas o inexistentes</strong>
+            <br>
+             <strong>Dado que</strong> el usuario se encuentra en la plataforma
+            <br>
+            <strong>Y</strong> el usuario selecciona la opción iniciar sesión
+            <br>
+            <strong>Cuando</strong> el usuario ingrese su correo y contraseña
+            <br>
+            <strong>Y</strong> el usuario seleccione la opción iniciar sesión
+            <br>
+            <strong>Entonces</strong> el sistema verifica que los datos existen dentro de la base de datos
+            <br>
+            <strong>Y</strong> el sistema muestra la interfaz inicial de la plataforma.
+            <br>    
             </td>
             <td colspan="1">EP001</td>
 		</tr>
         <tr>
-            <td colspan="1">US003</td>
-            <td colspan="1">Inicio de sesión de instituciones educativas en la plataforma</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
             <td colspan="1">US004</td>
             <td colspan="1">Recuperación de contraseña para usuarios registrados</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como </strong>usuario que se ha olvidado alguna de sus credenciales <strong> quiero</strong> recuperar mi contraseña <strong>para</strong> poder acceder a la aplicación.</td>
+            <td colspan="5"><strong>E01: Recuperación de contraseña con correo</strong>
+            <br><br>
+            <strong>Caso 01: Cambio de contraseña</strong>
+            <br>
+            <strong>Dado que</strong> el usuario olvida su contraseña 
+            <br>
+            <strong>Y</strong> el usuario quiere recuperar su contraseña 
+            <br>
+            <strong>Cuando</strong> el usuario seleccione la opción restablecer contraseña 
+            <br>
+            <strong>Y</strong> el sistema envía un código a su correo 
+            <br>
+            <strong>Y</strong> el usuario coloca el código en el formulario de la plataforma
+            <br>
+            <strong>Entonces</strong> el sistema verifica que el código es correcto 
+            <br>
+            <strong>Y</strong> el usuario puede volver a escribir una nueva contraseña.
+            <br><br>
+            <strong> Caso 02: No se pudo realizar el cambio de contraseña</strong>
+            <br>
+            <strong>Dado que</strong> el usuario olvida su contraseña 
+            <br>
+            <strong>Y</strong> el usuario quiere recuperar su contraseña 
+            <br>
+            <strong>Cuando</strong> el usuario seleccione la opción restablecer contraseña 
+            <br>
+            <strong>Y</strong> el sistema envía un código a su correo 
+            <br>
+            <strong>Y</strong> el usuario coloca el código en el formulario de la plataforma
+            <br>
+            <strong>Y</strong> el sistema detecta que el código es incorrecto.
+            <br>
+            <strong>Entonces</strong> el sistema un mensaje donde indica que ha colocado el código incorrecto.  <br></td>
+            <td colspan="1">EP001</td>
 		</tr>
         <tr>
             <td colspan="1">US005</td>
-            <td colspan="1">Búsqueda de una rama de matemática</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Búsqueda con filtros</td>
+            <td colspan="1">Como usuario quiero poder visualizar los videojuegos de acuerdo a los filtros de rama y temas </td>
+            <td colspan="5"><strong>E01: Búsqueda exitosa</strong>
+            <br><br>
+            <strong>Caso 01: Visualización de videojuesgos por rama matemática</strong>
+            <br>
+            <strong>Dado que</strong> el usuario quiere buscar un videojuego con características específicas
+            <br>
+            <strong>Cuando</strong> el usuario utilice los filtros de la aplicación con respecto a las ramas matemáticas
+            <br>
+            <strong>Entonces</strong> el sistema muestra el videojuego de acuerdo a la rama de matemática ingresada.
+            <br><br>
+            <strong>Caso 02: Visualización de videojuego por temas</strong>
+            <br>
+            <strong>Dado que</strong> el usuario quiere buscar un videojuego dentro de la rama de matemática seleccionada
+            <br>
+            <strong>Cuando</strong> el usuario utilice los filtros de la aplicación con respecto a los temas de las ramas matemáticas
+            <br>
+            <strong>Entonces</strong> el sistema muestra el videojuego del resultado de búsqueda.
+            <br>
+            </td>
+            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US006</td>
-            <td colspan="1">Elección de una rama de matemática</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Ingreso a la sala de competencia</td>
+            <td colspan="1">Como usuario, quiero poder ingresar a la sala de competencia para poder ser uno de los competidores</td>
+            <td colspan="5"><strong>E01: Ingreso a la sala de competencia exitoso</strong>
+            <br>
+            <strong>Dado que</strong> el usuario quiere entrar a una competencia
+            <br>
+            <strong>Cuando</strong> el usuario coloque el código de la sala de competencia
+            <br>
+            <strong>Entonces</strong> el sistema verifica que el código de la sala está en uso
+            <br>
+            <strong>Y</strong> el usuario ingresa a la competencia
+            <br></td>
+            <td colspan="1">EP004</td>
 		</tr>
         <tr>
-            <td colspan="1">US006</td>
+            <td colspan="1">US007</td>
+            <td colspan="1">Redacción de reseñas sobre los videojuegos</td>
+            <td colspan="1">Como usuario, quiero poder escribir reseñas y puntuaciones para que otros jugadores decidadn qué juegos probar.</td>
+            <td colspan="5">
+            E01:Redeacción de reseñas exitosa
+            Dado que el usuario quiere 
+            </td>
+            <td colspan="1">EP007</td>
+		</tr>
+        <tr>
+            <td colspan="1">US008</td>
             <td colspan="1">Búsqueda de una unidad</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
-            <td colspan="1">US007</td>
-            <td colspan="1">Elección de una unidad</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
-            <td colspan="1">US008</td>
-            <td colspan="1">Elección de un tema</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
             <td colspan="1">US009</td>
-            <td colspan="1">Elección de categoría</td>
+            <td colspan="1">Elección de una unidad</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
@@ -1542,7 +1600,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">US012</td>
             <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
             <td colspan="1"><strong>Como </strong> usuario de la plataforma, <strong>quiero </strong> poder ver mi progreso y actividad dentro de la plataforma, <strong>para </strong> tener una idea clara de mis logros y compromisos.</td>
-            <td colspan="1"><strong>E01: Visualización de progreso por un estudiante</strong>
+            <td colspan="5"><strong>E01: Visualización de progreso por un estudiante</strong>
             <br><br> <strong>Dado que</strong> soy un estudiante registrado en la plataforma de aprendizaje<br>
     <strong>Y</strong> estoy interesado en seguir mi progreso en un curso específico,<br>
     <strong>Cuando</strong> inicio sesión en mi cuenta<br>

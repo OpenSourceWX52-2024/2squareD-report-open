@@ -763,9 +763,6 @@ Entrevistado 1
 	</tbody>
 </table>
 
-Resumen: 
-Mauricio Acosta, de 28 años, trabaja en una institución educativa dedicada a mejorar el aprendizaje mediante enfoques innovadores. Durante la entrevista, mencionó desafíos como la falta de participación estudiantil y la adaptación a nuevas tecnologías educativas. Aunque conocen los videojuegos didácticos, aún no los implementan en las aulas. Consideran esenciales la personalización, retroalimentación inmediata y alineación con estándares educativos en estos videojuegos. Prefieren evaluaciones transparentes e integradas en el juego. Valorarían capacitación para docentes y soporte técnico para implementarlos. Tienen inquietudes sobre distracción estudiantil y alineación con objetivos educativos. Esperan mejorar la participación y comprensión estudiantil con su implementación, pero necesitan más información para tomar una decisión.
-
 Entrevistado 2
 
 <table border="1" style="text-align: left;">
@@ -818,7 +815,7 @@ Entrevistado 3
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="./assets/Interview_MiguelYbañez01.PNG" alt="Entrevista Miguel 01" width="400" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="./assets/Interview_MiguelYbañez01.png" alt="Entrevista Miguel 01" width="400" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
             <br>
             </strong> Johan Raul
@@ -929,7 +926,7 @@ Resumen: Luis Carbajal es estudiante de quinto grado de secundaria del colegio L
 	</tbody>
 </table>
 
-Resumen: Nicolás Barrial es un estudiante de quinto nivel de secundaria, que como todo alumno, se le dificulta el aprendizaje sobre ciertos temas en la vida estudiantil. En este caso, la matemática. Nicolás comenta que lo que más se le dificulta en esta última etapa de nivel secundario son los cursos de geometría y trigonometría. Uno por tener que expandir no solo su conocimiento, sino su imaginación al tratar temas con respecto a la proyección de planos. Por otro lado, trigonometría es la nueva asignatura que su institución educativa decidió aplicar a la malla curricular del presente año escolar. Es por lo que, Nicolás opina que el uso de un reforzador presentado como videojuego le ayudaría a entender mejor los conceptos con respecto a trigonometría y los patrones que presentan los problemas de geometría para entender la proyección de planos. Debido a que, las sesiones tradicionales de la escuela no le ayudan a entender y ver tutoriales en youtube puede solucionar su problema, pero a corto plazo, ya que mientras más pasa el timepo, el nivel de dificultad aumenta. Además, siente que su cerebro trabaja mejor cuando estudia en grupo y debate sus conocimientos. Así que, la idea de una competencia amistosa entre compañeros no le desagrada porque le mostraría en qué lugar se encuentra y eso lo motivaría a susperar y conseguir mayores conocimientos en los cursos. 
+Resumen: Nicolás es un estudiante de quinto nivel de secundaria, que como todo alumno, se le dificulta el aprendizaje sobre ciertos temas en la vida estudiantil. En este caso, la matemática. Nicolás comenta que lo que más se le dificulta en esta última etapa de nivel secundario son los cursos de geometría y trigonometría. Uno por tener que expandir no solo su conocimiento, sino su imaginación al tratar temas con respecto a la proyección de planos. Por otro lado, trigonometría es la nueva asignatura que su institución educativa decidió aplicar a la malla curricular del presente año escolar. Es por lo que, Nicolás opina que el uso de un reforzador presentado como videojuego le ayudaría a entender mejor los conceptos con respecto a trigonometría y los patrones que presentan los problemas de geometría para entender la proyección de planos. Debido a que, las sesiones tradicionales de la escuela no le ayudan a entender y ver tutoriales en youtube puede solucionar su problema, pero a corto plazo, ya que mientras más pasa el timepo, el nivel de dificultad aumenta. Además, siente que su cerebro trabaja mejor cuando estudia en grupo y debate sus conocimientos. Así que, la idea de una competencia amistosa entre compañeros no le desagrada porque le mostraría en qué lugar se encuentra y eso lo motivaría a susperar y conseguir mayores conocimientos en los cursos. 
 
 <br>
 
@@ -1084,7 +1081,7 @@ El mapa As-is proporciona una representación visual de cómo opera actualmente 
 
 <br>
 
->Segmento objetivo 2
+>**Segmento objetivo 2**
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
@@ -1150,7 +1147,7 @@ Según Domain Driven Design (2019), The ubiquitous language o el lenguaje ubicuo
 
 El mapa To-Be crea una representación visual que muestra exactamente cómo debería funcionar el proceso, qué decisiones se deben tomar y qué resultados se pueden lograr.
 
->Segmento Objetivo 1
+>**Segmento Objetivo 1**
 
 <table border="1" style="text-align: left;">
 	<tbody>
@@ -1179,65 +1176,61 @@ El mapa To-Be crea una representación visual que muestra exactamente cómo debe
 		</tr>
         <tr>
 			<td colspan="1">Thinking</td>
-            <td colspan="1">Ojalá hubiera una clasificación de temas</td>
-            <td colspan="1">Ojalá hubiera un orden en las preguntas</td>
-            <td colspan="1">Ojalá hubiera resolución o explicación de las preguntas erróneas</td>
-            <td colspan="1">Ojalá hubiera batallas amistosas de práctica</td>
-            <td colspan="1">Ojalá hubiera opción de volver a competir</td>
+            <td colspan="1">Que bueno que haya elección de temas</td>
+            <td colspan="1">El orden de preguntas ayuda mi entendimiento del tema</td>
+            <td colspan="1">La resolución de ejercicios me ayuda a comprender los errores que cometí</td>
+            <td colspan="1">Las batallas amistosas me ayudan a practicar </td>
+            <td colspan="1">La revancha en las competencias me ayuda a respasar los ejercicios</td>
 		</tr>
         <tr>
 			<td colspan="1">Feeling</td>
-            <td colspan="1">Confundido por no saber que estoy estudiando</td>
-            <td colspan="1">Irritado por no saber a qué tema pertenece cada pregunta</td>
-            <td colspan="1">Frustrado por no entender qué es lo que hice mal</td>
-            <td colspan="1">Incómodo por no poder practicar para las competencias oficiales</td>
-            <td colspan="1">Frustración por no poder volver a intentarlo</td>
+            <td colspan="1">Aliviado por saber con que tema puedo empezar</td>
+            <td colspan="1">Cómodo porque sé de donde sacar las teorías para la resolución de preguntas</td>
+            <td colspan="1">Aliviado y cómodo por ver la resolución de ejercicios</td>
+            <td colspan="1">Feliz porque puedo practicar las preguntas</td>
+            <td colspan="1">Feliz por poder volver a intentarlo</td>
 		</tr>
 	</tbody>
 </table>
 <br>
 
->Segmento Objetivo 2
+>**Segmento objetivo 2**
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan=2>To-Be Scenario Mapping</td>
-            <td colspan="5" rowspan="1">Institución Educativa</td>
+			<td colspan="1" rowspan="2">As-is Scenario Mapping</td>
+            <td colspan="4" rowspan="1">Institución Educativa</td>
 		</tr>
         <tr>
-            <td colspan="5">Harvey Specter</td>
+            <td colspan="4">Harvey Specter</td>
 		</tr>
 		<tr>
-            <td colspan="1">Phase</td>
-            <td colspan="1">Elección de la rama de matemática</td>
-            <td colspan="1">Iniciación del juego</td>
-            <td colspan="1">Visualización de los resultados</td>
-            <td colspan="1">Competición entre jugadores</td>
-            <td colspan="1">Visualización la tabla de clasificación</td>
+			<td colspan="1">Phase</td>
+            <td colspan="1">Inicialización de convenio</td>
+            <td colspan="1">Visualización de los reportes de alumnos</td>
+            <td colspan="1">Visualización de la tabla de lugares de los alumnos</td>  
+            <td colspan="1">Visualización del reporte promedio de la escuela</td>
 		</tr>
         <tr>
 			<td colspan="1">Doing</td>
-            <td colspan="1">Elige la rama de matemática a estudiar</td>
-            <td colspan="1">Resuelve las diferentes preguntas</td>
-            <td colspan="1">Visualiza sus resultados obtenidos</td>
-            <td colspan="1">Resuelve preguntas junto con otro jugador</td>
-            <td colspan="1">Observa sus resultados y su posición dentro de la tabla</td>
+            <td colspan="1">Ingresa los datos de la esuela</td>
+            <td colspan="1">Visualiza los resultados de los alumnos</td>
+            <td colspan="1">Observa en que puesto están cada uno de los alumnos</td>
+            <td colspan="1">Comtempla el reporte general de la escuela</td>
 		</tr>
         <tr>
 			<td colspan="1">Thinking</td>
-            <td colspan="1">Ojalá hubiera una clasificación de temas</td>
-            <td colspan="1">Ojalá hubiera un orden en las preguntas</td>
-            <td colspan="1">Ojalá hubiera resolución o explicación de las preguntas erróneas</td>
-            <td colspan="1">Ojalá hubiera batallas amistosas de práctica</td>
-            <td colspan="1">Ojalá hubiera opción de volver a competir</td>
+            <td colspan="1">Este juego podría funcionar para mejorar el rendimiento académico de la escuela</td>
+            <td colspan="1">Que bueno que hay una forma de visualizar las deficiencias de enseñaza</td>
+            <td colspan="1">Esta función sirve para saber como podemos agrepar a los alumnos</td>
+            <td colspan="1">los reportes son detallados</td>
 		</tr>
         <tr>
 			<td colspan="1">Feeling</td>
-            <td colspan="1">Confundido por no saber que estoy estudiando</td>
-            <td colspan="1">Irritado por no saber a qué tema pertenece cada pregunta</td>
-            <td colspan="1">Frustrado por no entender qué es lo que hice mal</td>
-            <td colspan="1">Incómodo por no poder practicar para las competencias oficiales</td>
-            <td colspan="1">Frustración por no poder volver a intentarlo</td>
+            <td colspan="1">Interés en este juego de matemáticas</td>
+            <td colspan="1">Decepción por no poder ver esta función</td>
+            <td colspan="1">Alivio y felicidad por saber cómo podemos seleccionar los grupos de estudio</td>
+            <td colspan="1">Frustración y decepción por querer saber más detalles sobre el rendimiento de su escuela</td>
 		</tr>
 	</tbody>
 </table>
@@ -1291,6 +1284,13 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 		</tr>
         <tr>
             <td colspan="1">EP006</td>
+            <td colspan="1">Soporte técnico</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> contar con un apartado técnico <strong>para</strong> reportar cualquier problema que pueda haber en el sistema.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP007</td>
             <td colspan="1">Soporte técnico</td>
             <td colspan="1">
             <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> contar con un apartado técnico <strong>para</strong> reportar cualquier problema que pueda haber en el sistema.
@@ -1968,9 +1968,9 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 ### 4.8.1. Database Diagram
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas.
 
-<img src="./assets/DataBaseDiagram.png" alt="DataBaseDiagram" width="800" height="800">
+![DatabaseDiagram](assets/DataBaseDiagram.png)
 
-[Link de la Base de Datos](https://my.vertabelo.com/doc/c2pNMXNHAjv6lC48LTnQCxxGZJ5eckwK)
+**[Link de la Base de Datos](https://my.vertabelo.com/doc/c2pNMXNHAjv6lC48LTnQCxxGZJ5eckwK)**
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management

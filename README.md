@@ -868,15 +868,50 @@ La falta de atención de los estudiantes y la necesidad de mejorar las habilidad
 
 **Segmento Objetivo 2: Estudiantes de Secundaria**
 
-Entrevistado: 1
-
-Nombre y apellidos: Luis Carbajal
-
-Edad: 16
-
-<img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
-
-[URL Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?e=IpxTJy)
+**Entrevistado: 1**
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./assets/interview-pietro.png" alt="Entrevista de Sharon" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Luis Carbajal
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 16 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Sharon Antuanet Ivet 
+            <br>Barrial Marin
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?e=IpxTJy">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?e=IpxTJy"><u>02:04</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?e=IpxTJy"><u>09:05</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
 
 Resumen: Luis Carbajal es estudiante de quinto grado de secundaria del colegio Liceo Almirante Guise (San Borja, Lima). El estudiante comenta que los mas dificultoso de aprender es la parte mas abstracta de las matemitcas. Por ello, el interés y motivación del alumno por aprender disminuye drasticamente. En cuánto a sus métodos de estudio con herramientas digitales, menciona que ha utilizado algunas, y considera importante el dinamismo en estas herramientas para entender y aplicar las matematicas. Considera, que la idea de una plataforma web con videojuegos para el aprendizaje de conceptos matematicos podria ser una opcion adecuada para reforza los concimientos aprendidos en clase, agrega ademas que la plataforma con competencias entre los alumnos seria especialmente interesante. En resumen, Luis nos comenta que realizar la aprendizaje a traves de ejercicios genericos termina siendo cansino y aburrido por lo que una plataforma web que ensene los conceptos matematicos mas abstractos mediante el jugar sería ideal para aprender matematicas.
 

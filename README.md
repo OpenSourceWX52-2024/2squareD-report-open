@@ -1024,16 +1024,16 @@ Nota. Fabrizio Flores es estudiante de quinto grado de secundaria del colegio Sa
 
 ### 2.2.3. Análisis de entrevistas
 Segmento Objetivo 1: Institución / Empresa educativa
-- Principales desafíos: Es el bajo rendimiento escolar de los estudiantes, la falta de participación estudiantil, la adaptación a nuevas tecnologías educativas y la necesidad de mejorar las habilidades pedagógicas de los docentes.
-- Acciones que fortalecen la formación e innovación pedagógica: Se desarrollan acciones como la capacitación permanente y actualizada proporcionada por equipos especializados. Además, se promueve la creación de ambientes de aprendizaje dinámicos y se fomenta la disposición de los docentes a utilizar diversas estrategias y herramientas innovadoras.
-- Videojuegos didácticos como herramienta educativa: Están familiarizados con el uso de videojuegos didácticos como herramienta educativa, aunque aún no los implementan en las aulas.
-- Características imprescindibles:  La personalización, la retroalimentación inmediata y la alineación con estándares educativos.
+- Principales desafíos: Es el bajo rendimiento escolar de los estudiantes, la falta de participación estudiantil, la adaptación a nuevas tecnologías educativas y la necesidad de mejorar las habilidades pedagógicas de los docentes (Rodríguez A. J., 2021).
+- Acciones que fortalecen la formación e innovación pedagógica: Se desarrollan acciones como la capacitación permanente y actualizada proporcionada por equipos especializados. Además, se promueve la creación de ambientes de aprendizaje dinámicos y se fomenta la disposición de los docentes a utilizar diversas estrategias y herramientas innovadoras (Universidad Internacional del Ecuador, 2020). 
+- Videojuegos didácticos como herramienta educativa: Manifiestan que están familiarizados con el uso de videojuegos didácticos como herramienta educativa, aunque aún no los implementan en las aulas.
+- Características imprescindibles:  La personalización, la retroalimentación inmediata y la alineación con estándares educativos (Fernández-Lara, 2020).
 - Evaluación del aprendizaje a través de los videojuegos didácticos: Les gustaría que la evaluación del aprendizaje a través de los videojuegos didácticos fuera transparente e integrada en el juego.
-- Videojuegos más adecuados para sus necesidades: Los videojuegos didácticos que ayuden a mejorar la comprensión lectora, las habilidades matemáticas y otros aspectos del aprendizaje.
-- Soporte técnico o capacitación para la implementación de su uso: Necesitarían soporte técnico y capacitación especializada para implementar el uso de videojuegos didácticos en su institución.
-- Dudas sobre el uso de videojuegos didácticos: Les preocupan aspectos como la distracción estudiantil, la alineación con los objetivos educativos, el desarrollo de comportamientos agresivos y la posible adicción a los videojuegos.
-- Expectativas tienen sobre los resultados: Tienen expectativas de mejorar la participación y comprensión estudiantil con la implementación de videojuegos didácticos.
-- Toma de decisión sobre la implementación de videojuegos didácticos: Necesitarían información adicional sobre la capacitación disponible para los docentes, el soporte técnico disponible y los posibles aliados estratégicos para tomar una decisión sobre la implementación de videojuegos didácticos en su institución.
+- Videojuegos más adecuados para sus necesidades: Los videojuegos didácticos que ayuden a mejorar la comprensión lectora, las habilidades matemáticas y otros aspectos del aprendizaje (Fernández-Lara, 2020).
+- Soporte técnico o capacitación para la implementación de su uso: Necesitarían soporte técnico y capacitación especializada para implementar el uso de videojuegos didácticos en su institución (Lorena Cabeza, 2023).
+- Dudas sobre el uso de videojuegos didácticos: Les preocupan aspectos como la distracción estudiantil, la alineación con los objetivos educativos, el desarrollo de comportamientos agresivos y la posible adicción a los videojuegos (Fernández-Lara, 2020).
+- Expectativas tienen sobre los resultados: Tienen expectativas de mejorar la participación y comprensión estudiantil con la implementación de videojuegos didácticos (Mauroner, 2019).
+- Toma de decisión sobre la implementación de videojuegos didácticos: Necesitarían información adicional sobre la capacitación para los docentes, el soporte técnico y los posibles aliados estratégicos para tomar una decisión sobre la implementación de videojuegos didácticos en su institución.
 
 Segmento Objetivo 2: Estudiantes de Secundaria 
 - Desafíos en Matemáticas: El estudiante identifica aspectos desafiantes en las matemáticas, lo que sugiere una conciencia de las áreas en las que necesita más apoyo y comprensión.

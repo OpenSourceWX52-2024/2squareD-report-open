@@ -2831,38 +2831,34 @@ Como equipo decidimos que el diseño de la aplicacion se organizara con una pale
 ### 4.2.1. Organization Systems
 En el presente punto se indicará los grupos de información en los cuales se aplicarán los tipos de estructuración visual, además, se indicará para qué segmento objetivo está diseñado y que tipo de categorización se utilizará
 
-**Segmento Objetivo: LLENAR**
+**Segmento Objetivo: Estudiantes de secundaria que desean reforzar sus conocimientos
 
 **Jerárquica:**
 
-- 
-- 
+- El menu principal contiene una bienvenida al usuario, un carrusel de videojuegos, íconos y botones. Todos estos están organizados con la jerarquía visual de manera que la bienvenida es el elemento visual más grande, después las miniaturas de videojuegos y finalmente los íconos, barra de navegación y botones.
+- El apartado de interfaz de inicio de un videojuego contiene una imagen más grande que los demás elementos visuales, posteriormente se denota un botón para iniciar el juego y por último se visualiza información sobre el vieojuego.
 
 **Secuencial:**
 
--
+-El sistema de organización secuencial se encuentra en una lista compuesta por videojuegos que forman un carrusel. Este sistema está presente debido a que al momento de interactuar con las flechas IZQUIERDA o DERECHA, el carrusel seguirá moviendose en la dirección con la que se interactuó mostrando el siguiente videojuego correspondiente de la secuencia.
 
 **Matricial:**
 
--
+-El sistema de organización matricial se encuentra en el apartado de catálogo de videojuegos, en el buzón de notificaciones y en el barra de herramientas. Todos estos apartados están distribuídos uniformemente sin tener tamaños distintos que diferencien los elementos visuales unos a otros.
 
-**Segmento: Exportadores o comerciantes que desean vender productos de calidad**
+**Segmento: Docentes y instituciones educationes que deseen cambiar su modelo educativo 
 
 **Jerárquica:**
 
--
+- El reporte de desempeño de cadda alumno contendrá una jerarquía visual que depende de la relevancia de la información. En este apartado se puede encontrar datos estadísticos, gráficos, entre otros elementos.
 
 **Secuencial:**
 
--
-
-**Jerarquica:**
-
--
+- Los docentes tienen la opción de ordenar videojuegos según la ruta de aprendizaje que desean utilizar para enseñar a sus alumnos.
 
 **Matricial:**
 
--
+- Los planes de suscripción de la landing page están ordenados uniformemente con información de cada plan.
 
 ### 4.2.2. Labeling Systems
 A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información brindada por la Landing Page.
@@ -2873,7 +2869,9 @@ A continuación, el equipo mostrará el sistema de etiquetado que otorgará una 
 
 - Sobre nosotros/About Us: Sección donde el cliente obtiene información acerca del equipo de desarrollo, será capaz de visualizar nuestra misión, visión, quienes somos y qué hacemos.
 
-- Services/Funcionalidades: Sección dividida para cada segmento objetivo donde se mostrará las funcionalidades que otorga la aplicación para ellos.
+- Services/Servicios: Sección dividida para cada segmento objetivo donde se mostrará las funcionalidades que otorga la aplicación para ellos.
+
+-Suscripciones/Suscriptions: Sección que contiene información de cada plan disponible en la plataforma con información relevante de cada membresía.
 
 - Contactanos/Contact Us: Sección donde se muestran nuestros canales de comunicación.
 
@@ -2881,58 +2879,53 @@ A continuación, el equipo mostrará el sistema de etiquetado que otorgará una 
 
 **Los encabezados son los siguientes:**
 
-**Para SEGMENTO OBJETIVO 1**
+**Para Estudiantes**
 
--  
+- Inicio/Home: Sección preseleccionada por defecto que redirige a la sección principal. 
+- Mi cuenta: Sección que redirige a una Vista previa de la cuenta con los datos registrados.
+- Mi Progreso: Progreso desempeñado dentro de los videojuegos y historial de videojuegos.
+- Ajustes: Sección de ajustes de cuenta y interfaz web.
+  
+**Para Docentes/Instituciones Educativas:**
 
-**Para SEGMENTO OBJETIVO 2:**
-
-- 
+- Inicio/Home: Sección preseleccionada por defecto que redirige a la sección principal. 
+- Mi cuenta: Sección que redirige a una Vista previa de la cuenta con los datos registrados.
+- Mi Progreso: Progreso desempeñado dentro de los videojuegos de los estudiantes y historial de videojuegos.
+- Ajustes: Sección de ajustes de cuenta y interfaz web.
 
 ### 4.2.3. SEO Tags and Meta Tags
 En esta sección, se presentarán las etiquetas que identificarán y diferenciarán al sitio web de los demás en internet. Gracias a ellos, se podrá encontrar a Ayni en los diversos buscadores.
 
 Para el sitio web estático:
 
-Tittle: 
+Tittle: MathPlayOpen
 
-Description: 
+Description: MathPlayOpen - 2SquareD Landing Page
 
-Keywords: 
+Keywords: Videogames/Videojuegos - Maths/Matemáticas - Education/Educaion
 
-Authors: 
+Authors: 2SquareD Team
 
 Para la aplicación web:
 
-Tittle: 
+Tittle: MathPlayOpen
 
-Description: 
+Description: MathPlayOpen - 2SquareD Web Page
 
-Keywords: 
+Keywords: Videogames/Videojuegos - Maths/Matemáticas - Education/Educaion
 
-Authors: 
+Authors: 2SquareD Team
 
 ### 4.2.4. Searching Systems
 En esta sección se presentarán los sistemas de búsqueda que se implementarán en la aplicación. Al hacer uso de esos sistemas, los usuarios podrán encontrar la información que requieran.
-
-En el sitio web estático, los usuarios podrán utilizar la barra de navegación para buscar la información acerca del producto solución, paralelas funcionalidades se hará uso interactivo de un botón donde se alternará entre “Para productores” y “Para comerciantes”
-
-**En la aplicación web:**
-
-**Segmento: Productores que desean mejorar la calidad de sus productos**
-
-- 
-
-**Segmento: Exportadores o comerciantes que desean mejorar la calidad de sus ventas**
-
--
+Los sistemas de búsqueda permitirán al usuario explorar la plataforma y consultar por información de su interés de manera rápida. A modo de mejorar la experiencia de usuario, se utilizará la intención de búsqueda. Este tipo de búsqueda funciona de manera que a medida que el usuario ingresa un INPUT, se van mostrando diferentes resultados como OUTPUT. En otras palabras, la intención de búsqueda analiza las palabras claves que el usuario escribe para mostrar distintas respuestas que están incluídas en la base de datos.
 
 ### 4.2.5. Navigation Systems
 A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
 
 En el Landing Page, se cuenta con encabezados que representan a las diversas secciones que estarán presentes. Estas estarán ubicadas en la parte superior de la página como menú horizontal siempre presente a la hora de bajar y subir con el ratón. Para que el usuario no tenga que realizar una traslación de manera manual por toda la página para llegar a una sección, se podrá usar estos encabezados para ubicarse inmediatamente en el sector que se desee. Obviamente, el visitante tiene que haber leído el título del encabezado para asegurarse de que se ubicará en la zona adecuada. Gracias a esto, se genera una traslación fácil e intuitiva.
 
-En el caso de la aplicación web, se presenta un proceso similar para el menú principal, se utilizarán diversas opciones que presenta para trasladarse a otra página del sitio web. Estas opciones variarán de acuerdo al segmento objetivo al que pertenezca el usuario. Del mismo modo, se utilizan listados para los grupos de elementos, Dentro de estas listas podrán aplicar filtros que permitan a los usuarios navegar entre esas opciones.
+En el caso de la aplicación web, la navegación constará de una barra de navegación que contendrá filtros y respuestas en tiempo real por palabras claves, además, el sistema de navegación estará constituido por atajos, íconos y botones que redigirán a diferentes apartados y tendrán sus propias funcionalidades. 
 
 ## 4.3. Landing Page UI Design
 En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.

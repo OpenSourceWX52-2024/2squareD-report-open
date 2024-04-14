@@ -1299,42 +1299,58 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
             <td colspan="1">EP001</td>
             <td colspan="1">Gestión de cuentas</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma<strong> quiero</strong> acceder a la plataforma web <strong>para</strong> gestionar mi cuenta.
+            <strong>Como</strong> usuario de la plataforma<strong> quiero</strong> acceder a la plataforma web <strong>para</strong> gestionar mi cuenta
 </td>
 		</tr>
         <tr>
             <td colspan="1">EP002</td>
-            <td colspan="1">Visualización de UI</td>
+            <td colspan="1">Implementación de interfaz de usuario de la plataforma web</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page y la plataforma <strong>para </strong>explorar sus diferentes funcionalidades. 
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar una interfaz amigable y didáctica <strong>para </strong>entender lo que ofrece la plataforma a primera vista 
             </td>
 		</tr>
         <tr>
             <td colspan="1">EP003</td>
-            <td colspan="1">Interacción con la plataforma</td>
+            <td colspan="1">Implementación de la experiencia de navegación de la plataforma web</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> interactuar con sus diferentes características <strong>para</strong> realizar diversas acciones y obtener resultados esperados. 
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> manipular diferentes herramientas de búsqueda y atajos<strong>para</strong> optimizar mi tiempo de navegación dentro de la plataforma
             </td>
 		</tr>
         <tr>
             <td colspan="1">EP004</td>
-            <td colspan="1">Planificación de flujo de videojuegos</td>
+            <td colspan="1">Planificación de experiencia de videojuegos</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> explorar los diferentes videojuegos <strong>para</strong> poder apredender cada rama de las matemáticas
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> explorar diferentes videojuego <strong>para</strong> aprender matemáticas con una experiencia satisfactoria
             </td>
 		</tr>
         <tr>
             <td colspan="1">EP005</td>
-            <td colspan="1">Análisis de desempeño</td>
+            <td colspan="1">Desarrollo de videojuegos</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> acceder a un apartado donde se visualice el desempeño del usuario estudiante <strong>para</strong> analizar su rendimiento académico dentro de la plataforma.
+            <strong>Como</strong> desarrolador  de la plataforma <strong>quiero</strong> implementar las funcionalidades e interfaz de los videojuegos <strong>para</strong> establecer una base sólida que fomente el desarrollo ágil de otros videojuegos
             </td>
 		</tr>
         <tr>
             <td colspan="1">EP006</td>
+            <td colspan="1">Análisis de desempeño</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> acceder a un apartado donde se visualice el desempeño del usuario estudiante <strong>para</strong> analizar su rendimiento académico dentro de la plataforma
+            </td>
+		</tr>
+				</tr>
+        <tr>
+            <td colspan="1">EP007</td>
             <td colspan="1">Soporte técnico</td>
             <td colspan="1">
             <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> contar con un apartado técnico <strong>para</strong> reportar cualquier problema que pueda haber en el sistema.
+            </td>
+		</tr>
+			</tr>
+        <tr>
+            <td colspan="1">EP008</td>
+            <td colspan="1">Implementación de la experiencia UI/UX de la landing page</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page<strong>para</strong> explorar sus diferentes secciones y funcionalidades
             </td>
 		</tr>
 	</tbody>

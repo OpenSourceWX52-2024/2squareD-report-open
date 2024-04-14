@@ -2605,6 +2605,8 @@ Aschraft, M.H. (2017). *Mark human memory and cognition* Editorial Universidad d
 
 Bernardo, J., y Basterretche, J. (2018). *Técnicas y recursos para motiva a los alumnos.* Editorial Madrid, Rialp. [Consulta: 11 de abril del 2024]
 
+Cabeza, P. (2023) *Capacitación en gamificación para fortalecer las prácticas docentes del Instituto Santa Ana.* Recuperado de **[Universidad Siglo 21](https://repositorio.21.edu.ar/handle/ues21/28736)** [Consulta: 13 de abril de 2024]
+
 Domain Driven Design. (2019, 21 de abril). *Developing the ubiquituos language*. Recuperado de **[Domain Driven Deisgn](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)** [Consulta: 3 de abril de 2024]
 
 El Comercio. (2022). *Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas.* Recuperado de **[El Comercio](https://elcomercio.pe/peru/prueba-pisa-2022-resultados-de-los-estudiantes-peruanos-en-matematicas-lectura-y-ciencias-rendimiento-academico-ultimas-noticia/).** [Consulta: 28 de marzo de 2024]
@@ -2612,15 +2614,15 @@ El Comercio. (2022). *Prueba PISA 2022: Estudiantes peruanos redujeron su nivel 
 
 Federico José Arena, Pau Luque, Diego Moreno Cruz. (2021). *Razonamiento jurídico y ciencias cognitivas.* Recuperado de **[Universidad externado de Colombia](https://www.marcialpons.es/libros/razonamiento-juridico-y-ciencias-cognitivas/9789587906417/)** [Consulta: 7 de abril de 2024]
 
-Fernández-Lara, S. ¿Son los videojuegos herramientas adecuadas para aprender a aprender? Revista Colombiana de Educación, (85), 101-122. Recuperado de **[ScyELO](https://doi.org/10.17227/rce.num85-12500)** [Consulta: 13 de abril de 2024]
+Fernández-Lara, S. (2020) *¿Son los videojuegos herramientas adecuadas para aprender a aprender? Revista Colombiana de Educación, (85), 101-122*. Recuperado de **[ScyELO](https://doi.org/10.17227/rce.num85-12500)** [Consulta: 13 de abril de 2024]
 
 Luna, Miranda (2020, 8 de enero). *Dinámicas mentales. Juegos que fortalecen tus capacidades cognitivas y de razonamiento.* Recuperado de **[Gran Hermandad Blanca](https://hermandadblanca.org/dinamicas-mentales-juegos-fortalecen-tus-capacidades-cognitivas-razonamiento/)** [Consulta: 25 de marzo de 2024]
 
-Mauroner, O. (2019). Gamificación en la gestión y otros contextos ajenos al juego: comprensión de los elementos del juego, la motivación, los sistemas de recompensa y los tipos de usuarios. Revista Abierta de Negocios y Gestión, 7, 1815-1830.doi:10.4236/ojbm.2019.74125 [Consulta: 13 de abril de 2024]
+Mauroner, O. (2019). *Gamificación en la gestión y otros contextos ajenos al juego: comprensión de los elementos del juego, la motivación, los sistemas de recompensa y los tipos de usuarios*. Revista Abierta de Negocios y Gestión, 7, 1815-1830.doi:10.4236/ojbm.2019.74125 [Consulta: 13 de abril de 2024]
 
-Rodríguez,  A.  J.  (2021).  Competencias  digitales  docentes  y  su estado en el contexto virtual. Revista Peruana de Investigación e Innovación Educativa, 1(2), 1-9. [Consulta: 13 de abril de 2024]
+Rodríguez,  A.  J.  (2021).  *Competencias  digitales  docentes  y  su estado en el contexto virtual*. Revista Peruana de Investigación e Innovación Educativa, 1(2), 1-9. [Consulta: 13 de abril de 2024]
 
-Universidad Internacional del Ecuador (2020, 21 de agosto). Competencias y herramientas digitales para el do-cente en el contexto COVID-19. Recuperado de **[Universidad Internacional del Ecuador](https://www.uide.edu.ec/competencias-y-herramientas-digitales-pa-ra-el-docente-en-el-contexto-covid-19/)** [Consulta: 13 de abril de 2024]
+Universidad Internacional del Ecuador (2020). *Competencias y herramientas digitales para el do-cente en el contexto COVID-19*. Recuperado de **[Universidad Internacional del Ecuador](https://www.uide.edu.ec/competencias-y-herramientas-digitales-pa-ra-el-docente-en-el-contexto-covid-19/)** [Consulta: 13 de abril de 2024]
 
 
 

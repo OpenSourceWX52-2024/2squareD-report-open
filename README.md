@@ -1607,8 +1607,20 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <tr>
             <td colspan="1">US007</td>
             <td colspan="1">Eliminación de cuenta</td>
-            <td colspan="1"></td>
-            <td colspan="5">...</td>
+            <td colspan="1">Como usuario registrado, quiero tener la opción de eliminar permanentemente mi cuenta desde la configuración de mi perfil para tener control sobre mis datos personales y mi participación en la plataforma.</td>
+            <td colspan="5">E01: Eliminación de cuenta exitosa
+            Dado que el usuario quiere eliminar su cuenta
+            Cuando el usuario seleccione eliminar cuenta desde el apartado de configuración
+            Y el sistema muestra una advertencia de que la cuenta se eliminará para siempre
+            Y el usuario selecciona aceptar
+            Entonces el sistema elimina la cuenta
+            E02: Eliminación de cuenta fallida
+            Dado que el usuario quiere eliminar su cuenta
+            Cuando el usuario seleccione eliminar cuenta desde el apartado de configuración
+            Y el sistema muestra una advertencia de que la cuenta se eliminará para siempre
+            Y el usuario selecciona cancelar
+            Entonces el sistema no elimina la cuenta
+            </td>
             <td colspan="1">EP001</td>
 		</tr>
         <tr>

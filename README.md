@@ -1724,51 +1724,153 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
           <tr>
             <td colspan="1">TS025</td>
             <td colspan="1">Implementación de jugabilidad</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como desarrollador, Quiero implementar las mecanicas de cada juego, Para brindar distintas experiencias de juego al usuario</td>
+            <td colspan="5">E01: Dado que El desarrollador comienza a implementar las mecánicas de juego para cada juego en la plataforma
+Cuando Diseña mecánicas que sean únicas, desafiantes y divertidas para cada juego
+Y Asegura que las mecánicas estén bien equilibradas y proporcionen una experiencia de juego satisfactoria
+Y Prueba exhaustivamente las mecánicas para detectar y corregir cualquier error o problema de jugabilidad
+Entonces Los usuarios disfrutan de distintas experiencias de juego que ofrecen diversión y entretenimiento
+Y Encuentran las mecánicas del juego interesantes y desafiantes, lo que aumenta su compromiso y tiempo de juego en la plataforma
+
+E02:Dado que El desarrollador está implementando las mecánicas de juego para cada juego en la plataforma
+Cuando Diseña mecánicas que resultan ser aburridas, desequilibradas o poco intuitivas para los usuarios
+O No realiza pruebas adecuadas de las mecánicas, lo que conduce a problemas de jugabilidad y errores graves
+O Las mecánicas implementadas no se ajustan bien a la temática o estilo de cada juego
+Enotones Los usuarios encuentran las experiencias de juego poco atractivas o frustrantes
+Y Pueden abandonar los juegos rápidamente en busca de opciones más satisfactorias
+O La reputación de la plataforma puede verse afectada negativamente debido a una implementación deficiente de las mecánicas de juego</td>
+            <td colspan="1">EP004</td>
 		</tr>
           <tr>
             <td colspan="1">TS026</td>
             <td colspan="1">Implementación de interactividad</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como desarrollador, Quiero implementar un sistema de interactividad en el juego, Para que el usuario pueda ajustarse a los diferentes controles</td>
+            <td colspan="5">Dado que El desarrollador inicia la implementación del sistema de interactividad en el juego
+Cuando Diseña controles intuitivos y receptivos que se ajusten a la temática y mecánicas del juego
+Y Incorpora opciones de personalización para que los usuarios puedan ajustar los controles según sus preferencias
+Y Realiza pruebas exhaustivas para garantizar que los controles funcionen de manera fluida en todas las plataformas compatibles
+Entonces Los usuarios disfrutan de una experiencia de juego cómoda y adaptada a sus necesidades
+Y Pueden interactuar con el juego de manera efectiva y sin frustraciones debido a controles poco intuitivos o deficientes</td>
+            <td colspan="1">EP004</td>
 		</tr>
           <tr>
             <td colspan="1">TS027</td>
             <td colspan="1">Desarrollo del Game Manager</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como desarrollador, Quiero crear un GameManager en los videojuegos, Para tener un mayor control sobre el juego desde el inicio a fin</td>
+            <td colspan="5">E01:
+            
+Dado que El desarrollador inicia la creación del GameManager para los videojuegos
+Cuando Diseña una estructura modular y escalable para el GameManager
+Y Implementa funcionalidades para controlar el flujo del juego, gestionar eventos y administrar recursos
+Y Integra el GameManager con las mecánicas específicas de cada juego de manera eficiente
+Entonces El desarrollador tiene un mayor control sobre el juego desde el inicio hasta el final
+Y Puede realizar ajustes y mejoras en el juego de manera más rápida y fácil
+Y Los usuarios experimentan una experiencia de juego más fluida y coherente gracias al GameManager bien diseñado
+
+E02:Dado que El desarrollador está creando el GameManager para los videojuegos
+Cuando Diseña una estructura poco modular o difícil de mantener
+O Implementa funcionalidades del GameManager de manera confusa o poco eficiente
+O El GameManager no se integra correctamente con las mecánicas específicas de cada juego
+Entonces El desarrollador enfrenta dificultades para controlar el flujo del juego y gestionar evento
+Y Realizar ajustes y mejoras en el juego se vuelve complicado y propenso a errores.
+O Los usuarios pueden experimentar problemas de rendimiento o inconsistencias en el juego debido a un GameManager mal diseñado</td>
+            <td colspan="1">EP005</td>
 		</tr>
           <tr>
             <td colspan="1">TS028</td>
             <td colspan="1">Desarrollo de reglas de juego</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como desarrollador, Quiero establecer las reglas de cada juego en la plataforma, Para que los usuarios sepan que acciones tomar para progresar</td>
+            <td colspan="5">E01:
+
+Dado que El desarrollador comienza a definir las reglas de cada juego en la plataforma
+Cuando Investiga y analiza juegos similares para determinar reglas efectivas y equilibradas.
+Y Documenta claramente las reglas de cada juego, incluyendo objetivos, mecánicas y condiciones de victoria.
+Y Integra las reglas en la interfaz de usuario del juego de manera accesible y comprensible.
+Entonces Los usuarios pueden consultar las reglas fácilmente antes y durante el juego.
+Y Tienen claridad sobre las acciones que deben tomar para progresar y tener éxito en el juego.
+Y Disfrutan de una experiencia de juego coherente y satisfactoria.
+
+E02:
+Dado que El desarrollador está estableciendo las reglas de cada juego en la plataforma.
+Y No investiga ni analiza adecuadamente juegos similares para determinar reglas efectivas.
+O Documenta las reglas de manera confusa o incompleta, dejando espacio para interpretaciones erróneas.
+O No integra las reglas de manera clara en la interfaz de usuario del juego.
+Entonces Los usuarios encuentran dificultades para comprender las reglas del juego.
+Y Pueden sentirse frustrados o desanimados al no saber qué acciones tomar para progresar.
+O Experimentan inconsistencias o situaciones injustas debido a reglas poco claras o mal definidas.</td>
+            <td colspan="1">EP005</td>
 		</tr>
           <tr>
             <td colspan="1">TS029</td>
             <td colspan="1">Implementación de salas multijugador</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como desarrollador, Quiero implementar un sistema multijugador asincrono y sencillo, Para la interacción en tiempo real entre los usuarios</td>
+            <td colspan="5">E01:
+            
+Dado que El desarrollador comienza a diseñar e implementar el sistema multijugador asíncrono
+Cuando Selecciona una tecnología adecuada para la comunicación entre usuarios en tiempo real
+Y Diseña una interfaz de usuario intuitiva que permita a los usuarios interactuar fácilmente con el sistema multijugador
+Y Implementa un sistema de notificaciones para informar a los usuarios sobre las actualizaciones y acciones de otros jugadores
+Entonces Los usuarios pueden disfrutar de la interacción en tiempo real con otros jugadores de forma sencilla y fluida
+
+E02:
+
+Dado que El desarrollador está implementando el sistema multijugador asíncrono
+Cuando Selecciona una tecnología que no es adecuada para la comunicación en tiempo real
+O Diseña una interfaz de usuario complicada o poco intuitiva para interactuar con el sistema multijugador
+O Implementa un sistema de notificaciones poco confiable o ineficiente
+Entonces Los usuarios experimentan dificultades al intentar interactuar con otros jugadores en tiempo real
+Y Pueden sentirse frustrados por la falta de claridad en las acciones de otros jugadores
+O La experiencia de juego puede verse afectada negativamente debido a la falta de sincronización entre los usuarios
+
+
+
+
+
+</td>
+            <td colspan="1">EP004</td>
 		</tr>
           <tr>
             <td colspan="1">TS030</td>
-            <td colspan="1">Implementación de diseño de videojuego</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Implementación de interfaz de videojuego</td>
+            <td colspan="1">Como desarrollador, Quiero implementar una interfaz amigable y clara para el videojuego, Para que los usuarios lo usen con facilidad</td>
+            <td colspan="5">E01:
+            
+Dado que El desarrollador comienza a diseñar la interfaz de usuario del videojuego
+Cuando Selecciona una paleta de colores que sea atractiva y fácil de distinguir
+Y Utiliza iconos intuitivos y representativos para las funciones del juego
+Y Organiza los elementos de la interfaz de manera lógica y coherente
+Entonces Los usuarios encuentran la interfaz fácil de entender y navegar
+
+E02: Dado que El desarrollador está diseñando la interfaz de usuario del videojuego
+Cuando Selecciona una paleta de colores poco atractiva o difícil de distinguir
+O Utiliza iconos confusos o poco representativos para las funciones del juego
+Y Organiza los elementos de la interfaz de manera desordenada o poco coherente
+Entonces Los usuarios encuentran la interfaz confusa y difícil de usar
+Y Experimentan frustración al tratar de navegar por el juego
+Y Abandonan el juego en busca de una experiencia más intuitiva</td>
+            <td colspan="1">EP001</td>
 		</tr>
           <tr>
             <td colspan="1">US31</td>
             <td colspan="1">Visualización de barra de búsqueda</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como usuario de la plataforma, quiero poder acceder fácilmente a la barra de búsqueda para encontrar contenido específico</td>
+            <td colspan="5">E01:
+            
+Dado que el usuario está en la página principal de la plataforma
+                Cuando el usuario busca un contenido específico.
+                Entonces accedera una barra de búsqueda claramente visible en la interfaz
+                Y el usuario ingresa palabras clave o frases en la barra de búsqueda.
+                Y el usuario recibe resultados relevantes de manera rápida y sencilla
+
+E02:
+                Dado que el usuario está utilizando la plataforma en un dispositivo móvil con una pantalla pequeña.
+                Cuando El usuario busca la barra de búsqueda para encontrar contenido específico
+                Entonces la barra de búsqueda no es visible en la pantalla principal.
+                Y el usuario se siente frustrado porque no puede acceder a la función de búsqueda y tiene dificultades para encontrar el contenido deseado
+                Y Esto podría llevar al usuario a abandonar la plataforma en busca de una experiencia más fácil de usar
+
+</td>
+            <td colspan="1">EP003</td>
 		</tr>
           <<tr>
     <tr>
@@ -2028,23 +2130,60 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
   		<tr>
             <td colspan="1">US044</td>
             <td colspan="1">Visualización de caracteristicas de la aplicación web</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como usuario que navega en el landing page,Quiero ver caracteristicas de la aplicación, Para saber sobre la motivación del proyecto</td>
+            <td colspan="5"><strong>E01: Caracteristicas del aplicativo encontradas 
+            Dado<strong> que El usuario está en la página de inicio del landing page
+Cuando Selecciona la sección "Características" desde el menú de navegación
+Entonces El usuario es llevado a una página que presenta las características clave de la aplicación de manera clara y concisa
+Y Puede leer sobre las funcionalidades y beneficios que ofrece la aplicación
+Y Comprende la motivación del proyecto y cómo la aplicación puede satisfacer sus necesidades o intereses
+
+E02:Dado que El usuario está en la página de inicio del landing page
+Cuando Intenta encontrar las características de la aplicación pero no puede ubicar la sección correspondiente
+Entonces El usuario se siente frustrado por la falta de información clara sobre las características de la aplicación
+Y Puede abandonar el landing page si no puede encontrar la información que busca.
+O El usuario intenta hacer clic en otras secciones, como "Servicios" o "Nosotros", en busca de información relevante sobre las características, pero no encuentra lo que necesita
+Entonces Experimenta una experiencia de usuario insatisfactoria y puede tener una percepción negativa de la aplicación y el proyecto en general</td>
+            <td colspan="1">EP009</td>
 		</tr>
 				<tr>
             <td colspan="1">US045</td>
             <td colspan="1">Landing Page Responsive Design</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como usuario navegando en la landing page, Quiero visualizarla desde cualquier dispositivo, Para mi comodidad como usuario</td>
+            <td colspan="5"><strong>E01: Responsive desing exitoso</strong>
+            <strong>Dado</strong> que El usuario accede a la landing page desde cualquier dispositivo, ya sea un ordenador de escritorio, una tableta o un teléfono móvil
+ <strong>Cuando </strong> La landing page está diseñada con un diseño responsivo que se adapta automáticamente al tamaño de la pantalla del dispositivo
+<strong>Entonces</strong> El usuario puede navegar por la landing page de manera cómoda y sin problemas, sin importar el dispositivo que esté utilizando
+<strong>Y</strong> La experiencia de usuario es consistente y agradable en todos los dispositivos, lo que aumenta la satisfacción del usuario
+
+<strong>E02: Responsive Desing fallido
+Dado</strong> que El usuario intenta acceder a la landing page desde un dispositivo móvil
+<strong>Entonces</strong> La landing page no está optimizada para dispositivos móviles y no tiene un diseño responsivo
+<strong>Entonces</strong> El usuario encuentra difícil o incómoda la navegación en la landing page desde su dispositivo móvil
+<strong>Y</strong> Puede experimentar problemas de visualización, como texto o imágenes cortadas, botones difíciles de clicar, o una interfaz desordenada
+<strong>O</strong> El usuario intenta acceder a ciertas secciones de la landing page pero encuentra que algunas funciones no están disponibles o son difíciles de utilizar en su dispositivo
+<strong>Entonces</strong> Experimenta una experiencia de usuario insatisfactoria y puede abandonar la landing page en busca de una alternativa más compatible con su dispositivo</td>
+            <td colspan="1">EP009</td>
 		</tr>
 				<tr>
             <td colspan="1">US046</td>
             <td colspan="1">Botón Call to action</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Como usuario interesado en la plataforma, quiero ver un botón de "Llamar a la Acción" (Call to Action), para poder realizar una acción específica fácilmente</td>
+            <td colspan="5"><strong>E01: Hay un Call to action bien segmentado 
+            Dado</strong> que El usuario está interesado en la plataforma y visita la landing page
+<strong>Cuando</strong> Visualiza la landing page
+<strong>Entonces</strong> Debe ver claramente un botón de "Llamar a la Acción" (Call to Action) en una posición prominente y estratégica de la página
+<strong>Y</strong> El texto del botón debe ser claro y persuasivo, invitando al usuario a realizar una acción específica
+<strong>Y</strong> El diseño del botón debe ser atractivo y coherente con la estética general de la página
+<strong>Y</strong> Al hacer clic en el botón, el usuario debe ser dirigido de manera efectiva a la página o acción correspondiente, como el formulario de registro o la página de descarga de la aplicación
+
+<strong>E02: Mala implementacion de Call to action
+ Dado</strong> que El usuario está interesado en la plataforma y visita la landing page
+<strong>Cuando</strong> Visualiza la landing page
+<strong>Entonces</strong> No encuentra ningún botón visible de "Llamar a la Acción" (Call to Action) que lo guíe hacia la acción deseada
+<strong>Y</strong> Se siente frustrado y confundido al no poder proceder con la acción deseada
+<strong>Y<strong> Puede abandonar la página en busca de una alternativa más clara y funcional</td>
+            <td colspan="1">EP009</td>
 		</tr>	
 	</tbody>	
 </table>

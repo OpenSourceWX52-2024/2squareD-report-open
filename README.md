@@ -2417,6 +2417,7 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
 | Sprint 1 Goal                     | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente |
 | Sprint 1 - Velocity               | El equipo puede aceptar 25 story points          |
 | Sprint 1 - Story Points           | La suma de los Story Points de los User Stories que se atenderá es 22 |
+
 #### 5.2.1.2. Sprint Backlog 1
 <<<<<<< Updated upstream
 =======

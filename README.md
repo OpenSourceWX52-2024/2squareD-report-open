@@ -2352,6 +2352,19 @@ export class AppComponent { }
 
 # Conclusiones
 ### Conclusiones y recomendaciones
+
+Hemos identificado como equipo que a lo largo de esta entrega tenemos como principales conslusiones:
+
+ - Los juegos que ofrecen experiencias únicas tienden a destacarse en un mercado saturado. Es por lo que creemos que la originalidad de Mathplay en la mecánica de juego, la narrativa y el diseño artístico fue crucial para la creación de una solución frente a la falta de anafalbetismo.
+
+ - La iteración continua y la retroalimentación son esenciales para pulir un juego y hacerlo más atractivo para los jugadores. Es por esto que, las pruebas de usuario, la organización de sprint backlogs y los ciclos de retroalimentación ayudan a identificar y corregir errores y mejorar la experiencia general del juego para nuetsros usuarios.
+
+ - El desarrollo de videojuegos requiere herramientas y tecnologías específicas. Definir lo que vamos a utilizar en este proyecto e invertir tiempo en conocer y aprender sobre las herramientas adecuadas puede aumentar la eficiencia del desarrollo y permitir la creación de juegos qeu cumplan la meta de nuestras historias de usuario.
+
+ - La diversidad en el desarrollo de videojuegos es importante. Las reuniones virtuales como equipo nos sirvieron para realizar las historias de usuario desde diferentes perspectivas. La inclusión de estas diferentes perspectivas pudo enriquecer la creatividad y hacer que el planteamiento de nuestros juegos sean más accesibles y relevantes para una audiencia más amplia.
+
+ - Si bien la monetización es una parte importante del desarrollo de juegos, es crucial hacerlo de manera ética y transparente. Al empezar este proyecto decidimos como equipo, que al ofrecer una aplicación de retroalimentación continua de aprendizaje, que la mejor manera de obtener beneficios era ofrenciendo nuestros servicios a cambio de un monto mensual por parte de nuestros segmento objetivo a las instituciones educativas.
+
 ### Video About-the-Team
 
 ---

@@ -1665,44 +1665,112 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
           <tr>
             <td colspan="1">US019</td>
             <td colspan="1">Ingreso al videojuego singleplayer</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>**quiero**</strong> interactuar con un botón "JUGAR" <strong>para</strong> acceder al videojuego que deseo jugar </td>
+            <td colspan="5"><strong>E01: El usuario ingresa correctamente al videojuego</strong>
+            <br><br> <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
+    <strong>Cuando le dé CLICK a un videojuego</strong> <br>
+    <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
+    <strong>Y el usuario presiona JUGAR</strong> <br>
+   <strong>Entonces accederá al apartado donde el videojuego se ejecute </strong> 
+	<br><br>
+	<strong>E02:El usuario no ingresa correctamente al videojuego  por no estar conectado a internet</strong>
+            <br><br> <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
+    <strong>Cuando le dé CLICK a un videojuego</strong> <br>
+    <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
+    <strong>Y el usuario presiona JUGAR pero se le va el internet</strong> <br>
+   <strong>Entonces la plataforma soltará un error por ausencia de internet </strong>  <br><br>
+	   </td>
+            <td colspan="1">EPIC 004</td>
 		</tr>
           <tr>
             <td colspan="1">US020</td>
-            <td colspan="1">Ingreso a la sala del videojuego multiplayer</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">Ingreso a la sala del videojuego  multi-jugador</td>
+            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> interactuar con un botón "JUGAR" <strong>para</strong> acceder a la sala de espera con otros jugadores antes de comenzar a jugar</td>
+            <td colspan="5"><strong>E01: El usuario ingresa correctamente a la sala multi-jugador</strong>
+            <br><br> <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
+    <strong>Cuando le dé CLICK a un videojuego multi-jugador</strong> <br>
+    <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
+    <strong>Y el usuario presiona JUGAR</strong> <br>
+   <strong>Entonces accederá al apartado donde el videojuego se ejecute y se mostrará la sala de espera multi-jugador </strong> 
+	<br><br>
+	<strong>E02: El usuario no ingresa correctamente a la sala multi-jugador por no estar conectado a internet</strong>
+            <br><br> <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
+    <strong>Cuando le dé CLICK a un videojuego multi-jugador</strong> <br>
+    <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
+    <strong>Y el usuario presiona JUGAR</strong> <br>
+   <strong>Entonces accederá al apartado donde el videojuego se ejecute y al detectar que no se está conectado a internet se mostrará un error </strong> 
+	<br><br></td>
+            <td colspan="1">EPIC 004</td>
 		</tr>
           <tr>
             <td colspan="1">US021</td>
             <td colspan="1">Visualizar instrucciones de juego</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> un apartado de instrucciones <strong>para</strong> entender el funcionamiento del videojuego </td>
+            <td colspan="5"><strong>E01: Usuario accede a la ventana de instrucciones</strong>
+            <br><br> <strong>Dado que el usuario se encuentra dentro del videojuego</strong> <br>
+    <strong>Cuando comience a ejecutarse y se muestre el menú principal</strong> <br>
+    <strong>Y se presione en INSTRUCCIONES</strong> <br>
+   <strong>Entonces se mostrarán las intrucciones del videojuego</strong> 
+	<br><br>
+	<strong>E02: Usuario no puede acceder a la ventana de instrucciones</strong>
+    	<br><br> <strong>Dado que el usuario se encuentra dentro del videojuego</strong> <br>
+    <strong>Cuando comience a ejecutarse y se muestre el menú principal</strong> <br>
+    <strong>Y se presione en INSTRUCCIONES</strong> <br>
+	<strong>Y el botón no funcione</strong> <br>
+   <strong>Entonces la ventana de instrucciones no se desplegará</strong> 
+	<br><br>
+	   </td>
+            <td colspan="1">EPIC 004</td>
 		</tr>
           <tr>
             <td colspan="1">US022</td>
             <td colspan="1">Visualizacion de participantes</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> visualizar una lista de participantes" <strong>para</strong> informarme con quiénes estoy jugando </td>
+            <td colspan="5"><strong>E01: Usuario visualiza la lista de participantes con la tecla por defecto</strong>
+            <br><br> <strong>Dado que el usuario se encuentra dentro del videojuego multi-jugador</strong> <br>
+    <strong>Cuando esté jugando y presiones la tecla TAB</strong> <br>
+   <strong>Entonces se mostrará la lista de participantes</strong> 
+	<br><br>
+	<strong>E02: Usuario visualiza la lista de participantes con tecla personalizada</strong>
+    	 <br><br> <strong>Dado que el usuario se encuentra dentro del videojuego multi-jugador</strong> <br>
+    <strong>Cuando esté jugando y presiones la tecla que personalizó en los AJUSTES del videojuego</strong> <br>
+   <strong>Entonces se mostrará la lista de participantes</strong> 
+	<br><br>
+	   </td>
+            <td colspan="1">EPIC 004</td>
 		</tr>
           <tr>
             <td colspan="1">US023</td>
             <td colspan="1">Visualizacion de resultados </td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> visualizar mis resultados <strong>para</strong> ver mi progreso en el tema</td>
+            <td colspan="5"><strong>E01: Se muestra el resultado de la partida</strong>
+            <br><br> <strong>Dado que el usuario termina de jugar</strong> <br>
+    <strong>Cuando se detecte el final del juego</strong> <br>
+   <strong>Entonces se mostrará el resultado de su desempeño</strong> 
+	<br><br>
+	<strong>E02: Se muestra el resultado de la partida multi-jugador</strong>
+            <br><br> <strong>Dado que todos los usuarios terminan de jugar</strong> <br>
+    <strong>Cuando se detecte el final del juego</strong> <br>
+   <strong>Entonces se mostrarán los resultados de los jugadores de forma jerárquica</strong> 
+	<br><br></td>
+            <td colspan="1">EPIC 004</td>
 		</tr>
           <tr>
             <td colspan="1">US024</td>
             <td colspan="1">Abandonar sala de videojuego</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> interactuar con un botón "SALIR" <strong>para</strong> salir del videojuego hacia el apartado para ingresar nuevamente</td>
+            <td colspan="5"><strong>E01: El usuario sale correctamente del videojuego</strong>
+            <br><br> <strong>Dado que</strong> el usuario se encuentra en el videojuego <br>
+    <strong>Cuando le dé CLICK a SALIR</strong> <br>
+   <strong>Entonces redirigirá al apartado previo al inicio del videojuego </strong> 
+	<br><br>
+	<strong>E02:El usuario no sale correctamente al videojuego</strong>
+            <br><br> <strong>Dado que</strong> el usuario se encuentra en el videojuego  <br>
+    <strong>Cuando le dé CLICK a SALIR</strong> <br>
+    <strong>Y el botón esté presentando errores</strong> <br>
+    <strong>Y el usuario presiona JUGAR pero se le va el internet</strong> <br>
+   <strong>Entonces el botón no redirigirá al usuario al apartado previo al inicio del videojuego </strong>  <br><br></td>
+            <td colspan="1">EPIC 004</td>
 		</tr>
           <tr>
             <td colspan="1">TS025</td>
@@ -1863,7 +1931,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 
 ## 3.3. Impact Mapping
-
+<img src="./assets/Impact Mapping.jpg" alt="Impact Mapping">
 ## 3.4. Product Backlog
 
 # Capítulo IV: Product Design

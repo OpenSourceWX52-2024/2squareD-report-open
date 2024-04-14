@@ -2399,9 +2399,11 @@ Selección del Branch y Ruta de Despliegue:
 En la configuración de GitHub Pages, seleccionamos el branch "main" y especificamos la ruta de despliegue como "/(root)".
 
 <img src="./assets/github pages.PNG" />
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
 | Property                          | Value                               |
 |-----------------------------------|-------------------------------------|
 | Sprint #                          | 1                                   |
@@ -2441,8 +2443,8 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
         <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do / </p><p dir="auto">InProcess / </p><p dir="auto">To Review / </p><p dir="auto">Done)</p></td>
     </tr>
     <tr>
-        <td rowspan="3" valign="top">HU-08</td>
-        <td rowspan="3" valign="top">visualización de caracteristicas de la aplicación web</td>
+        <td rowspan="4" valign="top">HU-08</td>
+        <td rowspan="4" valign="top">visualización de caracteristicas de la aplicación web</td>
         <td valign="top">08\.1</td>
         <td valign="top">Implementar Header con NavBar</td>
         <td valign="top">Implementar Header que contendra palabras llamativas y navbar que permitar navegar mejor la página </td>
@@ -2466,90 +2468,36 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
         <td valign="top">Minaya Mundines, Pietro Gerardo</td>
         <td valign="top">Done</td>
     </tr>
-    
     <tr>
-        <td rowspan="3" valign="top">HU-04</td>
-        <td rowspan="3" valign="top">Realizar pedidos de productos</td>
-        <td valign="top">08\.1</td>
-        <td valign="top">Implementar fake-api</td>
-        <td valign="top">Implementar fake api para posts o gets de entidades</td>
+        <td valign="top">08\.4</td>
+        <td valign="top">Sección sobre los servicios </td>
+        <td valign="top">Se agregara una sección mostrando los servicios y beneficios de la aplicación</td>
         <td valign="top">3</td>
-        <td valign="top">Paolo Espejo</td>
+        <td valign="top">Llacchua Peralta , Joseph Ulysses</td>
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">08\.2</td>
-        <td valign="top">Implementar estilos </td>
-        <td valign="top">Diseñar la página con los Styles Guidelines definidos</td>
-        <td valign="top">2</td>
-        <td valign="top">Paolo Espejo</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td valign="top">08\.3</td>
-        <td valign="top">Implementar stepper </td>
-        <td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td>
-        <td valign="top">5</td>
-        <td valign="top">Paolo Espejo</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="3" valign="top">HU-03</td>
-        <td rowspan="3" valign="top">Explorar productos agrícolas</td>
-        <td valign="top">03\.1</td>
-        <td valign="top">Implementar estilos</td>
-        <td valign="top">Diseñar los estilos para las páginas</td>
-        <td valign="top">2</td>
-        <td valign="top">Tatiana Paucar</td><td valign="top">In Process</td>
-    </tr>
-    <tr>
-        <td valign="top">03\.2</td> 
-        <td valign="top">Implementar formularios</td>
-        <td valign="top">Implementar formularios para añadir cultivos</td>
-        <td valign="top">5</td>
-        <td valign="top">Tatiana Paucar</td>
-        <td valign="top">In process</td>
-    </tr>
-    <tr>
-        <td valign="top">03\.3</td>
-        <td valign="top">Implementar página de productos</td>
-        <td valign="top">Implementar cars para explorar los productos agrícolas</td>
+        <td rowspan="1" valign="top">HU-025</td>
+        <td rowspan="1" valign="top">Landing Page Responsive</td>
+        <td valign="top">25</td>
+        <td valign="top">Implementar responsive desing</td>
+        <td valign="top">adaptar el landing page para diferentes dispositivos </td>
         <td valign="top">4</td>
-        <td valign="top">Tatiana Paucar</td>
-        <td valign="top">In Process</td>
+        <td valign="top">Yen Cerna, Lucio Heli</td>
+        <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="3" valign="top">HU-09</td>
-        <td rowspan="3" valign="top">Registro de gastos y ganancias</td>
-        <td valign="top">09\.1</td>
-        <td valign="top">Implementar estilos </td>
-        <td valign="top">Diseñar los estilos para las páginas</td>
+        <td rowspan="1" valign="top">HU-026</td>
+        <td rowspan="1" valign="top">Botón Call to action</td>
+        <td valign="top">26</td>
+        <td valign="top">implementar botones call to action</td>
+        <td valign="top">añadir botones call to action para fomentar la interacción del usuario con la aplicación </td>
         <td valign="top">2</td>
-        <td valign="top">Jorge Gonzales Carrión</td>
+        <td valign="top">Carpio Cornejo, Miguel Angel Jesu</td>
         <td valign="top">Done</td>
     </tr>
-    <tr>
-        <td valign="top">09\.2</td>
-        <td valign="top">Implementar las listas de costos y ganancias</td>
-        <td valign="top">Implementar con las listbox con el framework requerido</td>
-        <td valign="top">5</td>
-        <td valign="top">Jorge Gonzales Carrión</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td valign="top">09\.3</td>
-        <td valign="top">Cards con información de costos y gastos</td>
-        <td valign="top">Implementar cards con la información de costos y gatos</td>
-        <td valign="top">5</td>
-        <td valign="top">Jorge Gonzales Carrión</td>
-        <td valign="top">Done</td>
-    </tr>
-<tr><td valign="top">HU-21</td><td valign="top">Sección principal (“Home”)</td><td valign="top">21\.1</td><td valign="top">Paginas de “Home”</td><td valign="top">Implementar páginas de “Home”</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
-<tr><td valign="top">HU-01</td><td valign="top">Selección de roles</td><td valign="top">01\.1</td><td valign="top">Pantallas de registro de cuentas</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
-<tr><td valign="top">HU-02</td><td valign="top">Inicio de sesión</td><td valign="top">02\.2</td><td valign="top">Pantallas de inicio de sesión</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
 </tbody>
 </table>
->>>>>>> Stashed changes
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 

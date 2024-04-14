@@ -3540,8 +3540,8 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
 | Sprint 1 - Retrospective Summary | No aplica (Es el primer Sprint)     |
 | Sprint Goal & User Stories        | -                                   |
 | Sprint 1 Goal                     | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente |
-| Sprint 1 - Velocity               | El equipo puede aceptar 25 story points          |
-| Sprint 1 - Story Points           | La suma de los Story Points de los User Stories que se atenderá es 22 |
+| Sprint 1 - Velocity               | El equipo puede aceptar 20 story points          |
+| Sprint 1 - Story Points           | La suma de los Story Points de los User Stories que se atenderá es 18 |
 
 #### 5.2.1.2. Sprint Backlog 1
 
@@ -3566,9 +3566,9 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
         <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do / </p><p dir="auto">InProcess / </p><p dir="auto">To Review / </p><p dir="auto">Done)</p></td>
     </tr>
     <tr>
-        <td rowspan="4" valign="top">HU-08</td>
+        <td rowspan="4" valign="top">HU-44</td>
         <td rowspan="4" valign="top">visualización de caracteristicas de la aplicación web</td>
-        <td valign="top">08\.1</td>
+        <td valign="top">44\.1</td>
         <td valign="top">Implementar Header con NavBar</td>
         <td valign="top">Implementar Header que contendra palabras llamativas y navbar que permitar navegar mejor la página </td>
         <td valign="top">3</td>
@@ -3576,7 +3576,7 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">08\.2</td>
+        <td valign="top">44\.2</td>
         <td valign="top">Implementar datos de credibilidad sobre la aplicación </td>
         <td valign="top">Se agregara una sección pequeña en la cual se añadiran caracteristicas relevantes de nuestro servicio</td>
         <td valign="top">2</td>
@@ -3584,7 +3584,7 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">08\.3</td>
+        <td valign="top">44\.3</td>
         <td valign="top">Sección sobre la StartUp </td>
         <td valign="top">Se agregara una sección sobre la misión y visión de nuestra StartUp con el público</td>
         <td valign="top">3</td>
@@ -3592,7 +3592,7 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">08\.4</td>
+        <td valign="top">44\.4</td>
         <td valign="top">Sección sobre los servicios </td>
         <td valign="top">Se agregara una sección mostrando los servicios y beneficios de la aplicación</td>
         <td valign="top">3</td>
@@ -3600,7 +3600,7 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-025</td>
+        <td rowspan="1" valign="top">HU-45</td>
         <td rowspan="1" valign="top">Landing Page Responsive</td>
         <td valign="top">25</td>
         <td valign="top">Implementar responsive desing</td>
@@ -3610,7 +3610,7 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-026</td>
+        <td rowspan="1" valign="top">HU-15</td>
         <td rowspan="1" valign="top">Botón Call to action</td>
         <td valign="top">26</td>
         <td valign="top">implementar botones call to action</td>

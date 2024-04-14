@@ -1774,63 +1774,163 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="5">...</td>
             <td colspan="1">...</td>
 		</tr>
-          <tr>
-            <td colspan="1">US032</td>
-            <td colspan="1">Evaluación del progreso de estudiantes </td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
-		</tr>
-          <tr>
-            <td colspan="1">US033</td>
-            <td colspan="1">Evaluación de la dificultad de los videojuegos</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
-		</tr>
-          <tr>
-            <td colspan="1">US034</td>
-            <td colspan="1">Medición de eficacia de los elementos de enseñanza dentro del juego</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
-		</tr>
-          <tr>
-            <td colspan="1">US035</td>
-            <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
-		</tr>
-          <tr>
-            <td colspan="1">TS036</td>
-            <td colspan="1">Despliegue de datos al apartado de visualización del progreso</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
-		</tr>
-          <tr>
-            <td colspan="1">US037</td>
-            <td colspan="1">Comunicación de errores o reclamos con soporte técnico</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
-		</tr>
-          <tr>
-            <td colspan="1">US038</td>
-            <td colspan="1">Actualización del estado de solicitud de soporte técnico</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
-		</tr>
-          <tr>
-            <td colspan="1">US039</td>
-            <td colspan="1">Implementación de apartado de preguntas frecuentes (FAQ)</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
-		</tr>
-            <tr>
+          <<tr>
+    <td colspan="1">US032</td>
+    <td colspan="1">Evaluación del progreso de estudiantes</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la plataforma, quiero que mi progreso como estudiante sea evaluado <strong>para</strong> poder realizar un seguimiento de mi desempeño académico.
+    </td>
+    <td colspan="5">
+        <strong>E01: Evaluación exitosa del progreso</strong>
+        <br><br>
+        <strong>Caso 01: Visualización de resultados de pruebas</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está utilizando la plataforma educativa,
+        <br>
+        <strong>Y</strong> el usuario completa una prueba o evaluación,
+        <br>
+        <strong>Cuando</strong> el usuario finaliza la prueba,
+        <br>
+        <strong>Entonces</strong> el sistema evalúa los resultados de la prueba y muestra al usuario su progreso académico, incluyendo calificaciones, áreas de fortaleza y áreas de mejora.
+    </td>
+    <td colspan="1">EP006</td>
+</tr>
+
+<tr>
+    <td colspan="1">US033</td>
+    <td colspan="1">Evaluación de la dificultad de los videojuegos</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la plataforma, quiero que los videojuegos sean evaluados en cuanto a su dificultad <strong>para</strong> tener una experiencia de juego equilibrada y desafiante.
+    </td>
+    <td colspan="5">
+        <strong>E01: Evaluación exitosa de la dificultad</strong>
+        <br><br>
+        <strong>Caso 01: Evaluación de niveles de dificultad</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está jugando un videojuego en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario completa un nivel o sección del juego,
+        <br>
+        <strong>Cuando</strong> el usuario finaliza el nivel,
+        <br>
+        <strong>Entonces</strong> el sistema evalúa la dificultad del nivel en base a la experiencia del usuario y proporciona una retroalimentación sobre su equilibrio y desafío.
+    </td>
+    <td colspan="1">EP006</td>
+</tr>
+
+<tr>
+    <td colspan="1">US034</td>
+    <td colspan="1">Medición de eficacia de los elementos de enseñanza dentro del juego</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la plataforma, quiero que los elementos de enseñanza dentro de los juegos sean medidos en cuanto a su eficacia <strong>para</strong> asegurarme de que estoy recibiendo una educación efectiva mientras juego.
+    </td>
+    <td colspan="5">
+        <strong>E01: Medición exitosa de eficacia</strong>
+        <br><br>
+        <strong>Caso 01: Evaluación de conocimientos adquiridos</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está jugando un juego educativo en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario completa una sección o nivel del juego,
+        <br>
+        <strong>Cuando</strong> el usuario finaliza la actividad educativa,
+        <br>
+        <strong>Entonces</strong> el sistema evalúa la eficacia de los elementos de enseñanza, como preguntas, ejercicios o tutoriales, en base al conocimiento adquirido por el usuario durante el juego.
+    </td>
+    <td colspan="1">EP006</td>
+</tr>
+
+<tr>
+    <td colspan="1">US035</td>
+    <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la plataforma, quiero poder ver mi progreso y rendimiento dentro de la plataforma <strong>para</strong> seguir mi evolución y desempeño.
+    </td>
+    <td colspan="5">
+        <strong>E01: Visualización exitosa del progreso</strong>
+        <br><br>
+        <strong>Caso 01: Visualización de progreso general</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario accede a su perfil o panel de usuario,
+        <br>
+        <strong>Cuando</strong> el usuario selecciona la opción para ver su progreso,
+        <br>
+        <strong>Entonces</strong> el sistema muestra una vista general del progreso del usuario, incluyendo estadísticas, logros alcanzados y áreas de mejora.
+    </td>
+    <td colspan="1">EP006</td>
+</tr>
+
+<tr>
+    <td colspan="1">TS036</td>
+    <td colspan="1">Despliegue de datos al apartado de visualización del progreso</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la plataforma, quiero que los datos relevantes sobre mi progreso se muestren de manera clara y organizada en el apartado de visualización del progreso <strong>para</strong> facilitar su comprensión y seguimiento.
+    </td>
+    <td colspan="5">
+        <strong>E01: Despliegue exitoso de datos</strong>
+        <br><br>
+        <strong>Caso 01: Visualización de estadísticas</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario accede a su perfil o panel de usuario,
+        <br>
+        <strong>Cuando</strong> el usuario selecciona la opción para ver su progreso,
+        <br>
+        <strong>Entonces</strong> el sistema despliega de manera clara y organizada las estadísticas relevantes sobre el progreso del usuario, como puntajes, tiempos de juego y áreas de mejora.
+    </td>
+    <td colspan="1">EP006</td>
+</tr>
+
+<tr>
+    <td colspan="1">US037</td>
+    <td colspan="1">Comunicación de errores o reclamos con soporte técnico</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario de la plataforma, quiero poder comunicar errores o reclamos al equipo de soporte técnico <strong>para</strong> recibir ayuda y solucionar problemas.
+    </td>
+    <td colspan="5">
+        <strong>E01: Comunicación exitosa de error o reclamo</strong>
+        <br><br>
+        <strong>Caso 01: Reporte de error</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario encuentra un error o fallo en la aplicación,
+        <br>
+        <strong>Cuando</strong> el usuario accede al apartado de soporte técnico,
+        <br>
+        <strong>Y</strong> el usuario selecciona la opción de reportar un error,
+        <br>
+        <strong>Entonces</strong> el sistema registra el reporte de error y lo envía al equipo de soporte técnico para su revisión y solución.
+    </td>
+    <td colspan="1">EP007</td>
+</tr>
+
+<tr>
+    <td colspan="1">US039</td>
+    <td colspan="1">Implementación de apartado de preguntas frecuentes (FAQ)</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, quiero tener acceso a un apartado de preguntas frecuentes (FAQ) <strong>para</strong> resolver dudas comunes de manera rápida y sencilla.
+    </td>
+    <td colspan="5">
+        <strong>E01: Implementación de FAQ exitosa</strong>
+        <br><br>
+        <strong>Caso 01: Acceso al apartado de preguntas frecuentes</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario accede al apartado de preguntas frecuentes (FAQ),
+        <br>
+        <strong>Cuando</strong> el sistema muestra una lista clara y organizada de preguntas y respuestas comunes,
+        <br>
+        <strong>Entonces</strong> el usuario puede resolver sus dudas de manera rápida y sencilla.
+    </td>
+    <td colspan="1">EP007</td>
+</tr>
+
+<tr>
             <td colspan="1">BS040</td>
             <td colspan="1">Análisis de los beneficios del plan premium</td>
             <td colspan="1">...</td>

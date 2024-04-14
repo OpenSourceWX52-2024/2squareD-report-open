@@ -2678,7 +2678,7 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 
 <img src="./assets/DataBaseDiagram.png" alt="DataBaseDiagram" width="800" height="800">
 
-[Link de la Base de Datos](https://my.vertabelo.com/public-model-view/2i2oTY84MfbxtnrBI8T42DbsihQlqtbFLgO6REriQJiWTrhh9Cy0WskCApZ6R6gV?x=2405&y=3499&zoom=0.5304)
+[Link de la Base de Datos](https://my.vertabelo.com/public-model-view/Fd1yTuUWTZ3ieBQPAcRWhuRDWHyT9UzcDM2CJaoSqRRF3jrNgABYCagTM12Lt0we?x=1326&y=1835&zoom=0.3948)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management

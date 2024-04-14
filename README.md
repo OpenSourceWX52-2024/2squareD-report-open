@@ -1358,14 +1358,6 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 			</tr>
         <tr>
             <td colspan="1">EP008</td>
-            <td colspan="1">Monetización de la plataforma</td>
-            <td colspan="1">
-            <strong>Como</strong> stakeholder de la plataforma <strong>quiero</strong>  informarme sobre los planes de monetización de la aplicación<strong>para</strong> saciar mis intereses mediante los beneficios que brinda la plataforma
-            </td>
-		</tr>
-				</tr>
-        <tr>
-            <td colspan="1">EP009</td>
             <td colspan="1">Implementación de la experiencia UI/UX de la landing page</td>
             <td colspan="1">
             <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page<strong>para</strong> explorar sus diferentes secciones y funcionalidades
@@ -2337,108 +2329,14 @@ export class AppComponent { }
         Empty list of users
     }
 ```
-### Gherkin
-Para información sobre las convenciones de Gherkin se usará como referencia [este enlace](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/).
-
-- **Discernible Given-When-Then Blocks**: Aplicar sangría a los bloques Given-When-Then para claridad.
-```[gherkin]
-    Given a user is logged in
-    And there are 3 items in the cart
-    When the user clicks on the checkout button
-    Then the user should see the payment page
-    And the payment options should be displayed
-```
-- **Steps with Tables**: Si se necesita entrada de una tabla en los pasos, añadir dos puntos al final del paso.
-```[gherkin]
-  Given the following users:
-    | Username | Password |
-    | user1    | pass123  |
-    | user2    | pass456  |
-    | user3    | pass789  |
-```
-- **Reducing Noise**: Usar valores predeterminados para campos no relevantes.
-```[gherkin]
-    Given a user with an email 'example@example.com'
-```
-- **Parameters in Steps**: Usar comillas simples para parámetros en un paso.
-```[gherkin]
-    When the user logs in with the username 'user' and password 'password'
-```
-- **Newlines within Scenarios**: Agregar nuevas líneas entre cada paso para legibilidad.
-```[gherkin]
-    Given the user is on the home page
-    When the user clicks on the product category
-    Then the user should see a list of products
-    And the products should be sorted by popularity
-```
-- **Newlines between scenarios and separator comments**: Agregar una línea de separación entre escenarios y comentarios separadores.
-```[gherkin]
-  Scenario: Scenario 1
-    Given the user is logged in
-    When the user adds an item to the cart
-    Then the cart count should increase by 1
-
-# ----------------------------------------------------------
-
-# Separator Comment
-Scenario: Scenario 2
-    Given the user is on the checkout page
-    When the user completes the payment process
-    Then the order should be confirmed
-```
-Para el almacenamiento y control de versiones de código se utilizará GIT gestionado desde GitHub aplicando GitFlow Workflow, Conventional Commits y Semantic Versioning. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática.
-
-<img src="./assets/network graph.PNG" />
 
 ### 5.1.4. Software Deployment Configuration
-Utilizaremos GitHub Pages, una función integrada de GitHub, para alojar y desplegar nuestro Landing Page. Esta plataforma de hosting está diseñada específicamente para alojar sitios web estáticos directamente desde repositorios de GitHub.
-
-Integración con GitHub:
-GitHub Pages está completamente integrado con GitHub, lo que significa que podemos aprovechar la funcionalidad de despliegue automático. Cuando realizamos un commit en nuestro repositorio de GitHub que contiene el código fuente de nuestro Landing Page, GitHub Pages detecta automáticamente los cambios y actualiza el sitio web en consecuencia. Esto significa que cualquier actualización que hagamos en nuestro código se reflejará instantáneamente en el sitio web alojado en GitHub Pages, sin necesidad de realizar ningún paso adicional.
-
-Configuración de GitHub Pages:
-Nos dirigimos al repositorio remoto en GitHub y accedemos a la sección de "Settings". Dentro de "Settings", navegamos hacia la sección "Pages", la cual contiene la configuración para desplegar el landing page y la aplicación web frontend.
-
-Selección del Branch y Ruta de Despliegue:
-En la configuración de GitHub Pages, seleccionamos el branch "main" y especificamos la ruta de despliegue como "/(root)".
-
-<img src="./assets/github pages.PNG" />
 
 ## 5.2. Landing Page, Services & Applications Implementation
-
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
-| Property                          | Value                               |
-|-----------------------------------|-------------------------------------|
-| Sprint #                          | 1                                   |
-| Sprint Planning Background        | -                                   |
-| Date                              | 2024-04-02                          |
-| Time                              | 20:00 PM                            |
-| Location                          | Virtual via Discord             |
-| Prepared By                       | Ybañez Esquerre, Miguel Angel     |
-| Attendees                         | Ybañez Esquerre, Miguel Angel / Carpio Cornejo, Miguel Angel Jesus / Llacchua Peralta , Joseph Ulysses / Minaya Mundines, Pietro Gerardo / Yen Cerna, Lucio Heli / Barrial Marin, Sharon Antuanet Ivet |
-| Sprint 1 - Review Summary         | No aplica (Es el primer Sprint)     |
-| Sprint 1 - Retrospective Summary | No aplica (Es el primer Sprint)     |
-| Sprint Goal & User Stories        | -                                   |
-| Sprint 1 Goal                     | El objetivo del presente Sprint es en desarrollar la Landing Page usando los wireframes y mockups diseñados previamente |
-| Sprint 1 - Velocity               | El equipo puede aceptar 25 story points          |
-| Sprint 1 - Story Points           | La suma de los Story Points de los User Stories que se atenderá es 22 |
-
 #### 5.2.1.2. Sprint Backlog 1
-
-| Sprint | Implementar el frontend de las principales historias de usuario del product backlog |
-| ------ |----------------------------------------------------------------------------------- |
-| **User Story Id** | **Title** | **Work-Item / Task Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| HU-08 | |
-| | | 08.1 | Implementar fake-api | Implementar fake api para posts o gets de entidades | 3 | Miguel Huaman | Done |
-| | | 08.2 | Implementar estilos | Diseñar la página con los Styles Guidelines definidos | 4 | Miguel Huaman | Done |
-| | | 08.3 | Implementar stepper | El stepper consta de 3 pasos y cada uno es de un componente | 4 | Miguel Huaman | Done |
-| HU-04 | |
-| | | 08.1 | Implementar fake-api | Implementar fake api para posts o gets de entidades | 3 | Paolo Espejo | Done |
-| | | 08.2 | Implementar estilos | Diseñar la página con los Styles Guidelines definidos | 2 | Paolo Espejo | Done |
-| | | 08.3 | Implementar stepper | El stepper consta de 3 pasos y cada uno es de un componente | 5 | Paolo Espejo | Done |
-
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -2467,13 +2365,19 @@ Hemos identificado como equipo que a lo largo de esta entrega tenemos como princ
 
  - Si bien la monetización es una parte importante del desarrollo de juegos, es crucial hacerlo de manera ética y transparente. Al empezar este proyecto decidimos como equipo, que al ofrecer una aplicación de retroalimentación continua de aprendizaje, que la mejor manera de obtener beneficios era ofrenciendo nuestros servicios a cambio de un monto mensual por parte de nuestros segmento objetivo a las instituciones educativas.
 
-### Video About-the-Team
+ Por otro lado, y con la experiencia que tenemos como equipo en este último tiempo, concluimos en las siguientes recomendaciones.
+
+- Todo opinión en la etapa de retroalimentación es valiosa para mejorar un juego. Escucharnos unos a otros como equipo proporcionó ideas útiles para actualizar y mejorar nuestra planificación de juego.
+
+- El desarrollo de videojuegos puede ser costoso en cuestión al tiempo. Es importante planificar cuidadosamente el cronograma del proyecto para evitar retrasos en las entregas disponibles. Así que la planificación de los sprints backlogs son necesarios para hacer este proceso más eficiente.
+
+- La industria en la que estamos enfocados en trabajar para realizar este proyecto y más aún de los videojuegos está en constante evolución, con avances tecnológicos y cambios en las preferencias de los jugadores. Mantenerse al día con las tendencias y adoptar nuevas tecnologías puede ayudar a mantener la competitividad y la relevancia en el mercado de los videojuegos. Además, de alcanzar a satisfacer a nuestros usuarios.
 
 ---
 # Bibliografía
-Aschraft, M.H. (1989). *Mark human memory and cognition* Editorial Universidad de Nevada. [Consulta: 13 de abril de 2024]
+Aschraft, M.H. (2017). *Mark human memory and cognition* Editorial Universidad de Nevada. [Consulta: 13 de abril de 2024]
 
-Bernardo, J., y Basterretche, J. (1993). *Técnicas y recursos para motiva a los alumnos.* Editorial Madrid, Rialp. [Consulta: 11 de abril del 2024]
+Bernardo, J., y Basterretche, J. (2018). *Técnicas y recursos para motiva a los alumnos.* Editorial Madrid, Rialp. [Consulta: 11 de abril del 2024]
 
 Domain Driven Design. (2019, 21 de abril). *Developing the ubiquituos language*. Recuperado de **[Domain Driven Deisgn](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)** [Consulta: 3 de abril de 2024]
 

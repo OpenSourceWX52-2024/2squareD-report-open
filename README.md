@@ -2330,7 +2330,19 @@ export class AppComponent { }
 
 ---
 # Bibliografía
-- El Comercio. (2022). Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas. Recuperado de [El Comercio](https://elcomercio.pe/peru/prueba-pisa-2022-resultados-de-los-estudiantes-peruanos-en-matematicas-lectura-y-ciencias-rendimiento-academico-ultimas-noticia/).
-- Domain Driven Design. (2019, 21 de abril). Developing the ubiquituos language Recuperado el 3 de abril de 2024, de [Domain Driven Deisgn](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)  
+Aschraft, M.H. (1989). *Mark human memory and cognition* Editorial Universidad de Nevada. [Consulta: 13 de abril de 2024]
+
+Bernardo, J., y Basterretche, J. (1993). *Técnicas y recursos para motiva a los alumnos.* Editorial Madrid, Rialp. [Consulta: 11 de abril del 2024]
+
+Domain Driven Design. (2019, 21 de abril). *Developing the ubiquituos language*. Recuperado de **[Domain Driven Deisgn](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)** [Consulta: 3 de abril de 2024]
+
+El Comercio. (2022). *Prueba PISA 2022: Estudiantes peruanos redujeron su nivel de rendimiento en matemáticas.* Recuperado de **[El Comercio](https://elcomercio.pe/peru/prueba-pisa-2022-resultados-de-los-estudiantes-peruanos-en-matematicas-lectura-y-ciencias-rendimiento-academico-ultimas-noticia/).** [Consulta: 28 de marzo de 2024]
+
+
+Federico José Arena, Pau Luque, Diego Moreno Cruz. (2021). *Razonamiento jurídico y ciencias cognitivas.* Recuperado de **[Universidad externado de Colombia](https://www.marcialpons.es/libros/razonamiento-juridico-y-ciencias-cognitivas/9789587906417/)** [Consulta: 7 de abril de 2024]
+
+Luna, Miranda (2020, 8 de enero). *Dinámicas mentales. Juegos que fortalecen tus capacidades cognitivas y de razonamiento.* Recuperado de **[Gran Hermandad Blanca](https://hermandadblanca.org/dinamicas-mentales-juegos-fortalecen-tus-capacidades-cognitivas-razonamiento/)** [Consulta: 25 de marzo de 2024]
+
+
  ---
 # Anexos

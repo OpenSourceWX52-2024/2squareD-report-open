@@ -2799,20 +2799,7 @@ Nos aseguramos de que los elementos de la página tengan suficiente espacio alre
 ### 4.1.2. Web Style Guidelines
 Los colores utilizados en la web de nuestra aplicación siguen las pautas de la guía general de diseño. Estas personalizaciones se basan no sólo en el nuevo formato y estilo de visualización, sino también en la sección o página específica que el usuario esté utilizando en la aplicación. Para corregir estas variaciones, hemos identificado diferentes secciones donde los colores y transparencias se ajustan según el diseño:
 
-* Fondos: para asegurar una estética clásica que se adapte a los diversos fondos degradados presentes en nuestras aplicaciones, hemos elegido una paleta de grises. Esta decisión permite una mayor versatilidad visual, manteniendo la elegancia y la legibilidad del contenido sin importar la combinación de colores específica en la pantalla.
-
-![IMAGEN-Fondos]()
-
-* Tipografia: 
-
-La elección de colores en el diseño dependerá del fondo en el que se sitúen, y para mantener un estilo clásico, hemos optado por una paleta de grises que se adapta a la mayoría de los tipos de fondo. Esta selección permite una versatilidad visual que conserva la elegancia y la sobriedad requeridas para un estilo clásico, mientras garantiza una armonía estética con una amplia variedad de contextos. Además, los tonos de gris ofrecen un contraste suave y equilibrado, lo que asegura una legibilidad óptima del contenido en cualquier entorno, añadiendo una sensación de atemporalidad al diseño.
-
-![IMAGEN-Tipografia-Colores]()
-
-El estilo para la tipografía son fundamentales para crear diseños legibles, coherentes y efectivos que mejoren la experiencia del usuario y fortalezcan la identidad de la marca.
-Por eso usaremos la tipografía Open Sans con un tamaño de 95px y estilo light ofrece una estética moderna y elegante, ideal para títulos y encabezados que requieran un aspecto sofisticado y fácil de leer. El peso ligero de la fuente proporciona una apariencia delicada y atractiva, mientras que el tamaño grande garantiza una excelente legibilidad, especialmente en dispositivos con pantallas de alta resolución. Esta combinación de tamaño y estilo es ideal para crear un impacto visual fuerte mientras se mantiene una sensación de sutileza y claridad en el diseño.
-
-![IMAGEN-Tipografia-Estilo]()
+El sitio del landing page utiliza el patron F.
 
 ## 4.2. Information Architecture
 Como equipo decidimos que el diseño de la aplicacion se organizara con una paleta de colores llamativos y de acuerdo con la temática de nuestro trabajo. La principal característica que decidimos llevar a cabo es en relación a la experiencia de los usuarios, queremos que los estudiantes tengan un contenido accesible y asegurado para que puedan resolver cualquiera de sus dudas.
@@ -2998,14 +2985,14 @@ En esta sección, se presentaran los User Flows, donde se mostrarán las rutas H
 ## 4.5. Web Applications Prototyping
 En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
 
+[link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b298_upc_edu_pe/EQllB2KlsH1IgdWDYUe6iIEBN6F4vzyvdKuG8p0dQ_tI-g?e=T9Dlpr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Principio de elección:**
 Procuramos que la aplicación web posea una cantidad de secciones a todo momento, por lo que se cuenta con la barra superior siempre en la aplicación con 4 secciones, los cuales podrá acceder a las funcionalidades rapidamente desde cualquier pantalla.
 
 **Principio de divulgación:**
 La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee.
 
-![IMAGE]()
-[Link Prototipo]()
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
@@ -3031,123 +3018,76 @@ En esta sección, se utilizará el enfoque de diseño orientado a objetos para d
 ### 4.7.1. Class Diagrams
 En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
 
-![IMG-ClassDiagram]()
+![Class Diagrams](./assets/imgclassdiagram.png)
 
-[Link del Diagrama de Clases]()
+[Link del Diagrama de Clases](https://lucid.app/lucidchart/ebe83151-a551-403d-9e7e-f3523bc5b8fc/edit?viewport_loc=-110%2C-223%2C3121%2C1556%2CCpNsEQx_mjIY&invitationId=inv_fb64260f-5de2-43dd-96a6-8761ddfec43a)
 
 ### 4.7.2. Class Dictionary
 
-![IMG-ClassDictionary]()
-
-[Link del Diagrama de Clases]()
-
-## 4.8. Database Design
-En esta sección, se definirán las tablas y relaciones necesarias para almacenar y gestionar los datos de manera eficiente.
-**Entidades**:  
-
-### Payment:  
-| Atributo      | Descripción            |
-|---------------|------------------------|
-| id (PK)       | Identificador          |
-| institute_id  | Identificador de la institución (FK) |
-| amount        | Monto del pago         |
-| type_payment  | Tipo de pago           |
-
-
-### Membresy:  
-| Atributo            | Descripción                  |
-|---------------------|------------------------------|
-| id (PK)             | Identificador                |
-| membresy_type       | Tipo de membresía            |
-| membresy_description| Descripción de la membresía  |
-| initial_date        | Fecha inicial de la membresía|
-| final_date          | Fecha final de la membresía  |
-
-### Game:  
-| Atributo     | Descripción         |
-|--------------|---------------------|
-| id (PK)      | Identificador       |
-| difficulty   | Dificultad del juego|
-| disponibility| Disponibilidad      |
-| description  | Descripción del juego|
-
-### Achivements:  
-| Atributo     | Descripción         |
-|--------------|---------------------|
-| id (PK)      | Identificador       |
-| game_id (FK) | Identificador del juego asociado|
-| description  | Descripción del logro|
-| points       | Puntos del logro    |
-
-### Student:  
-| Atributo       | Descripción             |
-|----------------|-------------------------|
-| id (PK)        | Identificador           |
-| first_name     | Nombre                  |
-| last_name      | Apellido                |
-| institute_id (FK)| Identificador de la institución asociada|
-| city_id (FK)   | Identificador de la ciudad asociada|
-| client_address | Dirección del cliente   |
-
-### History_Game_Student:  
-| Atributo         | Descripción                     |
-|------------------|---------------------------------|
-| id (PK)          | Identificador                   |
-| student_id (FK)  | Identificador del estudiante asociado|
-| game_id (FK)     | Identificador del juego asociado|
-| date_has_played  | Fecha de juego                  |
-| time_played      | Tiempo jugado                   |
-| high_score       | Puntuación más alta             |
-
-### City:  
-| Atributo     | Descripción         |
-|--------------|---------------------|
-| id (PK)      | Identificador       |
-| city_name    | Nombre de la ciudad |
-| country_id (FK)| Identificador del país asociado|
-
-### Country:  
-| Atributo     | Descripción         |
-|--------------|---------------------|
-| id (PK)      | Identificador       |
-| country_name | Nombre del país     |
- 
-### Support:  
-| Atributo        | Descripción               |
-|-----------------|---------------------------|
-| solicitude_id (PK)| Identificador de solicitud|
-| creation_date   | Fecha de creación         |
-| student_id (FK) | Identificador del estudiante asociado|
-| solicitude_type| Tipo de solicitud         |
-| description     | Descripción de la solicitud|
-
-### Institute:  
-| Atributo         | Descripción                  |
-|------------------|------------------------------|
-| id (PK)          | Identificador                |
-| institute_name   | Nombre de la institución     |
-| institute_address| Dirección de la institución  |
-| city_id (FK)     | Identificador de la ciudad asociada|
-| institute_type   | Tipo de institución          |
-| membresy_id (FK) | Identificador de membresía asociada|
-
-### Personal_Autorized:  
-| Atributo       | Descripción             |
-|----------------|-------------------------|
-| personal_id (PK)| Identificador del personal autorizado|
-| first_name     | Nombre                  |
-| last_name      | Apellido                |
-| job_tittle     | Título de trabajo       |
-| phone_number   | Número de teléfono      |
-| institute_id (FK)| Identificador de la institución asociada|
-
-### Course:  
-| Atributo         | Descripción                  |
-|------------------|------------------------------|
-| id (PK)          | Identificador                |
-| course_name      | Nombre del curso             |
-| academic_level   | Nivel académico              |
-| institute_id (FK)| Identificador de la institución asociada|
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1"><strong>Clases</strong></td>
+            <td colspan="1"><strong>Significado</strong></td>
+		</tr>
+        <tr>
+            <td>Class User</td>
+            <td>Clase encargada de registrar usuarios, autenticar y gestionar cuentas.</td>
+        </tr>
+        <tr>
+            <td>Class tags</td>
+            <td>Esta clase se encarga de darle a los videojuegos etiquetas sobre que asignatura son y que tema están tratando, para darle una referencia al usuario sobre lo que trata el videojuego.</td>
+        </tr>
+        <tr>
+            <td>Class subjects</td>
+            <td>Esta clase recibe todas las asignaturas matemáticas disponibles en nuestro sistema.</td>
+        </tr>
+        <tr>
+            <td>Enum Subject</td>
+            <td>Adjunta las diferentes ramas que nuestra plataforma tendrá disponible para etiquetar los videojuegos.</td>
+        </tr>
+        <tr>
+            <td>Class Topics</td>
+            <td>Esta clase tiene métodos para que los usuarios pongan los etiquetados con los temas de cada asignatura que pertenecen a los videojuegos.</td>
+        </tr>
+        <tr>
+            <td>Class Report</td>
+            <td>Esta clase devuelve los reportes a usuarios personales, mostrando su rendimiento académico y la mejora continua que presentan dentro de la aplicación.</td>
+        </tr>
+        <tr>
+            <td>Class Videogame</td>
+            <td>Esta clase se encarga de dar inicio a los juegos, recibiendo a los jugadores y sus etiquetas.</td>
+        </tr>
+        <tr>
+            <td>Class gameState</td>
+            <td>Esta clase recibe el estado en que se encuentra los jugadores los videojuegos disponibles dentro de la plataforma.</td>
+        </tr>
+        <tr>
+            <td>Enum State</td>
+            <td>Esta clase presenta los estados activos que tendrán los jugadores dependiendo del proceso en que se encuentren dentro de nuestra aplicaicón.</td>
+        </tr>
+        <tr>
+            <td>Class educational_institution</td>
+            <td>Esta clase recibe las instituciones junto con sus usuarios pertenecientes a la organización institucional.</td>
+        </tr>
+        <tr>
+            <td>Class roomManager</td>
+            <td>Esta clase maneja al usuario encargado de crear salas de competencia y dandole funciones en este proceso.</td>
+        </tr>
+        <tr>
+            <td>Class Competition</td>
+            <td>Esta clase recibe a los participantes competidores y al encargado de crear o inciar la competencia.</td>
+        </tr>
+        <tr>
+            <td>Class table_Competition</td>
+            <td>Esta tabla devuelve los resultados obtenidos dentro de la competencia, mostrando los puestos en que quedaron los alumnos de acuerdo a sus errores y aciertos.</td>
+        </tr>
+        <tr>
+            <td>Class room</td>
+            <td>Esta clase permite a los usuarios acceder o el crear diferentes competencias para jugar con otros usuarios.</td>
+        </tr>
+	</tbody>
+</table>
 
 **Relaciones:**
 

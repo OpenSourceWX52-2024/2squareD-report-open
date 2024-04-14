@@ -1775,6 +1775,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">...</td>
 		</tr>
           <<tr>
+    <tr>
     <td colspan="1">US032</td>
     <td colspan="1">Evaluación del progreso de estudiantes</td>
     <td colspan="1">
@@ -1792,6 +1793,16 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Cuando</strong> el usuario finaliza la prueba,
         <br>
         <strong>Entonces</strong> el sistema evalúa los resultados de la prueba y muestra al usuario su progreso académico, incluyendo calificaciones, áreas de fortaleza y áreas de mejora.
+        <br><br>
+        <strong>Caso 02: Seguimiento de logros alcanzados</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está utilizando la plataforma educativa,
+        <br>
+        <strong>Y</strong> el usuario completa una tarea o actividad,
+        <br>
+        <strong>Cuando</strong> el usuario alcanza un logro o objetivo específico,
+        <br>
+        <strong>Entonces</strong> el sistema registra el logro y lo muestra al usuario como parte de su progreso académico.
     </td>
     <td colspan="1">EP006</td>
 </tr>
@@ -1814,6 +1825,16 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Cuando</strong> el usuario finaliza el nivel,
         <br>
         <strong>Entonces</strong> el sistema evalúa la dificultad del nivel en base a la experiencia del usuario y proporciona una retroalimentación sobre su equilibrio y desafío.
+        <br><br>
+        <strong>Caso 02: Ajuste dinámico de dificultad</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está jugando un videojuego en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario muestra un patrón de juego coherente,
+        <br>
+        <strong>Cuando</strong> el sistema detecta un nivel de dificultad inadecuado para el usuario,
+        <br>
+        <strong>Entonces</strong> el sistema ajusta dinámicamente la dificultad del juego para adaptarse al nivel de habilidad del usuario.
     </td>
     <td colspan="1">EP006</td>
 </tr>
@@ -1836,6 +1857,16 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Cuando</strong> el usuario finaliza la actividad educativa,
         <br>
         <strong>Entonces</strong> el sistema evalúa la eficacia de los elementos de enseñanza, como preguntas, ejercicios o tutoriales, en base al conocimiento adquirido por el usuario durante el juego.
+        <br><br>
+        <strong>Caso 02: Retroalimentación en tiempo real</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está jugando un juego educativo en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario realiza una acción o responde a una pregunta,
+        <br>
+        <strong>Cuando</strong> el usuario proporciona una respuesta incorrecta o incompleta,
+        <br>
+        <strong>Entonces</strong> el sistema proporciona retroalimentación inmediata para corregir el error y mejorar la comprensión del usuario.
     </td>
     <td colspan="1">EP006</td>
 </tr>
@@ -1858,6 +1889,16 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Cuando</strong> el usuario selecciona la opción para ver su progreso,
         <br>
         <strong>Entonces</strong> el sistema muestra una vista general del progreso del usuario, incluyendo estadísticas, logros alcanzados y áreas de mejora.
+        <br><br>
+        <strong>Caso 02: Seguimiento de objetivos personales</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está utilizando la plataforma educativa,
+        <br>
+        <strong>Y</strong> el usuario establece objetivos de aprendizaje específicos,
+        <br>
+        <strong>Cuando</strong> el usuario realiza actividades relacionadas con sus objetivos,
+        <br>
+        <strong>Entonces</strong> el sistema muestra el progreso del usuario hacia el logro de dichos objetivos, proporcionando una visión clara de su desempeño personal.
     </td>
     <td colspan="1">EP006</td>
 </tr>
@@ -1880,6 +1921,16 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Cuando</strong> el usuario selecciona la opción para ver su progreso,
         <br>
         <strong>Entonces</strong> el sistema despliega de manera clara y organizada las estadísticas relevantes sobre el progreso del usuario, como puntajes, tiempos de juego y áreas de mejora.
+        <br><br>
+        <strong>Caso 02: Personalización de la visualización</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario desea enfocarse en áreas específicas de su progreso,
+        <br>
+        <strong>Cuando</strong> el usuario selecciona preferencias de visualización,
+        <br>
+        <strong>Entonces</strong> el sistema permite al usuario personalizar la visualización de los datos según sus necesidades y preferencias individuales.
     </td>
     <td colspan="1">EP006</td>
 </tr>
@@ -1904,6 +1955,16 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Y</strong> el usuario selecciona la opción de reportar un error,
         <br>
         <strong>Entonces</strong> el sistema registra el reporte de error y lo envía al equipo de soporte técnico para su revisión y solución.
+        <br><br>
+        <strong>Caso 02: Solicitud de asistencia técnica</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario necesita ayuda o asistencia técnica,
+        <br>
+        <strong>Cuando</strong> el usuario accede al apartado de soporte técnico,
+        <br>
+        <strong>Entonces</strong> el sistema le permite al usuario enviar una solicitud de asistencia técnica, proporcionando detalles sobre el problema o pregunta.
     </td>
     <td colspan="1">EP007</td>
 </tr>
@@ -1926,6 +1987,16 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Cuando</strong> el sistema muestra una lista clara y organizada de preguntas y respuestas comunes,
         <br>
         <strong>Entonces</strong> el usuario puede resolver sus dudas de manera rápida y sencilla.
+        <br><br>
+        <strong>Caso 02: Búsqueda de preguntas específicas</strong>
+        <br><br>
+        <strong>Dado que</strong> el usuario está en la plataforma,
+        <br>
+        <strong>Y</strong> el usuario tiene una pregunta específica o problema,
+        <br>
+        <strong>Cuando</strong> el usuario utiliza la función de búsqueda en el apartado de preguntas frecuentes,
+        <br>
+        <strong>Entonces</strong> el sistema muestra resultados relevantes que ayudan al usuario a encontrar respuestas específicas a sus preguntas.
     </td>
     <td colspan="1">EP007</td>
 </tr>

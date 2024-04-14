@@ -2176,31 +2176,75 @@ E02:
 
 <tr>
             <td colspan="1">BS040</td>
-            <td colspan="1">Análisis de los beneficios del plan premium</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+        <td colspan="1">Análisis de los beneficios del plan premium</td>
+        <td colspan="1"><strong>Como</strong> administrador, <strong>quiero</strong> realizar un análisis detallado de los beneficios ofrecidos por el plan premium, <strong>para</strong> comprender su impacto en la satisfacción del cliente y en la rentabilidad del negocio.</td>
+        <td colspan="5">
+        <strong>E01: Dado que</strong> el administrador accede al panel de control, <br>
+        <strong>Cuando</strong> selecciona la opción de análisis de beneficios del plan premium, <br>
+        <strong>Entonces</strong> debe poder visualizar estadísticas detalladas sobre el uso y la satisfacción de los usuarios con respecto al plan premium. <br> 
+        <br>
+        <strong>E02: Dado que</strong> el administrador realiza un análisis comparativo, <br>
+        <strong>Cuando</strong> compara los beneficios del plan premium con otras ofertas de la competencia, <br>
+        <strong>Entonces</strong> debe obtener insights sobre cómo mejorar y posicionar mejor el plan premium en el mercado. <br> 
+        </td>
+        <td colspan="1">EP008</td>
 		</tr>          
 		<tr>
             <td colspan="1">TS041</td>
             <td colspan="1">Detección y establecimiento de plan</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como desarrollador</strong>, <strong>quiero</strong> implementar un sistema que detecte automáticamente el plan más adecuado para el usuario según sus necesidades y preferencias, <strong>para</strong> facilitar el proceso de selección y establecimiento del plan.</td>
+            <td colspan="5">
+            <strong>E01: Dado que</strong> la plataforma recibe la información de perfil y comportamiento del usuario, <br>
+            <strong>Cuando</strong> se procesan estos datos utilizando algoritmos de detección, <br>
+            <strong>Entonces</strong> la plataforma debe determinar el plan más adecuado para el usuario. <br>
+            <br>
+            <strong>E02: Dado que</strong> se han establecido criterios claros para cada plan disponible, <br>
+            <strong>Cuando</strong> se comparan los requisitos del usuario con los criterios de cada plan, <br>
+            <strong>Entonces</strong> se identifica el plan que mejor se ajusta a las necesidades del usuario. <br>
+            <br>
+            <strong>E03: Dado que</strong> se ha identificado el plan óptimo para el usuario, <br>
+            <strong>Cuando</strong> se confirma la selección del plan sugerido, <br>
+            <strong>Entonces</strong> la plataforma debe establecer automáticamente ese plan para el usuario y proporcionar acceso a todas las funcionalidades asociadas.
+            </td>
+            <td colspan="1">EP008</td>
 		</tr>          
 		<tr>
             <td colspan="1">TS042</td>
             <td colspan="1">Implementación de medios de pago</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como desarrollador</strong>, <strong>quiero</strong> implementar diversos medios de pago en la plataforma, <strong>para</strong> ofrecer opciones flexibles y seguras a los usuarios al momento de realizar transacciones.</td>
+            <td colspan="5">
+            <strong>E01: Dado que</strong> un usuario desea realizar una transacción en la plataforma, <br>
+            <strong>Cuando</strong> selecciona la opción de pago, <br>
+            <strong>Entonces</strong> la plataforma debe mostrar una lista de medios de pago disponibles. <br>
+            <br>
+            <strong>E02: Dado que</strong> un usuario elige un medio de pago, <br>
+            <strong>Cuando</strong> proporciona los detalles necesarios, como información de la tarjeta, <br>
+            <strong>Entonces</strong> la plataforma debe procesar el pago de forma segura y confiable. <br>
+            <br>
+            <strong>E03: Dado que</strong> se ha completado una transacción con éxito, <br>
+            <strong>Cuando</strong> se confirma el pago, <br>
+            <strong>Entonces</strong> la plataforma debe proporcionar una confirmación al usuario y actualizar su estado de membresía si corresponde.
+            </td>
+            <td colspan="1">EP008</td>
 		</tr>
 		<tr>
-            <td colspan="1">BS043</td>
+                <td colspan="1">BS043</td>
             <td colspan="1">Exposición de métricas de la plataforma</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como inversor,</strong> <strong>quiero</strong> tener acceso a métricas clave de la plataforma, <strong>para</strong> evaluar el rendimiento y tomar decisiones de inversión informadas.</td>
+            <td colspan="5">
+                <strong>E01: </strong> <strong>Dado que</strong> un inversor accede al panel de métricas, <br>
+                <strong>Cuando</strong> se cargan los datos de rendimiento de la plataforma, <br>
+                <strong>Entonces</strong> el panel debe mostrar métricas como el tiempo de carga, la velocidad de respuesta y el crecimiento de usuarios. <br>
+                <br>
+                <strong>E02: </strong> <strong>Dado que</strong> se muestran las métricas de la plataforma, <br>
+                <strong>Cuando</strong> un inversor analiza los datos, <br>
+                <strong>Entonces</strong> debe poder identificar tendencias y tomar decisiones de inversión basadas en el rendimiento histórico y las proyecciones futuras. <br>
+                <br>
+                <strong>E03: </strong> <strong>Dado que</strong> se realizan actualizaciones en la plataforma, <br>
+                <strong>Cuando</strong> se monitorea el impacto de las actualizaciones en las métricas, <br>
+                <strong>Entonces</strong> los cambios en el rendimiento deben reflejarse en el panel de control para evaluar el impacto en el valor de la inversión.
+            </td>
+            <td colspan="1">EP008</td>
 		</tr>
   		<tr>
             <td colspan="1">US044</td>

@@ -2427,6 +2427,19 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
 
 #### 5.2.1.2. Sprint Backlog 1
 
+| Sprint | Implementar el frontend de las principales historias de usuario del product backlog |
+| ------ |----------------------------------------------------------------------------------- |
+| **User Story Id** | **Title** | **Work-Item / Task Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| HU-08 | |
+| | | 08.1 | Implementar fake-api | Implementar fake api para posts o gets de entidades | 3 | Miguel Huaman | Done |
+| | | 08.2 | Implementar estilos | Diseñar la página con los Styles Guidelines definidos | 4 | Miguel Huaman | Done |
+| | | 08.3 | Implementar stepper | El stepper consta de 3 pasos y cada uno es de un componente | 4 | Miguel Huaman | Done |
+| HU-04 | |
+| | | 08.1 | Implementar fake-api | Implementar fake api para posts o gets de entidades | 3 | Paolo Espejo | Done |
+| | | 08.2 | Implementar estilos | Diseñar la página con los Styles Guidelines definidos | 2 | Paolo Espejo | Done |
+| | | 08.3 | Implementar stepper | El stepper consta de 3 pasos y cada uno es de un componente | 5 | Paolo Espejo | Done |
+
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review

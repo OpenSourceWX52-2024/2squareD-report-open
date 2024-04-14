@@ -2787,6 +2787,11 @@ Esta sección no fue posible integrar en la presente entrega debido a que el có
 En este apartado se hace presenta la implementación/despliegue de la landing page del producto solución MathOpenPlay
 
 [Enlace de MathOpenPlay Landing Page](https://opensourcewx52-2024.github.io/upc-pre-202401--si729-WX52-2SquareD-Landing-Page/)
+
+<img src="./assets/LandinPageMathOpenPlay.PNG" />
+
+[Enlace de Presentación del Landing Page](
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b298_upc_edu_pe/EQ9MKidOC2BIuXrLP4I3TjgBnxVRlqiWdhyfBXsrYxsGpg?e=jFc1o5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 No se emplearon servicios adicionales, ya que este primer Sprint se centró exclusivamente en la implementación del landing page.
@@ -2798,6 +2803,12 @@ Como mencionamos anteriormente, aprovechamos GitHub Pages para automatizar el de
 [Enlace de MathOpenPlay Landing Page](https://opensourcewx52-2024.github.io/upc-pre-202401--si729-WX52-2SquareD-Landing-Page/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Las actividades para el presente Sprint se repartieron en base a las secciones de la landing page que se plantearon como equipo previamente, para ello, se realizaron primero los styles en un archivo aparte .css y luego entre todo el equipo se desarrolló el index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+<img src="./assets/commits.PNG" />
+
+<img src="./assets/network graph.PNG" >
 
 # Conclusiones
 ### Conclusiones y recomendaciones

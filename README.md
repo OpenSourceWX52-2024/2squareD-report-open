@@ -1358,6 +1358,14 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 			</tr>
         <tr>
             <td colspan="1">EP008</td>
+            <td colspan="1">Monetización de la plataforma</td>
+            <td colspan="1">
+            <strong>Como</strong> stakeholder de la plataforma <strong>quiero</strong>  informarme sobre los planes de monetización de la aplicación<strong>para</strong> saciar mis intereses mediante los beneficios que brinda la plataforma
+            </td>
+		</tr>
+				</tr>
+        <tr>
+            <td colspan="1">EP009</td>
             <td colspan="1">Implementación de la experiencia UI/UX de la landing page</td>
             <td colspan="1">
             <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page<strong>para</strong> explorar sus diferentes secciones y funcionalidades

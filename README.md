@@ -45,10 +45,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Conclusiones |
-| - |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Carpio Cornejo, Miguel Ángel** <br> ***TB1:*** Realizó entrevista al segmento objetivo requerido, compartió ideas del proyecto al público objetivo, recaudó información necesaria para priorizar las características del producto. <br> <br> **Apellido Apellido Nombre Nombre** <br> ***TB1:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TP:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br>                                                                                                                                                                              | ***TB1:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TP:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TB2:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TF:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. | 
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Carpio Cornejo, Miguel Ángel*** <br> ***TB1:*** Lideró reuniones de avance donde comunicó de manera objetiva los resultados y progresos del proyecto a un público diverso, incluyendo miembros del equipo con diferentes personalidades y puntos de vista, así como stakeholders externos. <br><br> ***Apellido Apellido Nombre Nombre*** <br> ***TB1:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. | ***TB1:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TP:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TB2:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TF:*** FEtiam imperdiet quam condimentum velit tempor porttitor. |
+| Criterio específico | Acciones realizadas | Conclusiones |
+| - | - | - |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Carpio Cornejo, Miguel Ángel** <br> ***TB1:*** Realizó entrevista al segmento objetivo requerido, compartió ideas del proyecto al público objetivo, recaudó información necesaria para priorizar las características del producto. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br> **Apellido Apellido Nombre Nombre** <br> ***TB1:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TP:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br> | ***TB1:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TP:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TB2:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TF:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. | 
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Carpio Cornejo, Miguel Ángel*** <br> ***TB1:***  <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br><br> ***Apellido Apellido Nombre Nombre*** <br> ***TB1:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. | ***TB1:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TP:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TB2:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TF:*** FEtiam imperdiet quam condimentum velit tempor porttitor. |
 
 ---
 # Contenido 
@@ -1390,12 +1390,11 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             Registro de usuarios estudiantes en la plataforma
             </td>
             <td colspan="1">
-            <strong>Como</strong> usuario estudiante <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
+            <strong>Como</strong> usuario estudiante <strong>quiero
+            </strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.	
             </td>
             <td colspan="5">
             <strong>E01: Registro Exitoso</strong>
-            <br><br>
-            <strong>Caso 01: Registro con e-mail</strong>
             <br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
@@ -1403,7 +1402,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> el sistema muestre el formulario de registro 
             <br>
-            <strong>Y</strong> el usuario estudiante llene todo el formulario con sus datos y su dirección e-mail institucional
+            <strong>Y</strong> el usuario estudiante llene todo el formulario con sus datos
             <br>
             <strong>Y</strong> el usuario estudiante seleccione la opción "registrar cuenta"
             <br>
@@ -1411,9 +1410,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que su cuenta ha sido registrada exitosamente.
             <br><br>
-            <strong>E02: Registro Fallido</strong>
-            <br><br>
-            <strong>Caso 01: Datos inválidos</strong>
+            <strong>E02: Registro Fallido por datos inválidos</strong>
             <br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
@@ -1421,7 +1418,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Cuando</strong> el sistema muestre el formulario de registro 
             <br>
-            <strong>Y</strong> el usuario estudiante llene todo el formulario con sus datos y su dirección e-mail institucional
+            <strong>Y</strong> el usuario estudiante llene todo el formulario con sus datos
             <br>
             <strong>Y</strong> el usuario estudiante seleccione la opción "registrar cuenta"
             <br>
@@ -1429,8 +1426,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
             <br><br>
-            <u><strong>Caso 02: Datos incompletos</strong></u>
-            <br><br>
+            <strong>E03: Registro fallido por datos incompletos</strong>
+            <br>
             <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
             <br>
             <strong>Y</strong> el usuario estudiante selecciona la opción de registro
@@ -1444,69 +1441,65 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Y</strong> el sistema detecte que el formulario de registro esté incompleto
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
-            <br><br>
+            <br>
             </td>
-            <td colspan="1">EP01</td>
+            <td colspan="1">EP001</td>
 		</tr>
         <tr>
             <td colspan="1">US002</td>
             <td colspan="1">Registro de instituciones educativas en la plataforma</td>
             <td colspan="1">
-            <strong>Como</strong> usuario esudcador <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.
+            <strong>Como</strong> usuario encargado de una institución educativa <strong>quiero</strong> crearme una cuenta <strong>para</strong> poder acceder a la aplicación y sus funciones.
             </td>
             <td colspan="5">
-            <strong>E01: Registro Exitoso</strong>
-            <br><br>
-            <strong><u>Caso 01: Registro con e-mail</u></strong>
-            <br><br>
-            <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
+             <strong>E01: Registro Exitoso</strong>
             <br>
-            <strong>Y</strong> el usuario educador selecciona la opción de registro
+            <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario estudiante selecciona la opción de registro
             <br>
             <strong>Cuando</strong> el sistema muestre el formulario de registro 
             <br>
-            <strong>Y</strong> el usuario educador llene todo el formulario con sus datos y su dirección e-mail institucional
+            <strong>Y</strong> el usuario estudiante llene todo el formulario con sus datos
             <br>
-            <strong>Y</strong> el usuario educador seleccione la opción "registrar cuenta"
+            <strong>Y</strong> el usuario estudiante seleccione la opción "registrar cuenta"
             <br>
-            <strong>Y</strong> el sistema verifique que los datos colocados por el usuario educador existen
+            <strong>Y</strong> el sistema verifique los datos colocados por el usuario estudiante
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que su cuenta ha sido registrada exitosamente.
             <br><br>
-            <strong>E02: Registro Fallido</strong>
-            <br><br>
-            <u><strong>Caso 01: Datos inválidos</strong></u>
-            <br><br>
-            <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
+            <strong>E02: Registro Fallido por datos inválidos</strong>
             <br>
-            <strong>Y</strong> el usuario educador selecciona la opción de registro
+            <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario estudiante selecciona la opción de registro
             <br>
             <strong>Cuando</strong> el sistema muestre el formulario de registro 
             <br>
-            <strong>Y</strong> el usuario educador llene todo el formulario con sus datos
+            <strong>Y</strong> el usuario estudiante llene todo el formulario con sus datos
             <br>
-            <strong>Y</strong> el usuario educador seleccione la opción "registrar cuenta"
+            <strong>Y</strong> el usuario estudiante seleccione la opción "registrar cuenta"
             <br>
-            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario cliente son incorrectos
+            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario estudiante son incorrectos
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por los datos inválidos.
             <br><br>
-            <u><strong>Caso 02: Datos incompletos</strong></u>
-            <br><br>
-            <strong>Dado que</strong> el usuario educador ingresa por primera vez a la aplicación
+            <strong>E03: Registro fallido por datos incompletos</strong>
             <br>
-            <strong>Y</strong> el usuario educador selecciona la opción de registro
+            <strong>Dado que</strong> el usuario estudiante ingresa por primera vez a la aplicación
+            <br>
+            <strong>Y</strong> el usuario estudiante selecciona la opción de registro
             <br>
             <strong>Cuando</strong> el sistema muestre el formulario de registro 
             <br>
-            <strong>Y</strong> el usuario educador llene solo algunas partes del formulario con sus datos
+            <strong>Y</strong> el usuario estudiante llene solo algunas partes del formulario con sus datos
             <br>
-            <strong>Y</strong> el usuario educador seleccione la opción "registrar cuenta"
+            <strong>Y</strong> el usuario estudiante seleccione la opción "registrar cuenta"
             <br>
-            <strong>Y</strong> el sistema detecte que los datos colocados por el usuario educador son incorrectos
+            <strong>Y</strong> el sistema detecte que el formulario de registro esté incompleto
             <br>
             <strong>Entonces</strong> el sistema muestra un mensaje informando que no se ha podido registrar la cuenta por no llenar el formulario completamente.
-            <br><br>
+            <br>
             </td>
             <td colspan="1">EP001</td>
 	</tr>
@@ -1514,31 +1507,34 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">US003</td>
             <td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
             <td colspan="1">
-            <strong>Como </strong> usuario estudiante quiero iniciar sesión en mi cuenta <strong>para</strong> utilizar los videojuegos de estudio.
+            <strong>Como </strong> usuario quiero iniciar sesión en mi cuenta <strong>para</strong> utilizar los videojuegos de estudio.
             </td>
             <td colspan="5">
             <strong>E01: Inicio de sesión exitoso</strong>
-            <br><br>
-            <strong>Caso 01: Inicio de sesión con e-mail</strong>
-            <br><br>
-            <strong>Dado que</strong> el usuario estudiante se encuentra en la plataforma
             <br>
-            <strong>Y</strong> el usuario estudiante selecciona la opción iniciar sesión
+            <strong>Dado que</strong> el usuario se encuentra en la plataforma
             <br>
-            <strong>Y</strong> el usuario estudiante hace clic en la opción estudiante???
+            <strong>Y</strong> el usuario selecciona la opción iniciar sesión
             <br>
-            <strong>Cuando</strong> el usuario estudiante ingrese su correo y contraseña
+            <strong>Cuando</strong> el usuario ingrese su correo y contraseña en el formulario
             <br>
-            <strong>Y</strong> el usuario estudiante seleccione la opción iniciar sesión
+            <strong>Y</strong> el usuario seleccione la opción iniciar sesión
             <br>
-            <strong>Entonces</strong> el sistema verifica que los datos existen dentro de la base de datos???
+            <strong>Entonces</strong> el sistema verifica que los datos existen dentro de la base de datos
             <strong>Y</strong> el sistema muestra la interfaz inicial de la plataforma.
             <br><br>
-            <strong>E02: Inicio de sesión fallido</strong> 
-            <br><br>
-            <strong>Caso 01: Correo e-mail incorrecto</strong>
-            <strong>Caso 02: Contraseña incorrecta</strong>
-            <strong>Caso 03: Correo inexistente en la base de datos</strong>
+            <strong>E02: Inicio de sesión fallido por credenciales incorrectas o inexistentes</strong> 
+            <strong>Dado que</strong> el usuario se encuentra en la plataforma
+            <br>
+            <strong>Y</strong> el usuario selecciona la opción iniciar sesión
+            <br>
+            <strong>Cuando</strong> el usuario ingrese su correo y contraseña en el formulario
+            <br>
+            <strong>Y</strong> el usuario seleccione la opción iniciar sesión
+            <br>
+            <strong>Entonces</strong> el sistema detecta que los datos no existen dentro de la base de datos
+            <strong>Y</strong> el sistema muestra un mensaje indicando que las credenciales son incorrectas o inexistentes.
+            <br>
             </td>
             <td colspan="1">EP001</td>
 		</tr>

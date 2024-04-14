@@ -2500,14 +2500,79 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>upc-pre-202401--si729-WX52-2SquareD-Landing-Page</td>
+      <td>develop</td>
+      <td>3d67105</td>
+      <td>feat: index and styles(navbar and header)</td>
+      <td>-</td>
+      <td>13/04/2024</td>
+    </tr>
+    <tr>
+      <td>upc-pre-202401--si729-WX52-2SquareD-Landing-Page</td>
+      <td>develop</td>
+      <td>ec3e872</td>
+      <td>feat: add additional features (section: additional)</td>
+      <td>-</td>
+      <td>13/04/2024</td>
+    </tr>
+    <tr>
+      <td>upc-pre-202401--si729-WX52-2SquareD-Landing-Page</td>
+      <td>develop</td>
+      <td>4a8875c</td>
+      <td>feat: add additional features (section: about us)</td>
+      <td>-</td>
+      <td>13/04/2024</td>
+    </tr>
+    <tr>
+      <td>upc-pre-202401--si729-WX52-2SquareD-Landing-Page</td>
+      <td>develop</td>
+      <td>b572834</td>
+      <td>feature: services</td>
+      <td>-</td>
+      <td>13/04/2024</td>
+    </tr>
+    <tr>
+      <td>upc-pre-202401--si729-WX52-2SquareD-Landing-Page</td>
+      <td>develop</td>
+      <td>7e14ada</td>
+      <td>feat(feature): update Formulario de Contacto in index.html</td>
+      <td>-</td>
+      <td>13/04/2024</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+Esta sección no fue posible integrar en la presente entrega debido a que el código realizado fue para el desarrollo de la landing page.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+En este apartado se hace presenta la implementación/despliegue de la landing page del producto solución MathOpenPlay
+
+[Enlace de MathOpenPlay Landing Page](https://opensourcewx52-2024.github.io/upc-pre-202401--si729-WX52-2SquareD-Landing-Page/)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+No se emplearon servicios adicionales, ya que este primer Sprint se centró exclusivamente en la implementación del landing page.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Como mencionamos anteriormente, aprovechamos GitHub Pages para automatizar el despliegue del landing page, asegurando que refleje todos los cambios realizados por nuestro equipo. GitHub Pages se integra perfectamente con nuestra organización en GitHub, utilizando la rama principal del repositorio para el despliegue.
+
+[Enlace de MathOpenPlay Landing Page](https://opensourcewx52-2024.github.io/upc-pre-202401--si729-WX52-2SquareD-Landing-Page/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 

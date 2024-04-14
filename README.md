@@ -2932,31 +2932,22 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 ### 4.4.1. Web Applications Wireframes
 Pantalla relacianada a la :
 
-<img src="./assets/wireApp1.PNG"/>
-<img src="./assets/wireApp2.PNG"/>
-<img src="./assets/wireApp3.PNG"/>
-<img src="./assets/wireApp4.PNG"/>
-<img src="./assets/wireApp5.PNG"/>
-<img src="./assets/wireApp6.PNG"/>
-<img src="./assets/wireApp7.PNG"/>
-<img src="./assets/wireApp8.PNG"/>
+<img src="./assets/wireApp1.png"/>
+<img src="./assets/wireApp2.png"/>
+<img src="./assets/wireApp3.png"/>
+<img src="./assets/wireApp4.png"/>
+<img src="./assets/wireApp5.png"/>
+<img src="./assets/wireApp6.png"/>
+<img src="./assets/wireApp7.png"/>
+<img src="./assets/wireApp8.png"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
 
-[Link LucidChart]()
-
-**Usar Goal: Como usuario, quiero ...**
-
-**Task Flow:**
-
-![IMAGEN-WireFlow]()
-
-**Usar Goal: Como usuario, quiero ...**
-
-**Task Flow:**
-
-![IMAGEN-WireFlow]()
+<img src="./assets/Wireflow Diagram.png"/>
+<img src="./assets/logout.png"/>
+<img src="./assets/EntrarJuego.png"/>
+<img src="./assets/progreso.png"/>
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección, se presenta el diseño viusal y de interacción en formato de mockups del producto solución.

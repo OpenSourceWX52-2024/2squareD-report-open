@@ -2824,11 +2824,16 @@ Hemos identificado como equipo que a lo largo de esta entrega tenemos como princ
 
 ---
 # Bibliografía
+
+Acuña Acuña, E. G., & Salas Castro, F. . (2023). *Aprendizaje interactivo en matemáticas discretas con nuevas tecnologías.* EDU REVIEW. International Education and Learning Review Revista Internacional De Educación Y Aprendizaje, 11(3), 261–279. Recuperado de **[edu review](https://doi.org/10.37467/revedu.v11.4968)** [Consulta: 13 de abril de 2024]
+
 Aschraft, M.H. (2017). *Mark human memory and cognition* Editorial Universidad de Nevada. [Consulta: 13 de abril de 2024]
 
 Bernardo, J., y Basterretche, J. (2018). *Técnicas y recursos para motiva a los alumnos.* Editorial Madrid, Rialp. [Consulta: 11 de abril del 2024]
 
 Cabeza, P. (2023) *Capacitación en gamificación para fortalecer las prácticas docentes del Instituto Santa Ana.* Recuperado de **[Universidad Siglo 21](https://repositorio.21.edu.ar/handle/ues21/28736)** [Consulta: 13 de abril de 2024]
+
+Castillo Córdova , G. E. ., Jiménez Guerrero. , S. V. ., Lapo Reyes, C. I. ., & Castillo Torres., J. A. . (2024). *Incidencias de las habilidades tecnológicas en docentes de educación básica. Reincisol.*, 3(5), 154–178. Recuperado de **[Reincisol](https://doi.org/10.59282/reincisol.V3(5)154-178)** [Consulta: 13 de abril de 2024]
 
 Domain Driven Design. (2019, 21 de abril). *Developing the ubiquituos language*. Recuperado de **[Domain Driven Deisgn](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)** [Consulta: 3 de abril de 2024]
 
@@ -2839,15 +2844,21 @@ Federico José Arena, Pau Luque, Diego Moreno Cruz. (2021). *Razonamiento juríd
 
 Fernández-Lara, S. (2020) *¿Son los videojuegos herramientas adecuadas para aprender a aprender? Revista Colombiana de Educación, (85), 101-122*. Recuperado de **[ScyELO](https://doi.org/10.17227/rce.num85-12500)** [Consulta: 13 de abril de 2024]
 
+Lara, C., Melo, N., Gomez, S. (2023). *Prácticas innovadoras en el aula un enfoque metodológico cualitativo.* Recuperado de **[Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=9281980)** [Consulta: 13 de abril de 2024]
+
 Luna, Miranda (2020, 8 de enero). *Dinámicas mentales. Juegos que fortalecen tus capacidades cognitivas y de razonamiento.* Recuperado de **[Gran Hermandad Blanca](https://hermandadblanca.org/dinamicas-mentales-juegos-fortalecen-tus-capacidades-cognitivas-razonamiento/)** [Consulta: 25 de marzo de 2024]
 
 Mauroner, O. (2019). *Gamificación en la gestión y otros contextos ajenos al juego: comprensión de los elementos del juego, la motivación, los sistemas de recompensa y los tipos de usuarios*. Revista Abierta de Negocios y Gestión, 7, 1815-1830.doi:10.4236/ojbm.2019.74125 [Consulta: 13 de abril de 2024]
 
 Rodríguez,  A.  J.  (2021).  *Competencias  digitales  docentes  y  su estado en el contexto virtual*. Revista Peruana de Investigación e Innovación Educativa, 1(2), 1-9. [Consulta: 13 de abril de 2024]
 
+Triveños, D. (2023). *Tolerancia a la frustración y resultados satisfactorios de matemáticas en educandos de una Institución Educativa de Maras, 2022*. Recuperado de **[Repositorio UCV](https://repositorio.ucv.edu.pe/handle/20.500.12692/111064)** [Consulta: 13 de abril de 2024] 
+
 Universidad Internacional del Ecuador (2020). *Competencias y herramientas digitales para el do-cente en el contexto COVID-19*. Recuperado de **[Universidad Internacional del Ecuador](https://www.uide.edu.ec/competencias-y-herramientas-digitales-pa-ra-el-docente-en-el-contexto-covid-19/)** [Consulta: 13 de abril de 2024]
 
+Valarezo, E., Vimos, L. (2023). *“Las nuevas herramientas tecnológicas y el aprendizaje significativo en el área de matemática”.* Recuperado de **[Universidad Técnica de Cotopaxi](https://repositorio.utc.edu.ec/handle/27000/11568)** [Consulta: 13 de abril de 2024]
 
+Zambrano, J. (2023). *Desarrollo de competencias digitales a través de la gamificación como estrategia en estudiantes de grado noveno.* Recuperado de **[Universidad Pedagógica Nacional](http://upnblib.pedagogica.edu.co/handle/20.500.12209/18916)** [Consulta: 13 de abril de 2024]
 
  ---
 # Anexos

@@ -813,6 +813,12 @@ Entrevistado 2
 	</tbody>
 </table>
 
+Resumen: La docente en educación menciona que la institución enfrenta varios retos en el ámbito educativo actual, entre ellos, el bajo rendimiento escolar de los estudiantes y la necesidad de adaptarse a las demandas contemporáneas. Destaca la importancia de la formación docente continua y flexible, así como la creación de ambientes de aprendizaje dinámicos. Además, enfatiza la relevancia de desarrollar competencias digitales y la implementación de estrategias innovadoras para mejorar los procesos de enseñanza y aprendizaje.
+
+En cuanto a la formación docente, resalta la necesidad de una capacitación permanente y actualizada, proporcionada por equipos especializados. Estos equipos deben estar equipados con teorías y conocimientos actualizados que respondan a las demandas cambiantes del mundo actual. Asimismo, destaca la importancia de que los docentes sean innovadores y estén dispuestos a utilizar diversas estrategias y herramientas para generar un cambio significativo en los procesos de aprendizaje, reconociendo que el mundo está en constante evolución y los métodos de enseñanza deben adaptarse en consecuencia.
+
+Por otro lado, la docente también aborda el uso de videojuegos didácticos como herramientas educativas y menciona la necesidad de familiarizarse con ellos. Señala que estos juegos pueden ser útiles para mejorar la comprensión lectora, las habilidades matemáticas y otros aspectos del aprendizaje. Sin embargo, expresa preocupaciones sobre posibles desventajas, como el desarrollo de comportamientos agresivos o la adicción a los videojuegos, y destaca la importancia de implementarlos de manera cuidadosa y con el apoyo adecuado para maximizar su efectividad educativa.  
+
 Entrevistado 3
 
 <table border="1" style="text-align: left;">

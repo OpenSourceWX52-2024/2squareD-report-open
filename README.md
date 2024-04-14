@@ -2734,19 +2734,7 @@ Dado</strong> que El usuario intenta acceder a la landing page desde un disposit
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
       <td>5</td>
     </tr>
-     <tr>
-      <td>01</td>
-      <td>HU-13</td>
-      <td>Visualización de características de la aplicación web</td>
-      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
-    </tr>
-     <tr>
-      <td>01</td>
-      <td>HU-13</td>
-      <td>Visualización de características de la aplicación web</td>
-      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+    
     </tr>
   </tbody>
 </table>
@@ -2963,7 +2951,15 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 Pantalla relacianada a la :
-![WIREFRAME-WebApplication]()
+
+<img src="./assets/wireApp1.PNG"/>
+<img src="./assets/wireApp2.PNG"/>
+<img src="./assets/wireApp3.PNG"/>
+<img src="./assets/wireApp4.PNG"/>
+<img src="./assets/wireApp5.PNG"/>
+<img src="./assets/wireApp6.PNG"/>
+<img src="./assets/wireApp7.PNG"/>
+<img src="./assets/wireApp8.PNG"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
@@ -2984,6 +2980,15 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección, se presenta el diseño viusal y de interacción en formato de mockups del producto solución.
+
+<img src="./assets/mockApp1.PNG"/>
+<img src="./assets/mockApp2.PNG"/>
+<img src="./assets/mockApp3.PNG"/>
+<img src="./assets/mockApp4.PNG"/>
+<img src="./assets/mockApp5.PNG"/>
+<img src="./assets/mockApp6.PNG"/>
+<img src="./assets/mockApp7.PNG"/>
+<img src="./assets/mockApp8.PNG"/>
 
 ![MOCK_UP_WEB APPLICATION]()
 ### 4.4.4. Web Applications User Flow Diagrams 

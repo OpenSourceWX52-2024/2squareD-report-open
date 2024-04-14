@@ -893,8 +893,8 @@ La falta de atención de los estudiantes y la necesidad de mejorar las habilidad
         <tr>
             <td>
             <strong>Nombre del entrevistador</strong>
-            <br>Sharon Antuanet Ivet 
-            <br>Barrial Marin
+            <br>Pietro Gerardo
+            <br>Minaya Mundines
             </td>
         </tr>
         <tr>
@@ -1704,37 +1704,79 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <tr>
             <td colspan="1">US014</td>
             <td colspan="1">Agregar funcionalidades de barra de navegación </td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> quiero que se agreguen funcionalidades adicionales a la barra de navegación de la plataforma, <strong>para</strong> facilitar la navegación y el acceso a diferentes secciones y características</td>
+            <td colspan="5">
+            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+            <strong>Cuando</strong> la página se carga correctamente, <br>
+            <strong>Entonces</strong> Entonces la barra de navegación debe mostrar todas las funcionalidades adicionales de manera clara y organizada. <br> 
+            <br>
+            <strong>E02: Dado que</strong> el usuario desea realizar una acción específica, <br>
+            <strong>Cuando</strong> hace clic en el enlace correspondiente en la barra de navegación, <br>
+            <strong>Entonces</strong> debe ser redirigido de manera rápida y precisa a la sección deseada. <br> 
+            </td>
+            <td colspan="1">E003</td>
 		</tr>
         <tr>
             <td colspan="1">US015</td>
             <td colspan="1">Anclar atajos a otros apartados</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder anclar atajos o accesos directos a secciones específicas de la plataforma, <strong>para</strong> acceder rápidamente a las áreas de interés sin necesidad de navegar a través de múltiples páginas.</td>
+            <td colspan="5">
+            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+            <strong>Cuando</strong> la página se carga correctamente, <br>
+            <strong>Entonces</strong> los atajos anclados deben estar disponibles y visibles para el usuario.<br> 
+            <br>
+            <strong>E02: Dado que</strong> el usuario desea acceder a una sección específica de forma rápida, <br>
+            <strong>Cuando</strong> hace clic en un atajo anclado correspondiente, <br>
+            <strong>Entonces</strong> debe ser redirigido instantáneamente a la sección deseada sin necesidad de navegación adicional. <br> 
+            </td>
+            <td colspan="1">E003</td>
 		</tr>
         <tr>
             <td colspan="1">US016</td>
             <td colspan="1">Agregar funcionalidades de Iconos</td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> que se agreguen funcionalidades de iconos a la plataforma, <strong>para</strong> mejorar la experiencia visual y facilitar la identificación de diferentes acciones y elementos dentro de la interfaz.</td>
+            <td colspan="5">
+            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+            <strong>Cuando</strong> la página se carga correctamente, <br>
+            <strong>Entonces</strong> los iconos deben estar presentes en la interfaz y ser comprensibles para el usuario.<br> 
+            <br>
+            <strong>E02: Dado que</strong> el usuario desea acceder a una sección específica de forma rápida, <br>
+            <strong>Cuando</strong> interactúa con los iconos correspondientes,
+            <br>
+            <strong>Entonces</strong> debe poder comprender fácilmente su función y completar la acción deseada de manera intuitiva. <br> 
+            </td>
+            <td colspan="1">E003</td>
 		</tr>
           <tr>
             <td colspan="1">US017</td>
             <td colspan="1">Agregar un buzón de notificaciones </td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> que se agregue un buzón de notificaciones a la plataforma, <strong>para</strong> recibir actualizaciones, alertas y mensajes importantes de forma clara y organizada.</td>
+            <td colspan="5">
+            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+            <strong>Cuando</strong> la página se carga correctamente, <br>
+            <strong>Entonces</strong> el buzón de notificaciones debe estar visible y accesible para el usuario<br> 
+            <br>
+            <strong>E02: Dado que</strong> el usuario recibe una notificación o mensaje, <br>
+            <strong>Cuando</strong> accede al buzón de notificaciones,
+            <br>
+            <strong>Entonces</strong> debe poder ver el contenido del mensaje de manera clara y entender la acción requerida, si corresponde. <br> 
+            </td>
+            <td colspan="1">E003</td>
 		</tr>
           <tr>
             <td colspan="1">US018</td>
             <td colspan="1">Agregar carruseles funcionales </td>
-            <td colspan="1">...</td>
-            <td colspan="5">...</td>
-            <td colspan="1">...</td>
+            <td colspan="1">strong>Como</strong> usuario, <strong>quiero</strong> quiero que se agreguen carruseles funcionales a la plataforma, <strong>para</strong> visualizar y explorar contenido de manera dinámica y atractiva.</td>
+            <td colspan="5"><strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+            <strong>Cuando</strong> la página se carga correctamente, <br>
+            <strong>Entonces</strong> los carruseles funcionales deben estar presentes y mostrar contenido relevante de manera atractiva.<br> 
+            <br>
+            <strong>E02: Dado que</strong> el usuario recibe una notificación o mensaje, <br>
+            <strong>Cuando</strong> interactúa con los controles del carrusel,
+            <br>
+            <strong>Entonces</strong> debe poder navegar de manera fluida entre las diferentes imágenes o elementos del carrusel y acceder a más información si es necesario. <br>
+            </td>
+            <td colspan="1">E003</td>
 		</tr>
           <tr>
             <td colspan="1">US019</td>

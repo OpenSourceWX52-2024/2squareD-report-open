@@ -1510,10 +1510,10 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br><br>
             </td>
             <td colspan="1">EP001</td>
-		</tr>
-        <tr>
+	</tr>
+        	<tr>
             <td colspan="1">US003</td>
-            <td colspan="1">Inicio de sesión de usuarios estudiante en la plataforma</td>
+            <td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
             <td colspan="1">
             <strong>Como </strong> usuario estudiante quiero iniciar sesión en mi cuenta <strong>para</strong> utilizar los videojuegos de estudio.
             </td>
@@ -1544,13 +1544,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">EP001</td>
 		</tr>
         <tr>
-            <td colspan="1">US003</td>
-            <td colspan="1">Inicio de sesión de instituciones educativas en la plataforma</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
             <td colspan="1">US004</td>
             <td colspan="1">Recuperación de contraseña para usuarios registrados</td>
             <td colspan="1">...</td>
@@ -1559,84 +1552,314 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
         <tr>
             <td colspan="1">US005</td>
-            <td colspan="1">Búsqueda de una rama de matemática</td>
+            <td colspan="1">Modificación de cuenta</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
             <td colspan="1">US006</td>
-            <td colspan="1">Elección de una rama de matemática</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-		</tr>
-        <tr>
-            <td colspan="1">US006</td>
-            <td colspan="1">Búsqueda de una unidad</td>
+            <td colspan="1">Cierre de sesión de cuenta</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
             <td colspan="1">US007</td>
-            <td colspan="1">Elección de una unidad</td>
+            <td colspan="1">Eliminación de cuenta</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
             <td colspan="1">US008</td>
-            <td colspan="1">Elección de un tema</td>
+            <td colspan="1">Implementación del menú principal</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
             <td colspan="1">US009</td>
-            <td colspan="1">Elección de categoría</td>
+            <td colspan="1">Visualización de carrusel de videojuegos</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
-            <td colspan="1">US010</td>
-            <td colspan="1">Inicio del juego de preguntas con respecto a la categoría y el tema seleccionado</td>
+            <td colspan="1">US0010</td>
+            <td colspan="1">Visualización de información relevante</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
             <td colspan="1">US011</td>
-            <td colspan="1">Inicio del juego de preguntas con respecto a la categoría y el tema seleccionado</td>
+            <td colspan="1">Visualización de catálogo de todos los videojuegos</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
             <td colspan="1">...</td>
 		</tr>
         <tr>
             <td colspan="1">US012</td>
-            <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
-            <td colspan="1"><strong>Como </strong> usuario de la plataforma, <strong>quiero </strong> poder ver mi progreso y actividad dentro de la plataforma, <strong>para </strong> tener una idea clara de mis logros y compromisos.</td>
-            <td colspan="1"><strong>E01: Visualización de progreso por un estudiante</strong>
-            <br><br> <strong>Dado que</strong> soy un estudiante registrado en la plataforma de aprendizaje<br>
-    <strong>Y</strong> estoy interesado en seguir mi progreso en un curso específico,<br>
-    <strong>Cuando</strong> inicio sesión en mi cuenta<br>
-    <strong>Y</strong> accedo a la sección de cursos, selecciono el curso deseado<br>
-    <strong>Y</strong> completo una lección o tarea dentro del curso,<br>
-   <strong>Entonces</strong> puedo ver una lista de cursos y mi progreso, con información actualizada sobre lecciones completadas, porcentaje de avance y mi calificación (si está disponible).
+            <td colspan="1">Visualización de barra de búsqueda</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US013</td>
+            <td colspan="1">Visualización de botones y atajos</td>
+            <td colspan="1"><strong>Como </strong> usuario de la plataforma, <strong>quiero </strong> <strong>para </strong> </td>
+            <td colspan="1"><strong>E01:</strong>
+            <br><br> <strong>Dado que</strong> <br>
+    <strong>Y</strong> <br>
+    <strong>Cuando</strong> <br>
+    <strong>Y</strong> a<br>
+    <strong>Y</strong> <br>
+   <strong>Entonces</strong> 
 	<br><br>
-	<strong>E02: Visualización del progreso del estudiante por un docente</strong>
+	<strong>E02: </strong>
     	<br><br> 
-    <strong>Dado que</strong> soy un docente registrado en la plataforma de aprendizaje
-    <br><strong>Y</strong> necesito supervisar el progreso de mis estudiantes en un curso específico,
-    <br><strong>Cuando</strong> accedo a mi cuenta como docente
-    <br><strong>Y</strong> selecciono el curso deseado
-    <br><strong>Y</strong> deseo revisar el progreso de un estudiante en particular,
-    <br><strong>Entonces</strong> puedo ver el progreso del estudiante, incluyendo lecciones completadas, porcentaje de avance y calificación actual del curso.
-</td>
+    <strong>Dado que</strong> 
+    <br><strong>Y</strong> 
+    <br><strong>Cuando</strong> 
+    <br><strong>Y</strong> 
+    <br><strong>Y</strong> 
+    <br><strong>Entonces</strong> 
             <td colspan="1">EP005</td>
 		</tr>
-	</tbody>
+        <tr>
+            <td colspan="1">US014</td>
+            <td colspan="1">Agregar funcionalidades de barra de navegación </td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US015</td>
+            <td colspan="1">Anclar atajos a otros apartados</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+        <tr>
+            <td colspan="1">US016</td>
+            <td colspan="1">Agregar funcionalidades de Iconos</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US017</td>
+            <td colspan="1">Agregar un buzón de notificaciones </td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US018</td>
+            <td colspan="1">Agregar carruseles funcionales </td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US019</td>
+            <td colspan="1">Ingreso al videojuego singleplayer</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US020</td>
+            <td colspan="1">Ingreso a la sala del videojuego multiplayer</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US021</td>
+            <td colspan="1">Visualizar instrucciones de juego</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US022</td>
+            <td colspan="1">Visualizacion de participantes</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US023</td>
+            <td colspan="1">Visualizacion de resultados </td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US024</td>
+            <td colspan="1">Abandonar sala de videojuego</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">TS025</td>
+            <td colspan="1">Implementación de jugabilidad</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">TS026</td>
+            <td colspan="1">Implementación de interactividad</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">TS027</td>
+            <td colspan="1">Desarrollo del Game Manager</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">TS028</td>
+            <td colspan="1">Desarrollo de reglas de juego</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">TS029</td>
+            <td colspan="1">Implementación de salas multijugador</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">TS030</td>
+            <td colspan="1">Implementación de diseño de videojuego</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US31</td>
+            <td colspan="1">Visualización de barra de búsqueda</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US032</td>
+            <td colspan="1">Evaluación del progreso de estudiantes </td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US033</td>
+            <td colspan="1">Evaluación de la dificultad de los videojuegos</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US034</td>
+            <td colspan="1">Medición de eficacia de los elementos de enseñanza dentro del juego</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US035</td>
+            <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">TS036</td>
+            <td colspan="1">Despliegue de datos al apartado de visualización del progreso</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US037</td>
+            <td colspan="1">Comunicación de errores o reclamos con soporte técnico</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US038</td>
+            <td colspan="1">Actualización del estado de solicitud de soporte técnico</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+          <tr>
+            <td colspan="1">US039</td>
+            <td colspan="1">Implementación de apartado de preguntas frecuentes (FAQ)</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+            <tr>
+            <td colspan="1">BS040</td>
+            <td colspan="1">Análisis de los beneficios del plan premium</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>          
+		<tr>
+            <td colspan="1">TS041</td>
+            <td colspan="1">Detección y establecimiento de plan</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>          
+		<tr>
+            <td colspan="1">TS042</td>
+            <td colspan="1">Implementación de medios de pago</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+		<tr>
+            <td colspan="1">BS043</td>
+            <td colspan="1">Exposición de métricas de la plataforma</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+  		<tr>
+            <td colspan="1">US044</td>
+            <td colspan="1">Visualización de caracteristicas de la aplicación web</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+				<tr>
+            <td colspan="1">US045</td>
+            <td colspan="1">Landing Page Responsive Design</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>
+				<tr>
+            <td colspan="1">US046</td>
+            <td colspan="1">Botón Call to action</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+            <td colspan="1">...</td>
+		</tr>	
+	</tbody>	
 </table>
 
 

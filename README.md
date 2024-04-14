@@ -2051,12 +2051,28 @@ En el caso de la aplicación web, se presenta un proceso similar para el menú p
 ## 4.3. Landing Page UI Design
 En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
 ### 4.3.1. Landing Page Wireframe
-![WIREFRAME-LandingPage]()
-### 4.3.2. Landing Page Mock-up
-Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
-![MOCK_UP-LandingPage]()
 
-[Link Figma]()
+Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
+
+<img src="./assets/desktop_wireframe_1.PNG" />
+<img src="./assets/desktop_wireframe_2.PNG" />
+<img src="./assets/mobile_wireframe_1.PNG">
+
+<img src="./assets/mobile_wireframe_2.PNG">
+
+<img src="./assets/mobile_wireframe_3.PNG">
+
+[Link Figma](https://www.figma.com/file/ouLaVfRYtXJZVydNfC3k5E/Landing-Page?type=design&node-id=0%3A1&mode=design&t=TtWx43ixHhKrUZKs-1)
+
+### 4.3.2. Landing Page Mock-up
+
+Después de haber trabajado con los wireframes previamente diseñados, se procedió a aplicar los Style Guidelines para definir la paleta de colores a utilizar. Se puede observar que estos colores presentan un contraste llamativo en cada sección de la landing page, lo que contribuye a destacar visualmente los distintos elementos y mejorar la legibilidad y la estética general del diseño.
+
+<img src="./assets/desktop_mockUp_1.PNG" />
+
+<img src="./assets/desktop_mockUp_2.PNG">
+
+[Link Figma](https://www.figma.com/file/ouLaVfRYtXJZVydNfC3k5E/Landing-Page?type=design&node-id=0%3A1&mode=design&t=TtWx43ixHhKrUZKs-1)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes

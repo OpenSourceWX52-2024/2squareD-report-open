@@ -2419,8 +2419,7 @@ En la configuración de GitHub Pages, seleccionamos el branch "main" y especific
 | Sprint 1 - Story Points           | La suma de los Story Points de los User Stories que se atenderá es 22 |
 
 #### 5.2.1.2. Sprint Backlog 1
-<<<<<<< Updated upstream
-=======
+
 <table>
 <tbody>
     <tr>

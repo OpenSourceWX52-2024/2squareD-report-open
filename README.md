@@ -2109,7 +2109,346 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 ## 3.3. Impact Mapping
 
+<img src="./assets/Impact Mapping.jpg" alt="Impact Mapping">
+
 ## 3.4. Product Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th>#Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>HU-44</td>
+      <td>Visualización de caracteristicas de la aplicación web</td>
+      <td>Como usuario que navega en el landing page,Quiero ver caracteristicas de la aplicación, Para saber sobre la motivación del proyecto</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>HU-45</td>
+      <td>Landing Page Responsive Design</td>
+      <td>Como usuario navegando en la landing page, Quiero visualizarla desde cualquier dispositivo, Para mi comodidad como usuario</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>HU-15</td>
+      <td>Botón Call to Action</td>
+      <td>Como usuario interesado en la plataforma, quiero ver un botón de "Llamar a la Acción" (Call to Action), para poder realizar una acción específica fácilmente</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>04</td>
+      <td>HU-01</td>
+      <td>Registro de usuarios estudiantes en la plataforma</td>
+      <td>Como usuario estudiante quiero crearme una cuenta para poder acceder a la aplicación y sus funciones.</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>05</td>
+      <td>HU-02</td>
+      <td>Registro de instituciones educativas en la plataforma</td>
+      <td>Como usuario encargado de una institución educativa quiero crearme una cuenta para poder acceder a la aplicación y sus funciones.</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>06</td>
+      <td>HU-03</td>
+      <td>	Inicio de sesión de usuarios en la plataforma</td>
+      <td>Como usuario quiero iniciar sesión en mi cuenta para utilizar los videojuegos de estudio.</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>07</td>
+      <td>HU-08</td>
+      <td>Implementación del menú principal</td>
+      <td>Como usuario, quiero tener un menú principal claramente visible y funcional cuando accedo a la plataforma, para poder acceder fácilmente a las diferentes secciones y funcionalidades de la aplicación.</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>08</td>
+      <td>HU-04</td>
+      <td>Recuperación de contraseña para usuarios registrados</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>09</td>
+      <td>HU-09</td>
+      <td>Visualización de carrusel de videojuegos</td>
+      <td>Como usuario, quiero poder visualizar un carrusel de videojuegos en la plataforma, para descubrir fácilmente los juegos destacados y populares.</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>10</td>
+      <td>HU-19</td>
+      <td>	Ingreso al videojuego singleplayer</td>
+      <td>Como estudiante de la plataforma **quiero** interactuar con un botón "JUGAR" para acceder al videojuego que deseo jugar</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>11</td>
+      <td>HU-13</td>
+      <td>Ingreso a la sala del videojuego multi-jugador</td>
+      <td>Como estudiante de la plataforma quiero interactuar con un botón "JUGAR" para acceder a la sala de espera con otros jugadores antes de comenzar a jugar</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>12</td>
+      <td>HU-25</td>
+      <td>	Implementación de jugabilidad</td>
+      <td>Como desarrollador, Quiero implementar las mecanicas de cada juego, Para brindar distintas experiencias de juego al usuario</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>13</td>
+      <td>HU-32</td>
+      <td>Evaluación del progreso de estudiantes</td>
+      <td>Como usuario de la plataforma, quiero que mi progreso como estudiante sea evaluado para poder realizar un seguimiento de mi desempeño académico.</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>14</td>
+      <td>HU-34</td>
+      <td>Medición de eficacia de los elementos de enseñanza dentro del juego</td>
+      <td>Como usuario de la plataforma, quiero que los elementos de enseñanza dentro de los juegos sean medidos en cuanto a su eficacia para asegurarme de que estoy recibiendo una educación efectiva mientras juego.</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>15</td>
+      <td>HU-35</td>
+      <td>Visualización del progreso del usuario en la plataforma</td>
+      <td>Como usuario de la plataforma, quiero poder ver mi progreso y rendimiento dentro de la plataforma para seguir mi evolución y desempeño.</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>16</td>
+      <td>HU-31</td>
+      <td>Visualización de barra de búsqueda</td>
+      <td>Como usuario de la plataforma, quiero poder acceder fácilmente a la barra de búsqueda para encontrar contenido específico</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>17</td>
+      <td>HU-29</td>
+      <td>	Implementación de salas multijugador</td>
+      <td>Como desarrollador, Quiero implementar un sistema multijugador asincrono y sencillo, Para la interacción en tiempo real entre los usuarios</td>
+      <td>8</td>
+    </tr>
+     <tr>
+      <td>18</td>
+      <td>HU-28</td>
+      <td>Desarrollo de reglas de juego</td>
+      <td>Como desarrollador, Quiero establecer las reglas de cada juego en la plataforma, Para que los usuarios sepan que acciones tomar para progresar</td>
+      <td>3</td>
+    </tr>
+     <tr>
+      <td>19</td>
+      <td>HU-27</td>
+      <td>Desarrollo del Game Manager</td>
+      <td>Como desarrollador, Quiero crear un GameManager en los videojuegos, Para tener un mayor control sobre el juego desde el inicio a fin</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>20</td>
+      <td>HU-40</td>
+      <td>Análisis de los beneficios del plan premium</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>21</td>
+      <td>HU-42</td>
+      <td>Implementación de medios de pago</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>3</td>
+    </tr>
+     <tr>
+      <td>22</td>
+      <td>HU-30</td>
+      <td>Implementación de interfaz de videojuego</td>
+      <td>Como desarrollador, Quiero implementar una interfaz amigable y clara para el videojuego, Para que los usuarios lo usen con facilidad</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>23</td>
+      <td>HU-33</td>
+      <td>Evaluación de la dificultad de los videojuegos</td>
+      <td>Como usuario de la plataforma, quiero que los videojuegos sean evaluados en cuanto a su dificultad para tener una experiencia de juego equilibrada y desafiante.</td>
+      <td>3</td>
+    </tr>
+     <tr>
+      <td>24</td>
+      <td>HU-24</td>
+      <td>Abandonar sala de videojuego</td>
+      <td>Como estudiante de la plataforma quiero interactuar con un botón "SALIR" para salir del videojuego hacia el apartado para ingresar nuevamente</td>
+      <td>3</td>
+    </tr>
+     <tr>
+      <td>25</td>
+      <td>HU-23</td>
+      <td>Visualizacion de resultados</td>
+      <td>Como estudiante de la plataforma quiero visualizar mis resultados para ver mi progreso en el tema</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>26</td>
+      <td>HU-22</td>
+      <td>Visualizacion de participantes</td>
+      <td>Como estudiante de la plataforma quiero visualizar una lista de participantes" para informarme con quiénes estoy jugando</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>27</td>
+      <td>HU-21</td>
+      <td>Visualizar instrucciones de juego</td>
+      <td>Como estudiante de la plataforma quiero un apartado de instrucciones para entender el funcionamiento del videojuego</td>
+      <td>3</td>
+    </tr>
+     <tr>
+      <td>28</td>
+      <td>HU-05</td>
+      <td>Modificación de cuenta</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>29</td>
+      <td>HU-10</td>
+      <td>	Visualización de información relevante en componentes</td>
+      <td>Como usuario, quiero poder ver información relevante presentada en los componentes de la plataforma, para saber rápidamente qué información se encuentra en cada componente y acceder a la información que necesito de manera eficiente.</td>
+      <td>3</td>
+    </tr>
+     <tr>
+      <td>30</td>
+      <td>HU-20</td>
+      <td>Ingreso a la sala del videojuego multi-jugador</td>
+      <td>Como estudiante de la plataforma quiero interactuar con un botón "JUGAR" para acceder a la sala de espera con otros jugadores antes de comenzar a jugar</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>31</td>
+      <td>HU-26</td>
+      <td>Implementación de interactividad</td>
+      <td>Como desarrollador, Quiero implementar un sistema de interactividad en el juego, Para que el usuario pueda ajustarse a los diferentes controles</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>32</td>
+      <td>HU-36</td>
+      <td>Despliegue de datos al apartado de visualización del progreso</td>
+      <td>Como usuario de la plataforma, quiero que los datos relevantes sobre mi progreso se muestren de manera clara y organizada en el apartado de visualización del progreso para facilitar su comprensión y seguimiento.</td>
+      <td>3</td>
+    </tr>
+     <tr>
+      <td>33</td>
+      <td>HU-39</td>
+      <td>Implementación de apartado de preguntas frecuentes (FAQ)</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>34</td>
+      <td>HU-43</td>
+      <td>Exposición de métricas de la plataforma</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>2</td>
+    </tr>
+     <tr>
+      <td>35</td>
+      <td>HU-41</td>
+      <td>Detección y establecimiento de plan</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>36</td>
+      <td>HU-37</td>
+      <td>Comunicación de errores o reclamos con soporte técnico</td>
+      <td>Como usuario de la plataforma, quiero poder comunicar errores o reclamos al equipo de soporte técnico para recibir ayuda y solucionar problemas.</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>37</td>
+      <td>HU-06</td>
+      <td>Cierre de sesión de cuenta</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>38</td>
+      <td>HU-07</td>
+      <td>Eliminación de cuenta</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>39</td>
+      <td>HU-11</td>
+      <td>Visualización de catálogo de todos los videojuegos</td>
+      <td>Como usuario, quiero poder ver un catálogo completo de todos los videojuegos disponibles en la plataforma, para explorar todas las opciones disponibles y encontrar los juegos que me interesan.</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>40</td>
+      <td>HU-12</td>
+      <td>Visualización de barra de búsqueda</td>
+      <td>Como usuario, quiero poder ver una barra de búsqueda visible y funcional en la plataforma, para buscar fácilmente contenido específico que me interese.</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>41</td>
+      <td>HU-14</td>
+      <td>	Agregar funcionalidades de barra de navegación</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>42</td>
+      <td>HU-16</td>
+      <td>	Agregar funcionalidades de Iconos</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>43</td>
+      <td>HU-17</td>
+      <td>Agregar un buzón de notificaciones</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>44</td>
+      <td>HU-18</td>
+      <td>Agregar carruseles funcionales</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>01</td>
+      <td>HU-13</td>
+      <td>Visualización de características de la aplicación web</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+     <tr>
+      <td>01</td>
+      <td>HU-13</td>
+      <td>Visualización de características de la aplicación web</td>
+      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines

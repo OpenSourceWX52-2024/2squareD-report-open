@@ -1636,14 +1636,14 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">Implementación del menú principal</td>
             <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> tener un menú principal claramente visible y funcional cuando accedo a la plataforma, <strong>para</strong> poder acceder fácilmente a las diferentes secciones y funcionalidades de la aplicación.</td>
             <td colspan="5"> <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br> <strong>Cuando</strong> la aplicación se carga correctamente, <br> <strong>Entonces</strong> el menú principal debe estar visible en la pantalla principal. <br> <strong>E02: Dado que</strong> el usuario selecciona una opción del menú, <br> <strong>Cuando</strong> hace clic en la opción deseada, <br> <strong>Entonces</strong> debe ser redirigido a la sección correspondiente de la aplicación. <br> <strong>E03: Dado que</strong> el usuario intenta acceder a una sección protegida sin haber iniciado sesión, <br> <strong>Cuando</strong> hace clic en la opción del menú correspondiente, <br> <strong>Entonces</strong> debe ser redirigido a la pantalla de inicio de sesión.</td>           
-            <td colspan="1">E005</td>
+            <td colspan="1">EP002</td>
 		</tr>
         <tr>
             <td colspan="1">US009</td>
             <td colspan="1">Visualización de carrusel de videojuegos</td>
             <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder visualizar un carrusel de videojuegos en la plataforma, <strong>para</strong> descubrir fácilmente los juegos destacados y populares.</td>
             <td colspan="5"><strong>E01: Dado que</strong> el usuario accede a la plataforma, <br> <strong>Cuando</strong> la página principal se carga correctamente, <br> <strong>Entonces</strong> debe aparecer un carrusel de videojuegos en la sección destacada. <br> <strong>E02: Dado que</strong> el usuario hace clic en un juego del carrusel, <br> <strong>Cuando</strong> selecciona un juego específico, <br> <strong>Entonces</strong> debe ser redirigido a la página de detalles de ese juego. <br> <strong>E03: Dado que</strong> el usuario interactúa con el carrusel, <br> <strong>Cuando</strong> desliza hacia la izquierda o derecha, <br> <strong>Entonces</strong> debe navegar entre los diferentes juegos del carrusel.</td>           
-            <td colspan="1">E005</td>
+            <td colspan="1">EP002</td>
 		</tr>
         <tr>
             <td colspan="1">US0010</td>
@@ -1658,7 +1658,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Cuando</strong> interactúa con diferentes secciones, <br>
             <strong>Entonces</strong> debe encontrar componentes con información relevante que indiquen la acción que ejecutará. <br> 
             </td>
-            <td colspan="1">E005</td>
+            <td colspan="1">EP002</td>
 		</tr>
         <tr>
             <td colspan="1">US011</td>
@@ -1677,7 +1677,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Cuando</strong> navega por las diferentes secciones del catálogo, <br>
             <strong>Entonces</strong> debe poder acceder fácilmente a cada categoría y ver los videojuegos asociados a ellas.
             </td>
-            <td colspan="1">E005</td>
+            <td colspan="1">EP002</td>
 		</tr>
         <tr>
             <td colspan="1">US012</td>
@@ -1692,7 +1692,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Cuando</strong> interactúa con la barra de búsqueda y realiza una búsqueda, <br>
             <strong>Entonces</strong> debe recibir resultados relevantes relacionados con la búsqueda. <br> 
             </td>
-            <td colspan="1">E005</td>
+            <td colspan="1">EP002</td>
 		</tr>
         <tr>
             <td colspan="1">US013</td>
@@ -1707,7 +1707,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Cuando</strong> interactúa con los botones y atajos correspondientes, <br>
             <strong>Entonces</strong> debe poder completar la acción deseada de manera intuitiva y eficiente. <br> 
             </td>
-            <td colspan="1">EP005</td>
+            <td colspan="1">EP002</td>
 		</tr>
         <tr>
             <td colspan="1">US014</td>

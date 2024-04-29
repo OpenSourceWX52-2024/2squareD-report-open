@@ -2996,14 +2996,12 @@ La información presentada se separa por partes, de tal manera que el usuario en
 ### 4.6.3. Software Architecture Components Diagrams
 #### User Managment Context
 ![IMG-Component_1-Diagram](./assets/C4%20Model/3_a-UserComponent.png)
-#### Payment Context
-![IMG-Component_2-Diagram](./assets/C4%20Model/3_b-PaymentComponent.png)
 #### Document Context
-![IMG-Component_3-Diagram](./assets/C4%20Model/3_c-DocumentComponent.png)
+![IMG-Component_2-Diagram](./assets/C4%20Model/3_b-DocumentComponent.png)
 #### Content Management Context
-![IMG-Component_4-Diagram](./assets/C4%20Model/3_d-ContentComponent.png)
+![IMG-Component_3-Diagram](./assets/C4%20Model/3_c-ContentComponent.png)
 #### Analytics Context
-![IMG-Component_5-Diagram](./assets/C4%20Model/3_e-AnalyticsComponent.png)
+![IMG-Component_4-Diagram](./assets/C4%20Model/3_d-AnalyticsComponent.png)
 
 ## 4.7. Software Object-Oriented Design
 En esta sección, se utilizará el enfoque de diseño orientado a objetos para desarrollar la aplicación web. Asimismo, se aplicarán los principios y conceptos fundamentales de la programación orientada a objetos.

@@ -31,20 +31,36 @@ Junio del 2024
 ---
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                                    | Descripción de la modificación                                                                                     |
-|---------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| 1.00    | 14/04/2024 | -Carpio Cornejo, Miguel Angel | Se creó la portada y el índice del informe, además se finalizaron todos los aspectos relacionados con el perfil de la solución, el perfil de la startup y la descripción de los antecedentes y problemáticas, así como los segmentos objetivo. Se completaron los capítulos de las pautas generales de estilo, los wireframes, mockups y sus correspondientes flujos de trabajo. También se desarrollaron los diagramas C4. Se completaron las convenciones de trabajo en repositorios y la convenciones de codigo |
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de la modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.00 - TB1</td>
+      <td>14/04/2024</td>
+      <td>Barrial Marin, Sharon Antuanet Ivet - Carpio Cornejo, Miguel Angel - Llacchua Peralta, Joseph Ulysses - Minaya Mundines, Pietro Gerardo - Ybañez Esquerre, Miguel Angel - Yen Cerna, Lucio Heli</td>
+      <td>Desarrollo del capítulo I, capítulo II, capítulo III, capítulo IV, capítulo V y Sprint 1: Landing Page.</td>
+    </tr>
+        <tr>
+      <td>2.00 - TP</td>
+      <td>03/05/2024</td>
+      <td>Barrial Marin, Sharon Antuanet Ivet - Carpio Cornejo, Miguel Angel - Llacchua Peralta, Joseph Ulysses - Minaya Mundines, Pietro Gerardo - Ybañez Esquerre, Miguel Angel - Yen Cerna, Lucio Heli</td>
+      <td>Subsanación de errores del Student Outcome, capítulo II: Entrevistas y análisis, capítulo II: User Stories, Product Backlog; capítulo IV: Wireframes, Mockups, User Flow, Diagramas C4, diagrama de base de datos y diagrama de clases; capítulo V: Source Code Management; y Landing Page. Desarrollo del Sprint 2: Frontend.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 # Project Report Collaboration Insights
 
 Se han realizado todas las tareas asignadas para la entrega TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace ["upc-pre-202401--si729-WX52-2SquareD-report"](https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-report/tree/main). Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
-
-Además, se han elaborado los artefactos necesarios utilizando las herramientas indicadas, y los enlaces de imagen correspondientes se han obtenido a través de la funcionalidad de "Issues" dentro del repositorio del informe.
-
-Se han llevado a cabo reuniones periódicas para coordinar el progreso de los puntos del informe, aprovechando también estas reuniones para comunicar los avances realizados durante el Sprint 1, el cual se enfocó en el desarrollo de la Landing Page del proyecto.
-
-<img src="./assets/InsightReport.PNG" />
 
 ---
 # Student Outcome
@@ -53,11 +69,89 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td>
+        <ul>
+          <li>Carpio Cornejo, Miguel Ángel:
+            <ul>
+              <li><strong>TB1:</strong> Realizó entrevistas al segmento objetivo, compartió ideas del proyecto con el público objetivo y recopiló información para priorizar las características del producto.</li>
+            </ul>
+          </li>
+          <li>Miguel Ángel Ybañez Esquerre:
+            <ul>
+              <li><strong>TB1:</strong> Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades de búsqueda de necesidades en colaboración con el equipo.</li>
+            </ul>
+          </li>
+          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong> TB1: </Strong>Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetivo 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page</ul></li>
+          <li>Yen Cerna, Lucio Heli:
+            <ul>
+              <li><strong>TB1:</strong> Tras una gran cantidad de reuniones que permitieron encaminar al grupo hacia el objetivo, se pudo lograr un incremento que cumple con las expectativas del Sprint 1. En mi caso, realicé entrevistas que recopilaron información importante, coordiné con mis compañeros la organización de trabajo y los guié para entregar la mayor calidad posible en el proyecto. La comunicación fue fundamental en el equiipo de trabajo debido a que de esta manera todo el grupo pudo identificar lo que los clientes necesitan y pudimos mantener una sola idea en el desarrollo del producto.</li>
+            </ul>
+          </li>
+          <li>Llacchua Peralta Joseph Ulysses:
+            <ul>
+              <li><strong>TB1:</strong> Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint.</li>
+            </ul>
+          </li>
+          <li>Barrial Marin, Sharon Antuanet Ivet:
+            <ul>
+              <li><strong>TB1:</strong> Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades correspondientes al Lean UX Assumptions, As-is scenario mapping, to-be scenario mapping, epics, user stories y class diagrams con su respectivo class dictionary</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td><li><strong>TB1:</strong> 
+La asignación individual de tareas permitió que cada miembro se concentrara en un área específica, lo que resultó en una finalización exitosa de todas las responsabilidades asignadas que constituían el contexto del proyecto y el diseño de la plataforma web y landing page. Al concluir, cada miembro del equipo pudo comunicar sus ideas de manera efectiva durante las interacciones verbales, demostrando habilidades de comunicación objetiva y clara con audiencias de diversas especialidades y niveles jerárquicos, en línea con el criterio evaluado de comunicación oral en el contexto de un proyecto de ingeniería. Para que el grupo se comunicara de manera virtual se emplearon diversas herramientas como Discord, Whatsapp, Trello, entre otros. Por último, se utilizó github Desktop, Visual Studio Code y JetBrains WebStorm para el desarrollo colaborativo del reporte y  del Sprint 1.</li> <br> <br> <li><strong> TP:</strong></li></td>  
+    </tr>
+    <tr>
+      <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td>
+        <ul>
+          <li>Carpio Cornejo, Miguel Ángel:
+            <ul>
+              <li><strong>TB1:</strong> Lideró reuniones de avance donde comunicó de manera objetiva los resultados y progresos del proyecto a un público diverso, incluyendo miembros del equipo con diferentes puntos de vista y edades, así como stakeholders externos.</li>
+            </ul>
+          </li>
+          <li>Miguel Ángel Ybañez Esquerre:
+            <ul>
+              <li><strong>TB1:</strong> Se analizaron las convenciones de código para el desarrollo correcto de características, landing pages y próximamente la aplicación web. Se elaboraron los wireframes y mockups de las páginas de destino, así como la guía de estilos.</li>
+            </ul>
+          </li>
+          <li>Llacchua Peralta Joseph Ulysses:
+            <ul>
+              <li><strong>TB1:</strong> He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps.</li>
+            </ul>
+          </li>
+          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li>
+         </ul>
+          <li>Yen Cerna, Lucio Heli:
+            <ul>
+              <li><strong>TB1:</strong> Durante el proyecto, documenté efectivamente diferentes secciones como el LEAN UX CANVAS, El Ubiquitous language que es fundamental para comunicarse con los stakeholders, las epics y user stories, el impact mapping y la arquitectura de información de la plataforma web y landing page. De esta manera, he podido aportar en el desarrollo del proyecto de forma escrita incorporando información vital para el desarrollo del producto a nivel de usuario y a nivel de estructura.</li>
+            </ul>
+          </li>
+          <li>Barrial Marin, Sharon Antuanet Ivet:
+            <ul>
+              <li><strong>TB1:</strong> Análisis y comparación de los registros de entrevistas, junto con los assumptions y la retroalimentación.</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td><li><strong>TB1:</strong> 
+Durante este sprint, cada miembro del equipo se dedicó de manera focalizada al desarrollo de las tareas escritas asignadas para esta fase que documentaban el contexto y diseño del proyecto relacionando los conceptos con el sector correspondiente, lo que garantizó un progreso significativo y eficiente en el proyecto. Posteriormente, cada integrante compartió formalmente sus contribuciones por escrito, lo que resultó en una presentación unificada y clara de nuestros avances mediante Github Desktop y otros medios de comunicación. Esta práctica aseguró que las ideas y resultados se comunicaran de manera objetiva y comprensible a un público diverso, incluidos aquellos con diferentes especialidades y niveles jerárquicos. Este enfoque en la comunicación escrita demostró una habilidad efectiva para transmitir información técnica y compleja de manera accesible, cumpliendo así con el criterio evaluado de comunicación escrita en el contexto del desarrollo de un proyecto en ingeniería. Además, el equipo de trabajo avanzó de forma pareja con una meta en común lo cuál logró que cada aporte sea beneficioso para el desarrollo.</li> <br> <br> <li><strong> TP:</strong></li></td>
+   </tr>
+  </tbody>
+</table>
 
-| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | - Carpio Cornejo, Miguel Ángel: <br> ***TB1:*** Realizó entrevistas al segmento objetivo, compartió ideas del proyecto con el público objetivo y recopiló información para priorizar las características del producto. <br> <br> - Miguel Ángel Ybañez Esquerre: <br> ***TB1:*** Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades de búsqueda de necesidades en colaboración con el equipo. <br> <br> - Pietro Gerardo Minaya Mundines: Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetivo 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page <br> <br> -Yen Cerna, Lucio Heli: <br>  ***TB1:*** Tras una gran cantidad de reuniones que permitieron encaminar al grupo hacia el objetivo, se pudo lograr un incremento que cumple con las expectativas del SPrint 1. En mi caso, realicé entrevistas que recopilaron información importante, coordiné con mis compañeros la organización de trabajo y los guié para entregar la mayor calidad posible en el proyecto. La comunicación fue fundamental en el euqipo de trabajo debido a que de esta manera todo el grupo pudo identificar lo que los clientes necesitan y pudimos mantener una sola idea en el desarrollo del producto.  <br> <br> - Llacchua Peralta Joseph Ulysses: <br> ***TB1:*** Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint.<br> <br> - Barrial Marin, Sharon Antuanet Ivet: <br> **TB1:** Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades correspondientes al Lean UX Assumptions, As-is scenario mapping, to-be scenario mapping, epics, user stories y class diagrams con su respectivo class dictionary <br><br>                                                                                                                                     | ***TB1:*** Las tareas se asignaron individualmente para permitir que cada miembro se enfocara en un área específica del trabajo. Una vez asignadas, todos completaron exitosamente sus respectivas responsabilidades. Al finalizar, cada miembro del equipo pudo expresar sus ideas de manera efectiva durante las comunicaciones verbales. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | - Carpio Cornejo, Miguel Ángel: <br> ***TB1:*** Lideró reuniones de avance donde comunicó de manera objetiva los resultados y progresos del proyecto a un público diverso, incluyendo miembros del equipo con diferentes puntos de vista y edades, así como stakeholders externos. <br> <br> - Miguel Ángel Ybañez Esquerre: ***TB1:*** <br> Se analizaron las convenciones de código para el desarrollo correcto de características, landing pages y próximamente la aplicación web. Se elaboraron los wireframes y mockups de las páginas de destino, así como la guía de estilos. <br><br> - Llacchua Peralta Joseph Ulysses: <br> ***TB1:*** He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps. <br> <br> - Pietro Gerardo Minaya Mundines: Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page. <br> <br> -Yen Cerna, Lucio Heli: ***TB1:*** Durante el proyecto, documenté efectivamente diferentes secciones como el LEAN UX CANVAS, El Ubiquitous language que es fundamental para comunicarse con los stakeholders, las epics y user stories, el impact mapping y la arquitectura de información de la plataforma web y landing page. De esta manera, he podido aportar en el desarrollo del proyecto de forma escrita incorporando información vital para el desarrollo del producto a nivel de usuario y a nivel de estructura. <br><br> -Barrial Marin, Sharon Antuanet Ivet <br> **TB1:** Análisis y comparación de los registros de entrevistas, junto con los assumptions y la retroalimentación. | ***TB1:*** Durante este sprint, cada miembro del equipo se centró en el desarrollo de las tareas asignadas para esta fase. Luego, cada uno compartió formalmente sus contribuciones por escrito, asegurando una presentación unificada y clara de nuestros avances. |
 
 ---
 # Contenido 
@@ -234,7 +328,7 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy estudiante de Ingeniería de Software apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas herramientas y técnicas para mejorar mis habilidades en programación y diseño de sistemas. Disfruto enfrentando desafíos y resolviendo problemas complejos mediante el desarrollo de soluciones innovadoras y eficientes. Mi objetivo es contribuir al avance de la industria del software y convertirme en un profesional altamente capacitado y comprometido con la excelencia en mi campo.
 
-<img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+<img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="150" height="200">
 
 Nombre completo: Pietro Gerardo Minaya Mundines 
 
@@ -349,7 +443,7 @@ Aunque, corremos el riesgo de que esta función multijugador presente fallas, el
 
 **Technical Assumptions**
 
->Computadoras de escritorio y portátiles (linux?)
+>Computadoras de escritorio y portátiles 
 
 >Dispositivos móviles
 
@@ -365,9 +459,9 @@ Por otro lado, también se hizo uso de APIs para los servicios externos y Postgr
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Basados en** la observación de la falta de motivación y recursos educativos efectivos, así como la disminución del rendimiento académico en matemáticas según los resultados de la prueba PISA 2022, **creemos que** al desarrollar un juego educativo de matemáticas en 2D interactivo y motivador, podemos impactar positivamente en el rendimiento académico de los estudiantes peruanos. **Si** implementamos esta solución, esperamos ver una mejora significativa en los puntajes de las pruebas estandarizadas y una mayor participación en el aprendizaje de las matemáticas entre los estudiantes. **Entonces sabremos que** es cierto cuando observemos un aumento en los puntajes promedio de matemáticas en las evaluaciones estandarizadas y un incremento en la participación activa de los estudiantes en actividades de aprendizaje de matemáticas.
+- **Basados en** la observación de la falta de motivación y recursos educativos efectivos, así como la disminución del rendimiento académico en matemáticas según los resultados de la prueba PISA 2022, **creemos que** al desarrollar un juego educativo de matemáticas en 2D interactivo y motivador, podemos impactar positivamente en el rendimiento académico de los estudiantes peruanos. **Si** implementamos esta solución, esperamos ver una mejora significativa en los puntajes de las pruebas estandarizadas y una mayor participación en el aprendizaje de las matemáticas entre los estudiantes. **Entonces sabremos que** es cierto cuando observemos un aumento en los puntajes promedio de matemáticas en las evaluaciones estandarizadas y un incremento en la participación activa de los estudiantes en actividades de aprendizaje de matemáticas. <br><br>
 
-- **Basados en** la identificación de que los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, llevando a una falta de compromiso y participación estudiantil, **creemos que** al proporcionar una experiencia interactiva y personalizable a través del juego educativo de matemáticas en 2D, podemos mejorar el compromiso de los estudiantes. **Si** los estudiantes se involucran y participan activamente en el juego, esperamos observar un aumento en el tiempo dedicado al aprendizaje de matemáticas fuera del aula, una mayor participación en actividades relacionadas con las matemáticas y una actitud más positiva hacia el aprendizaje de esta materia. **Entonces sabremos que** es cierto cuando veamos un incremento en la asistencia a clases de matemáticas y una reducción en las tasas de deserción, así como una actitud más favorable hacia el aprendizaje de matemáticas.
+- **Basados en** la identificación de que los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, llevando a una falta de compromiso y participación estudiantil, **creemos que** al proporcionar una experiencia interactiva y personalizable a través del juego educativo de matemáticas en 2D, podemos mejorar el compromiso de los estudiantes. **Si** los estudiantes se involucran y participan activamente en el juego, esperamos observar un aumento en el tiempo dedicado al aprendizaje de matemáticas fuera del aula, una mayor participación en actividades relacionadas con las matemáticas y una actitud más positiva hacia el aprendizaje de esta materia. **Entonces sabremos que** es cierto cuando veamos un incremento en la asistencia a clases de matemáticas y una reducción en las tasas de deserción, así como una actitud más favorable hacia el aprendizaje de matemáticas.<br><br>
 
 - **Basados en** la falta de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, **creemos que** al desarrollar una plataforma educativa digital que proporcione estas herramientas, podemos fomentar la innovación educativa. **Si** implementamos esta solución, anticipamos un aumento en la adopción de la plataforma por parte de empresas educativas y organizaciones, así como una mejora en la calidad y efectividad de la enseñanza de matemáticas en escuelas secundarias, medida a través de la retroalimentación positiva de educadores y una mejora en los resultados académicos de los estudiantes. **Entonces sabremos que** es cierto cuando veamos una mayor colaboración entre los educadores para compartir mejores prácticas, así como una mayor participación en talleres y capacitaciones relacionadas con la implementación de tecnología educativa.
 
@@ -376,12 +470,12 @@ Por otro lado, también se hizo uso de APIs para los servicios externos y Postgr
 <img src="./assets/LEAN UX CANVAS.png" alt="Lean UX Canvas">
 
 ## 1.3. Segmentos objetivo
-Empresas Educativas:
+>Empresas Educativas:
 
 - Las empresas educativas representan un segmento objetivo clave, ya que pueden utilizar el juego educativo de matemáticas en 2D como una herramienta didáctica para reforzar los conceptos enseñados en clase. Este juego puede servir como un complemento a los métodos tradicionales de enseñanza, ofreciendo una experiencia interactiva y motivadora para los estudiantes.
 - Además, las empresas educativas pueden utilizar el juego para acceder a registros académicos y comparar el rendimiento de sus estudiantes con otras instituciones académicas del mismo nivel. Esto les permitirá identificar áreas de mejora y tomar medidas para fortalecer el aprendizaje de las matemáticas en su institución.
 
-Estudiantes:
+>Estudiantes:
 
 - Los estudiantes, ya sea que estén vinculados o no a una institución educativa específica, constituyen otro segmento objetivo importante. Pueden beneficiarse del juego educativo de matemáticas en 2D como una forma más eficaz de aprender y reforzar conocimientos matemáticos en comparación con las enseñanzas tradicionales.
 Este juego les ofrece la oportunidad de participar en una experiencia de aprendizaje interactiva y personalizable, adaptada a sus necesidades individuales. 
@@ -1369,7 +1463,7 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
             <td colspan="1">EP008</td>
             <td colspan="1">Monetización de la plataforma</td>
             <td colspan="1">
-            <strong>Como</strong> stakeholder de la plataforma <strong>quiero</strong>  informarme sobre los planes de monetización de la aplicación<strong>para</strong> saciar mis intereses mediante los beneficios que brinda la plataforma
+            <strong>Como</strong> stakeholder de la plataforma <strong>quiero</strong>  informarme sobre los planes de monetización de la aplicación<strong> para</strong> saciar mis intereses mediante los beneficios que brinda la plataforma
             </td>
 		</tr>
 				</tr>
@@ -1377,14 +1471,14 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
             <td colspan="1">EP009</td>
             <td colspan="1">Implementación de la experiencia UI/UX de la landing page</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page<strong>para</strong> explorar sus diferentes secciones y funcionalidades
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page<strong> para</strong> explorar sus diferentes secciones y funcionalidades
 		</tr>
 	</tbody>
 </table>
 
 A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
 
-<table border="1" style="text-align: left;">
+<table  style="text-align: left;">
 	<tbody>
 		<tr>
 			<td colspan="1">ID de Historia de Usuario</td>
@@ -1511,7 +1605,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             </td>
             <td colspan="1">EP001</td>
-	</tr>
+	        </tr>
         	<tr>
             <td colspan="1">US003</td>
             <td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
@@ -1647,7 +1741,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <td colspan="1">EP002</td>
 		</tr>
         <tr>
-            <td colspan="1">US0010</td>
+            <td colspan="1">US010</td>
             <td colspan="1">Visualización de información relevante en componentes</td>
             <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder ver información relevante presentada en los componentes de la plataforma, <strong>para</strong> saber rápidamente qué información se encuentra en cada componente y acceder a la información que necesito de manera eficiente.</td>
             <td colspan="5">
@@ -1723,7 +1817,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Cuando</strong> hace clic en el enlace correspondiente en la barra de navegación, <br>
             <strong>Entonces</strong> debe ser redirigido de manera rápida y precisa a la sección deseada. <br> 
             </td>
-            <td colspan="1">E003</td>
+            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US015</td>
@@ -1738,7 +1832,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>Cuando</strong> hace clic en un atajo anclado correspondiente, <br>
             <strong>Entonces</strong> debe ser redirigido instantáneamente a la sección deseada sin necesidad de navegación adicional. <br> 
             </td>
-            <td colspan="1">E003</td>
+            <td colspan="1">EP003</td>
 		</tr>
         <tr>
             <td colspan="1">US016</td>
@@ -1754,7 +1848,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> debe poder comprender fácilmente su función y completar la acción deseada de manera intuitiva. <br> 
             </td>
-            <td colspan="1">E003</td>
+            <td colspan="1">EP003</td>
 		</tr>
           <tr>
             <td colspan="1">US017</td>
@@ -1770,7 +1864,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> debe poder ver el contenido del mensaje de manera clara y entender la acción requerida, si corresponde. <br> 
             </td>
-            <td colspan="1">E003</td>
+            <td colspan="1">EP003</td>
 		</tr>
           <tr>
             <td colspan="1">US018</td>
@@ -1785,7 +1879,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             <strong>Entonces</strong> debe poder navegar de manera fluida entre las diferentes imágenes o elementos del carrusel y acceder a más información si es necesario. <br>
             </td>
-            <td colspan="1">E003</td>
+            <td colspan="1">EP003</td>
 		</tr>
           <tr>
             <td colspan="1">US019</td>
@@ -1805,6 +1899,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     <strong>Y el usuario presiona JUGAR pero se le va el internet</strong> <br>
    <strong>Entonces la plataforma soltará un error por ausencia de internet </strong>  <br><br>
 	   </td>
+       <td colspan="1">EP004</td>
             </tr>
 		</tr>
           <tr>
@@ -1824,7 +1919,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
     <strong>Y el usuario presiona JUGAR</strong> <br>
    <strong>Entonces accederá al apartado donde el videojuego se ejecute y al detectar que no se está conectado a internet se mostrará un error </strong> 
-	<br><br></td>
+	<br><br></td> <td colspan="1">EP004</td>
 		</tr>
           <tr>
             <td colspan="1">US021</td>
@@ -1844,7 +1939,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
    <strong>Entonces la ventana de instrucciones no se desplegará</strong> 
 	<br><br>
 	   </td>
-            <td colspan="1">EPIC 004</td>
+            <td colspan="1">EP004</td>
 		</tr>
           <tr>
             <td colspan="1">US022</td>
@@ -1861,7 +1956,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
    <strong>Entonces se mostrará la lista de participantes</strong> 
 	<br><br>
 	   </td>
-            <td colspan="1">EPIC 004</td>
+            <td colspan="1">EP004</td>
 		</tr>
           <tr>
             <td colspan="1">US023</td>
@@ -1877,7 +1972,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     <strong>Cuando se detecte el final del juego</strong> <br>
    <strong>Entonces se mostrarán los resultados de los jugadores de forma jerárquica</strong> 
 	<br><br></td>
-            <td colspan="1">EPIC 004</td>
+            <td colspan="1">EP004</td>
 		</tr>
           <tr>
             <td colspan="1">US024</td>
@@ -1894,7 +1989,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     <strong>Y el botón esté presentando errores</strong> <br>
     <strong>Y el usuario presiona JUGAR pero se le va el internet</strong> <br>
    <strong>Entonces el botón no redirigirá al usuario al apartado previo al inicio del videojuego </strong>  <br><br></td>
-            <td colspan="1">EPIC 004</td>
+            <td colspan="1">EP004</td>
 		</tr>
           <tr>
             <td colspan="1">TS025</td>
@@ -1914,7 +2009,7 @@ O Las mecánicas implementadas no se ajustan bien a la temática o estilo de cad
 Enotones Los usuarios encuentran las experiencias de juego poco atractivas o frustrantes
 Y Pueden abandonar los juegos rápidamente en busca de opciones más satisfactorias
 O La reputación de la plataforma puede verse afectada negativamente debido a una implementación deficiente de las mecánicas de juego</td>
-            <td colspan="1">EP004</td>
+            <td colspan="1">EP005</td>
 		</tr>
           <tr>
             <td colspan="1">TS026</td>
@@ -1926,7 +2021,7 @@ Y Incorpora opciones de personalización para que los usuarios puedan ajustar lo
 Y Realiza pruebas exhaustivas para garantizar que los controles funcionen de manera fluida en todas las plataformas compatibles
 Entonces Los usuarios disfrutan de una experiencia de juego cómoda y adaptada a sus necesidades
 Y Pueden interactuar con el juego de manera efectiva y sin frustraciones debido a controles poco intuitivos o deficientes</td>
-            <td colspan="1">EP004</td>
+            <td colspan="1">EP005</td>
 		</tr>
           <tr>
             <td colspan="1">TS027</td>
@@ -1998,15 +2093,11 @@ Y Pueden sentirse frustrados por la falta de claridad en las acciones de otros j
 O La experiencia de juego puede verse afectada negativamente debido a la falta de sincronización entre los usuarios
 
 
-
-
-
 </td>
-            <td colspan="1">EP004</td>
+            <td colspan="1">EP005</td>
 		</tr>
           <tr>
             <td colspan="1">TS030</td>
-            <td colspan="1">Implementación de diseño de videojuego</td>
             <td colspan="1">Implementación de interfaz de videojuego</td>
             <td colspan="1">Como desarrollador, Quiero implementar una interfaz amigable y clara para el videojuego, Para que los usuarios lo usen con facilidad</td>
             <td colspan="5">E01:
@@ -2024,33 +2115,11 @@ Y Organiza los elementos de la interfaz de manera desordenada o poco coherente
 Entonces Los usuarios encuentran la interfaz confusa y difícil de usar
 Y Experimentan frustración al tratar de navegar por el juego
 Y Abandonan el juego en busca de una experiencia más intuitiva</td>
-            <td colspan="1">EP001</td>
-		</tr>
-          <tr>
-            <td colspan="1">US31</td>
-            <td colspan="1">Visualización de barra de búsqueda</td>
-            <td colspan="1">Como usuario de la plataforma, quiero poder acceder fácilmente a la barra de búsqueda para encontrar contenido específico</td>
-            <td colspan="5">E01:
-
-Dado que el usuario está en la página principal de la plataforma
-                Cuando el usuario busca un contenido específico.
-                Entonces accedera una barra de búsqueda claramente visible en la interfaz
-                Y el usuario ingresa palabras clave o frases en la barra de búsqueda.
-                Y el usuario recibe resultados relevantes de manera rápida y sencilla
-
-E02:
-                Dado que el usuario está utilizando la plataforma en un dispositivo móvil con una pantalla pequeña.
-                Cuando El usuario busca la barra de búsqueda para encontrar contenido específico
-                Entonces la barra de búsqueda no es visible en la pantalla principal.
-                Y el usuario se siente frustrado porque no puede acceder a la función de búsqueda y tiene dificultades para encontrar el contenido deseado
-                Y Esto podría llevar al usuario a abandonar la plataforma en busca de una experiencia más fácil de usar
-
-</td>
-            <td colspan="1">EP003</td>
+            <td colspan="1">EP005</td>
 		</tr>
           <<tr>
     <tr>
-    <td colspan="1">US032</td>
+    <td colspan="1">US031</td>
     <td colspan="1">Evaluación del progreso de estudiantes</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero que mi progreso como estudiante sea evaluado <strong>para</strong> poder realizar un seguimiento de mi desempeño académico.
@@ -2082,7 +2151,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US033</td>
+    <td colspan="1">US032</td>
     <td colspan="1">Evaluación de la dificultad de los videojuegos</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero que los videojuegos sean evaluados en cuanto a su dificultad <strong>para</strong> tener una experiencia de juego equilibrada y desafiante.
@@ -2114,7 +2183,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US034</td>
+    <td colspan="1">US033</td>
     <td colspan="1">Medición de eficacia de los elementos de enseñanza dentro del juego</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero que los elementos de enseñanza dentro de los juegos sean medidos en cuanto a su eficacia <strong>para</strong> asegurarme de que estoy recibiendo una educación efectiva mientras juego.
@@ -2146,7 +2215,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US035</td>
+    <td colspan="1">US034</td>
     <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero poder ver mi progreso y rendimiento dentro de la plataforma <strong>para</strong> seguir mi evolución y desempeño.
@@ -2178,7 +2247,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">TS036</td>
+    <td colspan="1">TS035</td>
     <td colspan="1">Despliegue de datos al apartado de visualización del progreso</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero que los datos relevantes sobre mi progreso se muestren de manera clara y organizada en el apartado de visualización del progreso <strong>para</strong> facilitar su comprensión y seguimiento.
@@ -2210,7 +2279,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US037</td>
+    <td colspan="1">US036</td>
     <td colspan="1">Comunicación de errores o reclamos con soporte técnico</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero poder comunicar errores o reclamos al equipo de soporte técnico <strong>para</strong> recibir ayuda y solucionar problemas.
@@ -2244,7 +2313,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US039</td>
+    <td colspan="1">US037</td>
     <td colspan="1">Implementación de apartado de preguntas frecuentes (FAQ)</td>
     <td colspan="1">
         <strong>Como</strong> usuario, quiero tener acceso a un apartado de preguntas frecuentes (FAQ) <strong>para</strong> resolver dudas comunes de manera rápida y sencilla.
@@ -2276,9 +2345,8 @@ E02:
 </tr>
 
 <tr>
-            <td colspan="1">BS040</td>
+            <td colspan="1">BS038</td>
             <td colspan="1">Análisis de los beneficios del plan premium</td>
-             <td colspan="1">Análisis de los beneficios del plan premium</td>
         <td colspan="1"><strong>Como</strong> administrador, <strong>quiero</strong> realizar un análisis detallado de los beneficios ofrecidos por el plan premium, <strong>para</strong> comprender su impacto en la satisfacción del cliente y en la rentabilidad del negocio.</td>
         <td colspan="5">
         <strong>E01: Dado que</strong> el administrador accede al panel de control, <br>
@@ -2292,7 +2360,7 @@ E02:
         <td colspan="1">EP008</td>
 		</tr>          
 		<tr>
-            <td colspan="1">TS041</td>
+            <td colspan="1">TS039</td>
             <td colspan="1">Detección y establecimiento de plan</td>
             <td colspan="1"><strong>Como desarrollador</strong>, <strong>quiero</strong> implementar un sistema que detecte automáticamente el plan más adecuado para el usuario según sus necesidades y preferencias, <strong>para</strong> facilitar el proceso de selección y establecimiento del plan.</td>
             <td colspan="5">
@@ -2311,7 +2379,7 @@ E02:
             <td colspan="1">EP008</td>
 		</tr>          
 		<tr>
-            <td colspan="1">TS042</td>
+            <td colspan="1">TS040</td>
             <td colspan="1">Implementación de medios de pago</td>
              <td colspan="1"><strong>Como desarrollador</strong>, <strong>quiero</strong> implementar diversos medios de pago en la plataforma, <strong>para</strong> ofrecer opciones flexibles y seguras a los usuarios al momento de realizar transacciones.</td>
             <td colspan="5">
@@ -2330,7 +2398,7 @@ E02:
             <td colspan="1">EP008</td>
 		</tr>
 		<tr>
-            <td colspan="1">BS043</td>
+            <td colspan="1">BS041</td>
             <td colspan="1">Exposición de métricas de la plataforma</td>
             <td colspan="1"><strong>Como inversor,</strong> <strong>quiero</strong> tener acceso a métricas clave de la plataforma, <strong>para</strong> evaluar el rendimiento y tomar decisiones de inversión informadas.</td>
             <td colspan="5">
@@ -2349,7 +2417,7 @@ E02:
             <td colspan="1">EP008</td>
 		</tr>
   		<tr>
-            <td colspan="1">US044</td>
+            <td colspan="1">US042</td>
             <td colspan="1">Visualización de caracteristicas de la aplicación web</td>
             <td colspan="1">Como usuario que navega en el landing page,Quiero ver caracteristicas de la aplicación, Para saber sobre la motivación del proyecto</td>
             <td colspan="5"><strong>E01: Caracteristicas del aplicativo encontradas 
@@ -2368,7 +2436,7 @@ Entonces Experimenta una experiencia de usuario insatisfactoria y puede tener un
             <td colspan="1">EP009</td>
 		</tr>
 				<tr>
-            <td colspan="1">US045</td>
+            <td colspan="1">US043</td>
             <td colspan="1">Landing Page Responsive Design</td>
              <td colspan="1">Como usuario navegando en la landing page, Quiero visualizarla desde cualquier dispositivo, Para mi comodidad como usuario</td>
             <td colspan="5"><strong>E01: Responsive desing exitoso</strong>
@@ -2387,7 +2455,7 @@ Dado</strong> que El usuario intenta acceder a la landing page desde un disposit
             <td colspan="1">EP009</td>
 		</tr>
 				<tr>
-            <td colspan="1">US046</td>
+            <td colspan="1">US044</td>
             <td colspan="1">Botón Call to action</td>
              <td colspan="1">Como usuario interesado en la plataforma, quiero ver un botón de "Llamar a la Acción" (Call to Action), para poder realizar una acción específica fácilmente</td>
             <td colspan="5"><strong>E01: Hay un Call to action bien segmentado 

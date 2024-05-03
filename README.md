@@ -4118,8 +4118,8 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-19</td>
-        <td rowspan="1" valign="top">Ingreso al videojuego singleplayer</td>
+        <td rowspan="2" valign="top">HU-19</td>
+        <td rowspan="2" valign="top">Ingreso al videojuego singleplayer</td>
         <td valign="top">19\.1</td>
         <td valign="top">Visualización detallada del videojuego escogido</td>
         <td valign="top">Muestra de detalles del argumento de videojuego</td>

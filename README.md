@@ -96,6 +96,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
           <li>Yen Cerna, Lucio Heli:
             <ul>
               <li><strong>TB1:</strong> Tras una gran cantidad de reuniones que permitieron encaminar al grupo hacia el objetivo, se pudo lograr un incremento que cumple con las expectativas del Sprint 1. En mi caso, realicé entrevistas que recopilaron información importante, coordiné con mis compañeros la organización de trabajo y los guié para entregar la mayor calidad posible en el proyecto. La comunicación fue fundamental en el equiipo de trabajo debido a que de esta manera todo el grupo pudo identificar lo que los clientes necesitan y pudimos mantener una sola idea en el desarrollo del producto.</li>
+              <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finiquitadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li>
             </ul>
           </li>
           <li>Llacchua Peralta Joseph Ulysses:
@@ -111,7 +112,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         </ul>
       </td>
       <td><li><strong>TB1:</strong> 
-La asignación individual de tareas permitió que cada miembro se concentrara en un área específica, lo que resultó en una finalización exitosa de todas las responsabilidades asignadas que constituían el contexto del proyecto y el diseño de la plataforma web y landing page. Al concluir, cada miembro del equipo pudo comunicar sus ideas de manera efectiva durante las interacciones verbales, demostrando habilidades de comunicación objetiva y clara con audiencias de diversas especialidades y niveles jerárquicos, en línea con el criterio evaluado de comunicación oral en el contexto de un proyecto de ingeniería. Para que el grupo se comunicara de manera virtual se emplearon diversas herramientas como Discord, Whatsapp, Trello, entre otros. Por último, se utilizó github Desktop, Visual Studio Code y JetBrains WebStorm para el desarrollo colaborativo del reporte y  del Sprint 1.</li> <br> <br> <li><strong> TP:</strong></li></td>  
+La asignación individual de tareas permitió que cada miembro se concentrara en un área específica, lo que resultó en una finalización exitosa de todas las responsabilidades asignadas que constituían el contexto del proyecto y el diseño de la plataforma web y landing page. Al concluir, cada miembro del equipo pudo comunicar sus ideas de manera efectiva durante las interacciones verbales, demostrando habilidades de comunicación objetiva y clara con audiencias de diversas especialidades y niveles jerárquicos, en línea con el criterio evaluado de comunicación oral en el contexto de un proyecto de ingeniería. Para que el grupo se comunicara de manera virtual se emplearon diversas herramientas como Discord, Whatsapp, Trello, entre otros. Por último, se utilizó github Desktop, Visual Studio Code y JetBrains WebStorm para el desarrollo colaborativo del reporte y  del Sprint 1.</li> <br> <br> <li><strong> TP:</strong> En el marco de una entrega tan importante como la entrega parcial, el grupo decidió juntarse tras el feedback brindado para reflexionar sobre la primera entrega y hallar los puntos de mejoria. Tras ello, se llevaron a cabo las correciones del proyecto para posteriormente coomenzar con el desarrollo del Sprint 2. En consideración con este sprint, se coordinó de manera oral las actividades que realizaría cada miembro dependiendo de sus habilidades fomentando un desarrollo ágil y eficiente. En síntesis, el equipo cumple con el student outcome al  comunicarse oralmente sobre las correciones, reflexiones, coordinaciones y entre otros para seguir con el desarrollo del Sprint 2.</li></td>  
     </tr>
     <tr>
       <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
@@ -136,18 +137,20 @@ La asignación individual de tareas permitió que cada miembro se concentrara en
          </ul>
           <li>Yen Cerna, Lucio Heli:
             <ul>
-              <li><strong>TB1:</strong> Durante el proyecto, documenté efectivamente diferentes secciones como el LEAN UX CANVAS, El Ubiquitous language que es fundamental para comunicarse con los stakeholders, las epics y user stories, el impact mapping y la arquitectura de información de la plataforma web y landing page. De esta manera, he podido aportar en el desarrollo del proyecto de forma escrita incorporando información vital para el desarrollo del producto a nivel de usuario y a nivel de estructura.</li>
+              <li><strong>TB1:</strong> Durante el proyecto, documenté efectivamente diferentes secciones como el LEAN UX CANVAS, El Ubiquitous language que es fundamental para comunicarse con los stakeholders, las epics y user stories, el impact mapping y la arquitectura de información de la plataforma web y landing page. De esta manera, he podido aportar en el desarrollo del proyecto de forma escrita incorporando información vital para el desarrollo del producto a nivel de usuario y a nivel de estructura</li>
+              <li><strong>TP</strong>Durante la TP, corregí los errores identificados en el Sprint Review, además, agregue documentación de calidad en las entrevistas, User Stories, los Wireframes, Userflows, Mockups, Wireflows y prototyping. Mi aporte en este proyecto ha tenido un impactoo positivo puesto que alimenté la documentación del proyecto brindando información que refleja mayor entendimiento y permite comunicar el propósito de nuestr product a los interesados del negocio.</li>
             </ul>
           </li>
           <li>Barrial Marin, Sharon Antuanet Ivet:
             <ul>
               <li><strong>TB1:</strong> Análisis y comparación de los registros de entrevistas, junto con los assumptions y la retroalimentación.</li>
+              <li><strong>TP:</strong>
             </ul>
           </li>
         </ul>
       </td>
       <td><li><strong>TB1:</strong> 
-Durante este sprint, cada miembro del equipo se dedicó de manera focalizada al desarrollo de las tareas escritas asignadas para esta fase que documentaban el contexto y diseño del proyecto relacionando los conceptos con el sector correspondiente, lo que garantizó un progreso significativo y eficiente en el proyecto. Posteriormente, cada integrante compartió formalmente sus contribuciones por escrito, lo que resultó en una presentación unificada y clara de nuestros avances mediante Github Desktop y otros medios de comunicación. Esta práctica aseguró que las ideas y resultados se comunicaran de manera objetiva y comprensible a un público diverso, incluidos aquellos con diferentes especialidades y niveles jerárquicos. Este enfoque en la comunicación escrita demostró una habilidad efectiva para transmitir información técnica y compleja de manera accesible, cumpliendo así con el criterio evaluado de comunicación escrita en el contexto del desarrollo de un proyecto en ingeniería. Además, el equipo de trabajo avanzó de forma pareja con una meta en común lo cuál logró que cada aporte sea beneficioso para el desarrollo.</li> <br> <br> <li><strong> TP:</strong></li></td>
+Durante este sprint, cada miembro del equipo se dedicó de manera focalizada al desarrollo de las tareas escritas asignadas para esta fase que documentaban el contexto y diseño del proyecto relacionando los conceptos con el sector correspondiente, lo que garantizó un progreso significativo y eficiente en el proyecto. Posteriormente, cada integrante compartió formalmente sus contribuciones por escrito, lo que resultó en una presentación unificada y clara de nuestros avances mediante Github Desktop y otros medios de comunicación. Esta práctica aseguró que las ideas y resultados se comunicaran de manera objetiva y comprensible a un público diverso, incluidos aquellos con diferentes especialidades y niveles jerárquicos. Este enfoque en la comunicación escrita demostró una habilidad efectiva para transmitir información técnica y compleja de manera accesible, cumpliendo así con el criterio evaluado de comunicación escrita en el contexto del desarrollo de un proyecto en ingeniería. Además, el equipo de trabajo avanzó de forma pareja con una meta en común lo cuál logró que cada aporte sea beneficioso para el desarrollo.</li> <br> <br> <li><strong> TP:</strong> Durante este Sprint, cada miembro del equipó brindo documentación de calidad que permitió alimentar la articulación del proyecto, por otro lado, existió comunicación oral para desarrollar el código de la plataforma web mediante Github Desktop permitiendo al grupo trabajar de forma asíncrona mediante un desarrollo iterativo. Igualmente, hubo comunicación escrita en el código del proyecto para que todos los miembros del equipo puedan conocer todas las funcionalidades implementadas mediante breves explicación en forma de comentarios o en descripciones de los commits registrados en el repositorio donde está alojado el proyecto. En síntesis, se cumplió el criterio del student outcome de manera que el grupo pudo brindar documentación de mayor calidad a los interesados del negocio y pudo comunicarse mediante explicaciones para entender y seguir desarrollando el proyecto</li></td>
    </tr>
   </tbody>
 </table>
@@ -3312,56 +3315,75 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
-Pantalla relacianada a la :
 
-<img src="./assets/wireApp1.PNG"/>
-<img src="./assets/wireApp2.PNG"/>
-<img src="./assets/wireApp3.PNG"/>
-<img src="./assets/wireApp4.PNG"/>
-<img src="./assets/wireApp5.PNG"/>
-<img src="./assets/wireApp6.PNG"/>
-<img src="./assets/wireApp7.PNG"/>
-<img src="./assets/wireApp8.PNG"/>
+
+<img src="./assets/Wireframes/Registro_Wireframe.png"/>
+<img src="./assets/Wireframes/Inicio_sesion_Wireframe.png"/>
+<img src="./assets/Wireframes/Settings_Wireframes.png"/>
+<img src="./assets/Wireframes/Home_Wireframe.png"/>
+<img src="./assets/Wireframes/Search_Wireframe.png"/>
+<img src="./assets/Wireframes/GamePanel_Wireframe.png"/>
+<img src="./assets/Wireframes/Game_Wireframe.png"/>
+<img src="./assets/Wireframes/FreePlan_Wireframe.png"/>
+<img src="./assets/Wireframes/PremiumPlan_Wireframe.png"/>
+<img src="./assets/Wireframes/Payment_Wireframe.png"/>
+<img src="./assets/Wireframes/Progress_Wireframe.png"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
+[Link LucidChart](https://lucid.app/lucidspark/6be66904-d598-4d02-96cc-7d63ff138086/edit?viewport_loc=-2211%2C-5901%2C21312%2C10684%2C0_0&invitationId=inv_b442328b-beb7-4338-9589-de2fc1c4f750)
 
-<img src="./assets/Wireflow Diagram.png"/>
-<img src="./assets/logout.png"/>
-<img src="./assets/EntrarJuego.png"/>
-<img src="./assets/progreso.png"/>
+Registro y Inicio de sesión
+<img src="./assets/Wireframes/Inicio de Sesión_Wireflow.png">
+Apartado de configuración
+<img src="./assets/Wireframes/Configuracion_Wireflow.png">
+Proceso de búsqueda e ingreso a videjuego
+<img src="./assets/Wireframes/Videojuego _Wireflow.png">
+Proceso de adquisición de plan
+<img src="./assets/Wireframes/Plan_Wireflow.png">
+Apartado de Progreso
+<img src="./assets/Wireframes/Progress_Wireflow.png">
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección, se presenta el diseño viusal y de interacción en formato de mockups del producto solución.
 
-<img src="./assets/mockApp1.PNG"/>
-<img src="./assets/mockApp2.PNG"/>
-<img src="./assets/mockApp3.PNG"/>
-<img src="./assets/mockApp4.PNG"/>
-<img src="./assets/mockApp5.PNG"/>
-<img src="./assets/mockApp6.PNG"/>
-<img src="./assets/mockApp7.PNG"/>
-<img src="./assets/mockApp8.PNG"/>
+<img src="./assets/Mockups/Iniciar Sesion_mockup.png"/>
+<img src="./assets/Mockups/Registro_mockup.png"/>
+<img src="./assets/Mockups/Configuracion_mockup.png"/>
+<img src="./assets/Mockups/Home_mockup.png"/>
+<img src="./assets/Mockups/Busqueda_mockup.png"/>
+<img src="./assets/Mockups/FracPizza_Overview_mockup.png"/>
+<img src="./assets/Mockups/FracPizza_mockup.png"/>
+<img src="./assets/Mockups/Calculo Mental_Overview_mockup.png"/>
+<img src="./assets/Mockups/Calculo Mental_mockup.png"/>
+<img src="./assets/Mockups/Versusmatic_Overview_mockup.png"/>
+<img src="./assets/Mockups/Versusmatic_mockup.png"/>
+<img src="./assets/Mockups/FreePlan__mockup.png"/>
+<img src="./assets/Mockups/PremiunPlan_mockup.png"/>
+<img src="./assets/Mockups/Payment_mockup.png"/>
+<img src="./assets/Mockups/Progress_mockup.png"/>
 
-![MOCK_UP_WEB APPLICATION]()
 ### 4.4.4. Web Applications User Flow Diagrams 
 En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo.
 
-[Link LucidChart]()
-
-**User Goal:**
-
-**Task Flow:**
-
-![IMAGEN-UserFlow]()
-
+[Link LucidChart](https://lucid.app/lucidspark/6be66904-d598-4d02-96cc-7d63ff138086/edit?viewport_loc=-2211%2C-5901%2C21312%2C10684%2C0_0&invitationId=inv_b442328b-beb7-4338-9589-de2fc1c4f750)
+User Goal: Ingresar a Home-
+Task Flow: Registrarse, Iniciar Sesión e ingresar a Home-
+<img src="./assets/Mockups/InicioSesion_Userflow.png">
+User Goal: Ingresar a un videojuego-
+Task Flow: Navegar por home, emplear la barra de búsqueda,ingresar a la vista previa principal y comenzar a jugar.
+<img src="./assets/Mockups/IngresoVideojuego_Userflow.png">
+User Goal: Adquirir Plan Premium.
+Task Flow: Ir a la pasarela de Pago, Ingresar datos del método de pago, pagar y adquirir el plan.
+<img src="./assets/Mockups/Planes_Userflow.png">
+User Goal: Revisar el progreso del usuario.
+Task Flow: Navegar por Home y presionar el atajo de mi progreso.
+<img src="./assets/Mockups/Progreso_Userflow.png">
 ## 4.5. Web Applications Prototyping
 En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
 
-[link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b298_upc_edu_pe/EQllB2KlsH1IgdWDYUe6iIEBN6F4vzyvdKuG8p0dQ_tI-g?e=T9Dlpr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EVjMBhA5jJxFpnWGWz7rjgoBnY33QUBV8dE81X9s9LW4fw?e=KqPvT6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**Principio de elección:**
-Procuramos que la aplicación web posea una cantidad de secciones a todo momento, por lo que se cuenta con la barra superior siempre en la aplicación con 4 secciones, los cuales podrá acceder a las funcionalidades rapidamente desde cualquier pantalla.
 
 **Principio de divulgación:**
 La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee.

@@ -4056,79 +4056,93 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do / </p><p dir="auto">InProcess / </p><p dir="auto">To Review / </p><p dir="auto">Done)</p></td>
     </tr>
     <tr>
-        <td rowspan="3" valign="top">HU-07</td>
-        <td rowspan="3" valign="top">Recepción de Solicitudes Cotización</td>
-        <td valign="top">07\.1</td>
-        <td valign="top">Implementar lista de solicitudes</td>
-        <td valign="top">Implementar una lista que contendra las solicitudes del cliente hacia cierta empresa </td>
+        <td rowspan="3" valign="top">HU-08</td>
+        <td rowspan="3" valign="top">Implementación del menú principal</td>
+        <td valign="top">08\.1</td>
+        <td valign="top">Implementar toolbar</td>
+        <td valign="top">Se muestra barra de búsqueda, icon de menu plegable y icon profile del usuario</td>
+        <td valign="top">1</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">08\.2</td>
+        <td valign="top">Implementar menú plegable</td>
+        <td valign="top">Implementación de un sidenav donde se muestra las opciones "Inicio", "Progreso", "Planes", "Configuración" y "Salir de cuenta"</td>
         <td valign="top">2</td>
         <td valign="top">Ybañez Esquerre. Miguel Angel</td>
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">07\.2</td>
-        <td valign="top">Extraer los datos del cliente</td>
-        <td valign="top">Se mostrará los datos del cliente que realizo la solicitud y mostrara sus datos registrados</td>
-        <td valign="top">2</td>
-        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td valign="top">07\.3</td>
-        <td valign="top">Mostrar ubicación en un mapa </td>
-        <td valign="top">Se mostrara la ubicacion aproximada de donde se busca el servicio de instalacion a travez de google maps</td>
+        <td valign="top">08\.3</td>
+        <td valign="top">Implementar slider de Videojuegos</td>
+        <td valign="top">Demostración de los videojuegos disponibles dentro de la plataforma</td>
         <td valign="top">3</td>
         <td valign="top">Ybañez Esquerre. Miguel Angel</td>
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-01</td>
-        <td rowspan="1" valign="top">Registro de nuevo Usuario</td>
-        <td valign="top">01</td>
-        <td valign="top">creación de nuevo usuario</td>
-        <td valign="top">implementar la creación de nuevo usuario al api atraves del registro</td>
-        <td valign="top">3</td>
-        <td valign="top">Avellaneda Ramos, Carlos Edward</td>
+        <td valign="top">08\.4</td>
+        <td valign="top">Implementación de Call-to-Action para adquirir plan premium</td>
+        <td valign="top">Implementación de mensaje persuasivo y botón para adquirir el plan premium de la plataforma</td>
+        <td valign="top">1/5</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-02</td>
-        <td rowspan="1" valign="top">Inicio de Sesión de Usuario</td>
-        <td valign="top">02</td>
-        <td valign="top">implementar el inicio de sesion</td>
-        <td valign="top">realizar peticiones al Api para iniciar sesion con usuario existente </td>
-        <td valign="top">3</td>
-        <td valign="top">Avellaneda Ramos, Carlos Edward</td>
+        <td valign="top">08\.5</td>
+        <td valign="top">Implementación de botón que dirige a la página progreso</td>
+        <td valign="top">Texto intuito y botón para redirigir al usuario a la página progreso para que vea su rendimiento</td>
+        <td valign="top">1/5</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-09</td>
-        <td rowspan="1" valign="top">Comunicación con los clientes</td>
-        <td valign="top">09</td>
-        <td valign="top">realizar un chat con los clientes que tenga la empresa</td>
-        <td valign="top">hacer un chat con los clientes relacionados a la empresa en tiempo real</td>
+        <td rowspan="1" valign="top">HU-42</td>
+        <td rowspan="1" valign="top">Implementación de medios de pago</td>
+        <td valign="top">42</td>
+        <td valign="top">Implementación de formulario de método de pago</td>
+        <td valign="top">Se muestra el formulario para realizar la adquisición del plan premium</td>
         <td valign="top">3</td>
-        <td valign="top">Quilla Luyo, Jorge Gerardo</td>
-        <td valign="top">in Progress</td>
+        <td valign="top"></td>
+        <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-08</td>
-        <td rowspan="1" valign="top">Gestión de Proyectos Asignados</td>
-        <td valign="top">09</td>
-        <td valign="top">realizar un panel de gestion de proyectos</td>
-        <td valign="top">implementar un dashboard donde se pueda visualizar los proyectos aceptados por la empresa, para su correcto desarrollo</td>
+        <td rowspan="1" valign="top">HU-23</td>
+        <td rowspan="1" valign="top">Resolución de rendimiento académico personalizado</td>
+        <td valign="top">23</td>
+        <td valign="top">Visualización de los resultados del usuario</td>
+        <td valign="top">Realizar peticiones al Api para la visualización del reporte académico del usuario</td>
         <td valign="top">3</td>
-        <td valign="top">Ticona Luque, Rony Piero</td>
-        <td valign="top">in Progress</td>
+        <td valign="top"></td>
+        <td valign="top">Done</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">HU-13</td>
-        <td rowspan="1" valign="top">Mejora de la navegación</td>
-        <td valign="top">13</td>
-        <td valign="top">agregar un toolbar para la navegación</td>
-        <td valign="top">implementar un toolbar que cuente con los botones que redirijan al usuario hacia donde quiere ir</td>
+        <td rowspan="1" valign="top">HU-19</td>
+        <td rowspan="1" valign="top">Ingreso al videojuego singleplayer</td>
+        <td valign="top">19\.1</td>
+        <td valign="top">Visualización detallada del videojuego escogido</td>
+        <td valign="top">Muestra de detalles del argumento de videojuego</td>
+        <td valign="top">1/5</td>
+        <td valign="top"></td>
+        <td valign="top"></td>
+    </tr>
+    <tr>
+        <td valign="top">19\.2</td>
+        <td valign="top">Implementación de botón que dirige a la vista videojuego</td>
+        <td valign="top">Implementación del botón play para comenzar el juego</td>
+        <td valign="top">1/5</td>
+        <td valign="top">Y</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-05</td>
+        <td rowspan="1" valign="top">Gestión de cuenta</td>
+        <td valign="top">09</td>
+        <td valign="top">Modificación a datos personales de la cuenta</td>
+        <td valign="top">Implementación un apartado para editar la cuenta del usuario</td>
         <td valign="top">3</td>
-        <td valign="top">Chavez Guerrero, Luis Sebastian</td>
+        <td valign="top"></td>
         <td valign="top">in Progress</td>
     </tr>
     </tbody>

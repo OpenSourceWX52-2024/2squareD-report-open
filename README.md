@@ -102,6 +102,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
           <li>Llacchua Peralta Joseph Ulysses:
             <ul>
               <li><strong>TB1:</strong> Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint.</li>
+              <li><strong>TP: </strong> Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. A partir de estos hallazgos, desarrollé wireframes y formularios para estructurar la información obtenida y guiar el proceso de diseño. Mi contribución ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.</li>
             </ul>
           </li>
           <li>Barrial Marin, Sharon Antuanet Ivet:
@@ -131,6 +132,7 @@ La asignación individual de tareas permitió que cada miembro se concentrara en
           <li>Llacchua Peralta Joseph Ulysses:
             <ul>
               <li><strong>TB1:</strong> He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps.</li>
+              <li><strong>TP</strong>Durante la realización de este proyecto, me comprometí a diseñar mockups para ordenador, cuidando la selección de colores, texturas y tamaños. Además, llevé a cabo entrevistas adicionales y realicé sus respectivos análisis para profundizar en la comprensión de las necesidades de los usuarios.</li>
             </ul>
           </li>
           <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li>
@@ -1338,16 +1340,36 @@ Segmento Objetivo 1: Institución / Empresa educativa
 - Expectativas tienen sobre los resultados: Tienen expectativas de mejorar la participación y comprensión estudiantil con la implementación de videojuegos didácticos (Mauroner, 2019).
 - Toma de decisión sobre la implementación de videojuegos didácticos: Necesitarían información adicional sobre la capacitación para los docentes, el soporte técnico y los posibles aliados estratégicos para tomar una decisión sobre la implementación de videojuegos didácticos en su institución.
 
+<h3>Se obeserba que el %83,3 tomarian la accion de capacitacion para fortalecer la foramcion docente</h3>
 <img src="./assets/Statistics_E/acciones-formacion.jpeg">
+<h3>Se obeserba que los principales desafios que enfrenta la instituciones son la baja calidad educativa </h3>
 <img src="./assets/Statistics_E/contexto.educativo.jpeg">
+<h3>Este gráfico proporciona una visión sobre las preferencias de los métodos de evaluación del aprendizaje en los videojuegos educativos, mostrando que el Seguimiento automatizado y las Evaluaciones formales son preferidos por la mitad de los encuestados. </h3>
 <img src="./assets/Statistics_E/evalucion-aprendisaje.jpeg">
+
+<h3>Este gráfico proporciona una visión sobre la familiaridad o experiencia de las personas con el uso de videojuegos en un contexto educativo, destacando que la mayoría de los encuestados están familiarizados con él como una herramienta educativa. </h3>
 <img src="./assets/Statistics_E/medida-videojuegos.jpeg">
+
+<h3>Este gráfico proporciona una visión sobre las preferencias de los videojuegos educativos entre un grupo de encuestados, destacando que los ‘Juegos de preguntas y respuestas’ y los ‘Juegos de habilidades’ son los más preferidos.</h3>
 <img src="./assets/Statistics_E/tipos-juegos.jpeg">
 
+<h3>Esto indica que la mayoría de los encuestados consideran que la investigación y evidencia, así como la infraestructura tecnológica, son aspectos esenciales para tomar una decisión sobre la implementación de videojuegos didácticos en su institución.</h3>
 <img src="./assets/Statistics_E/desciicones.jpeg">
+
+<h3>El gráfico muestra que las características o funcionalidades consideradas esenciales en un videojuego didáctico son la respuesta educativa, el feedback inmediato, la adaptabilidad, la variedad de actividades y el seguimiento del progreso, cada uno con un 50% de respuestas, mientras que la motivación obtuvo un 33.3% de respuestas..</h3>
+
 <img src="./assets/Statistics_E/expectativos-viodejuegos.jpeg">
+
+<h3>Este gráfico proporciona una visión sobre las preferencias de los videojuegos educativos entre un grupo de encuestados, destacando que los ‘Juegos de preguntas y respuestas’ y los ‘Juegos de habilidades’ son los más preferidos.</h3>
+
 <img src="./assets/Statistics_E/funcionalidades.jpeg">
+
+<h3>Este gráfico es interesante ya que representa visualmente las preocupaciones de las personas sobre el impacto de los videojuegos educativos en los entornos de aprendizaje.</h3>
+
 <img src="./assets/Statistics_E/preocupan-videojuego.jpeg">
+
+<h3>Cada categoría tiene barras que representan el número de respuestas, con “Instalación y configuración” y “Soporte y mantenimiento” recibiendo cuatro respuestas cada uno (66.7%), mientras que “Capacitación de profesores” tiene una respuesta (16.7%). Esta imagen proporciona información sobre las necesidades percibidas de soporte técnico en las instituciones educativas con respecto a la implementación de videojuegos.</h3>
+
 <img src="./assets/Statistics_E/soporte-videojuego.jpeg">
 
 Segmento Objetivo 2: Estudiantes de Secundaria 
@@ -1362,16 +1384,36 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 - Sugerencias para Mejoras: Ofrece sugerencias para hacer que una aplicación de aprendizaje de matemáticas sea más atractiva y fácil de usar para estudiantes de su edad, lo que indica una participación activa en el diseño y la mejora de herramientas educativas.
 - Impacto en el Desempeño y la Actitud: Considera el impacto potencial de una aplicación de aprendizaje interactivo de matemáticas en su desempeño académico y su actitud hacia la materia, lo que sugiere una expectativa positiva sobre el poder transformador de la tecnología en el aprendizaje (Tamayo Jose, 2024). 
 
+
+<h3>El gráfico muestra que los aspectos más desafiantes de las matemáticas para los encuestados son el álgebra (70%), el cálculo y la estadística y probabilidad (ambos con 50%), seguidos de la trigonometría (40%) y la geometría (30%).</h3>
 <img src="./assets/Statistics_P/cursos-desafiantes.jpeg">
+<h3>Cada categoría tiene barras que representan el número de respuestas, con “Instalación y configuración” y “Soporte y mantenimiento” recibiendo cuatro respuestas cada uno (66.7%), mientras que “Capacitación de profesores” tiene una respuesta (16.7%). Esta imagen proporciona información sobre las necesidades percibidas de soporte técnico en las instituciones educativas con respecto a la implementación de videojuegos.</h3>
 <img src="./assets/Statistics_P/atractivo-matematicas.jpeg">
+<h3>El gráfico muestra que las características más deseadas en una aplicación de aprendizaje de matemáticas son explicaciones claras (100% de respuestas), interactividad y variedad de problemas (ambos con 70% de respuestas), entre otras características.</h3>
 <img src="./assets/Statistics_P/enfoque-aprendisaje.jpeg"  >
+
+<h3>El gráfico muestra que la mayoría de los estudiantes encuentran desafiantes la comprensión de conceptos y la insuficiencia de práctica en matemáticas, y creen que una aplicación web podría ayudar a superar estos desafíos.</h3>
 <img src="./assets/Statistics_P/estudiar-matematicas.jpeg">
+
+<h3>El gráfico muestra que los estudiantes encuentran desafiantes la comprensión de conceptos, la práctica insuficiente, la dificultad para seguir el ritmo de la clase y la dificultad para resolver problemas complejos en matemáticas, y creen que una aplicación web podría ayudar a superar estos desafíos.</h3>
+
 <img src="./assets/Statistics_P/recursos-matematicas.jpeg">
+
+
+<h3>El gráfico muestra que la mayoría de los encuestados considera importante que una aplicación de aprendizaje de matemáticas tenga la capacidad de rastrear su progreso y ofrecer retroalimentación personalizada, especialmente para la mejora continua (80% de las respuestas).</h3>
 <img src="./assets/Statistics_P/relaizar-seguimiento.jpeg">
 
+
+<h3>El gráfico muestra que la mayoría de los estudiantes están a favor de la idea de colaborar con otros estudiantes a través de una aplicación de aprendizaje de matemáticas, destacando la preferencia por el desarrollo de habilidades sociales y la motivación para seguir jugando.</h3>
 <img src="./assets/Statistics_P/competir.jpeg">
+
+<h3>El gráfico muestra que la mayoría de los estudiantes consideran que utilizar la aplicación en tiempos de espera y recibir premios diarios son las formas más efectivas de integrar una aplicación de aprendizaje de matemáticas en su rutina diaria de estudio.</h3>
 <img src="./assets/Statistics_P/impacto-videojuego.jpeg">
+
+<h3>El gráfico muestra que la mayoría de los estudiantes consideran que un diseño atractivo es la característica más importante para hacer que una aplicación de aprendizaje de matemáticas sea más atractiva y fácil de usar.</h3>
 <img src="./assets/Statistics_P/rutina.jpeg">
+
+<h3>El gráfico muestra que la mayoría de los encuestados considera importante que una aplicación de aprendizaje de matemáticas tenga la capacidad de rastrear su progreso y ofrecer retroalimentación personalizada, especialmente para la mejora continua (80% de las respuestas).</h3>
 <img src="./assets/Statistics_P/sugerencias.jpeg">
 
 ## 2.3. Needfinding

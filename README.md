@@ -4196,9 +4196,13 @@ En este apartado se hace presenta la ejecución del frontend del servicio FastSc
 
 | Endpoint          | Detalles  |
 |---------------------|---------|
-| scooter_card_detail | En este endpoint se muestra los detalles del scooter seleccionado | 
-| scooter_card_grid | En este endpoint se muestra los scooters disponibles para rentar | 
-| user_profile | En este endpoint se muestra los datos de los users | 
+| users | Endpoint que contiene los datos del fake api para usuarios | 
+| students | Endpoint que contiene los datos del fake api para estudiantes | 
+| teachers | Endpoint que contiene los datos del fake api para teachers | 
+| games | Endpoint que contiene el fake api de juegos | 
+| categories | Endpoint que contiene el fake api para las categorías de los juegos | 
+| tags | Endpoint que contiene el fake api para las etiquetas de los juegos | 
+| gameProgress  | Endpoint que contiene el fake api para el progreso del usuario dentro del juego|
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 

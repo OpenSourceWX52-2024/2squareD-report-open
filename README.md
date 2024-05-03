@@ -1341,6 +1341,12 @@ Segmento Objetivo 1: Institución / Empresa educativa
 <img src="./assets/Statistics_E/medida-videojuegos.jpeg">
 <img src="./assets/Statistics_E/tipos-juegos.jpeg">
 
+<img src="./assets/Statistics_E/desciicones.jpeg">
+<img src="./assets/Statistics_E/expectativos-viodejuegos.jpeg">
+<img src="./assets/Statistics_E/funcionalidades.jpeg">
+<img src="./assets/Statistics_E/preocupan-videojuego.jpeg">
+<img src="./assets/Statistics_E/soporte-videojuego.jpeg">
+
 Segmento Objetivo 2: Estudiantes de Secundaria 
 - Desafíos en Matemáticas: El estudiante identifica aspectos desafiantes en las matemáticas, lo que sugiere una conciencia de las áreas en las que necesita más apoyo y comprensión (Triveños Dislia, 2023).
 - Valor del Enfoque Interactivo: Reconoce la utilidad de un enfoque interactivo para mejorar su experiencia de aprendizaje en matemáticas, lo que indica una apertura hacia métodos de enseñanza más dinámicos y participativos (Lara Cristina, 2023).
@@ -1359,6 +1365,11 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 <img src="./assets/Statistics_P/estudiar-matematicas.jpeg">
 <img src="./assets/Statistics_P/recursos-matematicas.jpeg">
 <img src="./assets/Statistics_P/relaizar-seguimiento.jpeg">
+
+<img src="./assets/Statistics_P/competir.jpeg">
+<img src="./assets/Statistics_P/impacto-videojuego.jpeg">
+<img src="./assets/Statistics_P/rutina.jpeg">
+<img src="./assets/Statistics_P/sugerencias.jpeg">
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas

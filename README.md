@@ -975,6 +975,104 @@ Johan señala que en su institución reciben charlas pedagógicas con el fin de 
 
 La falta de atención de los estudiantes y la necesidad de mejorar las habilidades pedagógicas de los docentes son desafíos significativos en el ámbito educativo. Para abordar estos problemas, es importante implementar estrategias innovadoras y capacitación adecuada para los docentes. La integración de tecnologías educativas, como los videojuegos didácticos, podría ser una solución efectiva para involucrar a los estudiantes y fomentar su interés en el aprendizaje.
 
+**Entrevistado 4**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./assets/interviews/Rodrigo.jpeg" alt="Entrevista Joseph 02" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Rodrigo Nicolas
+            <br> Merchan Chumpitaz
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 35 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Joseph Ulysses 
+            <br>Llacchua Peralta
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/ESm9mD2XE91Cmpubie6fHVoBO2SCvQi9E5lFR2P-g6wePA?e=wHN2LZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/ESm9mD2XE91Cmpubie6fHVoBO2SCvQi9E5lFR2P-g6wePA?e=wHN2LZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><u>00:20</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/ESm9mD2XE91Cmpubie6fHVoBO2SCvQi9E5lFR2P-g6wePA?e=wHN2LZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><u>04:17</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+Resumen: En la entrevista, Rodrigo Nicolás Merchan Chumpitaz, de 35 años, compartió los desafíos que enfrenta su institución educativa, como la falta de recursos tecnológicos adecuados y la necesidad de adaptarse a los cambios en los planes de estudio. También expresó interés en explorar el uso de videojuegos didácticos como herramienta educativa y mencionó características clave que consideran importantes, como la adaptabilidad al ritmo de aprendizaje de cada estudiante y la retroalimentación inmediata. Rodrigo destacó la importancia de la capacitación docente y expresó preocupación por la distracción que pueden generar los videojuegos. Esperan que implementar videojuegos didácticos mejore la motivación y el compromiso de los estudiantes, y les gustaría obtener más información sobre su impacto en el rendimiento académico.
+
+**Entrevistado 5**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./assets/interviews/Matias.jpeg" alt="Entrevista Joseph 03" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Augusto Mathias 
+            <br> Leonardo Vasquez
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 30 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Joseph Ulysses 
+            <br>Llacchua Peralta
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EWKVdgxV7zBAgIBNsCCXHyUBCdmEKyUXs1uUY_adBXzN6Q?e=kYTACr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EWKVdgxV7zBAgIBNsCCXHyUBCdmEKyUXs1uUY_adBXzN6Q?e=kYTACr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><u>00:20</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EWKVdgxV7zBAgIBNsCCXHyUBCdmEKyUXs1uUY_adBXzN6Q?e=kYTACr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><u>05:08</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+Resumen: Augusto Mathias, de 30 años, es parte de una institución educativa comprometida con proporcionar educación de calidad a los estudiantes a través de enfoques innovadores y soluciones efectivas. Durante la entrevista, se destacaron los desafíos que enfrenta la institución, como la falta de recursos tecnológicos adecuados y la necesidad de adaptarse rápidamente a los cambios educativos debido a la pandemia. Augusto expresó interés en el uso de videojuegos didácticos como herramienta educativa, aunque aún no han explorado su implementación debido a limitaciones de recursos y tiempo. Además, subrayó la importancia de la formación docente, la evaluación continua del aprendizaje y la preocupación por posibles efectos negativos como la adicción a los videojuegos. Esperan que la implementación de videojuegos didácticos mejore la motivación de los estudiantes, promueva el aprendizaje activo y aumente la retención de conocimientos.
+
 **Segmento Objetivo 2: Estudiantes de Secundaria**
 
 **Entrevistado: 1**

@@ -4056,8 +4056,8 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do / </p><p dir="auto">InProcess / </p><p dir="auto">To Review / </p><p dir="auto">Done)</p></td>
     </tr>
     <tr>
-        <td rowspan="3" valign="top">HU-08</td>
-        <td rowspan="3" valign="top">Implementación del menú principal</td>
+        <td rowspan="5" valign="top">HU-08</td>
+        <td rowspan="5" valign="top">Implementación del menú principal</td>
         <td valign="top">08\.1</td>
         <td valign="top">Implementar toolbar</td>
         <td valign="top">Se muestra barra de búsqueda, icon de menu plegable y icon profile del usuario</td>

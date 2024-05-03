@@ -4151,6 +4151,14 @@ En este apartado se hace presenta la ejecución del frontend del servicio FastSc
 
 ![imagen fronted]()
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+| Endpoint          | Detalles  |
+|---------------------|---------|
+| scooter_card_detail | En este endpoint se muestra los detalles del scooter seleccionado | 
+| scooter_card_grid | En este endpoint se muestra los scooters disponibles para rentar | 
+| user_profile | En este endpoint se muestra los datos de los users | 
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 

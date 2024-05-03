@@ -4219,9 +4219,7 @@ Muestra de las carpetas creadas:
 
 Se añade el archivo “ ” para que VUE pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
 
-![Imagen de las rutas]()
-![Imagen de las rutas]()
-![Imagen de las rutas]()
+![Imagen de las rutas](./assets/rutas.jpg)
 
 Por último, usamos el comando “npm run format” al proyecto que nos permite desplegar nuestra aplicación manualmente para evitar errores:
 

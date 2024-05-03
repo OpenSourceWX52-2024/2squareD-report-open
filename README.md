@@ -3458,9 +3458,9 @@ En esta sección, se utilizará el enfoque de diseño orientado a objetos para d
 ### 4.7.1. Class Diagrams
 En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
 
-![Class Diagrams](./assets/imgclassdiagram.png)
+![Class Diagrams](./assets/Diagrama_Clase.jpeg)
 
-[Link del Diagrama de Clases](https://lucid.app/lucidchart/ebe83151-a551-403d-9e7e-f3523bc5b8fc/edit?viewport_loc=-110%2C-223%2C3121%2C1556%2CCpNsEQx_mjIY&invitationId=inv_fb64260f-5de2-43dd-96a6-8761ddfec43a)
+[Link del Diagrama de Clases](https://lucid.app/lucidchart/f58ea7fc-222c-4299-af31-1d88a5b1fdef/edit?viewport_loc=-1993%2C60%2C2332%2C1151%2C0_0&invitationId=inv_2f6f7303-c62f-472a-a137-88ce0a8958f2)
 
 ### 4.7.2. Class Dictionary
 
@@ -3472,59 +3472,63 @@ En esta sección, se presentarán los diagramas de clases, en las cuales se repr
 		</tr>
         <tr>
             <td>Class User</td>
-            <td>Clase encargada de registrar usuarios, autenticar y gestionar cuentas.</td>
+            <td>Clase encargada de contener un objeto usuario y poder obtenerlo.</td>
         </tr>
         <tr>
-            <td>Class tags</td>
-            <td>Esta clase se encarga de darle a los videojuegos etiquetas sobre que asignatura son y que tema están tratando, para darle una referencia al usuario sobre lo que trata el videojuego.</td>
+            <td>Class UserBuilder</td>
+            <td>Clase base encargada dde construir un tipo de Usuario.</td>
         </tr>
         <tr>
-            <td>Class subjects</td>
-            <td>Esta clase recibe todas las asignaturas matemáticas disponibles en nuestro sistema.</td>
+            <td>Class Student</td>
+            <td>Clase similar a usuario que representa un tipo de segmento objetivo</td>
         </tr>
         <tr>
-            <td>Enum Subject</td>
-            <td>Adjunta las diferentes ramas que nuestra plataforma tendrá disponible para etiquetar los videojuegos.</td>
+            <td>Class Teacher</td>
+            <td>Clase similar a usuario que representa un tipo de segmento objetivo</td>
         </tr>
         <tr>
-            <td>Class Topics</td>
-            <td>Esta clase tiene métodos para que los usuarios pongan los etiquetados con los temas de cada asignatura que pertenecen a los videojuegos.</td>
+            <td>Class UserManager</td>
+            <td>Esta clase tiene métodos construir un tipo de usuario específico.</td>
         </tr>
         <tr>
-            <td>Class Report</td>
-            <td>Esta clase devuelve los reportes a usuarios personales, mostrando su rendimiento académico y la mejora continua que presentan dentro de la aplicación.</td>
+            <td>Class Progress</td>
+            <td>Esta clase almacena la información del progreso del usuario.</td>
         </tr>
         <tr>
-            <td>Class Videogame</td>
-            <td>Esta clase se encarga de dar inicio a los juegos, recibiendo a los jugadores y sus etiquetas.</td>
+            <td>Class Game</td>
+            <td>Esta clase se encarga de dar inicio a los juegos, medir el tiempo de juego y calcular el score.</td>
         </tr>
         <tr>
-            <td>Class gameState</td>
-            <td>Esta clase recibe el estado en que se encuentra los jugadores los videojuegos disponibles dentro de la plataforma.</td>
+            <td>Class RooManager</td>
+            <td>Esta clase gestiona las salas dentro del juego.</td>
         </tr>
         <tr>
-            <td>Enum State</td>
-            <td>Esta clase presenta los estados activos que tendrán los jugadores dependiendo del proceso en que se encuentren dentro de nuestra aplicaicón.</td>
+            <td>Enum Gametype</td>
+            <td>Esta clase presenta el tipo de videojuego considerando el número de jugadores.</td>
         </tr>
         <tr>
-            <td>Class educational_institution</td>
-            <td>Esta clase recibe las instituciones junto con sus usuarios pertenecientes a la organización institucional.</td>
+            <td>Class Report/td>
+            <td>Esta clase genera un reporte del desempeño odel usuario dentro del juego.</td>
         </tr>
         <tr>
-            <td>Class roomManager</td>
-            <td>Esta clase maneja al usuario encargado de crear salas de competencia y dandole funciones en este proceso.</td>
+            <td>Class SinglePlayerGame</td>
+            <td>Esta clase gestiona los eventos de loos videojuegos singleplayer.</td>
         </tr>
         <tr>
-            <td>Class Competition</td>
-            <td>Esta clase recibe a los participantes competidores y al encargado de crear o inciar la competencia.</td>
+            <td>Class MultiPlayerGame</td>
+            <td>Esta clase gestiona los eventos de loos videojuegos multiplayer..</td>
         </tr>
         <tr>
-            <td>Class table_Competition</td>
-            <td>Esta tabla devuelve los resultados obtenidos dentro de la competencia, mostrando los puestos en que quedaron los alumnos de acuerdo a sus errores y aciertos.</td>
+            <td>Room</td>
+            <td>Esta clase genera una sala multijugador y la gestiona</td>
         </tr>
         <tr>
-            <td>Class room</td>
-            <td>Esta clase permite a los usuarios acceder o el crear diferentes competencias para jugar con otros usuarios.</td>
+            <td>Enum GameRoomState</td>
+            <td>Esta lista indica el estado de la sala multijugador</td>
+        </tr>
+                <tr>
+            <td>Interface Subscriber</td>
+            <td>Esta interface actualiza el estado de la sala</td>
         </tr>
 	</tbody>
 </table>
@@ -3545,7 +3549,7 @@ En esta sección, se presentarán los diagramas de clases, en las cuales se repr
 ### 4.8.1. Database Diagram
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas.
 
-<img src="./assets/DataBaseDiagram.png" alt="DataBaseDiagram" width="800" height="800">
+<img src="./assets/Base_Datos.jpeg" alt="DataBaseDiagram" width="800" height="800">
 
 [Link de la Base de Datos](https://my.vertabelo.com/doc/c2pNMXNHAjv6lC48LTnQCxxGZJ5eckwK)
 

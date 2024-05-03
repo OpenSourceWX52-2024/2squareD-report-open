@@ -4159,6 +4159,39 @@ En este apartado se hace presenta la ejecución del frontend del servicio FastSc
 | scooter_card_grid | En este endpoint se muestra los scooters disponibles para rentar | 
 | user_profile | En este endpoint se muestra los datos de los users | 
 
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Ejecutamos el comando “npm run dev” en la ruta de nuestro projecto en VUE y esta acción nos muestra lo siguiente:
+
+![Imagen de terminal local del proyecto]()
+
+Muestra de las carpetas creadas:
+
+![Imagen de carpeta local src del proyecto]()
+
+Se añade el archivo “ ” para que VUE pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![Imagen de las rutas]()
+![Imagen de las rutas]()
+![Imagen de las rutas]()
+
+Por último, usamos el comando “npm run format” al proyecto que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![Imagen del comando en la terminal]()
+
+Nuestro despliegue se ha hecho en Microsoft Azure:
+
+![Paso para desplegar]()
+
+De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue]()
+
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint2:
+
+[Link del frontend desplegado]()
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 

@@ -1152,21 +1152,21 @@ Nota. Fabrizio Flores es estudiante de quinto grado de secundaria del colegio Sa
         </tr>
         <tr>
             <td>
-             <strong><a href="">URL Entrevista</a></strong>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EUlZhFt1Tw1CtkyNauu-K4YBHl5BIIJvzeWjyzYZvjliSQ?e=bBTo9r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
             </td>
         </tr>
         <tr>
             <td>
             <strong>Timing Inicial</strong>
             <br>
-            <a href=""><u>03:04</u>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EUlZhFt1Tw1CtkyNauu-K4YBHl5BIIJvzeWjyzYZvjliSQ?e=Htm7Ov&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTA2Ljk3fX0%3D"><u>01:46</u>
             </td>
         </tr>
         <tr>
             <td>
             <strong>Timing Final</strong>
             <br>
-            <a href=""><u>07:49</u>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EUlZhFt1Tw1CtkyNauu-K4YBHl5BIIJvzeWjyzYZvjliSQ?e=hIKmwc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6ODk0LjI0fX0%3D"><u>14:45</u>
             </td>
         </tr>
 	</tbody>
@@ -1174,7 +1174,54 @@ Nota. Fabrizio Flores es estudiante de quinto grado de secundaria del colegio Sa
 
 Resumen: Ángela es una estudiante de secundaria que actualmente reside en Estados Unidos, sin embargo, nos cuenta sus dificultades con aprender las matemáticas cuando residía en Perú. Una de ellas es aprender las teorías antes que las fórmulas más en álgebra que en trigonometría o geometría. Es por lo que, ella opina que el uso de un reforzador presentado como videojuego le ayudaría a entender mejor los conceptos con respecto a la teoría para aplicar las fórmulas correspondientes. Debido a que, las sesiones tradicionales de su escuela anterior y la actual no le dejan tarea para resolver, solo le dan evaluaciones y muchas veces ella no supo como se solucionaba tales ejercicios. Aunque se guiaba de tutoriales de youtube, siente que su conocimiento se borra una vez que pasa el examen. Un problema muy común en los estudiantes de hoy en día. Además, nos cuenta que sentiría mayor motivación de aprender y elevar su nivel si compitiera con los de su misma edad. Por último, ninguna de sus escuelas les daba la resolución de los problemas que ella marcaba por error, eso le dificultaba y elevaba sus niveles de estrés por no saber como mejorar su conocimiento.
 
+**Entrevistado 5**
 
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="/assets/interviews/entrevista5.png" alt="Entrevista de Sharon" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Andree
+            <br> Perez Marin
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 15 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Sharon Antuanet Ivet 
+            <br>Barrial Marin
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EZL3UEUvWmpKuH4rpqX_QIUBOy1oz01X_DVvV2V8m7Ls1w?e=Twwyhv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EZL3UEUvWmpKuH4rpqX_QIUBOy1oz01X_DVvV2V8m7Ls1w?e=uBchwu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTIuNTZ9fQ%3D%3D"><u>00:52</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EZL3UEUvWmpKuH4rpqX_QIUBOy1oz01X_DVvV2V8m7Ls1w?e=S1qx1i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkyLjM1fX0%3D"><u>09:52</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+Resumen: Andree es un estudiante de secundaria que actualmente también reside en Estados Unidos, sin embargo, nos cuenta sus dificultades con aprender las matemáticas cuando residía en Perú. Al igual que Samanta sus dificultades en cuanto aprender un tema son las teorías, incluyendo las fórmulas tanto en álgebra, trigonometría o geometría. Debido a eso, él opina que hubiera querdo reforzar los conocimientos enseñados en el salón de clases en forma de videojuego. Ya que como amante de videojuegos, le hubiera ayudado a entender mejor todos los conceptos correspondientes. Debido a que, siente que en las sesiones tradicionales de su escuela anterior y la actual dan clases aburridas y tediosas para llevarlas en un turno mañana, además de solo le dan evaluaciones y muchas veces él no sabe solucionar ese ejercicio. Aunque trata de guiarse de youtube y foros de ayuda como Brainly, siente que su conocimiento se borra una vez que pasa una evaluación. Un problema muy común en los estudiantes de hoy en día. Además, nos cuenta que sentiría mayor motivación de aprender y elevar su nivel si compitiera con sus compañeros de su misma edad. Por último, ninguna de sus escuelas les daba la resolución de los problemas que él recibía como error, eso le dificultaba y le quitaba más motivos para querer estudiar.
 
 
 ### 2.2.3. Análisis de entrevistas

@@ -4214,7 +4214,8 @@ Ejecutamos el comando “ng s -o” en la ruta de nuestro projecto en Angular y 
 
 Muestra de las carpetas creadas:
 
-![Imagen de carpeta local src del proyecto]()
+![Imagen de carpeta local src del proyecto](./assets/carpetas1.jpg)
+![Imagen de carpeta local src del proyecto](./assets/carpetas2.jpg)
 
 Se añade el archivo “ ” para que VUE pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
 

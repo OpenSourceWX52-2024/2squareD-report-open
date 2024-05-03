@@ -4018,6 +4018,109 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 | Sprint 2 - Velocity              | El equipo puede aceptar -- Story Points                                                                                                                                      |
 | Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es -- Story Points                                                                                                       |
 
+#### 5.2.2.2. Sprint Backlog 2
+
+Implementación del Landing Page acorde con las User Stories.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 2</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el frontend de las principales historias de usuario del product backlog </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do / </p><p dir="auto">InProcess / </p><p dir="auto">To Review / </p><p dir="auto">Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="3" valign="top">HU-07</td>
+        <td rowspan="3" valign="top">Recepción de Solicitudes Cotización</td>
+        <td valign="top">07\.1</td>
+        <td valign="top">Implementar lista de solicitudes</td>
+        <td valign="top">Implementar una lista que contendra las solicitudes del cliente hacia cierta empresa </td>
+        <td valign="top">2</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">07\.2</td>
+        <td valign="top">Extraer los datos del cliente</td>
+        <td valign="top">Se mostrará los datos del cliente que realizo la solicitud y mostrara sus datos registrados</td>
+        <td valign="top">2</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">07\.3</td>
+        <td valign="top">Mostrar ubicación en un mapa </td>
+        <td valign="top">Se mostrara la ubicacion aproximada de donde se busca el servicio de instalacion a travez de google maps</td>
+        <td valign="top">3</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-01</td>
+        <td rowspan="1" valign="top">Registro de nuevo Usuario</td>
+        <td valign="top">01</td>
+        <td valign="top">creación de nuevo usuario</td>
+        <td valign="top">implementar la creación de nuevo usuario al api atraves del registro</td>
+        <td valign="top">3</td>
+        <td valign="top">Avellaneda Ramos, Carlos Edward</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-02</td>
+        <td rowspan="1" valign="top">Inicio de Sesión de Usuario</td>
+        <td valign="top">02</td>
+        <td valign="top">implementar el inicio de sesion</td>
+        <td valign="top">realizar peticiones al Api para iniciar sesion con usuario existente </td>
+        <td valign="top">3</td>
+        <td valign="top">Avellaneda Ramos, Carlos Edward</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-09</td>
+        <td rowspan="1" valign="top">Comunicación con los clientes</td>
+        <td valign="top">09</td>
+        <td valign="top">realizar un chat con los clientes que tenga la empresa</td>
+        <td valign="top">hacer un chat con los clientes relacionados a la empresa en tiempo real</td>
+        <td valign="top">3</td>
+        <td valign="top">Quilla Luyo, Jorge Gerardo</td>
+        <td valign="top">in Progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-08</td>
+        <td rowspan="1" valign="top">Gestión de Proyectos Asignados</td>
+        <td valign="top">09</td>
+        <td valign="top">realizar un panel de gestion de proyectos</td>
+        <td valign="top">implementar un dashboard donde se pueda visualizar los proyectos aceptados por la empresa, para su correcto desarrollo</td>
+        <td valign="top">3</td>
+        <td valign="top">Ticona Luque, Rony Piero</td>
+        <td valign="top">in Progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-13</td>
+        <td rowspan="1" valign="top">Mejora de la navegación</td>
+        <td valign="top">13</td>
+        <td valign="top">agregar un toolbar para la navegación</td>
+        <td valign="top">implementar un toolbar que cuente con los botones que redirijan al usuario hacia donde quiere ir</td>
+        <td valign="top">3</td>
+        <td valign="top">Chavez Guerrero, Luis Sebastian</td>
+        <td valign="top">in Progress</td>
+    </tr>
+    </tbody>
+</table>
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 

@@ -4121,6 +4121,17 @@ Implementación del Landing Page acorde con las User Stories.
     </tbody>
 </table>
 
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| goSteel-Frontend | develop | f0553f6   | chore: DDD architecture | -                   | 30/04/2024         |
+| goSteel-Frontend | develop | 9108a10   | fix: router rendering pages      | -                   | 30/04/2024         |
+| goSteel-Frontend | develop | 207b7e6   | feat: update various components    | -                   | 30/04/2024         |
+| goSteel-Frontend | develop | c5fe5c6   | chore: files to work on              | -                   | 30/04/2024         |
+| goSteel-Frontend | develop | 284d251   | feat: scooter-purchase and update routes      | -                   | 01/05/2024         |
+| goSteel-Frontend | develop | e327ad4   | chore: add .component to some files      | -                   | 01/05/2024         |
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 

@@ -4244,23 +4244,16 @@ Implementación del Landing Page acorde con las User Stories.
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-| Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
-|---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
-| goSteel-Frontend    | main    | f0553f6   | chore: apply DDD architecture                | -                   | 30/04/2024         |
-| goSteel-Frontend    | main    | 9108a10   | fix: fix router rendering pages               | -                   | 30/04/2024         |
-| goSteel-Frontend    | main    | 207b7e6   | feat: update various components               | -                   | 30/04/2024         |
-| goSteel-Frontend    | main    | c5fe5c6   | chore: add necessary files                    | -                   | 30/04/2024         |
-| goSteel-Frontend    | main    | 284d251   | feat: add scooter-purchase and update routes  | -                   | 01/05/2024         |
-| goSteel-Frontend    | main    | e327ad4   | chore: add .component extension to some files | -                   | 01/05/2024         |
-| goSteel-Frontend    | develop | 74175c4   | feat(pages): create scooter-favorites component | -                | 03/05/2024         |
-| goSteel-Frontend    | develop | cb414ca   | fix: update scooter-details component        | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | 59e162f   | feat: create scooter-details component       | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | 59e162f   | feat(pages): create scooter-favorites component | -                | 03/05/2024         |
-| goSteel-Frontend    | develop | 4951609   | feat: create scooter-booking component       | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | bcae30b   | fix: update home component (home-login)      | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | db688c7   | fix: update login-toolbar component          | -                   | 03/05/2024         |
-| goSteel-Frontend    | develop | a415f6c   | chore: update database functionality (db.json) | -                  | 03/05/2024         |
-
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 677c10f  | feat: create acceptance_test_1     | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | af6377d  | feat: create acceptance_test_2     | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 17d20e2  | feat: create acceptance test 3    | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 13377e0  | feat: create acceptance test 4    | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 172810c  | feat: create acceptance test 5    | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | b894017  | feat: add acceptance test 6       | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | a99286c  | fix: update acceptance test 6     | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 987b8d5  | feat: create acceptance test 7    | - | 03/05/2024 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 

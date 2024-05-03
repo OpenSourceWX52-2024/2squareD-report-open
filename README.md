@@ -1335,6 +1335,12 @@ Segmento Objetivo 1: Institución / Empresa educativa
 - Expectativas tienen sobre los resultados: Tienen expectativas de mejorar la participación y comprensión estudiantil con la implementación de videojuegos didácticos (Mauroner, 2019).
 - Toma de decisión sobre la implementación de videojuegos didácticos: Necesitarían información adicional sobre la capacitación para los docentes, el soporte técnico y los posibles aliados estratégicos para tomar una decisión sobre la implementación de videojuegos didácticos en su institución.
 
+<img src="./assets/Statistics_E/acciones-formacion.jpeg">
+<img src="./assets/Statistics_E/contexto.educativo.jpeg">
+<img src="./assets/Statistics_E/evalucion-aprendisaje.jpeg">
+<img src="./assets/Statistics_E/medida-videojuegos.jpeg">
+<img src="./assets/Statistics_E/tipos-juegos.jpeg">
+
 Segmento Objetivo 2: Estudiantes de Secundaria 
 - Desafíos en Matemáticas: El estudiante identifica aspectos desafiantes en las matemáticas, lo que sugiere una conciencia de las áreas en las que necesita más apoyo y comprensión (Triveños Dislia, 2023).
 - Valor del Enfoque Interactivo: Reconoce la utilidad de un enfoque interactivo para mejorar su experiencia de aprendizaje en matemáticas, lo que indica una apertura hacia métodos de enseñanza más dinámicos y participativos (Lara Cristina, 2023).
@@ -1346,6 +1352,13 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 - Integración en la Rutina Diaria: Considera cómo una aplicación de aprendizaje de matemáticas podría integrarse efectivamente en su rutina diaria de estudio, lo que refleja una comprensión de la importancia de la consistencia y la practicidad en el aprendizaje.
 - Sugerencias para Mejoras: Ofrece sugerencias para hacer que una aplicación de aprendizaje de matemáticas sea más atractiva y fácil de usar para estudiantes de su edad, lo que indica una participación activa en el diseño y la mejora de herramientas educativas.
 - Impacto en el Desempeño y la Actitud: Considera el impacto potencial de una aplicación de aprendizaje interactivo de matemáticas en su desempeño académico y su actitud hacia la materia, lo que sugiere una expectativa positiva sobre el poder transformador de la tecnología en el aprendizaje (Tamayo Jose, 2024). 
+
+<img src="./assets/Statistics_P/cursos-desafiantes.jpeg">
+<img src="./assets/Statistics_P/atractivo-matematicas.jpeg">
+<img src="./assets/Statistics_P/enfoque-aprendisaje.jpeg"  >
+<img src="./assets/Statistics_P/estudiar-matematicas.jpeg">
+<img src="./assets/Statistics_P/recursos-matematicas.jpeg">
+<img src="./assets/Statistics_P/relaizar-seguimiento.jpeg">
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas

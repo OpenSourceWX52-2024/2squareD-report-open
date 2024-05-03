@@ -31,20 +31,36 @@ Junio del 2024
 ---
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                                    | Descripción de la modificación                                                                                     |
-|---------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| 1.00    | 14/04/2024 | -Carpio Cornejo, Miguel Angel | Se creó la portada y el índice del informe, además se finalizaron todos los aspectos relacionados con el perfil de la solución, el perfil de la startup y la descripción de los antecedentes y problemáticas, así como los segmentos objetivo. Se completaron los capítulos de las pautas generales de estilo, los wireframes, mockups y sus correspondientes flujos de trabajo. También se desarrollaron los diagramas C4. Se completaron las convenciones de trabajo en repositorios y la convenciones de codigo |
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de la modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.00 - TB1</td>
+      <td>14/04/2024</td>
+      <td>Barrial Marin, Sharon Antuanet Ivet - Carpio Cornejo, Miguel Angel - Llacchua Peralta, Joseph Ulysses - Minaya Mundines, Pietro Gerardo - Ybañez Esquerre, Miguel Angel - Yen Cerna, Lucio Heli</td>
+      <td>Desarrollo del capítulo I, capítulo II, capítulo III, capítulo IV, capítulo V y Sprint 1: Landing Page.</td>
+    </tr>
+        <tr>
+      <td>2.00 - TP</td>
+      <td>03/05/2024</td>
+      <td>Barrial Marin, Sharon Antuanet Ivet - Carpio Cornejo, Miguel Angel - Llacchua Peralta, Joseph Ulysses - Minaya Mundines, Pietro Gerardo - Ybañez Esquerre, Miguel Angel - Yen Cerna, Lucio Heli</td>
+      <td>Subsanación de errores del Student Outcome, capítulo II: Entrevistas y análisis, capítulo II: User Stories, Product Backlog; capítulo IV: Wireframes, Mockups, User Flow, Diagramas C4, diagrama de base de datos y diagrama de clases; capítulo V: Source Code Management; y Landing Page. Desarrollo del Sprint 2: Frontend.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 # Project Report Collaboration Insights
 
 Se han realizado todas las tareas asignadas para la entrega TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace ["upc-pre-202401--si729-WX52-2SquareD-report"](https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-report/tree/main). Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
-
-Además, se han elaborado los artefactos necesarios utilizando las herramientas indicadas, y los enlaces de imagen correspondientes se han obtenido a través de la funcionalidad de "Issues" dentro del repositorio del informe.
-
-Se han llevado a cabo reuniones periódicas para coordinar el progreso de los puntos del informe, aprovechando también estas reuniones para comunicar los avances realizados durante el Sprint 1, el cual se enfocó en el desarrollo de la Landing Page del proyecto.
-
-<img src="./assets/InsightReport.PNG" />
 
 ---
 # Student Outcome
@@ -53,11 +69,97 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td>
+        <ul>
+          <li>Carpio Cornejo, Miguel Ángel:
+            <ul>
+              <li><strong>TB1:</strong> Realizó entrevistas al segmento objetivo, compartió ideas del proyecto con el público objetivo y recopiló información para priorizar las características del producto.</li> <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finalizadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li>
+            </ul>
+          </li>
+          <li>Miguel Ángel Ybañez Esquerre:
+            <ul>
+              <li><strong>TB1:</strong> Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades de búsqueda de necesidades en colaboración con el equipo.</li>
+		    <li><strong>TP:</strong> se respetó rigurosamente el diseño de domain design, asegurando la coherencia y consistencia en la arquitectura de la aplicación. Esta aproximación centrada en los dominios del negocio facilitó la escalabilidad y mantenibilidad del sistema a largo plazo, al tiempo que proporcionaba una base sólida para futuras iteraciones y expansiones del proyecto. En conjunto, la implementación de los componentes frontend durante el segundo sprint se llevó a cabo de manera disciplinada y orientada a resultados, contribuyendo significativamente al avance general del desarrollo del proyecto.</li>
+            </ul>
+          </li>
+          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong> TB1: </Strong>Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetivo 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page</ul></li> <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finalizadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li>
+          <li>Yen Cerna, Lucio Heli:
+            <ul>
+              <li><strong>TB1:</strong> Tras una gran cantidad de reuniones que permitieron encaminar al grupo hacia el objetivo, se pudo lograr un incremento que cumple con las expectativas del Sprint 1. En mi caso, realicé entrevistas que recopilaron información importante, coordiné con mis compañeros la organización de trabajo y los guié para entregar la mayor calidad posible en el proyecto. La comunicación fue fundamental en el equiipo de trabajo debido a que de esta manera todo el grupo pudo identificar lo que los clientes necesitan y pudimos mantener una sola idea en el desarrollo del producto.</li>
+              <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finiquitadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li>
+            </ul>
+          </li>
+          <li>Llacchua Peralta Joseph Ulysses:
+            <ul>
+              <li><strong>TB1:</strong> Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint.</li>
+              <li><strong>TP: </strong> Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. A partir de estos hallazgos, desarrollé wireframes y formularios para estructurar la información obtenida y guiar el proceso de diseño. Mi contribución ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.</li>
+            </ul>
+          </li>
+          <li>Barrial Marin, Sharon Antuanet Ivet:
+            <ul>
+              <li><strong>TB1:</strong> Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades correspondientes al Lean UX Assumptions, As-is scenario mapping, to-be scenario mapping, epics, user stories y class diagrams con su respectivo class dictionary</li>
+		    <li><strong>TP:</strong> La información desarrollada en el sprint Sprint Planning 2 y  El Sprint Backlog 2  fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir. Además, se fomentó la colaboración activa entre los miembros del equipo, aprovechando las oportunidades para compartir conocimientos y experiencias que enriquecieran el proceso de desarrollo. En resumen, el segundo sprint se caracterizó por una planificación meticulosa, una ejecución eficiente y una colaboración efectiva, sentando así las bases para el éxito continuo del proyecto.</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td><li><strong>TB1:</strong> 
+La asignación individual de tareas permitió que cada miembro se concentrara en un área específica, lo que resultó en una finalización exitosa de todas las responsabilidades asignadas que constituían el contexto del proyecto y el diseño de la plataforma web y landing page. Al concluir, cada miembro del equipo pudo comunicar sus ideas de manera efectiva durante las interacciones verbales, demostrando habilidades de comunicación objetiva y clara con audiencias de diversas especialidades y niveles jerárquicos, en línea con el criterio evaluado de comunicación oral en el contexto de un proyecto de ingeniería. Para que el grupo se comunicara de manera virtual se emplearon diversas herramientas como Discord, Whatsapp, Trello, entre otros. Por último, se utilizó github Desktop, Visual Studio Code y JetBrains WebStorm para el desarrollo colaborativo del reporte y  del Sprint 1.</li> <br> <br> <li><strong> TP:</strong> En el marco de una entrega tan importante como la entrega parcial, el grupo decidió juntarse tras el feedback brindado para reflexionar sobre la primera entrega y hallar los puntos de mejoria. Tras ello, se llevaron a cabo las correciones del proyecto para posteriormente coomenzar con el desarrollo del Sprint 2. En consideración con este sprint, se coordinó de manera oral las actividades que realizaría cada miembro dependiendo de sus habilidades fomentando un desarrollo ágil y eficiente. En síntesis, el equipo cumple con el student outcome al  comunicarse oralmente sobre las correciones, reflexiones, coordinaciones y entre otros para seguir con el desarrollo del Sprint 2.</li></td>  
+    </tr>
+    <tr>
+      <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td>
+        <ul>
+          <li>Carpio Cornejo, Miguel Ángel:
+            <ul>
+              <li><strong>TB1:</strong> Lideró reuniones de avance donde comunicó de manera objetiva los resultados y progresos del proyecto a un público diverso, incluyendo miembros del equipo con diferentes puntos de vista y edades, así como stakeholders externos.</li>  <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li>
+            </ul>
+          </li>
+          <li>Miguel Ángel Ybañez Esquerre:
+            <ul>
+              <li><strong>TB1:</strong> Se analizaron las convenciones de código para el desarrollo correcto de características, landing pages y próximamente la aplicación web. Se elaboraron los wireframes y mockups de las páginas de destino, así como la guía de estilos.</li>
+		<li><strong>TP:</strong> Durante el transcurso del segundo sprint, se llevó a cabo la implementación de los componentes esenciales para el frontend del proyecto. Este proceso implicó la traducción de los diseños y especificaciones en código funcional y estéticamente atractivo para el usuario final. Se prestaron especial atención a los detalles de usabilidad y experiencia de usuario, garantizando así que la interfaz fuera intuitiva y fácil de navegar. Además, se adoptó una metodología de desarrollo basada en el uso correcto de branches, siguiendo fielmente el flujo de trabajo establecido por Gitflow. Esta práctica permitió una gestión eficiente del código, facilitando la colaboración entre los miembros del equipo y minimizando el riesgo de conflictos durante el proceso de integración. </li>    
+            </ul>
+          </li>
+          <li>Llacchua Peralta Joseph Ulysses:
+            <ul>
+              <li><strong>TB1:</strong> He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps.</li>
+            </ul>
+            <li><strong>TP</strong>Durante la realización de este proyecto, me comprometí a diseñar mockups para ordenador, cuidando la selección de colores, texturas y tamaños. Además, llevé a cabo entrevistas adicionales y realicé sus respectivos análisis para profundizar en la comprensión de las necesidades de los usuarios.</li>
+          </li>
+          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li>              <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li>
+         </ul>
+          <li>Yen Cerna, Lucio Heli:
+            <ul>
+              <li><strong>TB1:</strong> Durante el proyecto, documenté efectivamente diferentes secciones como el LEAN UX CANVAS, El Ubiquitous language que es fundamental para comunicarse con los stakeholders, las epics y user stories, el impact mapping y la arquitectura de información de la plataforma web y landing page. De esta manera, he podido aportar en el desarrollo del proyecto de forma escrita incorporando información vital para el desarrollo del producto a nivel de usuario y a nivel de estructura</li>
+              <li><strong>TP</strong>Durante la TP, corregí los errores identificados en el Sprint Review, además, agregue documentación de calidad en las entrevistas, User Stories, los Wireframes, Userflows, Mockups, Wireflows y prototyping. Mi aporte en este proyecto ha tenido un impactoo positivo puesto que alimenté la documentación del proyecto brindando información que refleja mayor entendimiento y permite comunicar el propósito de nuestr product a los interesados del negocio.</li>
+            </ul>
+          </li>
+          <li>Barrial Marin, Sharon Antuanet Ivet:
+            <ul>
+              <li><strong>TB1:</strong> Análisis y comparación de los registros de entrevistas, junto con los assumptions y la retroalimentación.</li>
+              <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td><li><strong>TB1:</strong> 
+Durante este sprint, cada miembro del equipo se dedicó de manera focalizada al desarrollo de las tareas escritas asignadas para esta fase que documentaban el contexto y diseño del proyecto relacionando los conceptos con el sector correspondiente, lo que garantizó un progreso significativo y eficiente en el proyecto. Posteriormente, cada integrante compartió formalmente sus contribuciones por escrito, lo que resultó en una presentación unificada y clara de nuestros avances mediante Github Desktop y otros medios de comunicación. Esta práctica aseguró que las ideas y resultados se comunicaran de manera objetiva y comprensible a un público diverso, incluidos aquellos con diferentes especialidades y niveles jerárquicos. Este enfoque en la comunicación escrita demostró una habilidad efectiva para transmitir información técnica y compleja de manera accesible, cumpliendo así con el criterio evaluado de comunicación escrita en el contexto del desarrollo de un proyecto en ingeniería. Además, el equipo de trabajo avanzó de forma pareja con una meta en común lo cuál logró que cada aporte sea beneficioso para el desarrollo.</li> <br> <br> <li><strong> TP:</strong> Durante este Sprint, cada miembro del equipó brindo documentación de calidad que permitió alimentar la articulación del proyecto, por otro lado, existió comunicación oral para desarrollar el código de la plataforma web mediante Github Desktop permitiendo al grupo trabajar de forma asíncrona mediante un desarrollo iterativo. Igualmente, hubo comunicación escrita en el código del proyecto para que todos los miembros del equipo puedan conocer todas las funcionalidades implementadas mediante breves explicación en forma de comentarios o en descripciones de los commits registrados en el repositorio donde está alojado el proyecto. En síntesis, se cumplió el criterio del student outcome de manera que el grupo pudo brindar documentación de mayor calidad a los interesados del negocio y pudo comunicarse mediante explicaciones para entender y seguir desarrollando el proyecto</li></td>
+   </tr>
+  </tbody>
+</table>
 
-| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | - Carpio Cornejo, Miguel Ángel: <br> ***TB1:*** Realizó entrevistas al segmento objetivo, compartió ideas del proyecto con el público objetivo y recopiló información para priorizar las características del producto. <br> <br> - Miguel Ángel Ybañez Esquerre: <br> ***TB1:*** Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades de búsqueda de necesidades en colaboración con el equipo. <br> <br> - Pietro Gerardo Minaya Mundines: Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetivo 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page <br> <br> -Yen Cerna, Lucio Heli: <br>  ***TB1:*** Tras una gran cantidad de reuniones que permitieron encaminar al grupo hacia el objetivo, se pudo lograr un incremento que cumple con las expectativas del SPrint 1. En mi caso, realicé entrevistas que recopilaron información importante, coordiné con mis compañeros la organización de trabajo y los guié para entregar la mayor calidad posible en el proyecto. La comunicación fue fundamental en el euqipo de trabajo debido a que de esta manera todo el grupo pudo identificar lo que los clientes necesitan y pudimos mantener una sola idea en el desarrollo del producto.  <br> <br> - Llacchua Peralta Joseph Ulysses: <br> ***TB1:*** Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint.<br> <br> - Barrial Marin, Sharon Antuanet Ivet: <br> **TB1:** Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades correspondientes al Lean UX Assumptions, As-is scenario mapping, to-be scenario mapping, epics, user stories y class diagrams con su respectivo class dictionary <br><br>                                                                                                                                     | ***TB1:*** Las tareas se asignaron individualmente para permitir que cada miembro se enfocara en un área específica del trabajo. Una vez asignadas, todos completaron exitosamente sus respectivas responsabilidades. Al finalizar, cada miembro del equipo pudo expresar sus ideas de manera efectiva durante las comunicaciones verbales. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | - Carpio Cornejo, Miguel Ángel: <br> ***TB1:*** Lideró reuniones de avance donde comunicó de manera objetiva los resultados y progresos del proyecto a un público diverso, incluyendo miembros del equipo con diferentes puntos de vista y edades, así como stakeholders externos. <br> <br> - Miguel Ángel Ybañez Esquerre: ***TB1:*** <br> Se analizaron las convenciones de código para el desarrollo correcto de características, landing pages y próximamente la aplicación web. Se elaboraron los wireframes y mockups de las páginas de destino, así como la guía de estilos. <br><br> - Llacchua Peralta Joseph Ulysses: <br> ***TB1:*** He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps. <br> <br> - Pietro Gerardo Minaya Mundines: Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page. <br> <br> -Yen Cerna, Lucio Heli: ***TB1:*** Durante el proyecto, documenté efectivamente diferentes secciones como el LEAN UX CANVAS, El Ubiquitous language que es fundamental para comunicarse con los stakeholders, las epics y user stories, el impact mapping y la arquitectura de información de la plataforma web y landing page. De esta manera, he podido aportar en el desarrollo del proyecto de forma escrita incorporando información vital para el desarrollo del producto a nivel de usuario y a nivel de estructura. <br><br> -Barrial Marin, Sharon Antuanet Ivet <br> **TB1:** Análisis y comparación de los registros de entrevistas, junto con los assumptions y la retroalimentación. | ***TB1:*** Durante este sprint, cada miembro del equipo se centró en el desarrollo de las tareas asignadas para esta fase. Luego, cada uno compartió formalmente sus contribuciones por escrito, asegurando una presentación unificada y clara de nuestros avances. |
 
 ---
 # Contenido 
@@ -234,7 +336,7 @@ Carrera: Ingeniería de Software
 
 Acerca de mí: Soy estudiante de Ingeniería de Software apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas herramientas y técnicas para mejorar mis habilidades en programación y diseño de sistemas. Disfruto enfrentando desafíos y resolviendo problemas complejos mediante el desarrollo de soluciones innovadoras y eficientes. Mi objetivo es contribuir al avance de la industria del software y convertirme en un profesional altamente capacitado y comprometido con la excelencia en mi campo.
 
-<img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+<img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="150" height="200">
 
 Nombre completo: Pietro Gerardo Minaya Mundines 
 
@@ -349,7 +451,7 @@ Aunque, corremos el riesgo de que esta función multijugador presente fallas, el
 
 **Technical Assumptions**
 
->Computadoras de escritorio y portátiles (linux?)
+>Computadoras de escritorio y portátiles 
 
 >Dispositivos móviles
 
@@ -365,9 +467,9 @@ Por otro lado, también se hizo uso de APIs para los servicios externos y Postgr
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Basados en** la observación de la falta de motivación y recursos educativos efectivos, así como la disminución del rendimiento académico en matemáticas según los resultados de la prueba PISA 2022, **creemos que** al desarrollar un juego educativo de matemáticas en 2D interactivo y motivador, podemos impactar positivamente en el rendimiento académico de los estudiantes peruanos. **Si** implementamos esta solución, esperamos ver una mejora significativa en los puntajes de las pruebas estandarizadas y una mayor participación en el aprendizaje de las matemáticas entre los estudiantes. **Entonces sabremos que** es cierto cuando observemos un aumento en los puntajes promedio de matemáticas en las evaluaciones estandarizadas y un incremento en la participación activa de los estudiantes en actividades de aprendizaje de matemáticas.
+- **Basados en** la observación de la falta de motivación y recursos educativos efectivos, así como la disminución del rendimiento académico en matemáticas según los resultados de la prueba PISA 2022, **creemos que** al desarrollar un juego educativo de matemáticas en 2D interactivo y motivador, podemos impactar positivamente en el rendimiento académico de los estudiantes peruanos. **Si** implementamos esta solución, esperamos ver una mejora significativa en los puntajes de las pruebas estandarizadas y una mayor participación en el aprendizaje de las matemáticas entre los estudiantes. **Entonces sabremos que** es cierto cuando observemos un aumento en los puntajes promedio de matemáticas en las evaluaciones estandarizadas y un incremento en la participación activa de los estudiantes en actividades de aprendizaje de matemáticas. <br><br>
 
-- **Basados en** la identificación de que los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, llevando a una falta de compromiso y participación estudiantil, **creemos que** al proporcionar una experiencia interactiva y personalizable a través del juego educativo de matemáticas en 2D, podemos mejorar el compromiso de los estudiantes. **Si** los estudiantes se involucran y participan activamente en el juego, esperamos observar un aumento en el tiempo dedicado al aprendizaje de matemáticas fuera del aula, una mayor participación en actividades relacionadas con las matemáticas y una actitud más positiva hacia el aprendizaje de esta materia. **Entonces sabremos que** es cierto cuando veamos un incremento en la asistencia a clases de matemáticas y una reducción en las tasas de deserción, así como una actitud más favorable hacia el aprendizaje de matemáticas.
+- **Basados en** la identificación de que los métodos tradicionales de enseñanza pueden resultar monótonos y poco estimulantes, llevando a una falta de compromiso y participación estudiantil, **creemos que** al proporcionar una experiencia interactiva y personalizable a través del juego educativo de matemáticas en 2D, podemos mejorar el compromiso de los estudiantes. **Si** los estudiantes se involucran y participan activamente en el juego, esperamos observar un aumento en el tiempo dedicado al aprendizaje de matemáticas fuera del aula, una mayor participación en actividades relacionadas con las matemáticas y una actitud más positiva hacia el aprendizaje de esta materia. **Entonces sabremos que** es cierto cuando veamos un incremento en la asistencia a clases de matemáticas y una reducción en las tasas de deserción, así como una actitud más favorable hacia el aprendizaje de matemáticas.<br><br>
 
 - **Basados en** la falta de herramientas digitales efectivas para mejorar la enseñanza y el aprendizaje de las matemáticas en escuelas primarias, **creemos que** al desarrollar una plataforma educativa digital que proporcione estas herramientas, podemos fomentar la innovación educativa. **Si** implementamos esta solución, anticipamos un aumento en la adopción de la plataforma por parte de empresas educativas y organizaciones, así como una mejora en la calidad y efectividad de la enseñanza de matemáticas en escuelas secundarias, medida a través de la retroalimentación positiva de educadores y una mejora en los resultados académicos de los estudiantes. **Entonces sabremos que** es cierto cuando veamos una mayor colaboración entre los educadores para compartir mejores prácticas, así como una mayor participación en talleres y capacitaciones relacionadas con la implementación de tecnología educativa.
 
@@ -376,12 +478,12 @@ Por otro lado, también se hizo uso de APIs para los servicios externos y Postgr
 <img src="./assets/LEAN UX CANVAS.png" alt="Lean UX Canvas">
 
 ## 1.3. Segmentos objetivo
-Empresas Educativas:
+>Empresas Educativas:
 
 - Las empresas educativas representan un segmento objetivo clave, ya que pueden utilizar el juego educativo de matemáticas en 2D como una herramienta didáctica para reforzar los conceptos enseñados en clase. Este juego puede servir como un complemento a los métodos tradicionales de enseñanza, ofreciendo una experiencia interactiva y motivadora para los estudiantes.
 - Además, las empresas educativas pueden utilizar el juego para acceder a registros académicos y comparar el rendimiento de sus estudiantes con otras instituciones académicas del mismo nivel. Esto les permitirá identificar áreas de mejora y tomar medidas para fortalecer el aprendizaje de las matemáticas en su institución.
 
-Estudiantes:
+>Estudiantes:
 
 - Los estudiantes, ya sea que estén vinculados o no a una institución educativa específica, constituyen otro segmento objetivo importante. Pueden beneficiarse del juego educativo de matemáticas en 2D como una forma más eficaz de aprender y reforzar conocimientos matemáticos en comparación con las enseñanzas tradicionales.
 Este juego les ofrece la oportunidad de participar en una experiencia de aprendizaje interactiva y personalizable, adaptada a sus necesidades individuales. 
@@ -725,7 +827,7 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 ### 2.2.2. Registro de entrevistas
 Segmento Objetivo 1: Institución / Empresa educativa
 
-Entrevistado 1
+**Entrevistado 1**
 
 <table border="1" style="text-align: left;">
 	<tbody>
@@ -775,7 +877,7 @@ Entrevistado 1
 Resumen: 
 Mauricio Acosta, de 28 años, trabaja en una institución educativa dedicada a mejorar el aprendizaje mediante enfoques innovadores. Durante la entrevista, mencionó desafíos como la falta de participación estudiantil y la adaptación a nuevas tecnologías educativas. Aunque conocen los videojuegos didácticos, aún no los implementan en las aulas. Consideran esenciales la personalización, retroalimentación inmediata y alineación con estándares educativos en estos videojuegos. Prefieren evaluaciones transparentes e integradas en el juego. Valorarían capacitación para docentes y soporte técnico para implementarlos. Tienen inquietudes sobre distracción estudiantil y alineación con objetivos educativos. Esperan mejorar la participación y comprensión estudiantil con su implementación, pero necesitan más información para tomar una decisión.
 
-Entrevistado 2
+**Entrevistado 2**
 
 <table border="1" style="text-align: left;">
 	<tbody>
@@ -828,7 +930,7 @@ En cuanto a la formación docente, resalta la necesidad de una capacitación per
 
 Por otro lado, la docente también aborda el uso de videojuegos didácticos como herramientas educativas y menciona la necesidad de familiarizarse con ellos. Señala que estos juegos pueden ser útiles para mejorar la comprensión lectora, las habilidades matemáticas y otros aspectos del aprendizaje. Sin embargo, expresa preocupaciones sobre posibles desventajas, como el desarrollo de comportamientos agresivos o la adicción a los videojuegos, y destaca la importancia de implementarlos de manera cuidadosa y con el apoyo adecuado para maximizar su efectividad educativa.  
 
-Entrevistado 3
+**Entrevistado 3**
 
 <table border="1" style="text-align: left;">
 	<tbody>
@@ -880,6 +982,104 @@ Resumen: Johan menciona que los principales desafíos que enfrentan las instituc
 Johan señala que en su institución reciben charlas pedagógicas con el fin de mejorar la capacidad de captar la atención de los alumnos. Respecto al uso de videojuegos como herramienta educativa, menciona que nunca ha visto uno específicamente diseñado con ese propósito. Considera que sería interesante desarrollar un videojuego didáctico que motive a los estudiantes hacia el aprendizaje. También expresa su interés en tener un mejor control sobre las evaluaciones que podrían implementarse en dicho videojuego.
 
 La falta de atención de los estudiantes y la necesidad de mejorar las habilidades pedagógicas de los docentes son desafíos significativos en el ámbito educativo. Para abordar estos problemas, es importante implementar estrategias innovadoras y capacitación adecuada para los docentes. La integración de tecnologías educativas, como los videojuegos didácticos, podría ser una solución efectiva para involucrar a los estudiantes y fomentar su interés en el aprendizaje.
+
+**Entrevistado 4**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./assets/interviews/Rodrigo.jpeg" alt="Entrevista Joseph 02" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Rodrigo Nicolas
+            <br> Merchan Chumpitaz
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 35 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Joseph Ulysses 
+            <br>Llacchua Peralta
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/ESm9mD2XE91Cmpubie6fHVoBO2SCvQi9E5lFR2P-g6wePA?e=wHN2LZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/ESm9mD2XE91Cmpubie6fHVoBO2SCvQi9E5lFR2P-g6wePA?e=wHN2LZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><u>00:20</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/ESm9mD2XE91Cmpubie6fHVoBO2SCvQi9E5lFR2P-g6wePA?e=wHN2LZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><u>04:17</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+Resumen: En la entrevista, Rodrigo Nicolás Merchan Chumpitaz, de 35 años, compartió los desafíos que enfrenta su institución educativa, como la falta de recursos tecnológicos adecuados y la necesidad de adaptarse a los cambios en los planes de estudio. También expresó interés en explorar el uso de videojuegos didácticos como herramienta educativa y mencionó características clave que consideran importantes, como la adaptabilidad al ritmo de aprendizaje de cada estudiante y la retroalimentación inmediata. Rodrigo destacó la importancia de la capacitación docente y expresó preocupación por la distracción que pueden generar los videojuegos. Esperan que implementar videojuegos didácticos mejore la motivación y el compromiso de los estudiantes, y les gustaría obtener más información sobre su impacto en el rendimiento académico.
+
+**Entrevistado 5**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./assets/interviews/Matias.jpeg" alt="Entrevista Joseph 03" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Augusto Mathias 
+            <br> Leonardo Vasquez
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 30 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Joseph Ulysses 
+            <br>Llacchua Peralta
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EWKVdgxV7zBAgIBNsCCXHyUBCdmEKyUXs1uUY_adBXzN6Q?e=kYTACr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EWKVdgxV7zBAgIBNsCCXHyUBCdmEKyUXs1uUY_adBXzN6Q?e=kYTACr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><u>00:20</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EWKVdgxV7zBAgIBNsCCXHyUBCdmEKyUXs1uUY_adBXzN6Q?e=kYTACr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><u>05:08</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+Resumen: Augusto Mathias, de 30 años, es parte de una institución educativa comprometida con proporcionar educación de calidad a los estudiantes a través de enfoques innovadores y soluciones efectivas. Durante la entrevista, se destacaron los desafíos que enfrenta la institución, como la falta de recursos tecnológicos adecuados y la necesidad de adaptarse rápidamente a los cambios educativos debido a la pandemia. Augusto expresó interés en el uso de videojuegos didácticos como herramienta educativa, aunque aún no han explorado su implementación debido a limitaciones de recursos y tiempo. Además, subrayó la importancia de la formación docente, la evaluación continua del aprendizaje y la preocupación por posibles efectos negativos como la adicción a los videojuegos. Esperan que la implementación de videojuegos didácticos mejore la motivación de los estudiantes, promueva el aprendizaje activo y aumente la retención de conocimientos.
 
 **Segmento Objetivo 2: Estudiantes de Secundaria**
 
@@ -1031,6 +1231,105 @@ Resumen: Nicolás Barrial es un estudiante de quinto nivel de secundaria, que co
 <br>
 Nota. Fabrizio Flores es estudiante de quinto grado de secundaria del colegio San Luis Martistas de Barranco. El estudiante comenta que el área que le resulta más dificultosa de aprender del curso de matemáticas es trigonometría por la cantidad de fórmulas y práctica que requiere, debido a ello, el interés y motivación del alumno por aprender disminuye exponencialmente a pesar que afirma que esta materia es la más importante. En cuánto a sus métodos de estudio con herramientas digitales, menciona que ha utilizado geogebra o photomath, instrumentos que proporcionan soluciones gráficas y númericas mediante parámetros ingresados manualmente, y que se necesita dinamismo para evitar el desinterés y entender una gran cantidad de conceptos. Con respecto al dinamismo, aporta con la idea de que una plataforma web con videojuegos sería un gran instrumento de educación para los jóvenes como él debido a que es una forma de que estos estén enganchados, especialmente si estos videojuegos están diseñados para competir con otros usuarios. En síntesis, Fabrizio describe que realizar una gran cantidad de ejercicios termina siendo tedioso y aburrido por lo que una plataforma web que eduque mediante videojuegos sería ideal para neutralizar ese obstáculo de aprendizaje.
 
+**Entrevistado 4**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="/assets/interviews/interview-4-sharon.png" alt="Entrevista de Sharon" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Samanta Angela
+            <br> Quesada Marin
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 15 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Sharon Antuanet Ivet 
+            <br>Barrial Marin
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EUlZhFt1Tw1CtkyNauu-K4YBHl5BIIJvzeWjyzYZvjliSQ?e=bBTo9r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EUlZhFt1Tw1CtkyNauu-K4YBHl5BIIJvzeWjyzYZvjliSQ?e=Htm7Ov&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTA2Ljk3fX0%3D"><u>01:46</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EUlZhFt1Tw1CtkyNauu-K4YBHl5BIIJvzeWjyzYZvjliSQ?e=hIKmwc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6ODk0LjI0fX0%3D"><u>14:45</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+Resumen: Ángela es una estudiante de secundaria que actualmente reside en Estados Unidos, sin embargo, nos cuenta sus dificultades con aprender las matemáticas cuando residía en Perú. Una de ellas es aprender las teorías antes que las fórmulas más en álgebra que en trigonometría o geometría. Es por lo que, ella opina que el uso de un reforzador presentado como videojuego le ayudaría a entender mejor los conceptos con respecto a la teoría para aplicar las fórmulas correspondientes. Debido a que, las sesiones tradicionales de su escuela anterior y la actual no le dejan tarea para resolver, solo le dan evaluaciones y muchas veces ella no supo como se solucionaba tales ejercicios. Aunque se guiaba de tutoriales de youtube, siente que su conocimiento se borra una vez que pasa el examen. Un problema muy común en los estudiantes de hoy en día. Además, nos cuenta que sentiría mayor motivación de aprender y elevar su nivel si compitiera con los de su misma edad. Por último, ninguna de sus escuelas les daba la resolución de los problemas que ella marcaba por error, eso le dificultaba y elevaba sus niveles de estrés por no saber como mejorar su conocimiento.
+
+**Entrevistado 5**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="/assets/interviews/entrevista5.png" alt="Entrevista de Sharon" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Andree
+            <br> Perez Marin
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 15 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Sharon Antuanet Ivet 
+            <br>Barrial Marin
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EZL3UEUvWmpKuH4rpqX_QIUBOy1oz01X_DVvV2V8m7Ls1w?e=Twwyhv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Inicial</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EZL3UEUvWmpKuH4rpqX_QIUBOy1oz01X_DVvV2V8m7Ls1w?e=uBchwu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTIuNTZ9fQ%3D%3D"><u>00:52</u>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timing Final</strong>
+            <br>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114900_upc_edu_pe/EZL3UEUvWmpKuH4rpqX_QIUBOy1oz01X_DVvV2V8m7Ls1w?e=S1qx1i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkyLjM1fX0%3D"><u>09:52</u>
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+Resumen: Andree es un estudiante de secundaria que actualmente también reside en Estados Unidos, sin embargo, nos cuenta sus dificultades con aprender las matemáticas cuando residía en Perú. Al igual que Samanta sus dificultades en cuanto aprender un tema son las teorías, incluyendo las fórmulas tanto en álgebra, trigonometría o geometría. Debido a eso, él opina que hubiera querdo reforzar los conocimientos enseñados en el salón de clases en forma de videojuego. Ya que como amante de videojuegos, le hubiera ayudado a entender mejor todos los conceptos correspondientes. Debido a que, siente que en las sesiones tradicionales de su escuela anterior y la actual dan clases aburridas y tediosas para llevarlas en un turno mañana, además de solo le dan evaluaciones y muchas veces él no sabe solucionar ese ejercicio. Aunque trata de guiarse de youtube y foros de ayuda como Brainly, siente que su conocimiento se borra una vez que pasa una evaluación. Un problema muy común en los estudiantes de hoy en día. Además, nos cuenta que sentiría mayor motivación de aprender y elevar su nivel si compitiera con sus compañeros de su misma edad. Por último, ninguna de sus escuelas les daba la resolución de los problemas que él recibía como error, eso le dificultaba y le quitaba más motivos para querer estudiar.
+
+
 ### 2.2.3. Análisis de entrevistas
 Segmento Objetivo 1: Institución / Empresa educativa
 - Principales desafíos: Es el bajo rendimiento escolar de los estudiantes, la falta de participación estudiantil, la adaptación a nuevas tecnologías educativas y la necesidad de mejorar las habilidades pedagógicas de los docentes (Rodríguez A. J., 2021).
@@ -1044,6 +1343,38 @@ Segmento Objetivo 1: Institución / Empresa educativa
 - Expectativas tienen sobre los resultados: Tienen expectativas de mejorar la participación y comprensión estudiantil con la implementación de videojuegos didácticos (Mauroner, 2019).
 - Toma de decisión sobre la implementación de videojuegos didácticos: Necesitarían información adicional sobre la capacitación para los docentes, el soporte técnico y los posibles aliados estratégicos para tomar una decisión sobre la implementación de videojuegos didácticos en su institución.
 
+<h3>Se obeserba que el %83,3 tomarian la accion de capacitacion para fortalecer la foramcion docente</h3>
+<img src="./assets/Statistics_E/acciones-formacion.jpeg">
+<h3>Se obeserba que los principales desafios que enfrenta la instituciones son la baja calidad educativa </h3>
+<img src="./assets/Statistics_E/contexto.educativo.jpeg">
+<h3>Este gráfico proporciona una visión sobre las preferencias de los métodos de evaluación del aprendizaje en los videojuegos educativos, mostrando que el Seguimiento automatizado y las Evaluaciones formales son preferidos por la mitad de los encuestados. </h3>
+<img src="./assets/Statistics_E/evalucion-aprendisaje.jpeg">
+
+<h3>Este gráfico proporciona una visión sobre la familiaridad o experiencia de las personas con el uso de videojuegos en un contexto educativo, destacando que la mayoría de los encuestados están familiarizados con él como una herramienta educativa. </h3>
+<img src="./assets/Statistics_E/medida-videojuegos.jpeg">
+
+<h3>Este gráfico proporciona una visión sobre las preferencias de los videojuegos educativos entre un grupo de encuestados, destacando que los ‘Juegos de preguntas y respuestas’ y los ‘Juegos de habilidades’ son los más preferidos.</h3>
+<img src="./assets/Statistics_E/tipos-juegos.jpeg">
+
+<h3>Esto indica que la mayoría de los encuestados consideran que la investigación y evidencia, así como la infraestructura tecnológica, son aspectos esenciales para tomar una decisión sobre la implementación de videojuegos didácticos en su institución.</h3>
+<img src="./assets/Statistics_E/desciicones.jpeg">
+
+<h3>El gráfico muestra que las características o funcionalidades consideradas esenciales en un videojuego didáctico son la respuesta educativa, el feedback inmediato, la adaptabilidad, la variedad de actividades y el seguimiento del progreso, cada uno con un 50% de respuestas, mientras que la motivación obtuvo un 33.3% de respuestas..</h3>
+
+<img src="./assets/Statistics_E/expectativos-viodejuegos.jpeg">
+
+<h3>Este gráfico proporciona una visión sobre las preferencias de los videojuegos educativos entre un grupo de encuestados, destacando que los ‘Juegos de preguntas y respuestas’ y los ‘Juegos de habilidades’ son los más preferidos.</h3>
+
+<img src="./assets/Statistics_E/funcionalidades.jpeg">
+
+<h3>Este gráfico es interesante ya que representa visualmente las preocupaciones de las personas sobre el impacto de los videojuegos educativos en los entornos de aprendizaje.</h3>
+
+<img src="./assets/Statistics_E/preocupan-videojuego.jpeg">
+
+<h3>Cada categoría tiene barras que representan el número de respuestas, con “Instalación y configuración” y “Soporte y mantenimiento” recibiendo cuatro respuestas cada uno (66.7%), mientras que “Capacitación de profesores” tiene una respuesta (16.7%). Esta imagen proporciona información sobre las necesidades percibidas de soporte técnico en las instituciones educativas con respecto a la implementación de videojuegos.</h3>
+
+<img src="./assets/Statistics_E/soporte-videojuego.jpeg">
+
 Segmento Objetivo 2: Estudiantes de Secundaria 
 - Desafíos en Matemáticas: El estudiante identifica aspectos desafiantes en las matemáticas, lo que sugiere una conciencia de las áreas en las que necesita más apoyo y comprensión (Triveños Dislia, 2023).
 - Valor del Enfoque Interactivo: Reconoce la utilidad de un enfoque interactivo para mejorar su experiencia de aprendizaje en matemáticas, lo que indica una apertura hacia métodos de enseñanza más dinámicos y participativos (Lara Cristina, 2023).
@@ -1055,6 +1386,38 @@ Segmento Objetivo 2: Estudiantes de Secundaria
 - Integración en la Rutina Diaria: Considera cómo una aplicación de aprendizaje de matemáticas podría integrarse efectivamente en su rutina diaria de estudio, lo que refleja una comprensión de la importancia de la consistencia y la practicidad en el aprendizaje.
 - Sugerencias para Mejoras: Ofrece sugerencias para hacer que una aplicación de aprendizaje de matemáticas sea más atractiva y fácil de usar para estudiantes de su edad, lo que indica una participación activa en el diseño y la mejora de herramientas educativas.
 - Impacto en el Desempeño y la Actitud: Considera el impacto potencial de una aplicación de aprendizaje interactivo de matemáticas en su desempeño académico y su actitud hacia la materia, lo que sugiere una expectativa positiva sobre el poder transformador de la tecnología en el aprendizaje (Tamayo Jose, 2024). 
+
+
+<h3>El gráfico muestra que los aspectos más desafiantes de las matemáticas para los encuestados son el álgebra (70%), el cálculo y la estadística y probabilidad (ambos con 50%), seguidos de la trigonometría (40%) y la geometría (30%).</h3>
+<img src="./assets/Statistics_P/cursos-desafiantes.jpeg">
+<h3>Cada categoría tiene barras que representan el número de respuestas, con “Instalación y configuración” y “Soporte y mantenimiento” recibiendo cuatro respuestas cada uno (66.7%), mientras que “Capacitación de profesores” tiene una respuesta (16.7%). Esta imagen proporciona información sobre las necesidades percibidas de soporte técnico en las instituciones educativas con respecto a la implementación de videojuegos.</h3>
+<img src="./assets/Statistics_P/atractivo-matematicas.jpeg">
+<h3>El gráfico muestra que las características más deseadas en una aplicación de aprendizaje de matemáticas son explicaciones claras (100% de respuestas), interactividad y variedad de problemas (ambos con 70% de respuestas), entre otras características.</h3>
+<img src="./assets/Statistics_P/enfoque-aprendisaje.jpeg"  >
+
+<h3>El gráfico muestra que la mayoría de los estudiantes encuentran desafiantes la comprensión de conceptos y la insuficiencia de práctica en matemáticas, y creen que una aplicación web podría ayudar a superar estos desafíos.</h3>
+<img src="./assets/Statistics_P/estudiar-matematicas.jpeg">
+
+<h3>El gráfico muestra que los estudiantes encuentran desafiantes la comprensión de conceptos, la práctica insuficiente, la dificultad para seguir el ritmo de la clase y la dificultad para resolver problemas complejos en matemáticas, y creen que una aplicación web podría ayudar a superar estos desafíos.</h3>
+
+<img src="./assets/Statistics_P/recursos-matematicas.jpeg">
+
+
+<h3>El gráfico muestra que la mayoría de los encuestados considera importante que una aplicación de aprendizaje de matemáticas tenga la capacidad de rastrear su progreso y ofrecer retroalimentación personalizada, especialmente para la mejora continua (80% de las respuestas).</h3>
+<img src="./assets/Statistics_P/relaizar-seguimiento.jpeg">
+
+
+<h3>El gráfico muestra que la mayoría de los estudiantes están a favor de la idea de colaborar con otros estudiantes a través de una aplicación de aprendizaje de matemáticas, destacando la preferencia por el desarrollo de habilidades sociales y la motivación para seguir jugando.</h3>
+<img src="./assets/Statistics_P/competir.jpeg">
+
+<h3>El gráfico muestra que la mayoría de los estudiantes consideran que utilizar la aplicación en tiempos de espera y recibir premios diarios son las formas más efectivas de integrar una aplicación de aprendizaje de matemáticas en su rutina diaria de estudio.</h3>
+<img src="./assets/Statistics_P/impacto-videojuego.jpeg">
+
+<h3>El gráfico muestra que la mayoría de los estudiantes consideran que un diseño atractivo es la característica más importante para hacer que una aplicación de aprendizaje de matemáticas sea más atractiva y fácil de usar.</h3>
+<img src="./assets/Statistics_P/rutina.jpeg">
+
+<h3>El gráfico muestra que la mayoría de los encuestados considera importante que una aplicación de aprendizaje de matemáticas tenga la capacidad de rastrear su progreso y ofrecer retroalimentación personalizada, especialmente para la mejora continua (80% de las respuestas).</h3>
+<img src="./assets/Statistics_P/sugerencias.jpeg">
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
@@ -1369,7 +1732,7 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
             <td colspan="1">EP008</td>
             <td colspan="1">Monetización de la plataforma</td>
             <td colspan="1">
-            <strong>Como</strong> stakeholder de la plataforma <strong>quiero</strong>  informarme sobre los planes de monetización de la aplicación<strong>para</strong> saciar mis intereses mediante los beneficios que brinda la plataforma
+            <strong>Como</strong> stakeholder de la plataforma <strong>quiero</strong>  informarme sobre los planes de monetización de la aplicación<strong> para</strong> saciar mis intereses mediante los beneficios que brinda la plataforma
             </td>
 		</tr>
 				</tr>
@@ -1377,14 +1740,14 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
             <td colspan="1">EP009</td>
             <td colspan="1">Implementación de la experiencia UI/UX de la landing page</td>
             <td colspan="1">
-            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page<strong>para</strong> explorar sus diferentes secciones y funcionalidades
+            <strong>Como</strong> usuario de la plataforma <strong>quiero</strong> visualizar la interfaz del landing page<strong> para</strong> explorar sus diferentes secciones y funcionalidades
 		</tr>
 	</tbody>
 </table>
 
 A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
 
-<table border="1" style="text-align: left;">
+<table  style="text-align: left;">
 	<tbody>
 		<tr>
 			<td colspan="1">ID de Historia de Usuario</td>
@@ -1511,42 +1874,79 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <br>
             </td>
             <td colspan="1">EP001</td>
-	</tr>
+	        </tr>
         	<tr>
             <td colspan="1">US003</td>
-            <td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
-            <td colspan="1">
-            <strong>Como </strong> usuario<STRONG> quiero</strong> iniciar sesión en mi cuenta <strong>para</strong> utilizar los videojuegos de estudio.
-            </td>
-            <td colspan="5">
-            <strong>E01: Inicio de sesión exitoso</strong>
-            <br>
-            <strong>Dado que</strong> el usuario se encuentra en la plataforma
-            <br>
-            <strong>Y</strong> el usuario selecciona la opción iniciar sesión
-            <br>
-            <strong>Cuando</strong> el usuario ingrese su correo y contraseña en el formulario
-            <br>
-            <strong>Y</strong> el usuario seleccione la opción iniciar sesión
-            <br>
-            <strong>Entonces</strong> el sistema verifica que los datos existen dentro de la base de datos
-            <strong>Y</strong> el sistema muestra la interfaz inicial de la plataforma.
-            <br><br>
-            <strong>E02: Inicio de sesión fallido por credenciales incorrectas o inexistentes</strong> 
-            <strong>Dado que</strong> el usuario se encuentra en la plataforma
-            <br>
-            <strong>Y</strong> el usuario selecciona la opción iniciar sesión
-            <br>
-            <strong>Cuando</strong> el usuario ingrese su correo y contraseña en el formulario
-            <br>
-            <strong>Y</strong> el usuario seleccione la opción iniciar sesión
-            <br>
-            <strong>Entonces</strong> el sistema detecta que los datos no existen dentro de la base de datos
-            <strong>Y</strong> el sistema muestra un mensaje indicando que las credenciales son incorrectas o inexistentes.
-            <br>
-            </td>
-            <td colspan="1">EP001</td>
-		</tr>
+<td colspan="1">Inicio de sesión de usuarios en la plataforma</td>
+<td colspan="1">
+<strong>Como </strong> usuario<strong> quiero</strong> iniciar sesión en mi cuenta <strong>para</strong> utilizar los videojuegos de estudio.
+</td>
+<td colspan="5">
+<strong>E01: Inicio de sesión exitoso</strong>
+<br>
+<strong>Dado que</strong> el usuario se encuentra en la plataforma
+<br>
+<strong>Y</strong> el usuario selecciona la opción iniciar sesión
+<br>
+<strong>Cuando</strong> el usuario ingrese su correo y contraseña en el formulario
+<br>
+<strong>Y</strong> el usuario seleccione la opción iniciar sesión
+<br>
+<strong>Entonces</strong> el sistema verifica que los datos existen dentro de la base de datos
+<strong>Y</strong> el sistema muestra la interfaz inicial de la plataforma.
+<br><br>
+<strong>E02: Inicio de sesión fallido por credenciales incorrectas o inexistentes</strong> 
+<br>
+<strong>Dado que</strong> el usuario se encuentra en la plataforma
+<br>
+<strong>Y</strong> el usuario selecciona la opción iniciar sesión
+<br>
+<strong>Cuando</strong> el usuario ingrese su correo y contraseña en el formulario
+<br>
+<strong>Y</strong> el usuario seleccione la opción iniciar sesión
+<br>
+<strong>Entonces</strong> el sistema detecta que los datos no existen dentro de la base de datos
+<strong>Y</strong> el sistema muestra un mensaje indicando que las credenciales son incorrectas o inexistentes.
+<br><br>
+<strong>E03: Inicio de sesión fallido por campos vacíos</strong>
+<br>
+<strong>Dado que</strong> el usuario se encuentra en la plataforma
+<br>
+<strong>Y</strong> el usuario selecciona la opción iniciar sesión
+<br>
+<strong>Cuando</strong> el usuario deja los campos de correo y contraseña vacíos
+<br>
+<strong>Y</strong> el usuario seleccione la opción iniciar sesión
+<br>
+<strong>Entonces</strong> el sistema muestra un mensaje indicando que los campos son obligatorios.
+<br><br>
+<strong>E04: Inicio de sesión fallido por correo electrónico inválido</strong>
+<br>
+<strong>Dado que</strong> el usuario se encuentra en la plataforma
+<br>
+<strong>Y</strong> el usuario selecciona la opción iniciar sesión
+<br>
+<strong>Cuando</strong> el usuario ingresa un correo electrónico inválido en el formulario
+<br>
+<strong>Y</strong> el usuario seleccione la opción iniciar sesión
+<br>
+<strong>Entonces</strong> el sistema muestra un mensaje indicando que el correo electrónico es inválido.
+<br><br>
+<strong>E05: Inicio de sesión fallido por contraseña inválida</strong>
+<br>
+<strong>Dado que</strong> el usuario se encuentra en la plataforma
+<br>
+<strong>Y</strong> el usuario selecciona la opción iniciar sesión
+<br>
+<strong>Cuando</strong> el usuario ingresa una contraseña inválida en el formulario
+<br>
+<strong>Y</strong> el usuario seleccione la opción iniciar sesión
+<br>
+<strong>Entonces</strong> el sistema muestra un mensaje indicando que la contraseña es inválida.
+<br>
+</td>
+<td colspan="1">EP001</td>
+</tr>
         <tr>
             <td colspan="1">US004</td>
             <td colspan="1">Recuperación de contraseña para usuarios registrados</td>
@@ -1632,425 +2032,458 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             </td>
             <td colspan="1">EP001</td>
 		</tr>
+       <tr>
+    <td colspan="1">US008</td>
+    <td colspan="1">Implementación del menú principal</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> tener un menú principal claramente visible y funcional cuando accedo a la plataforma, <strong>para</strong> poder acceder fácilmente a las diferentes secciones y funcionalidades de la aplicación.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la aplicación se carga correctamente, <br>
+        <strong>Entonces</strong> el menú principal debe estar visible en la pantalla principal. <br><br>
+        <strong>E02: Dado que</strong> el usuario selecciona una opción del menú, <br>
+        <strong>Cuando</strong> hace clic en la opción deseada, <br>
+        <strong>Entonces</strong> debe ser redirigido a la sección correspondiente de la aplicación. <br><br>
+        <strong>E03: Dado que</strong> el usuario intenta acceder a una sección protegida sin haber iniciado sesión, <br>
+        <strong>Cuando</strong> hace clic en la opción del menú correspondiente, <br>
+        <strong>Entonces</strong> debe ser redirigido a la pantalla de inicio de sesión.
+    </td>
+    <td colspan="1">EP002</td>
+</tr>
         <tr>
-            <td colspan="1">US008</td>
-            <td colspan="1">Implementación del menú principal</td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> tener un menú principal claramente visible y funcional cuando accedo a la plataforma, <strong>para</strong> poder acceder fácilmente a las diferentes secciones y funcionalidades de la aplicación.</td>
-            <td colspan="5"> <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br> <strong>Cuando</strong> la aplicación se carga correctamente, <br> <strong>Entonces</strong> el menú principal debe estar visible en la pantalla principal. <br> <strong>E02: Dado que</strong> el usuario selecciona una opción del menú, <br> <strong>Cuando</strong> hace clic en la opción deseada, <br> <strong>Entonces</strong> debe ser redirigido a la sección correspondiente de la aplicación. <br> <strong>E03: Dado que</strong> el usuario intenta acceder a una sección protegida sin haber iniciado sesión, <br> <strong>Cuando</strong> hace clic en la opción del menú correspondiente, <br> <strong>Entonces</strong> debe ser redirigido a la pantalla de inicio de sesión.</td>           
-            <td colspan="1">EP002</td>
-		</tr>
+    <td colspan="1">US009</td>
+    <td colspan="1">Visualización de carrusel de videojuegos</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder visualizar un carrusel de videojuegos en la plataforma, <strong>para</strong> descubrir fácilmente los juegos destacados y populares.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página principal se carga correctamente, <br>
+        <strong>Entonces</strong> debe aparecer un carrusel de videojuegos en la sección destacada. <br><br>
+        <strong>E02: Dado que</strong> el usuario hace clic en un juego del carrusel, <br>
+        <strong>Cuando</strong> selecciona un juego específico, <br>
+        <strong>Entonces</strong> debe ser redirigido a la página de detalles de ese juego. <br><br>
+        <strong>E03: Dado que</strong> el usuario interactúa con el carrusel, <br>
+        <strong>Cuando</strong> desliza hacia la izquierda o derecha, <br>
+        <strong>Entonces</strong> debe navegar entre los diferentes juegos del carrusel.
+    </td>
+    <td colspan="1">EP002</td>
+</tr>
+       <tr>
+    <td colspan="1">US010</td>
+    <td colspan="1">Visualización de información relevante en componentes</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder ver información relevante presentada en los componentes de la plataforma, <strong>para</strong> saber rápidamente qué información se encuentra en cada componente y acceder a la información que necesito de manera eficiente.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página principal se carga correctamente, <br>
+        <strong>Entonces</strong> debe mostrarse información relevante en los componentes específicos de la interfaz. <br><br>
+        <strong>E02: Dado que</strong> el usuario navega por la plataforma, <br>
+        <strong>Cuando</strong> interactúa con diferentes secciones, <br>
+        <strong>Entonces</strong> debe encontrar componentes con información relevante que indiquen la acción que ejecutará. <br>
+    </td>
+    <td colspan="1">EP002</td>
+</tr>
         <tr>
-            <td colspan="1">US009</td>
-            <td colspan="1">Visualización de carrusel de videojuegos</td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder visualizar un carrusel de videojuegos en la plataforma, <strong>para</strong> descubrir fácilmente los juegos destacados y populares.</td>
-            <td colspan="5"><strong>E01: Dado que</strong> el usuario accede a la plataforma, <br> <strong>Cuando</strong> la página principal se carga correctamente, <br> <strong>Entonces</strong> debe aparecer un carrusel de videojuegos en la sección destacada. <br> <strong>E02: Dado que</strong> el usuario hace clic en un juego del carrusel, <br> <strong>Cuando</strong> selecciona un juego específico, <br> <strong>Entonces</strong> debe ser redirigido a la página de detalles de ese juego. <br> <strong>E03: Dado que</strong> el usuario interactúa con el carrusel, <br> <strong>Cuando</strong> desliza hacia la izquierda o derecha, <br> <strong>Entonces</strong> debe navegar entre los diferentes juegos del carrusel.</td>           
-            <td colspan="1">EP002</td>
-		</tr>
+    <td colspan="1">US011</td>
+    <td colspan="1">Visualización de catálogo de todos los videojuegos</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder ver un catálogo completo de todos los videojuegos disponibles en la plataforma, <strong>para</strong> explorar todas las opciones disponibles y encontrar los juegos que me interesan.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página principal se carga correctamente, <br>
+        <strong>Entonces</strong> debe mostrarse el catálogo completo de todos los videojuegos disponibles en la plataforma. <br><br>
+        <strong>E02: Dado que</strong> el usuario busca un juego específico, <br>
+        <strong>Cuando</strong> realiza una búsqueda utilizando el filtro de búsqueda, <br>
+        <strong>Entonces</strong> debe ver los resultados de la búsqueda en el catálogo de videojuegos. <br><br>
+        <strong>E03: Dado que</strong> el usuario quiere explorar diferentes categorías de videojuegos, <br>
+        <strong>Cuando</strong> navega por las diferentes secciones del catálogo, <br>
+        <strong>Entonces</strong> debe poder acceder fácilmente a cada categoría y ver los videojuegos asociados a ellas.
+    </td>
+    <td colspan="1">EP002</td>
+</tr>
+       <tr>
+    <td colspan="1">US012</td>
+    <td colspan="1">Visualización de barra de búsqueda</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder ver una barra de búsqueda visible y funcional en la plataforma, <strong>para</strong> buscar fácilmente contenido específico que me interese.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página principal se carga correctamente, <br>
+        <strong>Entonces</strong> debe mostrarse una barra de búsqueda en una ubicación visible de la interfaz. <br><br>
+        <strong>E02: Dado que</strong> el usuario desea buscar contenido específico, <br>
+        <strong>Cuando</strong> interactúa con la barra de búsqueda y realiza una búsqueda, <br>
+        <strong>Entonces</strong> debe recibir resultados relevantes relacionados con la búsqueda. <br>
+    </td>
+    <td colspan="1">EP002</td>
+</tr>
         <tr>
-            <td colspan="1">US0010</td>
-            <td colspan="1">Visualización de información relevante en componentes</td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder ver información relevante presentada en los componentes de la plataforma, <strong>para</strong> saber rápidamente qué información se encuentra en cada componente y acceder a la información que necesito de manera eficiente.</td>
-            <td colspan="5">
-            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página principal se carga correctamente, <br>
-            <strong>Entonces</strong> debe mostrarse información relevante en los componentes específicos de la interfaz. <br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario navega por la plataforma, <br>
-            <strong>Cuando</strong> interactúa con diferentes secciones, <br>
-            <strong>Entonces</strong> debe encontrar componentes con información relevante que indiquen la acción que ejecutará. <br> 
-            </td>
-            <td colspan="1">EP002</td>
-		</tr>
+    <td colspan="1">US013</td>
+    <td colspan="1">Visualización de botones y atajos</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder ver botones y atajos claramente visibles en la plataforma, <strong>para</strong> acceder fácilmente a las funciones y acciones disponibles.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página se carga correctamente, <br>
+        <strong>Entonces</strong> los botones y atajos deben estar visibles en la interfaz de usuario. <br><br>
+        <strong>E02: Dado que</strong> el usuario desea realizar una acción específica, <br>
+        <strong>Cuando</strong> interactúa con los botones y atajos correspondientes, <br>
+        <strong>Entonces</strong> debe poder completar la acción deseada de manera intuitiva y eficiente. <br>
+    </td>
+    <td colspan="1">EP002</td>
+</tr>
         <tr>
-            <td colspan="1">US011</td>
-            <td colspan="1">Visualización de catálogo de todos los videojuegos</td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder ver un catálogo completo de todos los videojuegos disponibles en la plataforma, <strong>para</strong> explorar todas las opciones disponibles y encontrar los juegos que me interesan.</td>
-            <td colspan="5">
-            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página principal se carga correctamente, <br>
-            <strong>Entonces</strong> debe mostrarse el catálogo completo de todos los videojuegos disponibles en la plataforma. <br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario busca un juego específico, <br>
-            <strong>Cuando</strong> realiza una búsqueda utilizando el filtro de búsqueda, <br>
-            <strong>Entonces</strong> debe ver los resultados de la búsqueda en el catálogo de videojuegos. <br> 
-            <br>
-            <strong>E03: Dado que</strong> el usuario quiere explorar diferentes categorías de videojuegos, <br>
-            <strong>Cuando</strong> navega por las diferentes secciones del catálogo, <br>
-            <strong>Entonces</strong> debe poder acceder fácilmente a cada categoría y ver los videojuegos asociados a ellas.
-            </td>
-            <td colspan="1">EP002</td>
-		</tr>
+    <td colspan="1">US014</td>
+    <td colspan="1">Agregar funcionalidades de barra de navegación </td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> quiero que se agreguen funcionalidades adicionales a la barra de navegación de la plataforma, <strong>para</strong> facilitar la navegación y el acceso a diferentes secciones y características
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página se carga correctamente, <br>
+        <strong>Entonces</strong> Entonces la barra de navegación debe mostrar todas las funcionalidades adicionales de manera clara y organizada. <br><br>
+        <strong>E02: Dado que</strong> el usuario desea realizar una acción específica, <br>
+        <strong>Cuando</strong> hace clic en el enlace correspondiente en la barra de navegación, <br>
+        <strong>Entonces</strong> debe ser redirigido de manera rápida y precisa a la sección deseada. <br> 
+    </td>
+    <td colspan="1">EP003</td>
+</tr>
+       <tr>
+    <td colspan="1">US015</td>
+    <td colspan="1">Anclar atajos a otros apartados</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> poder anclar atajos o accesos directos a secciones específicas de la plataforma, <strong>para</strong> acceder rápidamente a las áreas de interés sin necesidad de navegar a través de múltiples páginas.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página se carga correctamente, <br>
+        <strong>Entonces</strong> los atajos anclados deben estar disponibles y visibles para el usuario. <br><br>
+        <strong>E02: Dado que</strong> el usuario desea acceder a una sección específica de forma rápida, <br>
+        <strong>Cuando</strong> hace clic en un atajo anclado correspondiente, <br>
+        <strong>Entonces</strong> debe ser redirigido instantáneamente a la sección deseada sin necesidad de navegación adicional. <br> 
+    </td>
+    <td colspan="1">EP003</td>
+</tr>
+<tr>
+    <td colspan="1">US016</td>
+    <td colspan="1">Agregar funcionalidades de Iconos</td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> que se agreguen funcionalidades de iconos a la plataforma, <strong>para</strong> mejorar la experiencia visual y facilitar la identificación de diferentes acciones y elementos dentro de la interfaz.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página se carga correctamente, <br>
+        <strong>Entonces</strong> los iconos deben estar presentes en la interfaz y ser comprensibles para el usuario. <br><br>
+        <strong>E02: Dado que</strong> el usuario desea acceder a una sección específica de forma rápida, <br>
+        <strong>Cuando</strong> interactúa con los iconos correspondientes, <br>
+        <strong>Entonces</strong> debe poder comprender fácilmente su función y completar la acción deseada de manera intuitiva. <br> 
+    </td>
+    <td colspan="1">EP003</td>
+</tr>
+<tr>
+    <td colspan="1">US017</td>
+    <td colspan="1">Agregar un buzón de notificaciones </td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> que se agregue un buzón de notificaciones a la plataforma, <strong>para</strong> recibir actualizaciones, alertas y mensajes importantes de forma clara y organizada.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página se carga correctamente, <br>
+        <strong>Entonces</strong> el buzón de notificaciones debe estar visible y accesible para el usuario. <br><br>
+        <strong>E02: Dado que</strong> el usuario recibe una notificación o mensaje, <br>
+        <strong>Cuando</strong> accede al buzón de notificaciones, <br>
+        <strong>Entonces</strong> debe poder ver el contenido del mensaje de manera clara y entender la acción requerida, si corresponde. <br> 
+    </td>
+    <td colspan="1">EP003</td>
+</tr>
+<tr>
+    <td colspan="1">US018</td>
+    <td colspan="1">Agregar carruseles funcionales </td>
+    <td colspan="1">
+        <strong>Como</strong> usuario, <strong>quiero</strong> quiero que se agreguen carruseles funcionales a la plataforma, <strong>para</strong> visualizar y explorar contenido de manera dinámica y atractiva.
+    </td>
+    <td colspan="5">
+        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
+        <strong>Cuando</strong> la página se carga correctamente, <br>
+        <strong>Entonces</strong> los carruseles funcionales deben estar presentes y mostrar contenido relevante de manera atractiva. <br><br>
+        <strong>E02: Dado que</strong> el usuario recibe una notificación o mensaje, <br>
+        <strong>Cuando</strong> interactúa con los controles del carrusel, <br>
+        <strong>Entonces</strong> debe poder navegar de manera fluida entre las diferentes imágenes o elementos del carrusel y acceder a más información si es necesario. <br>
+    </td>
+    <td colspan="1">EP003</td>
+</tr>
+<tr>
+    <td colspan="1">US019</td>
+    <td colspan="1">Ingreso al videojuego singleplayer</td>
+    <td colspan="1">
+        <strong>Como</strong> estudiante de la plataforma <strong> Quiero </strong> interactuar con un botón "JUGAR" <strong> Para </strong> acceder al videojuego que deseo jugar 
+    </td>
+    <td colspan="5">
+        <strong>E01: El usuario ingresa correctamente al videojuego</strong> <br><br>
+        <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
+        <strong>Cuando</strong> le dé CLICK a un videojuego <br>
+        <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
+        <strong>Y el usuario presiona JUGAR</strong> <br>
+        <strong>Entonces</strong> accederá al apartado donde el videojuego se ejecute <br><br>
+        <strong>E02: El usuario no ingresa correctamente al videojuego por no estar conectado a internet</strong> <br><br>
+        <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
+        <strong>Cuando</strong> le dé CLICK a un videojuego <br>
+        <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
+        <strong>Y el usuario presiona JUGAR pero se le va el internet</strong> <br>
+        <strong>Entonces</strong> la plataforma soltará un error por ausencia de internet <br><br>
+    </td>
+    <td colspan="1">EP004</td>
+</tr>
         <tr>
-            <td colspan="1">US012</td>
-            <td colspan="1">Visualización de barra de búsqueda</td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder ver una barra de búsqueda visible y funcional en la plataforma, <strong>para</strong> buscar fácilmente contenido específico que me interese.</td>
-            <td colspan="5">
-            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página principal se carga correctamente, <br>
-            <strong>Entonces</strong> debe mostrarse una barra de búsqueda en una ubicación visible de la interfaz. <br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario desea buscar contenido específico, <br>
-            <strong>Cuando</strong> interactúa con la barra de búsqueda y realiza una búsqueda, <br>
-            <strong>Entonces</strong> debe recibir resultados relevantes relacionados con la búsqueda. <br> 
-            </td>
-            <td colspan="1">EP002</td>
-		</tr>
-        <tr>
-            <td colspan="1">US013</td>
-            <td colspan="1">Visualización de botones y atajos</td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder ver botones y atajos claramente visibles en la plataforma, <strong>para</strong> acceder fácilmente a las funciones y acciones disponibles.</td>
-            <td colspan="5">
-            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página se carga correctamente, <br>
-            <strong>Entonces</strong> los botones y atajos deben estar visibles en la interfaz de usuario. <br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario desea realizar una acción específica, <br>
-            <strong>Cuando</strong> interactúa con los botones y atajos correspondientes, <br>
-            <strong>Entonces</strong> debe poder completar la acción deseada de manera intuitiva y eficiente. <br> 
-            </td>
-            <td colspan="1">EP002</td>
-		</tr>
-        <tr>
-            <td colspan="1">US014</td>
-            <td colspan="1">Agregar funcionalidades de barra de navegación </td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> quiero que se agreguen funcionalidades adicionales a la barra de navegación de la plataforma, <strong>para</strong> facilitar la navegación y el acceso a diferentes secciones y características</td>
-            <td colspan="5">
-            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página se carga correctamente, <br>
-            <strong>Entonces</strong> Entonces la barra de navegación debe mostrar todas las funcionalidades adicionales de manera clara y organizada. <br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario desea realizar una acción específica, <br>
-            <strong>Cuando</strong> hace clic en el enlace correspondiente en la barra de navegación, <br>
-            <strong>Entonces</strong> debe ser redirigido de manera rápida y precisa a la sección deseada. <br> 
-            </td>
-            <td colspan="1">E003</td>
-		</tr>
-        <tr>
-            <td colspan="1">US015</td>
-            <td colspan="1">Anclar atajos a otros apartados</td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> poder anclar atajos o accesos directos a secciones específicas de la plataforma, <strong>para</strong> acceder rápidamente a las áreas de interés sin necesidad de navegar a través de múltiples páginas.</td>
-            <td colspan="5">
-            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página se carga correctamente, <br>
-            <strong>Entonces</strong> los atajos anclados deben estar disponibles y visibles para el usuario.<br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario desea acceder a una sección específica de forma rápida, <br>
-            <strong>Cuando</strong> hace clic en un atajo anclado correspondiente, <br>
-            <strong>Entonces</strong> debe ser redirigido instantáneamente a la sección deseada sin necesidad de navegación adicional. <br> 
-            </td>
-            <td colspan="1">E003</td>
-		</tr>
-        <tr>
-            <td colspan="1">US016</td>
-            <td colspan="1">Agregar funcionalidades de Iconos</td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> que se agreguen funcionalidades de iconos a la plataforma, <strong>para</strong> mejorar la experiencia visual y facilitar la identificación de diferentes acciones y elementos dentro de la interfaz.</td>
-            <td colspan="5">
-            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página se carga correctamente, <br>
-            <strong>Entonces</strong> los iconos deben estar presentes en la interfaz y ser comprensibles para el usuario.<br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario desea acceder a una sección específica de forma rápida, <br>
-            <strong>Cuando</strong> interactúa con los iconos correspondientes,
-            <br>
-            <strong>Entonces</strong> debe poder comprender fácilmente su función y completar la acción deseada de manera intuitiva. <br> 
-            </td>
-            <td colspan="1">E003</td>
-		</tr>
-          <tr>
-            <td colspan="1">US017</td>
-            <td colspan="1">Agregar un buzón de notificaciones </td>
-            <td colspan="1"><strong>Como</strong> usuario, <strong>quiero</strong> que se agregue un buzón de notificaciones a la plataforma, <strong>para</strong> recibir actualizaciones, alertas y mensajes importantes de forma clara y organizada.</td>
-            <td colspan="5">
-            <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página se carga correctamente, <br>
-            <strong>Entonces</strong> el buzón de notificaciones debe estar visible y accesible para el usuario<br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario recibe una notificación o mensaje, <br>
-            <strong>Cuando</strong> accede al buzón de notificaciones,
-            <br>
-            <strong>Entonces</strong> debe poder ver el contenido del mensaje de manera clara y entender la acción requerida, si corresponde. <br> 
-            </td>
-            <td colspan="1">E003</td>
-		</tr>
-          <tr>
-            <td colspan="1">US018</td>
-            <td colspan="1">Agregar carruseles funcionales </td>
-            <td colspan="1">strong>Como</strong> usuario, <strong>quiero</strong> quiero que se agreguen carruseles funcionales a la plataforma, <strong>para</strong> visualizar y explorar contenido de manera dinámica y atractiva.</td>
-            <td colspan="5"><strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-            <strong>Cuando</strong> la página se carga correctamente, <br>
-            <strong>Entonces</strong> los carruseles funcionales deben estar presentes y mostrar contenido relevante de manera atractiva.<br> 
-            <br>
-            <strong>E02: Dado que</strong> el usuario recibe una notificación o mensaje, <br>
-            <strong>Cuando</strong> interactúa con los controles del carrusel,
-            <br>
-            <strong>Entonces</strong> debe poder navegar de manera fluida entre las diferentes imágenes o elementos del carrusel y acceder a más información si es necesario. <br>
-            </td>
-            <td colspan="1">E003</td>
-		</tr>
-          <tr>
-            <td colspan="1">US019</td>
-            <td colspan="1">Ingreso al videojuego singleplayer</td>
-            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong> Quiero </strong> interactuar con un botón "JUGAR" <strong> Para </strong> acceder al videojuego que deseo jugar </td>
-            <td colspan="5"><strong>E01: El usuario ingresa correctamente al videojuego</strong>
-            <br><br> <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
-    <strong>Cuando le dé CLICK a un videojuego</strong> <br>
-    <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
-    <strong>Y el usuario presiona JUGAR</strong> <br>
-   <strong>Entonces accederá al apartado donde el videojuego se ejecute </strong> 
-	<br><br>
-	<strong>E02:El usuario no ingresa correctamente al videojuego  por no estar conectado a internet</strong>
-            <br><br> <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
-    <strong>Cuando le dé CLICK a un videojuego</strong> <br>
-    <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
-    <strong>Y el usuario presiona JUGAR pero se le va el internet</strong> <br>
-   <strong>Entonces la plataforma soltará un error por ausencia de internet </strong>  <br><br>
-	   </td>
-            </tr>
-		</tr>
-          <tr>
-            <td colspan="1">US020</td>
-            <td colspan="1">Ingreso a la sala del videojuego  multi-jugador</td>
-            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> interactuar con un botón "JUGAR" <strong>para</strong> acceder a la sala de espera con otros jugadores antes de comenzar a jugar</td>
-            <td colspan="5"><strong>E01: El usuario ingresa correctamente a la sala multi-jugador</strong>
-            <br><br> <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
-    <strong>Cuando le dé CLICK a un videojuego multi-jugador</strong> <br>
-    <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
-    <strong>Y el usuario presiona JUGAR</strong> <br>
-   <strong>Entonces accederá al apartado donde el videojuego se ejecute y se mostrará la sala de espera multi-jugador </strong> 
-	<br><br>
-	<strong>E02: El usuario no ingresa correctamente a la sala multi-jugador por no estar conectado a internet</strong>
-            <br><br> <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
-    <strong>Cuando le dé CLICK a un videojuego multi-jugador</strong> <br>
-    <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
-    <strong>Y el usuario presiona JUGAR</strong> <br>
-   <strong>Entonces accederá al apartado donde el videojuego se ejecute y al detectar que no se está conectado a internet se mostrará un error </strong> 
-	<br><br></td>
-		</tr>
-          <tr>
-            <td colspan="1">US021</td>
-            <td colspan="1">Visualizar instrucciones de juego</td>
-            <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> un apartado de instrucciones <strong>para</strong> entender el funcionamiento del videojuego </td>
-            <td colspan="5"><strong>E01: Usuario accede a la ventana de instrucciones</strong>
-            <br><br> <strong>Dado que el usuario se encuentra dentro del videojuego</strong> <br>
-    <strong>Cuando comience a ejecutarse y se muestre el menú principal</strong> <br>
-    <strong>Y se presione en INSTRUCCIONES</strong> <br>
-   <strong>Entonces se mostrarán las intrucciones del videojuego</strong> 
-	<br><br>
-	<strong>E02: Usuario no puede acceder a la ventana de instrucciones</strong>
-    	<br><br> <strong>Dado que el usuario se encuentra dentro del videojuego</strong> <br>
-    <strong>Cuando comience a ejecutarse y se muestre el menú principal</strong> <br>
-    <strong>Y se presione en INSTRUCCIONES</strong> <br>
-	<strong>Y el botón no funcione</strong> <br>
-   <strong>Entonces la ventana de instrucciones no se desplegará</strong> 
-	<br><br>
-	   </td>
-            <td colspan="1">EPIC 004</td>
-		</tr>
-          <tr>
-            <td colspan="1">US022</td>
-            <td colspan="1">Visualizacion de participantes</td>
-             <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> visualizar una lista de participantes" <strong>para</strong> informarme con quiénes estoy jugando </td>
-            <td colspan="5"><strong>E01: Usuario visualiza la lista de participantes con la tecla por defecto</strong>
-            <br><br> <strong>Dado que el usuario se encuentra dentro del videojuego multi-jugador</strong> <br>
-    <strong>Cuando esté jugando y presiones la tecla TAB</strong> <br>
-   <strong>Entonces se mostrará la lista de participantes</strong> 
-	<br><br>
-	<strong>E02: Usuario visualiza la lista de participantes con tecla personalizada</strong>
-    	 <br><br> <strong>Dado que el usuario se encuentra dentro del videojuego multi-jugador</strong> <br>
-    <strong>Cuando esté jugando y presiones la tecla que personalizó en los AJUSTES del videojuego</strong> <br>
-   <strong>Entonces se mostrará la lista de participantes</strong> 
-	<br><br>
-	   </td>
-            <td colspan="1">EPIC 004</td>
-		</tr>
-          <tr>
-            <td colspan="1">US023</td>
-            <td colspan="1">Visualizacion de resultados </td>
-             <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> visualizar mis resultados <strong>para</strong> ver mi progreso en el tema</td>
-            <td colspan="5"><strong>E01: Se muestra el resultado de la partida</strong>
-            <br><br> <strong>Dado que el usuario termina de jugar</strong> <br>
-    <strong>Cuando se detecte el final del juego</strong> <br>
-   <strong>Entonces se mostrará el resultado de su desempeño</strong> 
-	<br><br>
-	<strong>E02: Se muestra el resultado de la partida multi-jugador</strong>
-            <br><br> <strong>Dado que todos los usuarios terminan de jugar</strong> <br>
-    <strong>Cuando se detecte el final del juego</strong> <br>
-   <strong>Entonces se mostrarán los resultados de los jugadores de forma jerárquica</strong> 
-	<br><br></td>
-            <td colspan="1">EPIC 004</td>
-		</tr>
-          <tr>
-            <td colspan="1">US024</td>
-            <td colspan="1">Abandonar sala de videojuego</td>
-             <td colspan="1"><strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> interactuar con un botón "SALIR" <strong>para</strong> salir del videojuego hacia el apartado para ingresar nuevamente</td>
-            <td colspan="5"><strong>E01: El usuario sale correctamente del videojuego</strong>
-            <br><br> <strong>Dado que</strong> el usuario se encuentra en el videojuego <br>
-    <strong>Cuando le dé CLICK a SALIR</strong> <br>
-   <strong>Entonces redirigirá al apartado previo al inicio del videojuego </strong> 
-	<br><br>
-	<strong>E02:El usuario no sale correctamente al videojuego</strong>
-            <br><br> <strong>Dado que</strong> el usuario se encuentra en el videojuego  <br>
-    <strong>Cuando le dé CLICK a SALIR</strong> <br>
-    <strong>Y el botón esté presentando errores</strong> <br>
-    <strong>Y el usuario presiona JUGAR pero se le va el internet</strong> <br>
-   <strong>Entonces el botón no redirigirá al usuario al apartado previo al inicio del videojuego </strong>  <br><br></td>
-            <td colspan="1">EPIC 004</td>
-		</tr>
-          <tr>
-            <td colspan="1">TS025</td>
-            <td colspan="1">Implementación de jugabilidad</td>
-            <td colspan="1">Como desarrollador, Quiero implementar las mecanicas de cada juego, Para brindar distintas experiencias de juego al usuario</td>
-            <td colspan="5">E01: Dado que El desarrollador comienza a implementar las mecánicas de juego para cada juego en la plataforma
-Cuando Diseña mecánicas que sean únicas, desafiantes y divertidas para cada juego
-Y Asegura que las mecánicas estén bien equilibradas y proporcionen una experiencia de juego satisfactoria
-Y Prueba exhaustivamente las mecánicas para detectar y corregir cualquier error o problema de jugabilidad
-Entonces Los usuarios disfrutan de distintas experiencias de juego que ofrecen diversión y entretenimiento
-Y Encuentran las mecánicas del juego interesantes y desafiantes, lo que aumenta su compromiso y tiempo de juego en la plataforma
+    <td colspan="1">US020</td>
+    <td colspan="1">Ingreso a la sala del videojuego  multi-jugador</td>
+    <td colspan="1">
+        <strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> interactuar con un botón "JUGAR" <strong>para</strong> acceder a la sala de espera con otros jugadores antes de comenzar a jugar
+    </td>
+    <td colspan="5">
+        <strong>E01: El usuario ingresa correctamente a la sala multi-jugador</strong> <br><br>
+        <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
+        <strong>Cuando</strong> le dé CLICK a un videojuego multi-jugador <br>
+        <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
+        <strong>Y el usuario presiona JUGAR</strong> <br>
+        <strong>Entonces</strong> accederá al apartado donde el videojuego se ejecute y se mostrará la sala de espera multi-jugador <br><br>
+        <strong>E02: El usuario no ingresa correctamente a la sala multi-jugador por no estar conectado a internet</strong> <br><br>
+        <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
+        <strong>Cuando</strong> le dé CLICK a un videojuego multi-jugador <br>
+        <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
+        <strong>Y el usuario presiona JUGAR</strong> <br>
+        <strong>Entonces</strong> accederá al apartado donde el videojuego se ejecute y al detectar que no se está conectado a internet se mostrará un error <br><br>
+    </td>
+    <td colspan="1">EP004</td>
+</tr>
+<tr>
+    <td colspan="1">US021</td>
+    <td colspan="1">Visualizar instrucciones de juego</td>
+    <td colspan="1">
+        <strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> un apartado de instrucciones <strong>para</strong> entender el funcionamiento del videojuego
+    </td>
+    <td colspan="5">
+        <strong>E01: Usuario accede a la ventana de instrucciones</strong> <br><br>
+        <strong>Dado que el usuario se encuentra dentro del videojuego</strong> <br>
+        <strong>Cuando comience a ejecutarse y se muestre el menú principal</strong> <br>
+        <strong>Y se presione en INSTRUCCIONES</strong> <br>
+        <strong>Entonces se mostrarán las instrucciones del videojuego</strong> <br><br>
+        <strong>E02: Usuario no puede acceder a la ventana de instrucciones</strong> <br><br>
+        <strong>Dado que el usuario se encuentra dentro del videojuego</strong> <br>
+        <strong>Cuando comience a ejecutarse y se muestre el menú principal</strong> <br>
+        <strong>Y se presione en INSTRUCCIONES</strong> <br>
+        <strong>Y el botón no funcione</strong> <br>
+        <strong>Entonces la ventana de instrucciones no se desplegará</strong> <br><br>
+    </td>
+    <td colspan="1">EP004</td>
+</tr>
+<tr>
+    <td colspan="1">US022</td>
+    <td colspan="1">Visualizacion de participantes</td>
+    <td colspan="1">
+        <strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> visualizar una lista de participantes <strong>para</strong> informarme con quiénes estoy jugando
+    </td>
+    <td colspan="5">
+        <strong>E01: Usuario visualiza la lista de participantes con la tecla por defecto</strong> <br><br>
+        <strong>Dado que el usuario se encuentra dentro del videojuego multi-jugador</strong> <br>
+        <strong>Cuando esté jugando y presiones la tecla TAB</strong> <br>
+        <strong>Entonces se mostrará la lista de participantes</strong> <br><br>
+        <strong>E02: Usuario visualiza la lista de participantes con tecla personalizada</strong> <br><br>
+        <strong>Dado que el usuario se encuentra dentro del videojuego multi-jugador</strong> <br>
+        <strong>Cuando esté jugando y presiones la tecla que personalizó en los AJUSTES del videojuego</strong> <br>
+        <strong>Entonces se mostrará la lista de participantes</strong> <br><br>
+    </td>
+    <td colspan="1">EP004</td>
+</tr>
+<tr>
+    <td colspan="1">US023</td>
+    <td colspan="1">Visualizacion de resultados </td>
+    <td colspan="1">
+        <strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> visualizar mis resultados <strong>para</strong> ver mi progreso en el tema
+    </td>
+    <td colspan="5">
+        <strong>E01: Se muestra el resultado de la partida</strong> <br><br>
+        <strong>Dado que el usuario termina de jugar</strong> <br>
+        <strong>Cuando se detecte el final del juego</strong> <br>
+        <strong>Entonces se mostrará el resultado de su desempeño</strong> <br><br>
+        <strong>E02: Se muestra el resultado de la partida multi-jugador</strong> <br><br>
+        <strong>Dado que todos los usuarios terminan de jugar</strong> <br>
+        <strong>Cuando se detecte el final del juego</strong> <br>
+        <strong>Entonces se mostrarán los resultados de los jugadores de forma jerárquica</strong> <br><br>
+    </td>
+    <td colspan="1">EP004</td>
+</tr>
+<tr>
+    <td colspan="1">US024</td>
+    <td colspan="1">Abandonar sala de videojuego</td>
+    <td colspan="1">
+        <strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> interactuar con un botón "SALIR" <strong>para</strong> salir del videojuego hacia el apartado para ingresar nuevamente
+    </td>
+    <td colspan="5">
+        <strong>E01: El usuario sale correctamente del videojuego</strong> <br><br>
+        <strong>Dado que</strong> el usuario se encuentra en el videojuego <br>
+        <strong>Cuando le dé CLICK a SALIR</strong> <br>
+        <strong>Entonces redirigirá al apartado previo al inicio del videojuego </strong> <br><br>
+        <strong>E02: El usuario no sale correctamente al videojuego</strong> <br><br>
+        <strong>Dado que</strong> el usuario se encuentra en el videojuego  <br>
+        <strong>Cuando le dé CLICK a SALIR</strong> <br>
+        <strong>Y el botón esté presentando errores</strong> <br>
+        <strong>Entonces el botón no redirigirá al usuario al apartado previo al inicio del videojuego </strong>  <br><br>
+    </td>
+    <td colspan="1">EP004</td>
+</tr>
+<tr>
+    <td colspan="1">TS025</td>
+    <td colspan="1">Implementación de jugabilidad</td>
+    <td colspan="1">Como desarrollador, Quiero implementar las mecánicas de cada juego, Para brindar distintas experiencias de juego al usuario</td>
+    <td colspan="5">
+        <strong>E01: Dado que El desarrollador comienza a implementar las mecánicas de juego para cada juego en la plataforma</strong> <br><br>
+        <strong>Cuando Diseña mecánicas que sean únicas, desafiantes y divertidas para cada juego</strong> <br>
+        <strong>Y Asegura que las mecánicas estén bien equilibradas y proporcionen una experiencia de juego satisfactoria</strong> <br>
+        <strong>Y Prueba exhaustivamente las mecánicas para detectar y corregir cualquier error o problema de jugabilidad</strong> <br>
+        <strong>Entonces Los usuarios disfrutan de distintas experiencias de juego que ofrecen diversión y entretenimiento</strong> <br>
+        <strong>Y Encuentran las mecánicas del juego interesantes y desafiantes, lo que aumenta su compromiso y tiempo de juego en la plataforma</strong> <br><br>
+        <strong>E02: Dado que El desarrollador está implementando las mecánicas de juego para cada juego en la plataforma</strong> <br><br>
+        <strong>Cuando Diseña mecánicas que resultan ser aburridas, desequilibradas o poco intuitivas para los usuarios</strong> <br>
+        <strong>O No realiza pruebas adecuadas de las mecánicas, lo que conduce a problemas de jugabilidad y errores graves</strong> <br>
+        <strong>O Las mecánicas implementadas no se ajustan bien a la temática o estilo de cada juego</strong> <br>
+        <strong>Entonces Los usuarios encuentran las experiencias de juego poco atractivas o frustrantes</strong> <br>
+        <strong>Y Pueden abandonar los juegos rápidamente en busca de opciones más satisfactorias</strong> <br>
+        <strong>O La reputación de la plataforma puede verse afectada negativamente debido a una implementación deficiente de las mecánicas de juego</strong> <br><br>
+    </td>
+    <td colspan="1">EP005</td>
+</tr>
+<tr>
+    <td colspan="1">TS026</td>
+    <td colspan="1">Implementación de interactividad</td>
+    <td colspan="1">Como desarrollador, Quiero implementar un sistema de interactividad en el juego, Para que el usuario pueda ajustarse a los diferentes controles</td>
+    <td colspan="5">
+        <strong>E01:</strong><br>
+        <strong>Dado que</strong> el desarrollador inicia la implementación del sistema de interactividad en el juego,<br>
+        <strong>Cuando</strong> diseña controles intuitivos y receptivos que se ajusten a la temática y mecánicas del juego,<br>
+        <strong>Y</strong> incorpora opciones de personalización para que los usuarios puedan ajustar los controles según sus preferencias,<br>
+        <strong>Y</strong> realiza pruebas exhaustivas para garantizar que los controles funcionen de manera fluida en todas las plataformas compatibles,<br>
+        <strong>Entonces</strong> los usuarios disfrutan de una experiencia de juego cómoda y adaptada a sus necesidades,<br>
+        <strong>Y</strong> pueden interactuar con el juego de manera efectiva y sin frustraciones debido a controles poco intuitivos o deficientes.<br>
+        <br>
+        <strong>E02:</strong><br>
+        <strong>Dado que</strong> el desarrollador está implementando el sistema de interactividad en el juego,<br>
+        <strong>Cuando</strong> selecciona una tecnología que no es adecuada para la comunicación en tiempo real,<br>
+        <strong>O</strong> diseña una interfaz de usuario complicada o poco intuitiva para interactuar con el sistema multijugador,<br>
+        <strong>O</strong> implementa un sistema de notificaciones poco confiable o ineficiente,<br>
+        <strong>Entonces</strong> los usuarios experimentan dificultades al intentar interactuar con otros jugadores en tiempo real,<br>
+        <strong>Y</strong> pueden sentirse frustrados por la falta de claridad en las acciones de otros jugadores,<br>
+        <strong>O</strong> la experiencia de juego puede verse afectada negativamente debido a la falta de sincronización entre los usuarios.<br>
+    </td>
+    <td colspan="1">EP005</td>
+</tr>
 
-E02:Dado que El desarrollador está implementando las mecánicas de juego para cada juego en la plataforma
-Cuando Diseña mecánicas que resultan ser aburridas, desequilibradas o poco intuitivas para los usuarios
-O No realiza pruebas adecuadas de las mecánicas, lo que conduce a problemas de jugabilidad y errores graves
-O Las mecánicas implementadas no se ajustan bien a la temática o estilo de cada juego
-Enotones Los usuarios encuentran las experiencias de juego poco atractivas o frustrantes
-Y Pueden abandonar los juegos rápidamente en busca de opciones más satisfactorias
-O La reputación de la plataforma puede verse afectada negativamente debido a una implementación deficiente de las mecánicas de juego</td>
-            <td colspan="1">EP004</td>
-		</tr>
-          <tr>
-            <td colspan="1">TS026</td>
-            <td colspan="1">Implementación de interactividad</td>
-            <td colspan="1">Como desarrollador, Quiero implementar un sistema de interactividad en el juego, Para que el usuario pueda ajustarse a los diferentes controles</td>
-            <td colspan="5">Dado que El desarrollador inicia la implementación del sistema de interactividad en el juego
-Cuando Diseña controles intuitivos y receptivos que se ajusten a la temática y mecánicas del juego
-Y Incorpora opciones de personalización para que los usuarios puedan ajustar los controles según sus preferencias
-Y Realiza pruebas exhaustivas para garantizar que los controles funcionen de manera fluida en todas las plataformas compatibles
-Entonces Los usuarios disfrutan de una experiencia de juego cómoda y adaptada a sus necesidades
-Y Pueden interactuar con el juego de manera efectiva y sin frustraciones debido a controles poco intuitivos o deficientes</td>
-            <td colspan="1">EP004</td>
-		</tr>
-          <tr>
-            <td colspan="1">TS027</td>
-            <td colspan="1">Desarrollo del Game Manager</td>
-           <td colspan="1">Como desarrollador, Quiero crear un GameManager en los videojuegos, Para tener un mayor control sobre el juego desde el inicio a fin</td>
-            <td colspan="5">E01:
+<tr>
+    <td colspan="1">TS027</td>
+    <td colspan="1">Desarrollo del Game Manager</td>
+    <td colspan="1">Como desarrollador, Quiero crear un GameManager en los videojuegos, Para tener un mayor control sobre el juego desde el inicio a fin</td>
+    <td colspan="5">
+        <strong>E01:</strong><br>
+        <strong>Dado que</strong> el desarrollador inicia la creación del GameManager para los videojuegos,<br>
+        <strong>Cuando</strong> diseña una estructura modular y escalable para el GameManager,<br>
+        <strong>Y</strong> implementa funcionalidades para controlar el flujo del juego, gestionar eventos y administrar recursos,<br>
+        <strong>Y</strong> integra el GameManager con las mecánicas específicas de cada juego de manera eficiente,<br>
+        <strong>Entonces</strong> el desarrollador tiene un mayor control sobre el juego desde el inicio hasta el final,<br>
+        <strong>Y</strong> puede realizar ajustes y mejoras en el juego de manera más rápida y fácil,<br>
+        <strong>Y</strong> los usuarios experimentan una experiencia de juego más fluida y coherente gracias al GameManager bien diseñado.<br>
+        <br>
+        <strong>E02:</strong><br>
+        <strong>Dado que</strong> el desarrollador está creando el GameManager para los videojuegos,<br>
+        <strong>Cuando</strong> diseña una estructura poco modular o difícil de mantener,<br>
+        <strong>O</strong> implementa funcionalidades del GameManager de manera confusa o poco eficiente,<br>
+        <strong>O</strong> el GameManager no se integra correctamente con las mecánicas específicas de cada juego,<br>
+        <strong>Entonces</strong> el desarrollador enfrenta dificultades para controlar el flujo del juego y gestionar eventos,<br>
+        <strong>Y</strong> realizar ajustes y mejoras en el juego se vuelve complicado y propenso a errores,<br>
+        <strong>O</strong> los usuarios pueden experimentar problemas de rendimiento o inconsistencias en el juego debido a un GameManager mal diseñado.<br>
+    </td>
+    <td colspan="1">EP005</td>
+</tr>
+<tr>
+    <td colspan="1">TS028</td>
+    <td colspan="1">Desarrollo de reglas de juego</td>
+    <td colspan="1">Como desarrollador, Quiero establecer las reglas de cada juego en la plataforma, Para que los usuarios sepan qué acciones tomar para progresar</td>
+    <td colspan="5">
+        <strong>E01:</strong><br>
+        <strong>Dado que</strong> el desarrollador comienza a definir las reglas de cada juego en la plataforma,<br>
+        <strong>Cuando</strong> investiga y analiza juegos similares para determinar reglas efectivas y equilibradas,<br>
+        <strong>Y</strong> documenta claramente las reglas de cada juego, incluyendo objetivos, mecánicas y condiciones de victoria,<br>
+        <strong>Y</strong> integra las reglas en la interfaz de usuario del juego de manera accesible y comprensible,<br>
+        <strong>Entonces</strong> los usuarios pueden consultar las reglas fácilmente antes y durante el juego,<br>
+        <strong>Y</strong> tienen claridad sobre las acciones que deben tomar para progresar y tener éxito en el juego,<br>
+        <strong>Y</strong> disfrutan de una experiencia de juego coherente y satisfactoria.<br>
+        <br>
+        <strong>E02:</strong><br>
+        <strong>Dado que</strong> el desarrollador está estableciendo las reglas de cada juego en la plataforma,<br>
+        <strong>Y</strong> no investiga ni analiza adecuadamente juegos similares para determinar reglas efectivas,<br>
+        <strong>O</strong> documenta las reglas de manera confusa o incompleta, dejando espacio para interpretaciones erróneas,<br>
+        <strong>O</strong> no integra las reglas de manera clara en la interfaz de usuario del juego,<br>
+        <strong>Entonces</strong> los usuarios encuentran dificultades para comprender las reglas del juego,<br>
+        <strong>Y</strong> pueden sentirse frustrados o desanimados al no saber qué acciones tomar para progresar,<br>
+        <strong>O</strong> experimentan inconsistencias o situaciones injustas debido a reglas poco claras o mal definidas.<br>
+    </td>
+    <td colspan="1">EP005</td>
+</tr>
 
-Dado que El desarrollador inicia la creación del GameManager para los videojuegos
-Cuando Diseña una estructura modular y escalable para el GameManager
-Y Implementa funcionalidades para controlar el flujo del juego, gestionar eventos y administrar recursos
-Y Integra el GameManager con las mecánicas específicas de cada juego de manera eficiente
-Entonces El desarrollador tiene un mayor control sobre el juego desde el inicio hasta el final
-Y Puede realizar ajustes y mejoras en el juego de manera más rápida y fácil
-Y Los usuarios experimentan una experiencia de juego más fluida y coherente gracias al GameManager bien diseñado
+<tr>
+    <td colspan="1">TS029</td>
+    <td colspan="1">Implementación de salas multijugador</td>
+    <td colspan="1">Como desarrollador, Quiero implementar un sistema multijugador asincrónico y sencillo, Para la interacción en tiempo real entre los usuarios</td>
+    <td colspan="5">
+        <strong>E01:</strong><br>
+        <strong>Dado que</strong> el desarrollador comienza a diseñar e implementar el sistema multijugador asíncrono,<br>
+        <strong>Cuando</strong> selecciona una tecnología adecuada para la comunicación entre usuarios en tiempo real,<br>
+        <strong>Y</strong> diseña una interfaz de usuario intuitiva que permita a los usuarios interactuar fácilmente con el sistema multijugador,<br>
+        <strong>Y</strong> implementa un sistema de notificaciones para informar a los usuarios sobre las actualizaciones y acciones de otros jugadores,<br>
+        <strong>Entonces</strong> los usuarios pueden disfrutar de la interacción en tiempo real con otros jugadores de forma sencilla y fluida.<br>
+        <br>
+        <strong>E02:</strong><br>
+        <strong>Dado que</strong> el desarrollador está implementando el sistema multijugador asíncrono,<br>
+        <strong>Cuando</strong> selecciona una tecnología que no es adecuada para la comunicación en tiempo real,<br>
+        <strong>O</strong> diseña una interfaz de usuario complicada o poco intuitiva para interactuar con el sistema multijugador,<br>
+        <strong>O</strong> implementa un sistema de notificaciones poco confiable o ineficiente,<br>
+        <strong>Entonces</strong> los usuarios experimentan dificultades al intentar interactuar con otros jugadores en tiempo real,<br>
+        <strong>Y</strong> pueden sentirse frustrados por la falta de claridad en las acciones de otros jugadores,<br>
+        <strong>O</strong> la experiencia de juego puede verse afectada negativamente debido a la falta de sincronización entre los usuarios.<br>
+    </td>
+    <td colspan="1">EP005</td>
+</tr>
 
-E02:Dado que El desarrollador está creando el GameManager para los videojuegos
-Cuando Diseña una estructura poco modular o difícil de mantener
-O Implementa funcionalidades del GameManager de manera confusa o poco eficiente
-O El GameManager no se integra correctamente con las mecánicas específicas de cada juego
-Entonces El desarrollador enfrenta dificultades para controlar el flujo del juego y gestionar evento
-Y Realizar ajustes y mejoras en el juego se vuelve complicado y propenso a errores.
-O Los usuarios pueden experimentar problemas de rendimiento o inconsistencias en el juego debido a un GameManager mal diseñado</td>
-            <td colspan="1">EP005</td>
-		</tr>
-          <tr>
-            <td colspan="1">TS028</td>
-            <td colspan="1">Desarrollo de reglas de juego</td>
-             <td colspan="1">Como desarrollador, Quiero establecer las reglas de cada juego en la plataforma, Para que los usuarios sepan que acciones tomar para progresar</td>
-            <td colspan="5">E01:
+<tr>
+    <td colspan="1">TS030</td>
+    <td colspan="1">Implementación de interfaz de videojuego</td>
+    <td colspan="1">Como desarrollador, Quiero implementar una interfaz amigable y clara para el videojuego, Para que los usuarios lo usen con facilidad</td>
+    <td colspan="5">
+        <strong>E01:</strong><br>
+        <strong>Dado que</strong> el desarrollador comienza a diseñar la interfaz de usuario del videojuego,<br>
+        <strong>Cuando</strong> selecciona una paleta de colores que sea atractiva y fácil de distinguir,<br>
+        <strong>Y</strong> utiliza iconos intuitivos y representativos para las funciones del juego,<br>
+        <strong>Y</strong> organiza los elementos de la interfaz de manera lógica y coherente,<br>
+        <strong>Entonces</strong> los usuarios encuentran la interfaz fácil de entender y navegar.<br>
+        <br>
+        <strong>E02:</strong><br>
+        <strong>Dado que</strong> el desarrollador está diseñando la interfaz de usuario del videojuego,<br>
+        <strong>Cuando</strong> selecciona una paleta de colores poco atractiva o difícil de distinguir,<br>
+        <strong>O</strong> utiliza iconos confusos o poco representativos para las funciones del juego,<br>
+        <strong>Y</strong> organiza los elementos de la interfaz de manera desordenada o poco coherente,<br>
+        <strong>Entonces</strong> los usuarios encuentran la interfaz confusa y difícil de usar,<br>
+        <strong>Y</strong> experimentan frustración al tratar de navegar por el juego,<br>
+        <strong>Y</strong> abandonan el juego en busca de una experiencia más intuitiva.<br>
+    </td>
+    <td colspan="1">EP005</td>
+</tr>
 
-Dado que El desarrollador comienza a definir las reglas de cada juego en la plataforma
-Cuando Investiga y analiza juegos similares para determinar reglas efectivas y equilibradas.
-Y Documenta claramente las reglas de cada juego, incluyendo objetivos, mecánicas y condiciones de victoria.
-Y Integra las reglas en la interfaz de usuario del juego de manera accesible y comprensible.
-Entonces Los usuarios pueden consultar las reglas fácilmente antes y durante el juego.
-Y Tienen claridad sobre las acciones que deben tomar para progresar y tener éxito en el juego.
-Y Disfrutan de una experiencia de juego coherente y satisfactoria.
-
-E02:
-Dado que El desarrollador está estableciendo las reglas de cada juego en la plataforma.
-Y No investiga ni analiza adecuadamente juegos similares para determinar reglas efectivas.
-O Documenta las reglas de manera confusa o incompleta, dejando espacio para interpretaciones erróneas.
-O No integra las reglas de manera clara en la interfaz de usuario del juego.
-Entonces Los usuarios encuentran dificultades para comprender las reglas del juego.
-Y Pueden sentirse frustrados o desanimados al no saber qué acciones tomar para progresar.
-O Experimentan inconsistencias o situaciones injustas debido a reglas poco claras o mal definidas.</td>
-            <td colspan="1">EP005</td>
-		</tr>
-          <tr>
-            <td colspan="1">TS029</td>
-            <td colspan="1">Implementación de salas multijugador</td>
-              <td colspan="1">Como desarrollador, Quiero implementar un sistema multijugador asincrono y sencillo, Para la interacción en tiempo real entre los usuarios</td>
-            <td colspan="5">E01:
-
-Dado que El desarrollador comienza a diseñar e implementar el sistema multijugador asíncrono
-Cuando Selecciona una tecnología adecuada para la comunicación entre usuarios en tiempo real
-Y Diseña una interfaz de usuario intuitiva que permita a los usuarios interactuar fácilmente con el sistema multijugador
-Y Implementa un sistema de notificaciones para informar a los usuarios sobre las actualizaciones y acciones de otros jugadores
-Entonces Los usuarios pueden disfrutar de la interacción en tiempo real con otros jugadores de forma sencilla y fluida
-
-E02:
-
-Dado que El desarrollador está implementando el sistema multijugador asíncrono
-Cuando Selecciona una tecnología que no es adecuada para la comunicación en tiempo real
-O Diseña una interfaz de usuario complicada o poco intuitiva para interactuar con el sistema multijugador
-O Implementa un sistema de notificaciones poco confiable o ineficiente
-Entonces Los usuarios experimentan dificultades al intentar interactuar con otros jugadores en tiempo real
-Y Pueden sentirse frustrados por la falta de claridad en las acciones de otros jugadores
-O La experiencia de juego puede verse afectada negativamente debido a la falta de sincronización entre los usuarios
-
-
-
-
-
-</td>
-            <td colspan="1">EP004</td>
-		</tr>
-          <tr>
-            <td colspan="1">TS030</td>
-            <td colspan="1">Implementación de diseño de videojuego</td>
-            <td colspan="1">Implementación de interfaz de videojuego</td>
-            <td colspan="1">Como desarrollador, Quiero implementar una interfaz amigable y clara para el videojuego, Para que los usuarios lo usen con facilidad</td>
-            <td colspan="5">E01:
-            
-Dado que El desarrollador comienza a diseñar la interfaz de usuario del videojuego
-Cuando Selecciona una paleta de colores que sea atractiva y fácil de distinguir
-Y Utiliza iconos intuitivos y representativos para las funciones del juego
-Y Organiza los elementos de la interfaz de manera lógica y coherente
-Entonces Los usuarios encuentran la interfaz fácil de entender y navegar
-
-E02: Dado que El desarrollador está diseñando la interfaz de usuario del videojuego
-Cuando Selecciona una paleta de colores poco atractiva o difícil de distinguir
-O Utiliza iconos confusos o poco representativos para las funciones del juego
-Y Organiza los elementos de la interfaz de manera desordenada o poco coherente
-Entonces Los usuarios encuentran la interfaz confusa y difícil de usar
-Y Experimentan frustración al tratar de navegar por el juego
-Y Abandonan el juego en busca de una experiencia más intuitiva</td>
-            <td colspan="1">EP001</td>
-		</tr>
-          <tr>
-            <td colspan="1">US31</td>
-            <td colspan="1">Visualización de barra de búsqueda</td>
-            <td colspan="1">Como usuario de la plataforma, quiero poder acceder fácilmente a la barra de búsqueda para encontrar contenido específico</td>
-            <td colspan="5">E01:
-
-Dado que el usuario está en la página principal de la plataforma
-                Cuando el usuario busca un contenido específico.
-                Entonces accedera una barra de búsqueda claramente visible en la interfaz
-                Y el usuario ingresa palabras clave o frases en la barra de búsqueda.
-                Y el usuario recibe resultados relevantes de manera rápida y sencilla
-
-E02:
-                Dado que el usuario está utilizando la plataforma en un dispositivo móvil con una pantalla pequeña.
-                Cuando El usuario busca la barra de búsqueda para encontrar contenido específico
-                Entonces la barra de búsqueda no es visible en la pantalla principal.
-                Y el usuario se siente frustrado porque no puede acceder a la función de búsqueda y tiene dificultades para encontrar el contenido deseado
-                Y Esto podría llevar al usuario a abandonar la plataforma en busca de una experiencia más fácil de usar
-
-</td>
-            <td colspan="1">EP003</td>
-		</tr>
-          <<tr>
-    <tr>
-    <td colspan="1">US032</td>
+<tr>
+    <td colspan="1">US031</td>
     <td colspan="1">Evaluación del progreso de estudiantes</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero que mi progreso como estudiante sea evaluado <strong>para</strong> poder realizar un seguimiento de mi desempeño académico.
@@ -2082,7 +2515,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US033</td>
+    <td colspan="1">US032</td>
     <td colspan="1">Evaluación de la dificultad de los videojuegos</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero que los videojuegos sean evaluados en cuanto a su dificultad <strong>para</strong> tener una experiencia de juego equilibrada y desafiante.
@@ -2114,7 +2547,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US034</td>
+    <td colspan="1">US033</td>
     <td colspan="1">Medición de eficacia de los elementos de enseñanza dentro del juego</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero que los elementos de enseñanza dentro de los juegos sean medidos en cuanto a su eficacia <strong>para</strong> asegurarme de que estoy recibiendo una educación efectiva mientras juego.
@@ -2146,7 +2579,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US035</td>
+    <td colspan="1">US034</td>
     <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero poder ver mi progreso y rendimiento dentro de la plataforma <strong>para</strong> seguir mi evolución y desempeño.
@@ -2176,9 +2609,8 @@ E02:
     </td>
     <td colspan="1">EP006</td>
 </tr>
-
 <tr>
-    <td colspan="1">TS036</td>
+    <td colspan="1">TS035</td>
     <td colspan="1">Despliegue de datos al apartado de visualización del progreso</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero que los datos relevantes sobre mi progreso se muestren de manera clara y organizada en el apartado de visualización del progreso <strong>para</strong> facilitar su comprensión y seguimiento.
@@ -2208,9 +2640,8 @@ E02:
     </td>
     <td colspan="1">EP006</td>
 </tr>
-
 <tr>
-    <td colspan="1">US037</td>
+    <td colspan="1">US036</td>
     <td colspan="1">Comunicación de errores o reclamos con soporte técnico</td>
     <td colspan="1">
         <strong>Como</strong> usuario de la plataforma, quiero poder comunicar errores o reclamos al equipo de soporte técnico <strong>para</strong> recibir ayuda y solucionar problemas.
@@ -2244,7 +2675,7 @@ E02:
 </tr>
 
 <tr>
-    <td colspan="1">US039</td>
+    <td colspan="1">US037</td>
     <td colspan="1">Implementación de apartado de preguntas frecuentes (FAQ)</td>
     <td colspan="1">
         <strong>Como</strong> usuario, quiero tener acceso a un apartado de preguntas frecuentes (FAQ) <strong>para</strong> resolver dudas comunes de manera rápida y sencilla.
@@ -2276,9 +2707,8 @@ E02:
 </tr>
 
 <tr>
-            <td colspan="1">BS040</td>
+            <td colspan="1">BS038</td>
             <td colspan="1">Análisis de los beneficios del plan premium</td>
-             <td colspan="1">Análisis de los beneficios del plan premium</td>
         <td colspan="1"><strong>Como</strong> administrador, <strong>quiero</strong> realizar un análisis detallado de los beneficios ofrecidos por el plan premium, <strong>para</strong> comprender su impacto en la satisfacción del cliente y en la rentabilidad del negocio.</td>
         <td colspan="5">
         <strong>E01: Dado que</strong> el administrador accede al panel de control, <br>
@@ -2292,7 +2722,7 @@ E02:
         <td colspan="1">EP008</td>
 		</tr>          
 		<tr>
-            <td colspan="1">TS041</td>
+            <td colspan="1">TS039</td>
             <td colspan="1">Detección y establecimiento de plan</td>
             <td colspan="1"><strong>Como desarrollador</strong>, <strong>quiero</strong> implementar un sistema que detecte automáticamente el plan más adecuado para el usuario según sus necesidades y preferencias, <strong>para</strong> facilitar el proceso de selección y establecimiento del plan.</td>
             <td colspan="5">
@@ -2311,7 +2741,7 @@ E02:
             <td colspan="1">EP008</td>
 		</tr>          
 		<tr>
-            <td colspan="1">TS042</td>
+            <td colspan="1">TS040</td>
             <td colspan="1">Implementación de medios de pago</td>
              <td colspan="1"><strong>Como desarrollador</strong>, <strong>quiero</strong> implementar diversos medios de pago en la plataforma, <strong>para</strong> ofrecer opciones flexibles y seguras a los usuarios al momento de realizar transacciones.</td>
             <td colspan="5">
@@ -2330,7 +2760,7 @@ E02:
             <td colspan="1">EP008</td>
 		</tr>
 		<tr>
-            <td colspan="1">BS043</td>
+            <td colspan="1">BS041</td>
             <td colspan="1">Exposición de métricas de la plataforma</td>
             <td colspan="1"><strong>Como inversor,</strong> <strong>quiero</strong> tener acceso a métricas clave de la plataforma, <strong>para</strong> evaluar el rendimiento y tomar decisiones de inversión informadas.</td>
             <td colspan="5">
@@ -2349,7 +2779,7 @@ E02:
             <td colspan="1">EP008</td>
 		</tr>
   		<tr>
-            <td colspan="1">US044</td>
+            <td colspan="1">US042</td>
             <td colspan="1">Visualización de caracteristicas de la aplicación web</td>
             <td colspan="1">Como usuario que navega en el landing page,Quiero ver caracteristicas de la aplicación, Para saber sobre la motivación del proyecto</td>
             <td colspan="5"><strong>E01: Caracteristicas del aplicativo encontradas 
@@ -2365,15 +2795,15 @@ Entonces El usuario se siente frustrado por la falta de información clara sobre
 Y Puede abandonar el landing page si no puede encontrar la información que busca.
 O El usuario intenta hacer clic en otras secciones, como "Servicios" o "Nosotros", en busca de información relevante sobre las características, pero no encuentra lo que necesita
 Entonces Experimenta una experiencia de usuario insatisfactoria y puede tener una percepción negativa de la aplicación y el proyecto en general</td>
-            <td colspan="1">EP009</td>
-		</tr>
-				<tr>
-            <td colspan="1">US045</td>
-            <td colspan="1">Landing Page Responsive Design</td>
-             <td colspan="1">Como usuario navegando en la landing page, Quiero visualizarla desde cualquier dispositivo, Para mi comodidad como usuario</td>
-            <td colspan="5"><strong>E01: Responsive desing exitoso</strong>
-            <strong>Dado</strong> que El usuario accede a la landing page desde cualquier dispositivo, ya sea un ordenador de escritorio, una tableta o un teléfono móvil
- <strong>Cuando </strong> La landing page está diseñada con un diseño responsivo que se adapta automáticamente al tamaño de la pantalla del dispositivo
+<td colspan="1">EP009</td>
+</tr>
+<tr>
+<td colspan="1">US043</td>
+<td colspan="1">Landing Page Responsive Design</td>
+<td colspan="1">Como usuario navegando en la landing page, Quiero visualizarla desde cualquier dispositivo, Para mi comodidad como usuario</td>
+<td colspan="5"><strong>E01: Responsive desing exitoso</strong>
+<strong>Dado</strong> que El usuario accede a la landing page desde cualquier dispositivo, ya sea un ordenador de escritorio, una tableta o un teléfono móvil
+<strong>Cuando </strong> La landing page está diseñada con un diseño responsivo que se adapta automáticamente al tamaño de la pantalla del dispositivo
 <strong>Entonces</strong> El usuario puede navegar por la landing page de manera cómoda y sin problemas, sin importar el dispositivo que esté utilizando
 <strong>Y</strong> La experiencia de usuario es consistente y agradable en todos los dispositivos, lo que aumenta la satisfacción del usuario
 
@@ -2384,14 +2814,14 @@ Dado</strong> que El usuario intenta acceder a la landing page desde un disposit
 <strong>Y</strong> Puede experimentar problemas de visualización, como texto o imágenes cortadas, botones difíciles de clicar, o una interfaz desordenada
 <strong>O</strong> El usuario intenta acceder a ciertas secciones de la landing page pero encuentra que algunas funciones no están disponibles o son difíciles de utilizar en su dispositivo
 <strong>Entonces</strong> Experimenta una experiencia de usuario insatisfactoria y puede abandonar la landing page en busca de una alternativa más compatible con su dispositivo</td>
-            <td colspan="1">EP009</td>
-		</tr>
-				<tr>
-            <td colspan="1">US046</td>
-            <td colspan="1">Botón Call to action</td>
-             <td colspan="1">Como usuario interesado en la plataforma, quiero ver un botón de "Llamar a la Acción" (Call to Action), para poder realizar una acción específica fácilmente</td>
-            <td colspan="5"><strong>E01: Hay un Call to action bien segmentado 
-            Dado</strong> que El usuario está interesado en la plataforma y visita la landing page
+<td colspan="1">EP009</td>
+</tr>
+<tr>
+<td colspan="1">US044</td>
+<td colspan="1">Botón Call to action</td>
+<td colspan="1">Como usuario interesado en la plataforma, quiero ver un botón de "Llamar a la Acción" (Call to Action), para poder realizar una acción específica fácilmente</td>
+<td colspan="5"><strong>E01: Hay un Call to action bien segmentado
+Dado</strong> que El usuario está interesado en la plataforma y visita la landing page
 <strong>Cuando</strong> Visualiza la landing page
 <strong>Entonces</strong> Debe ver claramente un botón de "Llamar a la Acción" (Call to Action) en una posición prominente y estratégica de la página
 <strong>Y</strong> El texto del botón debe ser claro y persuasivo, invitando al usuario a realizar una acción específica
@@ -2399,14 +2829,14 @@ Dado</strong> que El usuario intenta acceder a la landing page desde un disposit
 <strong>Y</strong> Al hacer clic en el botón, el usuario debe ser dirigido de manera efectiva a la página o acción correspondiente, como el formulario de registro o la página de descarga de la aplicación
 
 <strong>E02: Mala implementacion de Call to action
- Dado</strong> que El usuario está interesado en la plataforma y visita la landing page
+Dado</strong> que El usuario está interesado en la plataforma y visita la landing page
 <strong>Cuando</strong> Visualiza la landing page
 <strong>Entonces</strong> No encuentra ningún botón visible de "Llamar a la Acción" (Call to Action) que lo guíe hacia la acción deseada
 <strong>Y</strong> Se siente frustrado y confundido al no poder proceder con la acción deseada
 <strong>Y<strong> Puede abandonar la página en busca de una alternativa más clara y funcional</td>
-            <td colspan="1">EP009</td>
-		</tr>	
-	</tbody>	
+<td colspan="1">EP009</td>
+</tr>
+</tbody>
 </table>
 
 
@@ -2430,315 +2860,314 @@ Dado</strong> que El usuario intenta acceder a la landing page desde un disposit
     <tr>
       <td>01</td>
       <td>HU-44</td>
-      <td>Visualización de caracteristicas de la aplicación web</td>
-      <td>Como usuario que navega en el landing page,Quiero ver caracteristicas de la aplicación, Para saber sobre la motivación del proyecto</td>
-      <td>5</td>
+      <td>Visualización de características de la aplicación web</td>
+      <td>Como usuario que navega en el landing page, quiero ver características de la aplicación, para saber sobre la motivación del proyecto</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>02</td>
       <td>HU-45</td>
       <td>Landing Page Responsive Design</td>
-      <td>Como usuario navegando en la landing page, Quiero visualizarla desde cualquier dispositivo, Para mi comodidad como usuario</td>
-      <td>8</td>
+      <td>Como usuario navegando en la landing page, quiero visualizarla desde cualquier dispositivo, para mi comodidad como usuario</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>03</td>
       <td>HU-15</td>
       <td>Botón Call to Action</td>
       <td>Como usuario interesado en la plataforma, quiero ver un botón de "Llamar a la Acción" (Call to Action), para poder realizar una acción específica fácilmente</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>04</td>
       <td>HU-01</td>
       <td>Registro de usuarios estudiantes en la plataforma</td>
       <td>Como usuario estudiante quiero crearme una cuenta para poder acceder a la aplicación y sus funciones.</td>
-      <td>8</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>05</td>
       <td>HU-02</td>
       <td>Registro de instituciones educativas en la plataforma</td>
       <td>Como usuario encargado de una institución educativa quiero crearme una cuenta para poder acceder a la aplicación y sus funciones.</td>
-      <td>8</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>06</td>
       <td>HU-03</td>
-      <td>	Inicio de sesión de usuarios en la plataforma</td>
+      <td>Inicio de sesión de usuarios en la plataforma</td>
       <td>Como usuario quiero iniciar sesión en mi cuenta para utilizar los videojuegos de estudio.</td>
-      <td>8</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>07</td>
       <td>HU-08</td>
       <td>Implementación del menú principal</td>
       <td>Como usuario, quiero tener un menú principal claramente visible y funcional cuando accedo a la plataforma, para poder acceder fácilmente a las diferentes secciones y funcionalidades de la aplicación.</td>
-      <td>8</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>08</td>
       <td>HU-04</td>
       <td>Recuperación de contraseña para usuarios registrados</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>09</td>
       <td>HU-09</td>
       <td>Visualización de carrusel de videojuegos</td>
       <td>Como usuario, quiero poder visualizar un carrusel de videojuegos en la plataforma, para descubrir fácilmente los juegos destacados y populares.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>10</td>
       <td>HU-19</td>
-      <td>	Ingreso al videojuego singleplayer</td>
+      <td>Ingreso al videojuego singleplayer</td>
       <td>Como estudiante de la plataforma **quiero** interactuar con un botón "JUGAR" para acceder al videojuego que deseo jugar</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
      <tr>
       <td>11</td>
       <td>HU-13</td>
       <td>Ingreso a la sala del videojuego multi-jugador</td>
       <td>Como estudiante de la plataforma quiero interactuar con un botón "JUGAR" para acceder a la sala de espera con otros jugadores antes de comenzar a jugar</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>12</td>
       <td>HU-25</td>
-      <td>	Implementación de jugabilidad</td>
-      <td>Como desarrollador, Quiero implementar las mecanicas de cada juego, Para brindar distintas experiencias de juego al usuario</td>
-      <td>8</td>
+      <td>Implementación de jugabilidad</td>
+      <td>Como desarrollador, Quiero implementar las mecánicas de cada juego, Para brindar diferentes experiencias de juego al usuario</td>
+      <td>5</td>
     </tr>
      <tr>
       <td>13</td>
       <td>HU-32</td>
       <td>Evaluación del progreso de estudiantes</td>
       <td>Como usuario de la plataforma, quiero que mi progreso como estudiante sea evaluado para poder realizar un seguimiento de mi desempeño académico.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
      <tr>
       <td>14</td>
       <td>HU-34</td>
       <td>Medición de eficacia de los elementos de enseñanza dentro del juego</td>
       <td>Como usuario de la plataforma, quiero que los elementos de enseñanza dentro de los juegos sean medidos en cuanto a su eficacia para asegurarme de que estoy recibiendo una educación efectiva mientras juego.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>15</td>
       <td>HU-35</td>
       <td>Visualización del progreso del usuario en la plataforma</td>
       <td>Como usuario de la plataforma, quiero poder ver mi progreso y rendimiento dentro de la plataforma para seguir mi evolución y desempeño.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
      <tr>
       <td>16</td>
       <td>HU-31</td>
       <td>Visualización de barra de búsqueda</td>
       <td>Como usuario de la plataforma, quiero poder acceder fácilmente a la barra de búsqueda para encontrar contenido específico</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>17</td>
       <td>HU-29</td>
-      <td>	Implementación de salas multijugador</td>
-      <td>Como desarrollador, Quiero implementar un sistema multijugador asincrono y sencillo, Para la interacción en tiempo real entre los usuarios</td>
-      <td>8</td>
+      <td>Implementación de salas multijugador</td>
+      <td>Como desarrollador, Quiero implementar un sistema multijugador asíncrono y sencillo, Para la interacción en tiempo real entre los usuarios</td>
+      <td>5</td>
     </tr>
      <tr>
       <td>18</td>
       <td>HU-28</td>
       <td>Desarrollo de reglas de juego</td>
-      <td>Como desarrollador, Quiero establecer las reglas de cada juego en la plataforma, Para que los usuarios sepan que acciones tomar para progresar</td>
-      <td>3</td>
+      <td>Como desarrollador, Quiero establecer las reglas de cada juego en la plataforma, Para que los usuarios sepan qué acciones tomar para progresar</td>
+      <td>2</td>
     </tr>
      <tr>
       <td>19</td>
       <td>HU-27</td>
       <td>Desarrollo del Game Manager</td>
-      <td>Como desarrollador, Quiero crear un GameManager en los videojuegos, Para tener un mayor control sobre el juego desde el inicio a fin</td>
-      <td>5</td>
+      <td>Como desarrollador, Quiero crear un GameManager en los videojuegos, Para tener un mayor control sobre el juego desde el inicio hasta el fin</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>20</td>
       <td>HU-40</td>
       <td>Análisis de los beneficios del plan premium</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>21</td>
       <td>HU-42</td>
       <td>Implementación de medios de pago</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
      <tr>
       <td>22</td>
       <td>HU-30</td>
       <td>Implementación de interfaz de videojuego</td>
       <td>Como desarrollador, Quiero implementar una interfaz amigable y clara para el videojuego, Para que los usuarios lo usen con facilidad</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>23</td>
       <td>HU-33</td>
       <td>Evaluación de la dificultad de los videojuegos</td>
       <td>Como usuario de la plataforma, quiero que los videojuegos sean evaluados en cuanto a su dificultad para tener una experiencia de juego equilibrada y desafiante.</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
      <tr>
       <td>24</td>
       <td>HU-24</td>
       <td>Abandonar sala de videojuego</td>
       <td>Como estudiante de la plataforma quiero interactuar con un botón "SALIR" para salir del videojuego hacia el apartado para ingresar nuevamente</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
      <tr>
       <td>25</td>
       <td>HU-23</td>
-      <td>Visualizacion de resultados</td>
+      <td>Visualización de resultados</td>
       <td>Como estudiante de la plataforma quiero visualizar mis resultados para ver mi progreso en el tema</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>26</td>
       <td>HU-22</td>
-      <td>Visualizacion de participantes</td>
+      <td>Visualización de participantes</td>
       <td>Como estudiante de la plataforma quiero visualizar una lista de participantes" para informarme con quiénes estoy jugando</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>27</td>
       <td>HU-21</td>
       <td>Visualizar instrucciones de juego</td>
       <td>Como estudiante de la plataforma quiero un apartado de instrucciones para entender el funcionamiento del videojuego</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
      <tr>
       <td>28</td>
       <td>HU-05</td>
       <td>Modificación de cuenta</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>29</td>
       <td>HU-10</td>
-      <td>	Visualización de información relevante en componentes</td>
+      <td>Visualización de información relevante en componentes</td>
       <td>Como usuario, quiero poder ver información relevante presentada en los componentes de la plataforma, para saber rápidamente qué información se encuentra en cada componente y acceder a la información que necesito de manera eficiente.</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
      <tr>
       <td>30</td>
       <td>HU-20</td>
       <td>Ingreso a la sala del videojuego multi-jugador</td>
       <td>Como estudiante de la plataforma quiero interactuar con un botón "JUGAR" para acceder a la sala de espera con otros jugadores antes de comenzar a jugar</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>31</td>
       <td>HU-26</td>
       <td>Implementación de interactividad</td>
       <td>Como desarrollador, Quiero implementar un sistema de interactividad en el juego, Para que el usuario pueda ajustarse a los diferentes controles</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>32</td>
       <td>HU-36</td>
       <td>Despliegue de datos al apartado de visualización del progreso</td>
       <td>Como usuario de la plataforma, quiero que los datos relevantes sobre mi progreso se muestren de manera clara y organizada en el apartado de visualización del progreso para facilitar su comprensión y seguimiento.</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
      <tr>
       <td>33</td>
       <td>HU-39</td>
       <td>Implementación de apartado de preguntas frecuentes (FAQ)</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>34</td>
       <td>HU-43</td>
       <td>Exposición de métricas de la plataforma</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>2</td>
+      <td>1</td>
     </tr>
      <tr>
       <td>35</td>
       <td>HU-41</td>
       <td>Detección y establecimiento de plan</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>36</td>
       <td>HU-37</td>
       <td>Comunicación de errores o reclamos con soporte técnico</td>
       <td>Como usuario de la plataforma, quiero poder comunicar errores o reclamos al equipo de soporte técnico para recibir ayuda y solucionar problemas.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>37</td>
       <td>HU-06</td>
       <td>Cierre de sesión de cuenta</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>38</td>
       <td>HU-07</td>
       <td>Eliminación de cuenta</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>39</td>
       <td>HU-11</td>
       <td>Visualización de catálogo de todos los videojuegos</td>
       <td>Como usuario, quiero poder ver un catálogo completo de todos los videojuegos disponibles en la plataforma, para explorar todas las opciones disponibles y encontrar los juegos que me interesan.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>40</td>
       <td>HU-12</td>
       <td>Visualización de barra de búsqueda</td>
       <td>Como usuario, quiero poder ver una barra de búsqueda visible y funcional en la plataforma, para buscar fácilmente contenido específico que me interese.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>41</td>
       <td>HU-14</td>
-      <td>	Agregar funcionalidades de barra de navegación</td>
+      <td>Agregar funcionalidades de barra de navegación</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>42</td>
       <td>HU-16</td>
-      <td>	Agregar funcionalidades de Iconos</td>
+      <td>Agregar funcionalidades de Iconos</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>43</td>
       <td>HU-17</td>
       <td>Agregar un buzón de notificaciones</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
      <tr>
       <td>44</td>
       <td>HU-18</td>
       <td>Agregar carruseles funcionales</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>5</td>
-    </tr>
-    
+      <td>3</td>
     </tr>
   </tbody>
 </table>
+
 
 
 # Capítulo IV: Product Design
@@ -2931,56 +3360,75 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
-Pantalla relacianada a la :
 
-<img src="./assets/wireApp1.PNG"/>
-<img src="./assets/wireApp2.PNG"/>
-<img src="./assets/wireApp3.PNG"/>
-<img src="./assets/wireApp4.PNG"/>
-<img src="./assets/wireApp5.PNG"/>
-<img src="./assets/wireApp6.PNG"/>
-<img src="./assets/wireApp7.PNG"/>
-<img src="./assets/wireApp8.PNG"/>
+
+<img src="./assets/Wireframes/Registro_Wireframe.png"/>
+<img src="./assets/Wireframes/Inicio_sesion_Wireframe.png"/>
+<img src="./assets/Wireframes/Settings_Wireframes.png"/>
+<img src="./assets/Wireframes/Home_Wireframe.png"/>
+<img src="./assets/Wireframes/Search_Wireframe.png"/>
+<img src="./assets/Wireframes/GamePanel_Wireframe.png"/>
+<img src="./assets/Wireframes/Game_Wireframe.png"/>
+<img src="./assets/Wireframes/FreePlan_Wireframe.png"/>
+<img src="./assets/Wireframes/PremiumPlan_Wireframe.png"/>
+<img src="./assets/Wireframes/Payment_Wireframe.png"/>
+<img src="./assets/Wireframes/Progress_Wireframe.png"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
+[Link LucidChart](https://lucid.app/lucidspark/6be66904-d598-4d02-96cc-7d63ff138086/edit?viewport_loc=-2211%2C-5901%2C21312%2C10684%2C0_0&invitationId=inv_b442328b-beb7-4338-9589-de2fc1c4f750)
 
-<img src="./assets/Wireflow Diagram.png"/>
-<img src="./assets/logout.png"/>
-<img src="./assets/EntrarJuego.png"/>
-<img src="./assets/progreso.png"/>
+Registro y Inicio de sesión
+<img src="./assets/Wireframes/Inicio de Sesión_Wireflow.png">
+Apartado de configuración
+<img src="./assets/Wireframes/Configuracion_Wireflow.png">
+Proceso de búsqueda e ingreso a videjuego
+<img src="./assets/Wireframes/Videojuego _Wireflow.png">
+Proceso de adquisición de plan
+<img src="./assets/Wireframes/Plan_Wireflow.png">
+Apartado de Progreso
+<img src="./assets/Wireframes/Progress_Wireflow.png">
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección, se presenta el diseño viusal y de interacción en formato de mockups del producto solución.
 
-<img src="./assets/mockApp1.PNG"/>
-<img src="./assets/mockApp2.PNG"/>
-<img src="./assets/mockApp3.PNG"/>
-<img src="./assets/mockApp4.PNG"/>
-<img src="./assets/mockApp5.PNG"/>
-<img src="./assets/mockApp6.PNG"/>
-<img src="./assets/mockApp7.PNG"/>
-<img src="./assets/mockApp8.PNG"/>
+<img src="./assets/Mockups/Iniciar Sesion_mockup.png"/>
+<img src="./assets/Mockups/Registro_mockup.png"/>
+<img src="./assets/Mockups/Configuracion_mockup.png"/>
+<img src="./assets/Mockups/Home_mockup.png"/>
+<img src="./assets/Mockups/Busqueda_mockup.png"/>
+<img src="./assets/Mockups/FracPizza_Overview_mockup.png"/>
+<img src="./assets/Mockups/FracPizza_mockup.png"/>
+<img src="./assets/Mockups/Calculo Mental_Overview_mockup.png"/>
+<img src="./assets/Mockups/Calculo Mental_mockup.png"/>
+<img src="./assets/Mockups/Versusmatic_Overview_mockup.png"/>
+<img src="./assets/Mockups/Versusmatic_mockup.png"/>
+<img src="./assets/Mockups/FreePlan__mockup.png"/>
+<img src="./assets/Mockups/PremiunPlan_mockup.png"/>
+<img src="./assets/Mockups/Payment_mockup.png"/>
+<img src="./assets/Mockups/Progress_mockup.png"/>
 
-![MOCK_UP_WEB APPLICATION]()
 ### 4.4.4. Web Applications User Flow Diagrams 
 En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo.
 
-[Link LucidChart]()
-
-**User Goal:**
-
-**Task Flow:**
-
-![IMAGEN-UserFlow]()
-
+[Link LucidChart](https://lucid.app/lucidspark/6be66904-d598-4d02-96cc-7d63ff138086/edit?viewport_loc=-2211%2C-5901%2C21312%2C10684%2C0_0&invitationId=inv_b442328b-beb7-4338-9589-de2fc1c4f750)
+User Goal: Ingresar a Home-
+Task Flow: Registrarse, Iniciar Sesión e ingresar a Home-
+<img src="./assets/Mockups/InicioSesion_Userflow.png">
+User Goal: Ingresar a un videojuego-
+Task Flow: Navegar por home, emplear la barra de búsqueda,ingresar a la vista previa principal y comenzar a jugar.
+<img src="./assets/Mockups/IngresoVideojuego_Userflow.png">
+User Goal: Adquirir Plan Premium.
+Task Flow: Ir a la pasarela de Pago, Ingresar datos del método de pago, pagar y adquirir el plan.
+<img src="./assets/Mockups/Planes_Userflow.png">
+User Goal: Revisar el progreso del usuario.
+Task Flow: Navegar por Home y presionar el atajo de mi progreso.
+<img src="./assets/Mockups/Progreso_Userflow.png">
 ## 4.5. Web Applications Prototyping
 En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
 
-[link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b298_upc_edu_pe/EQllB2KlsH1IgdWDYUe6iIEBN6F4vzyvdKuG8p0dQ_tI-g?e=T9Dlpr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EVjMBhA5jJxFpnWGWz7rjgoBnY33QUBV8dE81X9s9LW4fw?e=KqPvT6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**Principio de elección:**
-Procuramos que la aplicación web posea una cantidad de secciones a todo momento, por lo que se cuenta con la barra superior siempre en la aplicación con 4 secciones, los cuales podrá acceder a las funcionalidades rapidamente desde cualquier pantalla.
 
 **Principio de divulgación:**
 La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee.
@@ -3008,9 +3456,9 @@ En esta sección, se utilizará el enfoque de diseño orientado a objetos para d
 ### 4.7.1. Class Diagrams
 En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
 
-![Class Diagrams](./assets/imgclassdiagram.png)
+![Class Diagrams](./assets/Diagrama_Clase.jpeg)
 
-[Link del Diagrama de Clases](https://lucid.app/lucidchart/ebe83151-a551-403d-9e7e-f3523bc5b8fc/edit?viewport_loc=-110%2C-223%2C3121%2C1556%2CCpNsEQx_mjIY&invitationId=inv_fb64260f-5de2-43dd-96a6-8761ddfec43a)
+[Link del Diagrama de Clases](https://lucid.app/lucidchart/f58ea7fc-222c-4299-af31-1d88a5b1fdef/edit?viewport_loc=-1993%2C60%2C2332%2C1151%2C0_0&invitationId=inv_2f6f7303-c62f-472a-a137-88ce0a8958f2)
 
 ### 4.7.2. Class Dictionary
 
@@ -3022,59 +3470,63 @@ En esta sección, se presentarán los diagramas de clases, en las cuales se repr
 		</tr>
         <tr>
             <td>Class User</td>
-            <td>Clase encargada de registrar usuarios, autenticar y gestionar cuentas.</td>
+            <td>Clase encargada de contener un objeto usuario y poder obtenerlo.</td>
         </tr>
         <tr>
-            <td>Class tags</td>
-            <td>Esta clase se encarga de darle a los videojuegos etiquetas sobre que asignatura son y que tema están tratando, para darle una referencia al usuario sobre lo que trata el videojuego.</td>
+            <td>Class UserBuilder</td>
+            <td>Clase base encargada dde construir un tipo de Usuario.</td>
         </tr>
         <tr>
-            <td>Class subjects</td>
-            <td>Esta clase recibe todas las asignaturas matemáticas disponibles en nuestro sistema.</td>
+            <td>Class Student</td>
+            <td>Clase similar a usuario que representa un tipo de segmento objetivo</td>
         </tr>
         <tr>
-            <td>Enum Subject</td>
-            <td>Adjunta las diferentes ramas que nuestra plataforma tendrá disponible para etiquetar los videojuegos.</td>
+            <td>Class Teacher</td>
+            <td>Clase similar a usuario que representa un tipo de segmento objetivo</td>
         </tr>
         <tr>
-            <td>Class Topics</td>
-            <td>Esta clase tiene métodos para que los usuarios pongan los etiquetados con los temas de cada asignatura que pertenecen a los videojuegos.</td>
+            <td>Class UserManager</td>
+            <td>Esta clase tiene métodos construir un tipo de usuario específico.</td>
         </tr>
         <tr>
-            <td>Class Report</td>
-            <td>Esta clase devuelve los reportes a usuarios personales, mostrando su rendimiento académico y la mejora continua que presentan dentro de la aplicación.</td>
+            <td>Class Progress</td>
+            <td>Esta clase almacena la información del progreso del usuario.</td>
         </tr>
         <tr>
-            <td>Class Videogame</td>
-            <td>Esta clase se encarga de dar inicio a los juegos, recibiendo a los jugadores y sus etiquetas.</td>
+            <td>Class Game</td>
+            <td>Esta clase se encarga de dar inicio a los juegos, medir el tiempo de juego y calcular el score.</td>
         </tr>
         <tr>
-            <td>Class gameState</td>
-            <td>Esta clase recibe el estado en que se encuentra los jugadores los videojuegos disponibles dentro de la plataforma.</td>
+            <td>Class RooManager</td>
+            <td>Esta clase gestiona las salas dentro del juego.</td>
         </tr>
         <tr>
-            <td>Enum State</td>
-            <td>Esta clase presenta los estados activos que tendrán los jugadores dependiendo del proceso en que se encuentren dentro de nuestra aplicaicón.</td>
+            <td>Enum Gametype</td>
+            <td>Esta clase presenta el tipo de videojuego considerando el número de jugadores.</td>
         </tr>
         <tr>
-            <td>Class educational_institution</td>
-            <td>Esta clase recibe las instituciones junto con sus usuarios pertenecientes a la organización institucional.</td>
+            <td>Class Report/td>
+            <td>Esta clase genera un reporte del desempeño odel usuario dentro del juego.</td>
         </tr>
         <tr>
-            <td>Class roomManager</td>
-            <td>Esta clase maneja al usuario encargado de crear salas de competencia y dandole funciones en este proceso.</td>
+            <td>Class SinglePlayerGame</td>
+            <td>Esta clase gestiona los eventos de loos videojuegos singleplayer.</td>
         </tr>
         <tr>
-            <td>Class Competition</td>
-            <td>Esta clase recibe a los participantes competidores y al encargado de crear o inciar la competencia.</td>
+            <td>Class MultiPlayerGame</td>
+            <td>Esta clase gestiona los eventos de loos videojuegos multiplayer..</td>
         </tr>
         <tr>
-            <td>Class table_Competition</td>
-            <td>Esta tabla devuelve los resultados obtenidos dentro de la competencia, mostrando los puestos en que quedaron los alumnos de acuerdo a sus errores y aciertos.</td>
+            <td>Room</td>
+            <td>Esta clase genera una sala multijugador y la gestiona</td>
         </tr>
         <tr>
-            <td>Class room</td>
-            <td>Esta clase permite a los usuarios acceder o el crear diferentes competencias para jugar con otros usuarios.</td>
+            <td>Enum GameRoomState</td>
+            <td>Esta lista indica el estado de la sala multijugador</td>
+        </tr>
+                <tr>
+            <td>Interface Subscriber</td>
+            <td>Esta interface actualiza el estado de la sala</td>
         </tr>
 	</tbody>
 </table>
@@ -3095,7 +3547,7 @@ En esta sección, se presentarán los diagramas de clases, en las cuales se repr
 ### 4.8.1. Database Diagram
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas.
 
-<img src="./assets/DataBaseDiagram.png" alt="DataBaseDiagram" width="800" height="800">
+<img src="./assets/Base_Datos.jpeg" alt="DataBaseDiagram" width="800" height="800">
 
 [Link de la Base de Datos](https://my.vertabelo.com/doc/c2pNMXNHAjv6lC48LTnQCxxGZJ5eckwK)
 
@@ -3639,6 +4091,224 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 <img src="./assets/commits.PNG" />
 
 <img src="./assets/network graph.PNG" >
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint #                         | 2                                                                                                                                                                            | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| Date                             | 2024 - 05 - 03                                                                                                                                                               |
+| Time                             | 08:40 AM                                                                                                                                                                       |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Carpio Cornejo, Miguel Ángel                                                                                                                                          |
+| Attendees (to planning meeting)  | Barrial Marin, Sharon Antuanet Ivet <br> Carpio Cornejo, Miguel Ángel <br> Llacchua Peralta, Joseph Ulysses <br> Minaya Mundines, Pietro Gerardo <br> Ybañez Esquerre, Miguel Angel <br> Yen Cerna, Lucio Heli |
+| Sprint 2 - Review Summary        | Se realizó la landing page implementado con css y html, a raiz de los mockups del diseño del landing page|
+| Sprint 2 - Retrospective Summary | Mejorar en puntos de la documentación del informe, mockups del landing page, landing page |
+| **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
+| Sprint 2 Goal                    | El objetivo del presente Sprint es el de desarrollar el fronted de PlayMath                                                 |
+| Sprint 2 - Velocity              | El equipo puede aceptar -- Story Points                                                                                                                                      |
+| Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es -- Story Points                                                                                                       |
+
+#### 5.2.2.2. Sprint Backlog 2
+
+Implementación del Landing Page acorde con las User Stories.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 2</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el frontend de las principales historias de usuario del product backlog </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do / </p><p dir="auto">InProcess / </p><p dir="auto">To Review / </p><p dir="auto">Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="5" valign="top">HU-08</td>
+        <td rowspan="5" valign="top">Implementación del menú principal</td>
+        <td valign="top">08\.1</td>
+        <td valign="top">Implementar toolbar</td>
+        <td valign="top">Se muestra barra de búsqueda, icon de menu plegable y icon profile del usuario</td>
+        <td valign="top">1</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">08\.2</td>
+        <td valign="top">Implementar menú plegable</td>
+        <td valign="top">Implementación de un sidenav donde se muestra las opciones "Inicio", "Progreso", "Planes", "Configuración" y "Salir de cuenta"</td>
+        <td valign="top">2</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">08\.3</td>
+        <td valign="top">Implementar slider de Videojuegos</td>
+        <td valign="top">Demostración de los videojuegos disponibles dentro de la plataforma</td>
+        <td valign="top">3</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">08\.4</td>
+        <td valign="top">Implementación de Call-to-Action para adquirir plan premium</td>
+        <td valign="top">Implementación de mensaje persuasivo y botón para adquirir el plan premium de la plataforma</td>
+        <td valign="top">1/5</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">08\.5</td>
+        <td valign="top">Implementación de botón que dirige a la página progreso</td>
+        <td valign="top">Texto intuito y botón para redirigir al usuario a la página progreso para que vea su rendimiento</td>
+        <td valign="top">1/5</td>
+        <td valign="top">Ybañez Esquerre. Miguel Angel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-42</td>
+        <td rowspan="1" valign="top">Implementación de medios de pago</td>
+        <td valign="top">42</td>
+        <td valign="top">Implementación de formulario de método de pago</td>
+        <td valign="top">Se muestra el formulario para realizar la adquisición del plan premium</td>
+        <td valign="top">3</td>
+        <td valign="top"></td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-23</td>
+        <td rowspan="1" valign="top">Resolución de rendimiento académico personalizado</td>
+        <td valign="top">23</td>
+        <td valign="top">Visualización de los resultados del usuario</td>
+        <td valign="top">Realizar peticiones al Api para la visualización del reporte académico del usuario</td>
+        <td valign="top">3</td>
+        <td valign="top"></td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">HU-19</td>
+        <td rowspan="2" valign="top">Ingreso al videojuego singleplayer</td>
+        <td valign="top">19\.1</td>
+        <td valign="top">Visualización detallada del videojuego escogido</td>
+        <td valign="top">Muestra de detalles del argumento de videojuego</td>
+        <td valign="top">1/5</td>
+        <td valign="top"></td>
+        <td valign="top"></td>
+    </tr>
+    <tr>
+        <td valign="top">19\.2</td>
+        <td valign="top">Implementación de botón que dirige a la vista videojuego</td>
+        <td valign="top">Implementación del botón play para comenzar el juego</td>
+        <td valign="top">1/5</td>
+        <td valign="top">Y</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-05</td>
+        <td rowspan="1" valign="top">Gestión de cuenta</td>
+        <td valign="top">09</td>
+        <td valign="top">Modificación a datos personales de la cuenta</td>
+        <td valign="top">Implementación un apartado para editar la cuenta del usuario</td>
+        <td valign="top">3</td>
+        <td valign="top"></td>
+        <td valign="top">in Progress</td>
+    </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| upc-pre-202401--si729-WX52-2SquareD-FrontEnd | files | 3f4edb4   | chore : DDD architecture | -                   | 03/05/2024         |
+| upc-pre-202401--si729-WX52-2SquareD-FrontEnd | files | fd53f77   | chore: add files and routes to work on them      | -                   | 03/05/2024         |
+| upc-pre-202401--si729-WX52-2SquareD-FrontEnd | files | fa6b850   | chore: filled some files | -                   | 03/05/2024         |
+| upc-pre-202401--si729-WX52-2SquareD-FrontEnd | files | 3ae7fb6   | feat: db.json and routes.json for json-server added  | -                   | 03/05/2024         |
+| upc-pre-202401--si729-WX52-2SquareD-FrontEnd | files | 5e301b9   | feat: password key-value added in users (db.json)     | -                   | 03/05/2024         |
+| upc-pre-202401--si729-WX52-2SquareD-FrontEnd | files | a4f00df   | feat: models of classes added      | -                   | 03/05/2024         |
+| upc-pre-202401--si729-WX52-2SquareD-FrontEnd | files | f951237   | feat: services added   | -                   | 03/05/2024         |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 677c10f  | feat: create acceptance_test_1     | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | af6377d  | feat: create acceptance_test_2     | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 17d20e2  | feat: create acceptance test 3    | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 13377e0  | feat: create acceptance test 4    | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 172810c  | feat: create acceptance test 5    | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | b894017  | feat: add acceptance test 6       | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | a99286c  | fix: update acceptance test 6     | - | 03/05/2024 |
+| upc-pre-202401--si729-WX52-2SquareD-Acceptance-Test | main   | 987b8d5  | feat: create acceptance test 7    | - | 03/05/2024 |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
+
+**[Link del fronted]()**
+
+![imagen fronted]()
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+| Endpoint          | Detalles  |
+|---------------------|---------|
+| users | Endpoint que contiene los datos del fake api para usuarios | 
+| students | Endpoint que contiene los datos del fake api para estudiantes | 
+| teachers | Endpoint que contiene los datos del fake api para teachers | 
+| games | Endpoint que contiene el fake api de juegos | 
+| categories | Endpoint que contiene el fake api para las categorías de los juegos | 
+| tags | Endpoint que contiene el fake api para las etiquetas de los juegos | 
+| gameProgress  | Endpoint que contiene el fake api para el progreso del usuario dentro del juego|
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Ejecutamos el comando “ng s -o” en la ruta de nuestro projecto en Angular y esta acción nos muestra lo siguiente:
+
+![Imagen de terminal local del proyecto](./assets/terminal.jpg)
+
+Muestra de las carpetas creadas:
+
+![Imagen de carpeta local src del proyecto](./assets/carpetas1.jpg)
+![Imagen de carpeta local src del proyecto](./assets/carpetas2.jpg)
+
+Se añade el archivo “app.routes.ts” para que Angular pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![Imagen de las rutas](./assets/rutas.jpg)
+
+Nuestro despliegue se ha hecho en Microsoft Azure:
+
+![Paso para desplegar]()
+
+De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue]()
+
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint2:
+
+[Link del frontend desplegado]()
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
+equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![pulse]()
+![controbution]()
+![network]()
 
 # Conclusiones
 ### Conclusiones y recomendaciones

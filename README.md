@@ -84,15 +84,16 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <ul>
           <li>Carpio Cornejo, Miguel Ángel:
             <ul>
-              <li><strong>TB1:</strong> Realizó entrevistas al segmento objetivo, compartió ideas del proyecto con el público objetivo y recopiló información para priorizar las características del producto.</li>
+              <li><strong>TB1:</strong> Realizó entrevistas al segmento objetivo, compartió ideas del proyecto con el público objetivo y recopiló información para priorizar las características del producto.</li> <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finalizadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li>
             </ul>
           </li>
           <li>Miguel Ángel Ybañez Esquerre:
             <ul>
               <li><strong>TB1:</strong> Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades de búsqueda de necesidades en colaboración con el equipo.</li>
+		    <li><strong>TP:</strong> se respetó rigurosamente el diseño de domain design, asegurando la coherencia y consistencia en la arquitectura de la aplicación. Esta aproximación centrada en los dominios del negocio facilitó la escalabilidad y mantenibilidad del sistema a largo plazo, al tiempo que proporcionaba una base sólida para futuras iteraciones y expansiones del proyecto. En conjunto, la implementación de los componentes frontend durante el segundo sprint se llevó a cabo de manera disciplinada y orientada a resultados, contribuyendo significativamente al avance general del desarrollo del proyecto.</li>
             </ul>
           </li>
-          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong> TB1: </Strong>Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetivo 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page</ul></li>
+          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong> TB1: </Strong>Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetivo 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page</ul></li> <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finalizadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li>
           <li>Yen Cerna, Lucio Heli:
             <ul>
               <li><strong>TB1:</strong> Tras una gran cantidad de reuniones que permitieron encaminar al grupo hacia el objetivo, se pudo lograr un incremento que cumple con las expectativas del Sprint 1. En mi caso, realicé entrevistas que recopilaron información importante, coordiné con mis compañeros la organización de trabajo y los guié para entregar la mayor calidad posible en el proyecto. La comunicación fue fundamental en el equiipo de trabajo debido a que de esta manera todo el grupo pudo identificar lo que los clientes necesitan y pudimos mantener una sola idea en el desarrollo del producto.</li>
@@ -108,6 +109,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
           <li>Barrial Marin, Sharon Antuanet Ivet:
             <ul>
               <li><strong>TB1:</strong> Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades correspondientes al Lean UX Assumptions, As-is scenario mapping, to-be scenario mapping, epics, user stories y class diagrams con su respectivo class dictionary</li>
+		    <li><strong>TP:</strong> La información desarrollada en el sprint Sprint Planning 2 y  El Sprint Backlog 2  fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir. Además, se fomentó la colaboración activa entre los miembros del equipo, aprovechando las oportunidades para compartir conocimientos y experiencias que enriquecieran el proceso de desarrollo. En resumen, el segundo sprint se caracterizó por una planificación meticulosa, una ejecución eficiente y una colaboración efectiva, sentando así las bases para el éxito continuo del proyecto.</li>
             </ul>
           </li>
         </ul>
@@ -121,21 +123,21 @@ La asignación individual de tareas permitió que cada miembro se concentrara en
         <ul>
           <li>Carpio Cornejo, Miguel Ángel:
             <ul>
-              <li><strong>TB1:</strong> Lideró reuniones de avance donde comunicó de manera objetiva los resultados y progresos del proyecto a un público diverso, incluyendo miembros del equipo con diferentes puntos de vista y edades, así como stakeholders externos.</li>
+              <li><strong>TB1:</strong> Lideró reuniones de avance donde comunicó de manera objetiva los resultados y progresos del proyecto a un público diverso, incluyendo miembros del equipo con diferentes puntos de vista y edades, así como stakeholders externos.</li>  <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li>
             </ul>
           </li>
           <li>Miguel Ángel Ybañez Esquerre:
             <ul>
               <li><strong>TB1:</strong> Se analizaron las convenciones de código para el desarrollo correcto de características, landing pages y próximamente la aplicación web. Se elaboraron los wireframes y mockups de las páginas de destino, así como la guía de estilos.</li>
+		<li><strong>TP:</strong> Durante el transcurso del segundo sprint, se llevó a cabo la implementación de los componentes esenciales para el frontend del proyecto. Este proceso implicó la traducción de los diseños y especificaciones en código funcional y estéticamente atractivo para el usuario final. Se prestaron especial atención a los detalles de usabilidad y experiencia de usuario, garantizando así que la interfaz fuera intuitiva y fácil de navegar. Además, se adoptó una metodología de desarrollo basada en el uso correcto de branches, siguiendo fielmente el flujo de trabajo establecido por Gitflow. Esta práctica permitió una gestión eficiente del código, facilitando la colaboración entre los miembros del equipo y minimizando el riesgo de conflictos durante el proceso de integración. </li>    
             </ul>
           </li>
           <li>Llacchua Peralta Joseph Ulysses:
             <ul>
               <li><strong>TB1:</strong> He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps.</li>
-              <li><strong>TP</strong>Durante la realización de este proyecto, me comprometí a diseñar mockups para ordenador, cuidando la selección de colores, texturas y tamaños. Además, llevé a cabo entrevistas adicionales y realicé sus respectivos análisis para profundizar en la comprensión de las necesidades de los usuarios.</li>
             </ul>
           </li>
-          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li>
+          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li>              <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li>
          </ul>
           <li>Yen Cerna, Lucio Heli:
             <ul>
@@ -146,7 +148,7 @@ La asignación individual de tareas permitió que cada miembro se concentrara en
           <li>Barrial Marin, Sharon Antuanet Ivet:
             <ul>
               <li><strong>TB1:</strong> Análisis y comparación de los registros de entrevistas, junto con los assumptions y la retroalimentación.</li>
-              <li><strong>TP:</strong>
+              <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li>
             </ul>
           </li>
         </ul>

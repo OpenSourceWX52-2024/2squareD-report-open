@@ -3901,6 +3901,25 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 <img src="./assets/network graph.PNG" >
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint #                         | 2                                                                                                                                                                            | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| Date                             | 2024 - 05 - 03                                                                                                                                                               |
+| Time                             | 08:40 AM                                                                                                                                                                       |
+| Location                         | Virtual via Discord                                                                                                                                                          |
+| Prepared By                      | Carpio Cornejo, Miguel Ángel                                                                                                                                          |
+| Attendees (to planning meeting)  | Barrial Marin, Sharon Antuanet Ivet <br> Carpio Cornejo, Miguel Ángel <br> Llacchua Peralta, Joseph Ulysses <br> Minaya Mundines, Pietro Gerardo <br> Ybañez Esquerre, Miguel Angel <br> Yen Cerna, Lucio Heli |
+| Sprint 2 - Review Summary        | Se realizó la landing page implementado con css y html, a raiz de los mockups del diseño del landing page|
+| Sprint 2 - Retrospective Summary | Mejorar en puntos de la documentación del informe, mockups del landing page, landing page |
+| **Sprint Goal & User Stories**   | -                                                                                                                                                                            |
+| Sprint 2 Goal                    | El objetivo del presente Sprint es el de desarrollar el fronted de PlayMath                                                 |
+| Sprint 2 - Velocity              | El equipo puede aceptar -- Story Points                                                                                                                                      |
+| Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es -- Story Points                                                                                                       |
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 

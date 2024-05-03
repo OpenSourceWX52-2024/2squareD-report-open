@@ -4217,13 +4217,9 @@ Muestra de las carpetas creadas:
 ![Imagen de carpeta local src del proyecto](./assets/carpetas1.jpg)
 ![Imagen de carpeta local src del proyecto](./assets/carpetas2.jpg)
 
-Se añade el archivo “ ” para que VUE pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+Se añade el archivo “app.routes.ts” para que Angular pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
 
 ![Imagen de las rutas](./assets/rutas.jpg)
-
-Por último, usamos el comando “npm run format” al proyecto que nos permite desplegar nuestra aplicación manualmente para evitar errores:
-
-![Imagen del comando en la terminal]()
 
 Nuestro despliegue se ha hecho en Microsoft Azure:
 

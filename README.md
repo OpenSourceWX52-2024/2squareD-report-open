@@ -2860,21 +2860,21 @@ Dado</strong> que El usuario está interesado en la plataforma y visita la landi
   <tbody>
     <tr>
       <td>01</td>
-      <td>HU-43</td>
+      <td>HU-42</td>
       <td>Visualización de características de la aplicación web</td>
       <td>Como usuario que navega en el landing page, quiero ver características de la aplicación, para saber sobre la motivación del proyecto</td>
       <td>3</td>
     </tr>
     <tr>
       <td>02</td>
-      <td>HU-44</td>
+      <td>HU-43</td>
       <td>Landing Page Responsive Design</td>
       <td>Como usuario navegando en la landing page, quiero visualizarla desde cualquier dispositivo, para mi comodidad como usuario</td>
       <td>3</td>
     </tr>
     <tr>
       <td>03</td>
-      <td>HU-15</td>
+      <td>HU-44</td>
       <td>Botón Call to Action</td>
       <td>Como usuario interesado en la plataforma, quiero ver un botón de "Llamar a la Acción" (Call to Action), para poder realizar una acción específica fácilmente</td>
       <td>3</td>

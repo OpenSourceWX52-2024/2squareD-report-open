@@ -60,8 +60,9 @@ Junio del 2024
 ---
 # Project Report Collaboration Insights
 
-Se han realizado todas las tareas asignadas para la entrega TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace ["upc-pre-202401--si729-WX52-2SquareD-report"](https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-report/tree/main). Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
+Se han realizado todas las tareas asignadas para la entrega TP, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace ["upc-pre-202401--si729-WX52-2SquareD-report"](https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-report/tree/main). Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
 
+<img src="./assets/insights.png">
 ---
 # Student Outcome
 

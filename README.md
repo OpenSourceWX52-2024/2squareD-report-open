@@ -4112,6 +4112,7 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 | Sprint 2 - Velocity              | El equipo puede aceptar -- Story Points                                                                                                                                      |
 | Sprint 2 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es -- Story Points                                                                                                       |
 
+
 #### 5.2.2.2. Sprint Backlog 2
 
 Implementación del Landing Page acorde con las User Stories.
@@ -4185,8 +4186,8 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Implementación de formulario de método de pago</td>
         <td valign="top">Se muestra el formulario para realizar la adquisición del plan premium</td>
         <td valign="top">3</td>
-        <td valign="top"></td>
-        <td valign="top">Done</td>
+        <td valign="top">Carpio Miguel</td>
+        <td valign="top">In Progress</td>
     </tr>
     <tr>
         <td rowspan="1" valign="top">HU-23</td>
@@ -4195,7 +4196,7 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Visualización de los resultados del usuario</td>
         <td valign="top">Realizar peticiones al Api para la visualización del reporte académico del usuario</td>
         <td valign="top">3</td>
-        <td valign="top"></td>
+        <td valign="top">Barrial Sharon</td>
         <td valign="top">Done</td>
     </tr>
     <tr>
@@ -4205,7 +4206,7 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Visualización detallada del videojuego escogido</td>
         <td valign="top">Muestra de detalles del argumento de videojuego</td>
         <td valign="top">1/5</td>
-        <td valign="top"></td>
+        <td valign="top">Yen Lucio</td>
         <td valign="top"></td>
     </tr>
     <tr>
@@ -4213,7 +4214,7 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Implementación de botón que dirige a la vista videojuego</td>
         <td valign="top">Implementación del botón play para comenzar el juego</td>
         <td valign="top">1/5</td>
-        <td valign="top">Y</td>
+        <td valign="top">Carpio Miguel</td>
         <td valign="top">Done</td>
     </tr>
     <tr>
@@ -4223,8 +4224,48 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Modificación a datos personales de la cuenta</td>
         <td valign="top">Implementación un apartado para editar la cuenta del usuario</td>
         <td valign="top">3</td>
-        <td valign="top"></td>
+        <td valign="top">Minaya Pietro</td>
         <td valign="top">in Progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-01</td>
+        <td rowspan="1" valign="top">Registro de usuarios estudiantes en la plataforma</td>
+        <td valign="top">01</td>
+        <td valign="top">Implementación del apartado registro de usuario</td>
+        <td valign="top">Implementación de botón para registrar usuario</td>
+        <td valign="top">1</td>
+        <td valign="top">Llachua Joseph</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-03</td>
+        <td rowspan="1" valign="top">Inicio de sesión de usuarios en la plataforma</td>
+        <td valign="top">03</td>
+        <td valign="top">Implementación del apartado inicio de sesión a la plataforma</td>
+        <td valign="top">Implementación de botón para iniciar sesión a la plataforma</td>
+        <td valign="top">1</td>
+        <td valign="top">Carpio Miguel</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-34</td>
+        <td rowspan="1" valign="top">Visualización del progreso del usuario en la plataforma</td>
+        <td valign="top">34</td>
+        <td valign="top">Implementación del apartado de progreso del usuario</td>
+        <td valign="top">Implementación de una page de progreso del usuario mediante el sidebaro</td>
+        <td valign="top">1/5</td>
+        <td valign="top">Yen Lucio</td>
+        <td valign="top">In Progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-39</td>
+        <td rowspan="1" valign="top">Detección y establecimiento de plan</td>
+        <td valign="top">39</td>
+        <td valign="top">Implementación del apartado de establecimiento de planes</td>
+        <td valign="top">Implementación de una page de establecimiento de planes: Gratuito/ Premium con sus respectivas características</td>
+        <td valign="top">1</td>
+        <td valign="top">Carpio Miguel</td>
+        <td valign="top">In Progress</td>
     </tr>
     </tbody>
 </table>

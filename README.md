@@ -4341,9 +4341,9 @@ Se añade el archivo “app.routes.ts” para que Angular pueda entender las rut
 
 ![Imagen de las rutas](./assets/rutas.jpg)
 
-Nuestro despliegue se ha hecho en Microsoft Azure:
+Nuestro despliegue se ha hecho en Firebase:
 
-![Paso para desplegar]()
+![Paso para desplegar](assets/1tb2/firebase.png)
 
 De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
 ![Imagen del despliegue](assets/1tb2/front-despliegue.png)
@@ -4489,15 +4489,15 @@ Implementación del Landing Page acorde con las User Stories.
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
+En este apartado se hace presenta la ejecución del frontend del servicio MathPlayOpen.
 
-**[Link del fronted](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+**[Link del fronted](https://mathopenplay.web.app/login)**
 
-![imagen fronted](/assets/fronted/front.png)
+![imagen fronted](assets/1tb2/sprint3-despliegue.png)
 
-**[Link del backend](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+**[Link del backend]()**
 
-![imagen fronted](/assets/tb2/back.png)
+![imagen fronted]()
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -4518,44 +4518,46 @@ Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend
 
 Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
 
-Primero, seleccionamos la configuración: "FastScooter.API: http"
-![Imagen de run configuration](assets/tb2/configuración.png)
+Luego de configurar el *file* application.properties:
+![Imagen de application.properties](assets/1tb2/application.png)
 
-Ejecutamos el comando “run” representado por un ícono de play: 
-
-![Imagen de terminal local del proyecto](assets/tb2/run.png)
-
-Demostración de las capas creadas:
-
-![Imagen de carpeta local src del proyecto](assets/tb2/capas.png)
-
-Visualización de los endpoints:
-
-![Imagen de las rutas](assets/tb2/endpoints.png)
+Primero, ejecutamos el comando “run” representado por un ícono de play: "Run - MathPlayOpenApplication"
+![Imagen de run configuration](assets/1tb2/run.png)
 
 Visualización de no errores en la terminal:
+![Imagen de terminal local del proyecto](assets/1tb2/terminal.png)
 
-![Imagen del comando en la terminal](assets/tb2/termianl.png)
+Demostración de las capas creadas:
+![Imagen de carpeta local src del proyecto](assets/1tb2/carpetas1.png)
+![Imagen de carpeta local src del proyecto](assets/1tb2/carpetas2.png)
+![Imagen de carpeta local src del proyecto](assets/1tb2/carpetas3.png)
+
+Visualización de los endpoints:
+![Imagen de las rutas](assets/1tb2/endpoints1.png)
+![Imagen de las rutas](assets/1tb2/endpoints2.png)
 
 Nuestro despliegue se ha hecho en Microsoft Azure:
-
-![Paso para desplegar](/assets/front/microsoft-azure.jpg)
+![Paso para desplegar](assets/1tb2/azure1.png)
+![Imagen del despliegue](assets/1tb2/azure2.png)
+![Paso para desplegar](assets/1tb2/azure3.png)
+![Paso para desplegar](assets/1tb2/azure4.png)
 
 De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
-![Imagen del despliegue](assets/tb2/back.png)
+![Imagen del despliegue]()
+
 
 Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
 
-[Link del backend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
+[Link del backend desplegado]()
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
 equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
-![pulse](assets/tb2/pulse.png)
-![controbution](assets/tb2/contribution.png)
-![network](assets/tb2/network.png)
+![pulse](assets/1tb2/pulseback.png)
+![controbution](assets/1tb2/contriback.png)
+![network](assets/1tb2/networkback.png)
 
 ## 5.3.Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -4883,7 +4885,7 @@ Implementar el Responsive web design en toda la pagina.
 ## 5.4. Video About-the-product
 A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion FastScooter, compende Web Applications y primera version de Backend aun no conectados.
 
-![video](assets/tb2/vid/video.png)
+![video]()
 [Link del video](https://youtu.be/vv5OwNrTvGw)
 
 # Conclusiones
@@ -4908,6 +4910,9 @@ Hemos identificado como equipo que a lo largo de esta entrega tenemos como princ
 - El desarrollo de videojuegos puede ser costoso en cuestión al tiempo. Es importante planificar cuidadosamente el cronograma del proyecto para evitar retrasos en las entregas disponibles. Así que la planificación de los sprints backlogs son necesarios para hacer este proceso más eficiente.
 
 - La industria en la que estamos enfocados en trabajar para realizar este proyecto y más aún de los videojuegos está en constante evolución, con avances tecnológicos y cambios en las preferencias de los jugadores. Mantenerse al día con las tendencias y adoptar nuevas tecnologías puede ayudar a mantener la competitividad y la relevancia en el mercado de los videojuegos. Además, de alcanzar a satisfacer a nuestros usuarios.
+
+# Video About-the-team
+![video about the team]()
 
 ---
 # Bibliografía

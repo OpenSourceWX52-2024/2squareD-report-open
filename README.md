@@ -4463,7 +4463,12 @@ Implementación del Landing Page acorde con las User Stories.
 | upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | eb57d7f | fix: update components |-| 09/06/2024|
 | upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add overview games |-| 09/06/2024|
 | upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add math games view |-| 09/06/2024|
-
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 32354bf | feat: update comunication api |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 5b4344f | feat: add agreggates commands services |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 10d4fe8 | feat: add files for performance controller |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 584099e | feat: ProfileController |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 584099e | chore: Directory Domain Driven Desing |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 040fb92 | initial commit |-| 09/06/2024|
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 

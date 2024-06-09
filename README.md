@@ -110,7 +110,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
           <li>Llacchua Peralta Joseph Ulysses:
             <ul>
               <li><strong>TB1:</strong> Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint.</li>
-              <li><strong>TP: </strong> Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. A partir de estos hallazgos, desarrollé wireframes y formularios para estructurar la información obtenida y guiar el proceso de diseño. Mi contribución ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.</li><li>TB2: </li>
+              <li><strong>TP: </strong> Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. A partir de estos hallazgos, desarrollé wireframes y formularios para estructurar la información obtenida y guiar el proceso de diseño. Mi contribución ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.</li><li>TB2: En esta entrega del proyecto, tuve la oportunidad de ampliar mis conocimientos y habilidades técnicas. Pude aprender a utilizar Spring Boot, una popular framework de Java, para desarrollar las APIs de mensajería. Esto me permitió construir soluciones que facilitaban la comunicación entre los usuarios del sistema.</li>
             </ul>
           </li>
           <li>Barrial Marin, Sharon Antuanet Ivet:
@@ -143,8 +143,8 @@ La asignación individual de tareas permitió que cada miembro se concentrara en
           <li>Llacchua Peralta Joseph Ulysses:
             <ul>
               <li><strong>TB1:</strong> He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps.</li>
-            </ul>
-            <li><strong>TP: </strong>Durante la realización de este proyecto, me comprometí a diseñar mockups para ordenador, cuidando la selección de colores, texturas y tamaños. Además, llevé a cabo entrevistas adicionales y realicé sus respectivos análisis para profundizar en la comprensión de las necesidades de los usuarios.</li> <li><strong>TB2: </strong></li> 
+            <li><strong>TP:</strong>Durante la realización de este proyecto, me comprometí a diseñar mockups para ordenador, cuidando la selección de colores, texturas y tamaños. Además, llevé a cabo entrevistas adicionales y realicé sus respectivos análisis para profundizar en la comprensión de las necesidades de los usuarios.</li> <li><strong>TB2:</strong> Para esta entrega del proyecto, se implementó una estrategia para mejorar la gestión y planificación del trabajo en equipo. Específicamente, se realizó una distribución detallada del boudent context a fin de facilitar la planificación de las tareas del sprint.</li>
+            </ul> 
           </li>
           <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li>              <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li> <li><strong>TB2: </strong></li>
          </ul>
@@ -4463,23 +4463,29 @@ Implementación del Landing Page acorde con las User Stories.
 | upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | eb57d7f | fix: update components |-| 09/06/2024|
 | upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add overview games |-| 09/06/2024|
 | upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add math games view |-| 09/06/2024|
-
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 32354bf | feat: update comunication api |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 5b4344f | feat: add agreggates commands services |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 10d4fe8 | feat: add files for performance controller |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 584099e | feat: ProfileController |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 584099e | chore: Directory Domain Driven Desing |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 040fb92 | initial commit |-| 09/06/2024|
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 | Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|------------------------------|---------------------|--------------------|
-| acceptance-test-goSteel | main | 9da61c4 | feat: add feature 15 test | usability function | 07/06/2024 |
-| acceptance-test-goSteel | main | 370035e | feat: add feature 14 test |- filter search<br>- features like: model, brand, type, color, price...| 07/06/2024|
-| acceptance-test-goSteel | main | 5c4c96c | feat: add feature 13 test |- delete scooter reserved<br>- visualization<br>- functionality| 07/06/2024 |
-| acceptance-test-goSteel | main | 91859b4 | feat: add feature 12 test |- btn call to action (rent now, sidebar, router-links)<br>- show functionalities| 07/06/2024 |
-| acceptance-test-goSteel | main | be9d381 | fix: add more detauls about feature 10-11 tests|- i18n internalization feature<br>- fixing terms| 07/06/2024 |
-| acceptance-test-goSteel | main | 203da35 | feat: add feature 11 test | - feature: change language<br>- all aplication web<br>- terms update | 07/06/2024 |
-| acceptance-test-goSteel | main | 61e399 | feat: add feature 10 test | - edit profile<br>- update profile<br>- cancel edit | 07/06/2024 |
-| acceptance-test-goSteel | main | ec7bc0e | feat: add feature 9 test | - add scooter to the head favorites | 07/06/2024 |
-| acceptance-test-goSteel | main | 80da8e0 | feat: add feature 8 test | - function add time and hour for each scooter id | 07/06/2024 |
-| acceptance-test-goSteel | main | 90b7fb5 | feat: add feature 7 test | terms add | 07/06/2024 |
-| acceptance-test-goSteel | main | d447753 | feat: add feature 7 test | feature: add payment method | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 076192f | docs: add summary to documentation | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | f96e1a2 | fix: update acceptance test 7 |-| 07/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 84a0f3f | feat: add feature 8 test|- feature 8: visualitation of the user profile<br>- Scenarios: 3<br>- Happy and unhappy map realese| 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | c7f5bba | fix: update feature 8 test artefacts |- feature 8: visualitation of the user profile<br>- Scenarios: 3<br>- Happy and unhappy map realese| 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | c741d1e | feat: add feature 9 test|-| 07/06/2024 |
+|upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test| main | 203da35 | fix: update feature 9 test |- feature: update data profile<br>- Scenarios: 3<br>- happy and unhappy paths | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 25430d6 | feat: add feature 10 test | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | e04e1fa | fix: update terms of feature 10 test | - Scenarios: 3<br>- Feature 10: Change plan to use a new plan (premmium or free)  | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 503a8f0 | feta: add feature 11 test | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 90b7fb5 | feat: add feature 7 test | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 9b37934 | fix: update feature 11 test | - feature 11: log out<br>- Scenarios: 2 | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 9b37934 | feat: add feature 12 test |-| 07/06/2024 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 

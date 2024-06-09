@@ -4893,8 +4893,8 @@ Implementar el Responsive web design en toda la pagina.
 ## 5.4. Video About-the-product
 A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion FastScooter, compende Web Applications y primera version de Backend aun no conectados.
 
-![video]()
-[Link del video](https://youtu.be/vv5OwNrTvGw)
+![video](assets/1tb2/videoabouttheoroduct.png)
+[Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EWnhysBV1g9Bo5nrmN0X0TMB092N5lHxbnQRINJYgvCNgg?e=mX71Gg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Conclusiones
 ### Conclusiones y recomendaciones

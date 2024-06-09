@@ -104,7 +104,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
           <li>Yen Cerna, Lucio Heli:
             <ul>
               <li><strong>TB1:</strong> Tras una gran cantidad de reuniones que permitieron encaminar al grupo hacia el objetivo, se pudo lograr un incremento que cumple con las expectativas del Sprint 1. En mi caso, realicé entrevistas que recopilaron información importante, coordiné con mis compañeros la organización de trabajo y los guié para entregar la mayor calidad posible en el proyecto. La comunicación fue fundamental en el equiipo de trabajo debido a que de esta manera todo el grupo pudo identificar lo que los clientes necesitan y pudimos mantener una sola idea en el desarrollo del producto.</li>
-              <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finiquitadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li><li>TB2:</li> 
+              <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finiquitadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li><li>TB2: Para la entrega número 2, la cordinación de grupo fue importante para seguir con el desarrollo del proyecto. Al ya saber el velocity del equipo, la coordinación fue más sencilla tras saber la metodolgía del grupo. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finiquitadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Uno de los aspectos más importantes que se tuvo que comunicar fue la repartición/afinamiento de bounded context</li> 
             </ul>
           </li>
           <li>Llacchua Peralta Joseph Ulysses:
@@ -151,7 +151,7 @@ La asignación individual de tareas permitió que cada miembro se concentrara en
           <li>Yen Cerna, Lucio Heli:
             <ul>
               <li><strong>TB1:</strong> Durante el proyecto, documenté efectivamente diferentes secciones como el LEAN UX CANVAS, El Ubiquitous language que es fundamental para comunicarse con los stakeholders, las epics y user stories, el impact mapping y la arquitectura de información de la plataforma web y landing page. De esta manera, he podido aportar en el desarrollo del proyecto de forma escrita incorporando información vital para el desarrollo del producto a nivel de usuario y a nivel de estructura</li>
-              <li><strong>TP: </strong>Durante la TP, corregí los errores identificados en el Sprint Review, además, agregue documentación de calidad en las entrevistas, User Stories, los Wireframes, Userflows, Mockups, Wireflows y prototyping. Mi aporte en este proyecto ha tenido un impactoo positivo puesto que alimenté la documentación del proyecto brindando información que refleja mayor entendimiento y permite comunicar el propósito de nuestr product a los interesados del negocio.</li> <li><strong>TB2: </strong></li>
+              <li><strong>TP: </strong>Durante la TP, corregí los errores identificados en el Sprint Review, además, agregue documentación de calidad en las entrevistas, User Stories, los Wireframes, Userflows, Mockups, Wireflows y prototyping. Mi aporte en este proyecto ha tenido un impactoo positivo puesto que alimenté la documentación del proyecto brindando información que refleja mayor entendimiento y permite comunicar el propósito de nuestr product a los interesados del negocio.</li> <li><strong>TB2: Durante la TB2, realicé las correciones respectivas en documentación y frontend. Estuve involucrado en la organización de carpetas del backend y en el deployment para que desplegar nuestro producto. Gracias a estos aportes, mi participación comoo equipo fue de buen impactoo.</strong></li>
             </ul>
           </li>
           <li>Barrial Marin, Sharon Antuanet Ivet:
@@ -4758,29 +4758,27 @@ Reseña.Jeremy Joel quispe andia es un joven estudiante en la upc. Comenta que a
 - Curso: Desarrollo de Aplicaciones Open Source
 - Sección: WX52
 - Profesores: Todos
-- Auditor : Equipo de desarrollo Grupo 4 - SmartTech
-- Cliente(s) : GoSteel-FastScooter
+- Auditor : Equipo de desarrollo Grupo 2 - 2SquareD
+- Cliente(s) : 2SquareD - MathPlayOpen
 
-**Site o app a evaluar:** FastScooter - Aplicación de Renta de Scooters
+**Site o app a evaluar:** MathPlayOpen - Aplicación de Videojuegos Matemáticos
 
 **Tareas a evaluar:**
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 - Registro de un usuario nuevo 
 - Inicio de sesión
-- Visualización de scooters disponibles
-- Rentar Scooters
-- Cambio de lenguaje
-- Búsqueda de scooters
-- Añadir scooters favoritos
-- Visualización de scooters favoritos
+- Visualización de videojuegos disponibles
+- Búsqueda de Videojuego
+- Vista Previa de videojuegos
+- Acceso a suscripciones
+- Reporte de usuario
 
 No están incluidas en esta versión de la evaluación las siguientes tareas: 
-- Enviar mensajes entre usuarios
-- Presentar ofertas de último minuto
-- Métodos de pago
-- Administrar scooters
+- Vista del segundo segmento objetivo
+- gameplay
 - Historial de pagos
+- Buzón de notificaciones
 
 **Esacala de severidad:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
@@ -4834,124 +4832,54 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
         </tr>
 		<tr>
 			<td>1</td>
-            <td>No todas las vistas tienen aplicadas i18n</td>
-            <td>3</td>
-            <td>Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares</td>
+            <td>Imágenes necesitan ser recortadas apropiadamente para que no se notan líneas innecesarias</td>
+            <td>2</td>
+            <td>Usabilidad - Diseño estético y minimalista</td>
 		</tr>
         <tr>
             <td>2</td>
-            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
+            <td>El carrusel de los juegos no tiene una jearquía visual válida bien implementada</td>
             <td>3</td>
-            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+            <td>Information Architecture - Visual Hierarchy</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”</td>
+            <td>No hay responsive web design en la página de reporte de progreso</td>
             <td>3</td>
-            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Consistencia y estándares, Diseño estético y minimalista. Inclusive Design - Accesibilidad</td>
         </tr>
 	</tbody>
 </table>
 <br>
 
 **Descripción de problemas:**
-**Problema #1** No todas las vistas tienen aplicadas i18n
-**Severidad:** 3
-**Heurística violada:** Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares
-**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
-![alt text](assets/tb2/heuristicas/h1.png)
+**Problema #1** Imágenes necesitan ser recortadas apropiadamente para que no se notan líneas innecesarias
+**Severidad:** 2
+**Heurística violada:** Usabilidad - Diseño estético y minimalista
+**Problema:** Algunas Imágenes de la aplicación web contienen líneas mal cortadas rompiendoo con la armonía del diseño.
+![alt text](assets/Heuristics/Heuristica_1_1.png)
+![alt text](assets/Heuristics/Heuristica_1_2.png)
 **Recomendación:**
-Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfaz para asegurar una experiencia de usuario fluida y profesional.
+Es fundamental mantener la coherencia en las imágenes a lo largo de toda la interfaz para asegurar un diseño fluido y profesional.
 <br>
 
-**Problema #2** Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.
+**Problema #2** El carrusel de los juegos no tiene una jearquía visual válida bien implementada.
 **Severidad:** 3
-**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
-**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
-![alt text](assets/tb2/heuristicas/h2.png)
+**Heurística violada:** Information Architecture - Visual Hierarchy
+**Problema:** El carrusel de los juegos no posee una jerarquía visual al tener las etiquetas no legibles, los títulos pequeños y las portadas pequeñas. Los tamaños no permiten una visión legible.
+![alt text](assets/Heuristics/Heuristica_2_1.png)
 **Recomendación:**
-Para abordar este problema de diseño y mejorar la experiencia del usuario, es importante asegurarse de que el footer se mantenga en la parte inferior de la ventana del navegador, independientemente de la cantidad de contenido en la página.
+Para abordar este problema de diseño y asrquitetura de la informacióon, se deben agrandar los elementos de tal manera que se entienda la información brindada y se resalte las caracterísitcas importantes.
 <br> 
 
-**Problema #3** No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal
-“Home”.
+**Problema #3** No hay responsive web design en la página de reporte de progreso.
 **Severidad:** 3
-**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
-**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
-![alt text](assets/tb2/heuristicas/h3.png)
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Consistencia y estándares, Diseño estético y minimalista. Inclusive Design - Accesibilidad
+**Problema:** La página de mi progreso no posee responsive web design lo que provoca que los usuarios no puedan acceder a la aplicación a través de diferentes dispositivos.
+![alt text](assets/Heuristics/Heuristica_3_1.png)
 **Recomendación:**
-Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
+Implementar el Responsive web design en toda la pagina.
 <br>
-
->**Problemas levantados:**
-<table border="1">
-	<tbody>
-        <tr>
-            <td style="text-align:center;">
-            <strong>#</strong>
-            </td>
-            <td style="text-align:center;">
-            <strong>Problema</strong>
-            </td>
-            <td style="text-align:center;">
-            <strong>Estado</strong>
-            </td>
-        </tr>
-		<tr>
-			<td>1</td>
-            <td>No todas las vistas tienen aplicadas i18n</td>
-            <td>Solucionado, todas las vistas presentan traducción</td>
-		</tr>
-	</tbody>
-</table>
-
-![alt](assets/tb2/heuristicas/s1.png)
-
-<table border="1">
-	<tbody>
-        <tr>
-            <td style="text-align:center;">
-            <strong>#</strong>
-            </td>
-            <td style="text-align:center;">
-            <strong>Problema</strong>
-            </td>
-            <td style="text-align:center;">
-            <strong>Estado</strong>
-            </td>
-        </tr>
-		<tr>
-			<td>2</td>
-            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
-            <td>Solucionado, el footer aparece al final del contenido y solo en el home, por preferencia de visualización.</td>
-		</tr>
-	</tbody>
-</table>
-
-![alt](assets/fronted/front.png)
-
-<table border="1">
-	<tbody>
-        <tr>
-            <td style="text-align:center;">
-            <strong>#</strong>
-            </td>
-            <td style="text-align:center;">
-            <strong>Problema</strong>
-            </td>
-            <td style="text-align:center;">
-            <strong>Estado</strong>
-            </td>
-        </tr>
-		<tr>
-			<td>3</td>
-            <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”.</td>
-            <td>Botón home presente en todas las vistas por que permanece en el toolbar.</td>
-		</tr>
-	</tbody>
-</table>
-
-![alt text](assets/tb2/heuristicas/s2.png)
 
 
 ## 5.4. Video About-the-product

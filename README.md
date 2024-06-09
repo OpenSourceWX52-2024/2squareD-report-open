@@ -4375,7 +4375,7 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | Attendees (to planning meeting)  | Barrial Marin, Sharon Antuanet Ivet <br> Carpio Cornejo, Miguel Ángel <br> Llacchua Peralta, Joseph Ulysses <br> Minaya Mundines, Pietro Gerardo <br> Ybañez Esquerre, Miguel Angel <br> Yen Cerna, Lucio Heli |
 | Sprint 3 - Review Summary        | Se realizó la organización, visualización y ejecución del fronted. Además de deployar el backend en Microsoft Azure. |
 | Sprint 3 - Retrospective Summary | Mejorar en puntos de la documentación del informe, añadir componentes al fronted, mejorar funcionalidades, estructura y manejo de usualibity |
-| **Sprint Goal & User Stories**   | - Visualización de juegos disponibles <br> - Visualización de los datos del usuario<br> - Registro de usuarios  <br> - Ingreso de usuarios <br> - Cambio de plan subscription|
+| **Sprint Goal & User Stories**   | - Visualización de juegos disponibles <br> - Visualización de los datos del usuario<br> - Registro de usuarios  <br> - Ingreso de usuarios <br> - Cambio de plan subscription <br> Al menos el 40% de los endpoints para el sprint backlog|
 | Sprint 3 Goal                    | El objetivo del presente Sprint es en desarrollar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.                                                    |
 | Sprint 3 - Velocity              | El equipo puede aceptar 47 Story Points                                                                                                                                      |
 | Sprint 3 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 114 Story Points                                                                                                       |
@@ -4405,192 +4405,64 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
     </tr>
     <tr>
-        <td rowspan="2" valign="top">US001</td>
-        <td rowspan="2" valign="top">Registro de usuarios clientes en la plataforma</td>
-        <td valign="top">001.1</td>
+        <td rowspan="1" valign="top">US001</td>
+        <td rowspan="1" valign="top">Registro de usuarios clientes en la plataforma</td>
+        <td valign="top">001</td>
         <td valign="top">Desarrollo de Backend</td>
         <td valign="top">Validar datos, formato, manejar errores y excepciones para el registro de usuario.</td>
         <td valign="top">5</td>
-        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Miguel Ibañez</td>
         <td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">001.2</td>
-        <td valign="top">Desarrollo de fronted</td>
-        <td valign="top">Se hace correcciones de funcionamiento y estructura del registro.</td>
+        <td rowspan="1" valign="top">HU-35</td>
+        <td rowspan="1" valign="top">Visualización del progreso del usuario en la plataforma</td>
         <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Promedio de la utilización de juegos del usuario</td>
+        <td valign="top">5</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In Process</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-36</td>
+        <td rowspan="1" valign="top">Visualización del progreso del usuario en la plataforma</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Despliegue de datos al apartado de visualización del progreso</td>
+        <td valign="top">5</td>
         <td valign="top">Sharon Barrial</td>
         <td valign="top">In progress</td>
     </tr>
     <tr>
-        <td rowspan="2" valign="top">US003</td>
-        <td rowspan="2" valign="top">Inicio de sesión de usuarios</td>
-        <td valign="top">003.1</td>
-        <td valign="top">Desarrollo de funcionalidad en el backend</td>
-        <td valign="top">Validaciones correspondientes a la existencia de usuario en la base de datos.</td>
-        <td valign="top">4</td>
-        <td valign="top">Pietro Minaya</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td valign="top">003.2</td>
-        <td valign="top">Desarrollo de funcionalidad en el fronted</td>
-        <td valign="top">Corrección de estructura y funcionamiento.</td>
+        <td rowspan="1" valign="top">HU-32</td>
+        <td rowspan="1" valign="top">Evaluación del progreso de estudiantes</td>
         <td valign="top">1</td>
-        <td valign="top">Josue Hidalgo</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="2" valign="top">US004</td>
-        <td rowspan="2" valign="top">Reserva de Scooter</td>
-        <td valign="top">004.1</td>
-        <td valign="top">Desarrollo de backend</td>
-        <td valign="top">Validaciones y restricciones de reserva de scooters </td>
-        <td valign="top">3</td>
-        <td valign="top">Josue Hidalgo</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td valign="top">004.1</td>
-        <td valign="top">Desarrollo de fronted</td>
-        <td valign="top">Componentes como calendario, hora precio y adición a la lista de reservas</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Análisis de los resultados por estudiante</td>
         <td valign="top">5</td>
-        <td valign="top">Scott Huachanca</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US007</td>
-        <td rowspan="1" valign="top">Confirmación de Reserva</td>
-        <td valign="top">007</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Validaciones de regla de negocio y adición de mensaje notificado</td>
-        <td valign="top">3</td>
-        <td valign="top">Scott Huachanca</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US009</td>
-        <td rowspan="1" valign="top">Rentar Scooter</td>
-        <td valign="top">009</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Validaciones de regla de negocio y conexión de procesos para la renta de scooters</td>
-        <td valign="top">3</td>
-        <td valign="top">Carlos Adrianzen</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US010</td>
-        <td rowspan="1" valign="top">Reporte de problemas de Scooter</td>
-        <td valign="top">010</td>
-        <td valign="top">Desarrollo de fronted</td>
-        <td valign="top">Secciones de página de entrada para mensajes</td>
-        <td valign="top">1</td>
         <td valign="top">Sharon Barrial</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US012</td>
-        <td rowspan="1" valign="top">Buscar Scooters disponibles</td>
-        <td valign="top">012</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Adición de barra de búsqueda para scooters, endpoint</td>
-        <td valign="top">3</td>
-        <td valign="top">Scott Huachanca</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US013</td>
-        <td rowspan="1" valign="top">Cancelación de Reserva</td>
-        <td valign="top">013</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Adición de botón de eliminación y creación de endpoint</td>
-        <td valign="top">3</td>
-        <td valign="top">Pietro Minaya</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US014</td>
-        <td rowspan="1" valign="top">Visualización de Perfil</td>
-        <td valign="top">014</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Creación de vista y de endpoint</td>
-        <td valign="top">4</td>
-        <td valign="top">Carlos Adrianzen</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US016</td>
-        <td rowspan="1" valign="top">Gestión de Pagos</td>
-        <td valign="top">016</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Creación de vista, dialog y de endpoint</td>
-        <td valign="top">3</td>
-        <td valign="top">Sharon Barrial</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US017</td>
-        <td rowspan="1" valign="top">Actualización de perfil</td>
-        <td valign="top">017</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Creación de vista, funciones y de endpoint</td>
-        <td valign="top">5</td>
-        <td valign="top">Carlos Adriazen</td>
-        <td valign="top">Done</td>
-    </tr>
-    <tr>
-        <td rowspan="1" valign="top">US018</td>
-        <td rowspan="1" valign="top">Marcar scooters favoritos</td>
-        <td valign="top">018</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Creación de vista, funciones y de endpoint</td>
-        <td valign="top">3</td>
-        <td valign="top">Sharon Barrial</td>
-        <td valign="top">Done</td>
-    </tr>
-     <tr>
-        <td rowspan="1" valign="top">US019</td>
-        <td rowspan="1" valign="top">Reseña sobre la experiencia sobre el scooter</td>
-        <td valign="top">019</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Creación de vista, funciones y de endpoint</td>
-        <td valign="top">2</td>
-        <td valign="top">Scott Huanchanca</td>
         <td valign="top">In progress</td>
     </tr>
     <tr>
-        <td rowspan="1" valign="top">US020</td>
-        <td rowspan="1" valign="top">Visualizacion de zonas de recojo y entrega de los scooters</td>
-        <td valign="top">020</td>
-        <td valign="top">Desarrollo de fronted y backend</td>
-        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td rowspan="1" valign="top">HU-23</td>
+        <td rowspan="1" valign="top">Visualización de resultados</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Mostrar al usuario sus resultados después de cada partida</td>
         <td valign="top">5</td>
-        <td valign="top">Josue Hidalgo</td>
-        <td valign="top">To Do</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
     </tr>
 </tbody>
 </table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
-| Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
+| Repository| Branch  | Commit Id | Commit Message| Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
-| goSteel-FastScooter-Frontend | main | d02fee8 | feat: add components |-| 07/06/2024|
-| goSteel-FastScooter-Frontend | main | c99c14a | feat: add features |-| 07/06/2024|
-| goSteel-FastScooter-Frontend | main | 560ff9d | fix: multiple components| - i18n<br>- default view<br>- routes| 07/06/2024|
-| goSteel-FastScooter-Frontend | main | 681f6fb | feat: add internalization terms |-| 07/06/2024 |
-| goSteel-FastScooter-Frontend | main | fd99771 | feat: add scooter-purchase and update routes  | - | 07/06/2024 |
-| goSteel-FastScooter-Frontend | main | db5bc31 | feat: add internalization terms |-| 07/06/2024 |
-| goSteel-FastScooter-Frontend | main | 672abd4 | feat: add features | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 3b9f786 | feat: add features | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | d042542 | feat: create scooter-details component | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | d28fd1a | fix: bugs dry | - | 07/06/2024|
-| goSteel-FastScooter-Backend | main | d275230 | fix: add Payment Infrastructure | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 57952f2 | fix: add PaymentResponse | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 55dade6 | fix: added request to model| - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 5f53f8c |fix: update infrastructure for favorite | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 5483a60 | fix: update favorite domain | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 19c8d2e |feat: add component for favorite response | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | cb88fbf |fix: update functions of faorite controller | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | eb57d7f | fix: update components |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add overview games |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add math games view |-| 09/06/2024|
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review

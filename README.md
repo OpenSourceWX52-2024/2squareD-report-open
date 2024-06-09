@@ -4560,13 +4560,13 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 ## 5.3.Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
->**Segemento Objetivo 1: Empresarios**
+>**Segemento Objetivo 1: Institución Educativa**
 
 **Presentación del entrevistado**
 
 - ¿Cuál es tu nombre?
 - ¿Qué edad tienes?
-- ¿Hace cuánto se dedica a su empresa? 
+- ¿Hace cuánto trabajas en una institución educativa? 
 
 **Explicación de los alcances de la demostración**
 - Landing Page
@@ -4578,7 +4578,7 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 **Preguntas a realizar**
 
-- ¿Consideras atractiva la manera en la que el producto FastScooter está promocionado en la Landing Page?
+- ¿Consideras atractiva la manera en la que el producto MathPlayOpen está promocionado en la Landing Page?
 - ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
 - ¿Resulta agradable a la vista la manera en la que la información está presentada?
 - ¿Además de este dispositivo (pc), desde qué dispositivo utilizaste para acceder al Landing Page? (Respuestas posibles: Celular, tablet)
@@ -4589,42 +4589,30 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 *Aplicación Web*
 
-**UserFlow-1:** Ver Scooters disponibles, Buscar Scooter en específico, Añadir Renta de Scooter, visualizar la renta en la sección de reservas,  Añadir método de pago y Visualización de los scooters a pagar
+**UserFlow-1:** Ver Juegos disponibles, visualizar el progreso académico en la sección de progreso,  Añadir método de pago y Visualización de los planes a pagar y escoger
 
   - El usuario ingresa desde el botón call to action del landing page
   - Se redirige a la sección de registro de usuarios y llena los campos solicitados
   - Se redirige a la sección de Home
-  - Ingresa a la sección "Search Scooters"
-  - Mostrar todos los Scooters disponibles a rentar
-  - Seleccionar un scooter
-  - Mostrar los detalles del scooters
-  - Rentar Scooters
-  - Visualizar el scooter en mis reservaciones
+  - Muetsra todos los Juegos disponibles para el usuario
+  - Seleccionar un Juego
+  - Mostrar los detalles del Juego
+  - Visualizar el mecanismo del juego
+  - Visualizar el juego en la sección de su progreso
   - Añadir método de pago
-  - Visualizar todos los scooters seleccionados para pagar
+  - Visualizar el plan premium para la subscripción
 
 **Userflow-2:** Visualizar perfil y Actualizar perfil
 
 - Visualizar perfil
 - Actualizar perfil
-
-**Userflow-3:** Añadir scooter a la sección de favoritos, Visualización de scooters favoritos, Reportar un problema de scooter, Documentación de GoSteel
-
-- Añadir Scooter a favoritos
-- Visualizar el scooter en el apartado Favorite scooters
-- Reportar un problema con la pagina o el scooter
-- Visualizar documentación del startup
-
-**Userflow-4:** Features adicionales: Cambiar de idioma y salir de la aplicación
-- Cambiar idioma
-- Log Out
-
+  
 **Preguntas:**
 
-- Después de mostrarle el funcionamiento de la aplicación ¿considera que es complicado rentar un scooter?
-- ¿Los scooters disponibles contienen lo que necesitas saber sobre ellos, en cuanto a marca, tipo, precio y color?
-- ¿La funcionalidad para agregar las horas de renta, el día, tanto fecha y hora fueron complicados para entender? 
-- ¿Fue dificil hacer una renta?
+- Después de mostrarle el funcionamiento de la aplicación ¿considera que es complicado visualizar los juegos disponibles?
+- ¿Los juegos disponibles contienen lo que necesitas saber sobre ellos, en cuanto a asignatura, tema o modo de jugador?
+- ¿El progreso academico fue omplicado de entender? 
+- ¿Fue dificil encontrar la sección del progreso de usuario?
 - ¿Qué otros apartados le gustaría visualizar?
 - ¿Qué opina acerca de la distribución de secciones, tanto el toolbar como el sidebar?
 - ¿Cómo describiría nuestra aplicación web en pocas palabras?
@@ -4633,13 +4621,13 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
 - ¿Considera que el diseño es adecuado?
 
->**Segemento Objetivo 2: Transeúntes**
+>**Segemento Objetivo 2: Estudiantes**
 
 **Presentación del entrevistado**
 
 - ¿Cuál es tu nombre?
 - ¿Qué edad tienes?
-- ¿Hace cuánto que está buscando otras formas de transportarse que no sea en auto o caminando?
+- ¿Qué es lo que más se te dificulta al estudiar?
 
 **Explicación de los alcances de la demostración**
 - Landing Page
@@ -4651,7 +4639,7 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 **Preguntas a realizar**
 
-- ¿Consideras atractiva la manera en la que el producto FastScooter está promocionado en la Landing Page?
+- ¿Consideras atractiva la manera en la que el producto MathPlayOpen está promocionado en la Landing Page?
 - ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
 - ¿Resulta agradable a la vista la manera en la que la información está presentada?
 - ¿Además de este dispositivo (pc), desde qué dispositivo utilizaste para acceder al Landing Page? (Respuestas posibles: Celular, tablet)
@@ -4662,42 +4650,29 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 *Aplicación Web*
 
-**UserFlow-1:** Ver Scooters disponibles, Buscar Scooter en específico, Añadir Renta de Scooter, visualizar la renta en la sección de reservas,  Añadir método de pago y Visualización de los scooters a pagar
+**UserFlow-1:** Ver Juegos disponibles, visualizar el progreso académico en la sección de progreso,  Añadir método de pago y Visualización de los planes a pagar y escoger
 
   - El usuario ingresa desde el botón call to action del landing page
   - Se redirige a la sección de registro de usuarios y llena los campos solicitados
   - Se redirige a la sección de Home
-  - Ingresa a la sección "Search Scooters"
-  - Mostrar todos los Scooters disponibles a rentar
-  - Seleccionar un scooter
-  - Mostrar los detalles del scooters
-  - Rentar Scooters
-  - Visualizar el scooter en mis reservaciones
+  - Muestra todos los estudiantes de su clase
+  - Seleccionar un Estudiante
+  - Muestra las notas del estudiante
+  - Visualiza las tablas del puesto de sus estudiantes de su clase
   - Añadir método de pago
-  - Visualizar todos los scooters seleccionados para pagar
+  - Visualizar el plan premium para la subscripción
 
 **Userflow-2:** Visualizar perfil y Actualizar perfil
 
 - Visualizar perfil
 - Actualizar perfil
 
-**Userflow-3:** Añadir scooter a la sección de favoritos, Visualización de scooters favoritos, Reportar un problema de scooter, Documentación de GoSteel
-
-- Añadir Scooter a favoritos
-- Visualizar el scooter en el apartado Favorite scooters
-- Reportar un problema con la pagina o el scooter
-- Visualizar documentación del startup
-
-**Userflow-4:** Features adicionales: Cambiar de idioma y salir de la aplicación
-- Cambiar idioma
-- Log Out
-
 **Preguntas:**
 
-- Después de mostrarle el funcionamiento de la aplicación ¿considera que es complicado rentar un scooter?
-- ¿Los scooters disponibles contienen lo que necesitas saber sobre ellos, en cuanto a marca, tipo, precio y color?
-- ¿La funcionalidad para agregar las horas de renta, el día, tanto fecha y hora fueron complicados para entender? 
-- ¿Fue dificil hacer una renta?
+- Después de mostrarle el funcionamiento de la aplicación ¿considera que es complicado visualizar los reportes académicos de sus estudiantes?
+- ¿Los juegos disponibles contienen lo que necesitas saber sobre ellos, en cuanto al nombre del estudiante, juego, tiempo o posición?
+- ¿El progreso academico de su estudiante fue complicado de entender? 
+- ¿Fue dificil encontrar el apartado de los reportes académicos de sus estudiantes?
 - ¿Qué otros apartados le gustaría visualizar?
 - ¿Qué opina acerca de la distribución de secciones, tanto el toolbar como el sidebar?
 - ¿Cómo describiría nuestra aplicación web en pocas palabras?
@@ -4708,52 +4683,69 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 ### 5.3.2. Registro de Entrevistas
 
->**Segmento Objetivo 1: Empresarios**
+>**Segemento Objetivo 1: Institución Educativa**
 
 **Entrevistado 1:** Rosa Sofía Mercado Ruiz
-**Edad:** 22 años
+**Edad:** 30 años
 **Distrito:** San Borja
-**Cargo:** Emprededora 
+**Cargo:** Profesora 
 
-![empresario 1](assets/tb2/entrevistas/e2.png)
-[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/EYHRSUtk7sJKjv0sbdglV3oBchU63mYkNFKCN4yOlsSgMg?e=Lw1gxF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+![empresario 1]()
+[URL de entrevista]()
 
-Reseña.Rosa sofia mercado ruiz es una joven que estudia psicología en la usmp, además para poder costearse sus gastos tiene un negocio en el que vende utilerias, ella cuenta con dos personas que realizan el delivery de sus productos. Comenta que la landing Page le parece dinámica y atractiva, la uso tanto en computadora como en celular y no presento ningún problema. Considera que cumple su función de captar al visitante a usar la aplicación web y que el filtro de idioma es bastante útil. Respecto a la aplicación web menciona que cumple su función de poder rentar scooters, y que además esto se realiza de forma sencilla y rápida. Califico la página un 8 de 10 ya que cree que faltan algunas opciones de accesibilidad.
+Reseña.
 
 **Entrevistado 2:** Abel Andres Valle Zuta
 **Edad:** 24 años
 **Distrito:** La Molina
-**Cargo:** Empresario
+**Cargo:** Director
 
-![empresario 2](assets/tb2/entrevistas/e3.png)
-[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/ER0HHreOn6JFvMHvftIj31QBg6V4NzC0WCx9BsclpPmFKA?e=pwMfaA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+![empresario 2]()
+[URL de entrevista]()
 
-Reseña.Abel andres valle Zuta es un joven egresado de la carrera de administración que actualmente cuenta con una empresa de venta de diversos juguetes. Sobre la landing Page considera que esta es bastante sencilla de ver la información que contiene y que da a entender el propósito de la aplicación de forma sencilla, le pareció interesante el apartado de visualización de principales funcionalidades de la aplicación, la cual permite hacerse una idea bastante concreta de como funciona la aplicación. Respecto a la aplicación le pareció bastante buena y comenta que añadiría una sección de reseñas. También comenta que le parece en general bastante buena salvo eso y que en su dispositivo móvil funciona correctamente de la misma forma. Le dio a nuestra página un 10 de 10, ya que se pueden rentar scooters de forma sencilla y añadirlos a favoritos le pareció un gran punto a favor.
+Reseña.
 
 **Entrevistado 3:** Mauro Perez Diaz
 **Edad:** 70 años
 **Distrito:** Distrito Villa el Salvador
-**Cargo:** Es dueño de una empresa de delivery
+**Cargo:** Coordinador de secciones
 
-![empresario 2](assets/tb2/entrevistas/e1.png)
-[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/r/personal/u201914294_upc_edu_pe/Documents/EntrevistaDeliveryD.mp4?csf=1&web=1&e=uCWqR3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+![empresario 2]()
+[URL de entrevista]()
 
-Reseña. Mauro Perez Diaz es una persona de 70 años y tiene una empresa de Delivery de comida. Por el lado del Landing Page comenta que esta bastante claro en el tema de información pero también nos comenta que podríamos mejorar. En la parte de la aplicación web después de enseñarles la funcionalidades de la web nos comenta no es fácil rentar un scooter en nuestra aplicación web, pero también nos comento sobre el precio de los scooter, se percato que algunos scooter tenían el precio algo desfasados.
+Reseña.
 
->**Segmento Objetivo 2: Transeúntes**
+>**Segmento Objetivo 2: Estudiantes**
 
 **Entrevistado 1:** Jeremy Joel Quispe Anda
-**Edad:** 19 años
+**Edad:** 17 años
 **Distrito:** San Juan de Lurigancho
-**Cargo:** Estudiante universitario
+**Cargo:** Estudiante 
 
-![empresario 2](assets/tb2/entrevistas/c1.png)
-[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/EZjcL4lYq0NDvE6aVXo_B7gBcD4ZVWSKqNLViMV_Xkv1tw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SJdYW3)
+![empresario 2]()
+[URL de entrevista]()
 
-Reseña.Jeremy Joel quispe andia es un joven estudiante en la upc. Comenta que alquila scooters regularmente para ir a la universidad mediante distintas aplicaciones desde que ingreso a la universidad hace 2 años. La landing Page le pareció amigable y confortante, le gustó la paleta de colores. Le pareció que el formulario de contacto debería estar más completo y ser más atractivo ya que le parece importante en una landing Page. Respecto a la aplicación web opina que cumple su principal funcionalidad, pero que está un poco desorganizada y que le gustaría ver un apartado de reseñas de usuario, para poder saber a scooter escoger, ya que una  sola estrella no brinda mucha información.  La gusto el cambio de idioma. También uso la aplicación desde su tableta y menciona que todo genial. Le brinda a la aplicación un sólido 9 de 10 debido a las sugerencias que ya se mencionaron.
+Reseña.
 
+**Entrevistado 1:** Alexander Perez Marin
+**Edad:** 15 años
+**Distrito:** EEUU
+**Cargo:** Estudiante 
 
+![empresario 2]()
+[URL de entrevista]()
 
+Reseña.
+
+**Entrevistado 1:** Jeremy Joel Quispe Anda
+**Edad:** 15 años
+**Distrito:** San Juan de Lurigancho
+**Cargo:** Estudiante 
+
+![empresario 2]()
+[URL de entrevista]()
+
+Reseña.
 
 ### 5.3.3. Evaluaciones según heurísticas
 

@@ -4346,20 +4346,20 @@ Nuestro despliegue se ha hecho en Microsoft Azure:
 ![Paso para desplegar]()
 
 De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
-![Imagen del despliegue]()
+![Imagen del despliegue](assets/1tb2/front-despliegue.png)
 
 Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint2:
 
-[Link del frontend desplegado]()
+[Link del frontend desplegado](https://mathopenplay.web.app/login)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
 equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
-![pulse]()
-![controbution]()
-![network]()
+![pulse](assets/1tb2/pulse-sprint2.png)
+![controbution](assets/1tb2/contribution-sprint2.png)
+![network](assets/1tb2/network-sprint2.png)
 
 ### 5.2.3. Sprint 3
 

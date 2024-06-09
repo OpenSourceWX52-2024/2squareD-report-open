@@ -4922,7 +4922,7 @@ Hemos identificado como equipo que a lo largo de esta entrega tenemos como princ
 - La industria en la que estamos enfocados en trabajar para realizar este proyecto y más aún de los videojuegos está en constante evolución, con avances tecnológicos y cambios en las preferencias de los jugadores. Mantenerse al día con las tendencias y adoptar nuevas tecnologías puede ayudar a mantener la competitividad y la relevancia en el mercado de los videojuegos. Además, de alcanzar a satisfacer a nuestros usuarios.
 
 # Video About-the-team
-![video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EVF8FeJxO7FFuPO0zb3IxmwBrodN8kNUYVGhMlq9EE7xcQ?e=1amUhb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213143_upc_edu_pe/EVF8FeJxO7FFuPO0zb3IxmwBrodN8kNUYVGhMlq9EE7xcQ?e=1amUhb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ---
 # Bibliografía

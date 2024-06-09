@@ -334,7 +334,7 @@ Carrera: Ingeniería de Software
 Acerca de mí: Soy una persona amigable, me gusta hacer creación de contenido, y también me agrada el trabajo en equipo. Tengo experiencia en Frontend y Backend, he realizado proyectos para empresas pequeñas. Me especializo en la programación y tengo conocimientos en la creación de páginas web y videojuegos. Además de usar herramientas para edición de imágenes o videos.
 
 
-![Joseph Llacchua Peralta](https://media.licdn.com/dms/image/D4E03AQESEoiwSF0wVg/profile-displayphoto-shrink_200_200/0/1711066191126?e=1717027200&v=beta&t=VfdC8dmxVyXLOah6_ifJ7LUAozXPoHEe0porWkg-ABs)
+<img src="./assets/joseph.jpeg" alt="Joseph Ulysses Llacchua Peralta" width="150" height="200">
 
 Nombre completo: Joseph Ulysses Llacchua Peralta
 

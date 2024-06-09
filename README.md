@@ -4495,9 +4495,9 @@ En este apartado se hace presenta la ejecución del frontend del servicio MathPl
 
 ![imagen fronted](assets/1tb2/sprint3-despliegue.png)
 
-**[Link del backend]()**
+**[Link del backend](http://2squared.azurewebsites.net)**
 
-![imagen fronted]()
+![imagen fronted](assets/1tb2/despliegueback.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -4543,12 +4543,10 @@ Nuestro despliegue se ha hecho en Microsoft Azure:
 ![Paso para desplegar](assets/1tb2/azure4.png)
 
 De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
-![Imagen del despliegue]()
-
+![Imagen del despliegue](assets/1tb2/despliegueback.png)
 
 Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
-
-[Link del backend desplegado]()
+[Link del backend desplegado](http://2squared.azurewebsites.net)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 

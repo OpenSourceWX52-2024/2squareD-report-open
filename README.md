@@ -4421,7 +4421,7 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Desarrollo de Backend</td>
         <td valign="top">Promedio de la utilización de juegos del usuario</td>
         <td valign="top">5</td>
-        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Joseph Llauca</td>
         <td valign="top">In Process</td>
     </tr>
     <tr>
@@ -4431,7 +4431,7 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Desarrollo de Backend</td>
         <td valign="top">Despliegue de datos al apartado de visualización del progreso</td>
         <td valign="top">5</td>
-        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Miguel Carpio</td>
         <td valign="top">In progress</td>
     </tr>
     <tr>
@@ -4440,8 +4440,8 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">1</td>
         <td valign="top">Desarrollo de Backend</td>
         <td valign="top">Análisis de los resultados por estudiante</td>
-        <td valign="top">5</td>
-        <td valign="top">Sharon Barrial</td>
+        <td valign="top">3</td>
+        <td valign="top">Pietro Minaya</td>
         <td valign="top">In progress</td>
     </tr>
     <tr>
@@ -4452,6 +4452,16 @@ Implementación del Landing Page acorde con las User Stories.
         <td valign="top">Mostrar al usuario sus resultados después de cada partida</td>
         <td valign="top">5</td>
         <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
+    </tr>
+        <tr>
+        <td rowspan="1" valign="top">HU-17</td>
+        <td rowspan="1" valign="top">Agregar un buzón de notificaciones</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Mostrar un buzón de notificaciones</td>
+        <td valign="top">5</td>
+        <td valign="top">Lucio Yen</td>
         <td valign="top">In progress</td>
     </tr>
 </tbody>

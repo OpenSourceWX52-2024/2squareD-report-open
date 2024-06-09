@@ -4353,6 +4353,733 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 ![controbution]()
 ![network]()
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+| Sprint #                         | 3                                                                                                                                                                            | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| Date                             | 2024 - 06 - 08  |
+| Time                             | 21:32 PM |
+| Location                         | Virtual via Discord |
+| Prepared By                      | Carpio Cornejo, Miguel Ángel|
+| Attendees (to planning meeting)  | Barrial Marin, Sharon Antuanet Ivet <br> Carpio Cornejo, Miguel Ángel <br> Llacchua Peralta, Joseph Ulysses <br> Minaya Mundines, Pietro Gerardo <br> Ybañez Esquerre, Miguel Angel <br> Yen Cerna, Lucio Heli |
+| Sprint 3 - Review Summary        | Se realizó la organización, visualización y ejecución del fronted. Además de deployar el backend en Microsoft Azure. |
+| Sprint 3 - Retrospective Summary | Mejorar en puntos de la documentación del informe, añadir componentes al fronted, mejorar funcionalidades, estructura y manejo de usualibity |
+| **Sprint Goal & User Stories**   | - Visualización de juegos disponibles <br> - Visualización de los datos del usuario<br> - Registro de usuarios  <br> - Ingreso de usuarios <br> - Cambio de plan subscription|
+| Sprint 3 Goal                    | El objetivo del presente Sprint es en desarrollar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.                                                    |
+| Sprint 3 - Velocity              | El equipo puede aceptar 47 Story Points                                                                                                                                      |
+| Sprint 3 - Story Points          | La suma de los Story Points de los User Sotires que se atenderá es 114 Story Points                                                                                                       |
+
+#### 5.2.3.2. Sprint Backlog 3
+
+Implementación del Landing Page acorde con las User Stories.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 3</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el backend y corrección del fronted acorde a las historias de usuario redactadas </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US001</td>
+        <td rowspan="2" valign="top">Registro de usuarios clientes en la plataforma</td>
+        <td valign="top">001.1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Validar datos, formato, manejar errores y excepciones para el registro de usuario.</td>
+        <td valign="top">5</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">001.2</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Se hace correcciones de funcionamiento y estructura del registro.</td>
+        <td valign="top">1</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US003</td>
+        <td rowspan="2" valign="top">Inicio de sesión de usuarios</td>
+        <td valign="top">003.1</td>
+        <td valign="top">Desarrollo de funcionalidad en el backend</td>
+        <td valign="top">Validaciones correspondientes a la existencia de usuario en la base de datos.</td>
+        <td valign="top">4</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">003.2</td>
+        <td valign="top">Desarrollo de funcionalidad en el fronted</td>
+        <td valign="top">Corrección de estructura y funcionamiento.</td>
+        <td valign="top">1</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US004</td>
+        <td rowspan="2" valign="top">Reserva de Scooter</td>
+        <td valign="top">004.1</td>
+        <td valign="top">Desarrollo de backend</td>
+        <td valign="top">Validaciones y restricciones de reserva de scooters </td>
+        <td valign="top">3</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td valign="top">004.1</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Componentes como calendario, hora precio y adición a la lista de reservas</td>
+        <td valign="top">5</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US007</td>
+        <td rowspan="1" valign="top">Confirmación de Reserva</td>
+        <td valign="top">007</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Validaciones de regla de negocio y adición de mensaje notificado</td>
+        <td valign="top">3</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US009</td>
+        <td rowspan="1" valign="top">Rentar Scooter</td>
+        <td valign="top">009</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Validaciones de regla de negocio y conexión de procesos para la renta de scooters</td>
+        <td valign="top">3</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US010</td>
+        <td rowspan="1" valign="top">Reporte de problemas de Scooter</td>
+        <td valign="top">010</td>
+        <td valign="top">Desarrollo de fronted</td>
+        <td valign="top">Secciones de página de entrada para mensajes</td>
+        <td valign="top">1</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US012</td>
+        <td rowspan="1" valign="top">Buscar Scooters disponibles</td>
+        <td valign="top">012</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Adición de barra de búsqueda para scooters, endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Scott Huachanca</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US013</td>
+        <td rowspan="1" valign="top">Cancelación de Reserva</td>
+        <td valign="top">013</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Adición de botón de eliminación y creación de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US014</td>
+        <td rowspan="1" valign="top">Visualización de Perfil</td>
+        <td valign="top">014</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista y de endpoint</td>
+        <td valign="top">4</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US016</td>
+        <td rowspan="1" valign="top">Gestión de Pagos</td>
+        <td valign="top">016</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, dialog y de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US017</td>
+        <td rowspan="1" valign="top">Actualización de perfil</td>
+        <td valign="top">017</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">5</td>
+        <td valign="top">Carlos Adriazen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US018</td>
+        <td rowspan="1" valign="top">Marcar scooters favoritos</td>
+        <td valign="top">018</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">3</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">Done</td>
+    </tr>
+     <tr>
+        <td rowspan="1" valign="top">US019</td>
+        <td rowspan="1" valign="top">Reseña sobre la experiencia sobre el scooter</td>
+        <td valign="top">019</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">2</td>
+        <td valign="top">Scott Huanchanca</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US020</td>
+        <td rowspan="1" valign="top">Visualizacion de zonas de recojo y entrega de los scooters</td>
+        <td valign="top">020</td>
+        <td valign="top">Desarrollo de fronted y backend</td>
+        <td valign="top">Creación de vista, funciones y de endpoint</td>
+        <td valign="top">5</td>
+        <td valign="top">Josue Hidalgo</td>
+        <td valign="top">To Do</td>
+    </tr>
+</tbody>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+| Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
+| goSteel-FastScooter-Frontend | main | d02fee8 | feat: add components |-| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | c99c14a | feat: add features |-| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | 560ff9d | fix: multiple components| - i18n<br>- default view<br>- routes| 07/06/2024|
+| goSteel-FastScooter-Frontend | main | 681f6fb | feat: add internalization terms |-| 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | fd99771 | feat: add scooter-purchase and update routes  | - | 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | db5bc31 | feat: add internalization terms |-| 07/06/2024 |
+| goSteel-FastScooter-Frontend | main | 672abd4 | feat: add features | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 3b9f786 | feat: add features | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | d042542 | feat: create scooter-details component | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | d28fd1a | fix: bugs dry | - | 07/06/2024|
+| goSteel-FastScooter-Backend | main | d275230 | fix: add Payment Infrastructure | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 57952f2 | fix: add PaymentResponse | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 55dade6 | fix: added request to model| - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 5f53f8c |fix: update infrastructure for favorite | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 5483a60 | fix: update favorite domain | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | 19c8d2e |feat: add component for favorite response | - | 07/06/2024 |
+| goSteel-FastScooter-Backend | main | cb88fbf |fix: update functions of faorite controller | - | 07/06/2024 |
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+| Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|------------------------------|---------------------|--------------------|
+| acceptance-test-goSteel | main | 9da61c4 | feat: add feature 15 test | usability function | 07/06/2024 |
+| acceptance-test-goSteel | main | 370035e | feat: add feature 14 test |- filter search<br>- features like: model, brand, type, color, price...| 07/06/2024|
+| acceptance-test-goSteel | main | 5c4c96c | feat: add feature 13 test |- delete scooter reserved<br>- visualization<br>- functionality| 07/06/2024 |
+| acceptance-test-goSteel | main | 91859b4 | feat: add feature 12 test |- btn call to action (rent now, sidebar, router-links)<br>- show functionalities| 07/06/2024 |
+| acceptance-test-goSteel | main | be9d381 | fix: add more detauls about feature 10-11 tests|- i18n internalization feature<br>- fixing terms| 07/06/2024 |
+| acceptance-test-goSteel | main | 203da35 | feat: add feature 11 test | - feature: change language<br>- all aplication web<br>- terms update | 07/06/2024 |
+| acceptance-test-goSteel | main | 61e399 | feat: add feature 10 test | - edit profile<br>- update profile<br>- cancel edit | 07/06/2024 |
+| acceptance-test-goSteel | main | ec7bc0e | feat: add feature 9 test | - add scooter to the head favorites | 07/06/2024 |
+| acceptance-test-goSteel | main | 80da8e0 | feat: add feature 8 test | - function add time and hour for each scooter id | 07/06/2024 |
+| acceptance-test-goSteel | main | 90b7fb5 | feat: add feature 7 test | terms add | 07/06/2024 |
+| acceptance-test-goSteel | main | d447753 | feat: add feature 7 test | feature: add payment method | 07/06/2024 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este apartado se hace presenta la ejecución del frontend del servicio FastScooter.
+
+**[Link del fronted](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+
+![imagen fronted](/assets/fronted/front.png)
+
+**[Link del backend](https://red-wave-0c15ee510.5.azurestaticapps.net/)**
+
+![imagen fronted](/assets/tb2/back.png)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend.
+
+| Endpoint          | Detalles  |
+|---------------------|---------|
+| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
+| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
+| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario |
+| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
+| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
+| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario | 
+| /api/v1/scooter | En este endpoint se obtiene los scooters disponibles en la aplicación|
+| /api/v1/user | En este endpoint se obtiene los users registrados en la aplicación |  
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Primero, seleccionamos la configuración: "FastScooter.API: http"
+![Imagen de run configuration](assets/tb2/configuración.png)
+
+Ejecutamos el comando “run” representado por un ícono de play: 
+
+![Imagen de terminal local del proyecto](assets/tb2/run.png)
+
+Demostración de las capas creadas:
+
+![Imagen de carpeta local src del proyecto](assets/tb2/capas.png)
+
+Visualización de los endpoints:
+
+![Imagen de las rutas](assets/tb2/endpoints.png)
+
+Visualización de no errores en la terminal:
+
+![Imagen del comando en la terminal](assets/tb2/termianl.png)
+
+Nuestro despliegue se ha hecho en Microsoft Azure:
+
+![Paso para desplegar](/assets/front/microsoft-azure.jpg)
+
+De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue](assets/tb2/back.png)
+
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
+
+[Link del backend desplegado](https://red-wave-0c15ee510.5.azurestaticapps.net/)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Las actividades para el presente Sprint se repartieron en base a las secciones del fronted que se plantearon como
+equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![pulse](assets/tb2/pulse.png)
+![controbution](assets/tb2/contribution.png)
+![network](assets/tb2/network.png)
+
+## 5.3.Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+>**Segemento Objetivo 1: Empresarios**
+
+**Presentación del entrevistado**
+
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Hace cuánto se dedica a su empresa? 
+
+**Explicación de los alcances de la demostración**
+- Landing Page
+- Prinipales tareas en la aplicación
+
+**Navegación a través de la aplicación web**
+
+*Landing Page*
+
+**Preguntas a realizar**
+
+- ¿Consideras atractiva la manera en la que el producto FastScooter está promocionado en la Landing Page?
+- ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+- ¿Resulta agradable a la vista la manera en la que la información está presentada?
+- ¿Además de este dispositivo (pc), desde qué dispositivo utilizaste para acceder al Landing Page? (Respuestas posibles: Celular, tablet)
+- ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida o entender la información presentada?
+- Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+
+**Navegación a través de la aplicación web**
+
+*Aplicación Web*
+
+**UserFlow-1:** Ver Scooters disponibles, Buscar Scooter en específico, Añadir Renta de Scooter, visualizar la renta en la sección de reservas,  Añadir método de pago y Visualización de los scooters a pagar
+
+  - El usuario ingresa desde el botón call to action del landing page
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Search Scooters"
+  - Mostrar todos los Scooters disponibles a rentar
+  - Seleccionar un scooter
+  - Mostrar los detalles del scooters
+  - Rentar Scooters
+  - Visualizar el scooter en mis reservaciones
+  - Añadir método de pago
+  - Visualizar todos los scooters seleccionados para pagar
+
+**Userflow-2:** Visualizar perfil y Actualizar perfil
+
+- Visualizar perfil
+- Actualizar perfil
+
+**Userflow-3:** Añadir scooter a la sección de favoritos, Visualización de scooters favoritos, Reportar un problema de scooter, Documentación de GoSteel
+
+- Añadir Scooter a favoritos
+- Visualizar el scooter en el apartado Favorite scooters
+- Reportar un problema con la pagina o el scooter
+- Visualizar documentación del startup
+
+**Userflow-4:** Features adicionales: Cambiar de idioma y salir de la aplicación
+- Cambiar idioma
+- Log Out
+
+**Preguntas:**
+
+- Después de mostrarle el funcionamiento de la aplicación ¿considera que es complicado rentar un scooter?
+- ¿Los scooters disponibles contienen lo que necesitas saber sobre ellos, en cuanto a marca, tipo, precio y color?
+- ¿La funcionalidad para agregar las horas de renta, el día, tanto fecha y hora fueron complicados para entender? 
+- ¿Fue dificil hacer una renta?
+- ¿Qué otros apartados le gustaría visualizar?
+- ¿Qué opina acerca de la distribución de secciones, tanto el toolbar como el sidebar?
+- ¿Cómo describiría nuestra aplicación web en pocas palabras?
+- ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+- ¿Utiliza actualmente una aplicación web para rentar scooters? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+- ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+- ¿Considera que el diseño es adecuado?
+
+>**Segemento Objetivo 2: Transeúntes**
+
+**Presentación del entrevistado**
+
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Hace cuánto que está buscando otras formas de transportarse que no sea en auto o caminando?
+
+**Explicación de los alcances de la demostración**
+- Landing Page
+- Prinipales tareas en la aplicación
+
+**Navegación a través de la aplicación web**
+
+*Landing Page*
+
+**Preguntas a realizar**
+
+- ¿Consideras atractiva la manera en la que el producto FastScooter está promocionado en la Landing Page?
+- ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+- ¿Resulta agradable a la vista la manera en la que la información está presentada?
+- ¿Además de este dispositivo (pc), desde qué dispositivo utilizaste para acceder al Landing Page? (Respuestas posibles: Celular, tablet)
+- ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida o entender la información presentada?
+- Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+
+**Navegación a través de la aplicación web**
+
+*Aplicación Web*
+
+**UserFlow-1:** Ver Scooters disponibles, Buscar Scooter en específico, Añadir Renta de Scooter, visualizar la renta en la sección de reservas,  Añadir método de pago y Visualización de los scooters a pagar
+
+  - El usuario ingresa desde el botón call to action del landing page
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Search Scooters"
+  - Mostrar todos los Scooters disponibles a rentar
+  - Seleccionar un scooter
+  - Mostrar los detalles del scooters
+  - Rentar Scooters
+  - Visualizar el scooter en mis reservaciones
+  - Añadir método de pago
+  - Visualizar todos los scooters seleccionados para pagar
+
+**Userflow-2:** Visualizar perfil y Actualizar perfil
+
+- Visualizar perfil
+- Actualizar perfil
+
+**Userflow-3:** Añadir scooter a la sección de favoritos, Visualización de scooters favoritos, Reportar un problema de scooter, Documentación de GoSteel
+
+- Añadir Scooter a favoritos
+- Visualizar el scooter en el apartado Favorite scooters
+- Reportar un problema con la pagina o el scooter
+- Visualizar documentación del startup
+
+**Userflow-4:** Features adicionales: Cambiar de idioma y salir de la aplicación
+- Cambiar idioma
+- Log Out
+
+**Preguntas:**
+
+- Después de mostrarle el funcionamiento de la aplicación ¿considera que es complicado rentar un scooter?
+- ¿Los scooters disponibles contienen lo que necesitas saber sobre ellos, en cuanto a marca, tipo, precio y color?
+- ¿La funcionalidad para agregar las horas de renta, el día, tanto fecha y hora fueron complicados para entender? 
+- ¿Fue dificil hacer una renta?
+- ¿Qué otros apartados le gustaría visualizar?
+- ¿Qué opina acerca de la distribución de secciones, tanto el toolbar como el sidebar?
+- ¿Cómo describiría nuestra aplicación web en pocas palabras?
+- ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+- ¿Utiliza actualmente una aplicación web para rentar scooters? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+- ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+- ¿Considera que el diseño es adecuado?
+
+### 5.3.2. Registro de Entrevistas
+
+>**Segmento Objetivo 1: Empresarios**
+
+**Entrevistado 1:** Rosa Sofía Mercado Ruiz
+**Edad:** 22 años
+**Distrito:** San Borja
+**Cargo:** Emprededora 
+
+![empresario 1](assets/tb2/entrevistas/e2.png)
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/EYHRSUtk7sJKjv0sbdglV3oBchU63mYkNFKCN4yOlsSgMg?e=Lw1gxF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Reseña.Rosa sofia mercado ruiz es una joven que estudia psicología en la usmp, además para poder costearse sus gastos tiene un negocio en el que vende utilerias, ella cuenta con dos personas que realizan el delivery de sus productos. Comenta que la landing Page le parece dinámica y atractiva, la uso tanto en computadora como en celular y no presento ningún problema. Considera que cumple su función de captar al visitante a usar la aplicación web y que el filtro de idioma es bastante útil. Respecto a la aplicación web menciona que cumple su función de poder rentar scooters, y que además esto se realiza de forma sencilla y rápida. Califico la página un 8 de 10 ya que cree que faltan algunas opciones de accesibilidad.
+
+**Entrevistado 2:** Abel Andres Valle Zuta
+**Edad:** 24 años
+**Distrito:** La Molina
+**Cargo:** Empresario
+
+![empresario 2](assets/tb2/entrevistas/e3.png)
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/ER0HHreOn6JFvMHvftIj31QBg6V4NzC0WCx9BsclpPmFKA?e=pwMfaA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Reseña.Abel andres valle Zuta es un joven egresado de la carrera de administración que actualmente cuenta con una empresa de venta de diversos juguetes. Sobre la landing Page considera que esta es bastante sencilla de ver la información que contiene y que da a entender el propósito de la aplicación de forma sencilla, le pareció interesante el apartado de visualización de principales funcionalidades de la aplicación, la cual permite hacerse una idea bastante concreta de como funciona la aplicación. Respecto a la aplicación le pareció bastante buena y comenta que añadiría una sección de reseñas. También comenta que le parece en general bastante buena salvo eso y que en su dispositivo móvil funciona correctamente de la misma forma. Le dio a nuestra página un 10 de 10, ya que se pueden rentar scooters de forma sencilla y añadirlos a favoritos le pareció un gran punto a favor.
+
+**Entrevistado 3:** Mauro Perez Diaz
+**Edad:** 70 años
+**Distrito:** Distrito Villa el Salvador
+**Cargo:** Es dueño de una empresa de delivery
+
+![empresario 2](assets/tb2/entrevistas/e1.png)
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/r/personal/u201914294_upc_edu_pe/Documents/EntrevistaDeliveryD.mp4?csf=1&web=1&e=uCWqR3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Reseña. Mauro Perez Diaz es una persona de 70 años y tiene una empresa de Delivery de comida. Por el lado del Landing Page comenta que esta bastante claro en el tema de información pero también nos comenta que podríamos mejorar. En la parte de la aplicación web después de enseñarles la funcionalidades de la web nos comenta no es fácil rentar un scooter en nuestra aplicación web, pero también nos comento sobre el precio de los scooter, se percato que algunos scooter tenían el precio algo desfasados.
+
+>**Segmento Objetivo 2: Transeúntes**
+
+**Entrevistado 1:** Jeremy Joel Quispe Anda
+**Edad:** 19 años
+**Distrito:** San Juan de Lurigancho
+**Cargo:** Estudiante universitario
+
+![empresario 2](assets/tb2/entrevistas/c1.png)
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215705_upc_edu_pe/EZjcL4lYq0NDvE6aVXo_B7gBcD4ZVWSKqNLViMV_Xkv1tw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SJdYW3)
+
+Reseña.Jeremy Joel quispe andia es un joven estudiante en la upc. Comenta que alquila scooters regularmente para ir a la universidad mediante distintas aplicaciones desde que ingreso a la universidad hace 2 años. La landing Page le pareció amigable y confortante, le gustó la paleta de colores. Le pareció que el formulario de contacto debería estar más completo y ser más atractivo ya que le parece importante en una landing Page. Respecto a la aplicación web opina que cumple su principal funcionalidad, pero que está un poco desorganizada y que le gustaría ver un apartado de reseñas de usuario, para poder saber a scooter escoger, ya que una  sola estrella no brinda mucha información.  La gusto el cambio de idioma. También uso la aplicación desde su tableta y menciona que todo genial. Le brinda a la aplicación un sólido 9 de 10 debido a las sugerencias que ya se mencionaron.
+
+
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+>UX Heuristics & Principles Evaluation 
+ Usability – Inclusive Design – Information Architecture
+
+- Carrera: Ingeniería de Software
+- Curso: Desarrollo de Aplicaciones Open Source
+- Sección: WX52
+- Profesores: Todos
+- Auditor : Equipo de desarrollo Grupo 4 - SmartTech
+- Cliente(s) : GoSteel-FastScooter
+
+**Site o app a evaluar:** FastScooter - Aplicación de Renta de Scooters
+
+**Tareas a evaluar:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+- Registro de un usuario nuevo 
+- Inicio de sesión
+- Visualización de scooters disponibles
+- Rentar Scooters
+- Cambio de lenguaje
+- Búsqueda de scooters
+- Añadir scooters favoritos
+- Visualización de scooters favoritos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas: 
+- Enviar mensajes entre usuarios
+- Presentar ofertas de último minuto
+- Métodos de pago
+- Administrar scooters
+- Historial de pagos
+
+**Esacala de severidad:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>Nivel</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Descripción</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+		</tr>
+        <tr>
+            <td>2</td>
+            <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+        </tr>
+	    <tr>
+            <td>4</td>
+            <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+        </tr>	
+	</tbody>
+</table>
+
+**Tabla de resumen:**
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Escala de severidad</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Heurística/Principio violada(o)</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>No todas las vistas tienen aplicadas i18n</td>
+            <td>3</td>
+            <td>Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares</td>
+		</tr>
+        <tr>
+            <td>2</td>
+            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+	</tbody>
+</table>
+<br>
+
+**Descripción de problemas:**
+**Problema #1** No todas las vistas tienen aplicadas i18n
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h1.png)
+**Recomendación:**
+Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfaz para asegurar una experiencia de usuario fluida y profesional.
+<br>
+
+**Problema #2** Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h2.png)
+**Recomendación:**
+Para abordar este problema de diseño y mejorar la experiencia del usuario, es importante asegurarse de que el footer se mantenga en la parte inferior de la ventana del navegador, independientemente de la cantidad de contenido en la página.
+<br> 
+
+**Problema #3** No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal
+“Home”.
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h3.png)
+**Recomendación:**
+Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
+<br>
+
+>**Problemas levantados:**
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>No todas las vistas tienen aplicadas i18n</td>
+            <td>Solucionado, todas las vistas presentan traducción</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt](assets/tb2/heuristicas/s1.png)
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>2</td>
+            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
+            <td>Solucionado, el footer aparece al final del contenido y solo en el home, por preferencia de visualización.</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt](assets/fronted/front.png)
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>3</td>
+            <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”.</td>
+            <td>Botón home presente en todas las vistas por que permanece en el toolbar.</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt text](assets/tb2/heuristicas/s2.png)
+
+
+## 5.4. Video About-the-product
+A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion FastScooter, compende Web Applications y primera version de Backend aun no conectados.
+
+![video](assets/tb2/vid/video.png)
+[Link del video](https://youtu.be/vv5OwNrTvGw)
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 

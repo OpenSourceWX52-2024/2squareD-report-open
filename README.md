@@ -4474,17 +4474,18 @@ Implementación del Landing Page acorde con las User Stories.
 
 | Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|------------------------------|---------------------|--------------------|
-| acceptance-test-goSteel | main | 9da61c4 | feat: add feature 15 test | usability function | 07/06/2024 |
-| acceptance-test-goSteel | main | 370035e | feat: add feature 14 test |- filter search<br>- features like: model, brand, type, color, price...| 07/06/2024|
-| acceptance-test-goSteel | main | 5c4c96c | feat: add feature 13 test |- delete scooter reserved<br>- visualization<br>- functionality| 07/06/2024 |
-| acceptance-test-goSteel | main | 91859b4 | feat: add feature 12 test |- btn call to action (rent now, sidebar, router-links)<br>- show functionalities| 07/06/2024 |
-| acceptance-test-goSteel | main | be9d381 | fix: add more detauls about feature 10-11 tests|- i18n internalization feature<br>- fixing terms| 07/06/2024 |
-| acceptance-test-goSteel | main | 203da35 | feat: add feature 11 test | - feature: change language<br>- all aplication web<br>- terms update | 07/06/2024 |
-| acceptance-test-goSteel | main | 61e399 | feat: add feature 10 test | - edit profile<br>- update profile<br>- cancel edit | 07/06/2024 |
-| acceptance-test-goSteel | main | ec7bc0e | feat: add feature 9 test | - add scooter to the head favorites | 07/06/2024 |
-| acceptance-test-goSteel | main | 80da8e0 | feat: add feature 8 test | - function add time and hour for each scooter id | 07/06/2024 |
-| acceptance-test-goSteel | main | 90b7fb5 | feat: add feature 7 test | terms add | 07/06/2024 |
-| acceptance-test-goSteel | main | d447753 | feat: add feature 7 test | feature: add payment method | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 076192f | docs: add summary to documentation | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | f96e1a2 | fix: update acceptance test 7 |-| 07/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 84a0f3f | feat: add feature 8 test|- feature 8: visualitation of the user profile<br>- Scenarios: 3<br>- Happy and unhappy map realese| 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | c7f5bba | fix: update feature 8 test artefacts |- feature 8: visualitation of the user profile<br>- Scenarios: 3<br>- Happy and unhappy map realese| 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | c741d1e | feat: add feature 9 test|-| 07/06/2024 |
+|upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test| main | 203da35 | fix: update feature 9 test |- feature: update data profile<br>- Scenarios: 3<br>- happy and unhappy paths | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 25430d6 | feat: add feature 10 test | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | e04e1fa | fix: update terms of feature 10 test | - Scenarios: 3<br>- Feature 10: Change plan to use a new plan (premmium or free)  | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 503a8f0 | feta: add feature 11 test | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 90b7fb5 | feat: add feature 7 test | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 9b37934 | fix: update feature 11 test | - feature 11: log out<br>- Scenarios: 2 | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 9b37934 | feat: add feature 12 test |-| 07/06/2024 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 

@@ -4450,25 +4450,11 @@ Implementación del Landing Page acorde con las User Stories.
 </table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
-| Repository          | Branch  | Commit Id | Commit Message                                | Commit Message Body | Commited on (Date) |
+| Repository| Branch  | Commit Id | Commit Message| Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
-| goSteel-FastScooter-Frontend | main | d02fee8 | feat: add components |-| 07/06/2024|
-| goSteel-FastScooter-Frontend | main | c99c14a | feat: add features |-| 07/06/2024|
-| goSteel-FastScooter-Frontend | main | 560ff9d | fix: multiple components| - i18n<br>- default view<br>- routes| 07/06/2024|
-| goSteel-FastScooter-Frontend | main | 681f6fb | feat: add internalization terms |-| 07/06/2024 |
-| goSteel-FastScooter-Frontend | main | fd99771 | feat: add scooter-purchase and update routes  | - | 07/06/2024 |
-| goSteel-FastScooter-Frontend | main | db5bc31 | feat: add internalization terms |-| 07/06/2024 |
-| goSteel-FastScooter-Frontend | main | 672abd4 | feat: add features | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 3b9f786 | feat: add features | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | d042542 | feat: create scooter-details component | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | d28fd1a | fix: bugs dry | - | 07/06/2024|
-| goSteel-FastScooter-Backend | main | d275230 | fix: add Payment Infrastructure | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 57952f2 | fix: add PaymentResponse | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 55dade6 | fix: added request to model| - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 5f53f8c |fix: update infrastructure for favorite | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 5483a60 | fix: update favorite domain | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | 19c8d2e |feat: add component for favorite response | - | 07/06/2024 |
-| goSteel-FastScooter-Backend | main | cb88fbf |fix: update functions of faorite controller | - | 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | eb57d7f | fix: update components |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add overview games |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add math games view |-| 09/06/2024|
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review

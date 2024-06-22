@@ -53,11 +53,17 @@ Junio del 2024
       <td>Barrial Marin, Sharon Antuanet Ivet - Carpio Cornejo, Miguel Angel - Llacchua Peralta, Joseph Ulysses - Minaya Mundines, Pietro Gerardo - Ybañez Esquerre, Miguel Angel - Yen Cerna, Lucio Heli</td>
       <td>Subsanación de errores del Student Outcome, capítulo II: Entrevistas y análisis, capítulo II: User Stories, Product Backlog; capítulo IV: Wireframes, Mockups, User Flow, Diagramas C4, diagrama de base de datos y diagrama de clases; capítulo V: Source Code Management; y Landing Page. Desarrollo del Sprint 2: Frontend.</td>
     </tr>
-            <tr>
+        <tr>
       <td>3.00 - TB2</td>
       <td>09/06/2024</td>
       <td>Barrial Marin, Sharon Antuanet Ivet - Carpio Cornejo, Miguel Angel - Llacchua Peralta, Joseph Ulysses - Minaya Mundines, Pietro Gerardo - Ybañez Esquerre, Miguel Angel - Yen Cerna, Lucio Heli</td>
-      <td>Mejora del Sprint 2 en cuánto cóodigo y documentación. Desarrollo y revisión del Sprint 3.</td>
+      <td>Mejora del Sprint 2 en cuánto código y documentación. Desarrollo y revisión del Sprint 3.</td>
+    </tr>
+    <tr>
+    <td>4.00 - TF</td>
+    <td>25/06/2024</td>
+          <td>Barrial Marin, Sharon Antuanet Ivet - Carpio Cornejo, Miguel Angel - Llacchua Peralta, Joseph Ulysses - Minaya Mundines, Pietro Gerardo - Ybañez Esquerre, Miguel Angel - Yen Cerna, Lucio Heli</td>
+      <td>Mejora del Sprint 3 en cuánto código y documentación. Desarrollo y revisión del Sprint 4 y conclusión del proyecto.</td>
     </tr>
   </tbody>
 </table>
@@ -66,11 +72,7 @@ Junio del 2024
 ---
 # Project Report Collaboration Insights
 
-Se han realizado todas las tareas asignadas para la entrega TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace ["upc-pre-202401--si729-WX52-2SquareD-report"](https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-report/tree/main). Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
-
-![alt](assets/1tb2/image.png)
-![alt](assets/1tb2/i1.png)
-![alt text](assets/1tb2/image-1.png)
+Se han realizado todas las tareas asignadas para la entrega TF, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace ["upc-pre-202401--si729-WX52-2SquareD-report"](https://github.com/OpenSourceWX52-2024/upc-pre-202401--si729-WX52-2SquareD-report/tree/main). Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
 
 ---
 # Student Outcome
@@ -96,25 +98,31 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <ul>
               <li><strong>TB1:</strong> Realizó entrevistas al segmento objetivo, compartió ideas del proyecto con el público objetivo y recopiló información para priorizar las características del producto.</li> <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finalizadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li>
               <li><strong>TB2: </strong></li> 
+              <li><strong>TF: </strong></li>
             </ul>
           </li>
           <li>Miguel Ángel Ybañez Esquerre:
             <ul>
               <li><strong>TB1:</strong> Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades de búsqueda de necesidades en colaboración con el equipo.</li>
 		    <li><strong>TP:</strong> se respetó rigurosamente el diseño de domain design, asegurando la coherencia y consistencia en la arquitectura de la aplicación. Esta aproximación centrada en los dominios del negocio facilitó la escalabilidad y mantenibilidad del sistema a largo plazo, al tiempo que proporcionaba una base sólida para futuras iteraciones y expansiones del proyecto. En conjunto, la implementación de los componentes frontend durante el segundo sprint se llevó a cabo de manera disciplinada y orientada a resultados, contribuyendo significativamente al avance general del desarrollo del proyecto.</li> <li><strong>TB2: </strong>Se comunicaron las propuestas para las tareas del Sprint 3, los resultados de los avances diarios de los features delegados, y las propuestas para preguntas de entrevistas de validación. Además, se informó sobre el desarrollo del bounded context y se establecieron las fechas para hacer push de branches y realizar merges en la rama develop.</li>
+            <li><strong>TF: </strong></li>    
             </ul>
           </li>
-          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong> TB1: </Strong>Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetivo 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page</li> <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finalizadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li><li>TB2:La realización del bounded context de games consistio en entender sus funcionamiento e interrelacion entre todo los bounded context. Paralelamente, se llevaron a cabo correcciones y adiciones de vistas en el frontend para mejorar la interfaz de usuario. Además, se realizaron pruebas de aceptación de los features relacionados con las historias de usuario del backend.</li></ul>
+          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong> TB1: </Strong>Estructura del informe en Markdown, Entrevista y Registro de Entrevista para Segmento Objetivo 1, Capitulo 4.6 Software Architecture C4 Model. Repositorio, Creacion y Despliegue del Landing Page</li> <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finalizadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li><li>TB2:La realización del bounded context de games consistio en entender sus funcionamiento e interrelacion entre todo los bounded context. Paralelamente, se llevaron a cabo correcciones y adiciones de vistas en el frontend para mejorar la interfaz de usuario. Además, se realizaron pruebas de aceptación de los features relacionados con las historias de usuario del backend.</li>
+          <li><strong>TF: </strong></li>
+          </ul>
           <li>Yen Cerna, Lucio Heli:
             <ul>
               <li><strong>TB1:</strong> Tras una gran cantidad de reuniones que permitieron encaminar al grupo hacia el objetivo, se pudo lograr un incremento que cumple con las expectativas del Sprint 1. En mi caso, realicé entrevistas que recopilaron información importante, coordiné con mis compañeros la organización de trabajo y los guié para entregar la mayor calidad posible en el proyecto. La comunicación fue fundamental en el equiipo de trabajo debido a que de esta manera todo el grupo pudo identificar lo que los clientes necesitan y pudimos mantener una sola idea en el desarrollo del producto.</li>
               <li><strong>TP: </strong> Para la entrega parcial, las reuniones del grupo comenzaron enfocándose en los puntos de mejora del Sprint 1 y de las reflexiones que sacabamos como conclusión. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finiquitadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Finalmente, se llevaron a cabo reuniones de revisión del Sprint para revisar en conjunto si es que existe algún error o un punto de mejora.</li><li>TB2: Para la entrega número 2, la cordinación de grupo fue importante para seguir con el desarrollo del proyecto. Al ya saber el velocity del equipo, la coordinación fue más sencilla tras saber la metodolgía del grupo. Una vez identificados todos los puntos que podrían tener mejor calidad, se separó equilibradamente las correciones para que el avance del proyecto no se vea afectado. Una vez finiquitadas las correciones, se llevó a cabo una Sprint Meeting que consistió en ordenar al equipo para ejecutar este sprint de la mejor manera posible. Gracias a la comunicación oral del equipo, pudimos conocer las tareas que cada uno podría desempeñar mejor y asignarlas respectivamente para foomentar un trabajo ágil colaborativo. Uno de los aspectos más importantes que se tuvo que comunicar fue la repartición/afinamiento de bounded context</li> 
+              <li><strong>TF: </strong></li>
             </ul>
           </li>
           <li>Llacchua Peralta Joseph Ulysses:
             <ul>
               <li><strong>TB1:</strong> Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint.</li>
               <li><strong>TP: </strong> Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. A partir de estos hallazgos, desarrollé wireframes y formularios para estructurar la información obtenida y guiar el proceso de diseño. Mi contribución ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.</li><li>TB2: En esta entrega del proyecto, tuve la oportunidad de ampliar mis conocimientos y habilidades técnicas. Pude aprender a utilizar Spring Boot, una popular framework de Java, para desarrollar las APIs de mensajería. Esto me permitió construir soluciones que facilitaban la comunicación entre los usuarios del sistema.</li>
+              <li><strong>TF: </strong></li>
             </ul>
           </li>
           <li>Barrial Marin, Sharon Antuanet Ivet:
@@ -122,12 +130,14 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
               <li><strong>TB1:</strong> Participó en el desarrollo del Sprint 1, gestionó el código fuente y realizó actividades correspondientes al Lean UX Assumptions, As-is scenario mapping, to-be scenario mapping, epics, user stories y class diagrams con su respectivo class dictionary</li>
 		    <li><strong>TP:</strong> La información desarrollada en el sprint Sprint Planning 2 y  El Sprint Backlog 2  fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir. Además, se fomentó la colaboración activa entre los miembros del equipo, aprovechando las oportunidades para compartir conocimientos y experiencias que enriquecieran el proceso de desarrollo. En resumen, el segundo sprint se caracterizó por una planificación meticulosa, una ejecución eficiente y una colaboración efectiva, sentando así las bases para el éxito continuo del proyecto.</li>
             <li><strong>TB2:</strong>La realización parcial del backend perteneciente al bounded context de performance implicó reconocer las funcionalidades esenciales que permiten gestionar y optimizar el rendimiento del estudiante en el ambito academico. Paralelamente, se llevaron a cabo correcciones y adiciones de vistas en el frontend para mejorar la interfaz de usuario. Además, se realizaron pruebas de aceptación de los features relacionados con las historias de usuario del backend.</li>
+            <li><strong>TF: </strong></li>
             </ul>
           </li>
         </ul>
       </td>
       <td><li><strong>TB1:</strong> 
-La asignación individual de tareas permitió que cada miembro se concentrara en un área específica, lo que resultó en una finalización exitosa de todas las responsabilidades asignadas que constituían el contexto del proyecto y el diseño de la plataforma web y landing page. Al concluir, cada miembro del equipo pudo comunicar sus ideas de manera efectiva durante las interacciones verbales, demostrando habilidades de comunicación objetiva y clara con audiencias de diversas especialidades y niveles jerárquicos, en línea con el criterio evaluado de comunicación oral en el contexto de un proyecto de ingeniería. Para que el grupo se comunicara de manera virtual se emplearon diversas herramientas como Discord, Whatsapp, Trello, entre otros. Por último, se utilizó github Desktop, Visual Studio Code y JetBrains WebStorm para el desarrollo colaborativo del reporte y  del Sprint 1.</li> <br> <br> <li><strong> TP:</strong> En el marco de una entrega tan importante como la entrega parcial, el grupo decidió juntarse tras el feedback brindado para reflexionar sobre la primera entrega y hallar los puntos de mejoria. Tras ello, se llevaron a cabo las correciones del proyecto para posteriormente coomenzar con el desarrollo del Sprint 2. En consideración con este sprint, se coordinó de manera oral las actividades que realizaría cada miembro dependiendo de sus habilidades fomentando un desarrollo ágil y eficiente. En síntesis, el equipo cumple con el student outcome al  comunicarse oralmente sobre las correciones, reflexiones, coordinaciones y entre otros para seguir con el desarrollo del Sprint 2.</li> <li><strong>TB2: </strong>La realización del backend y el reconocimiento e interpretación de los endpoints a implementar para esta entrega, aunque fue parcial, fue excelente para cumplir con el requisito propuesto para esta penúltima etapa. Además, las correcciones hechas en el frontend mejoraron significativamente la experiencia del usuario, lo que fue fundamental para cumplir con el Student Outcome. Estas mejoras no solo optimizaron la funcionalidad y usabilidad del sistema, sino que también sentaron una base sólida para los desarrollos futuros y aseguraron que los objetivos de la etapa se alcanzaran con éxito.</li></td>  
+La asignación individual de tareas permitió que cada miembro se concentrara en un área específica, lo que resultó en una finalización exitosa de todas las responsabilidades asignadas que constituían el contexto del proyecto y el diseño de la plataforma web y landing page. Al concluir, cada miembro del equipo pudo comunicar sus ideas de manera efectiva durante las interacciones verbales, demostrando habilidades de comunicación objetiva y clara con audiencias de diversas especialidades y niveles jerárquicos, en línea con el criterio evaluado de comunicación oral en el contexto de un proyecto de ingeniería. Para que el grupo se comunicara de manera virtual se emplearon diversas herramientas como Discord, Whatsapp, Trello, entre otros. Por último, se utilizó github Desktop, Visual Studio Code y JetBrains WebStorm para el desarrollo colaborativo del reporte y  del Sprint 1.</li> <br> <br> <li><strong> TP:</strong> En el marco de una entrega tan importante como la entrega parcial, el grupo decidió juntarse tras el feedback brindado para reflexionar sobre la primera entrega y hallar los puntos de mejoria. Tras ello, se llevaron a cabo las correciones del proyecto para posteriormente coomenzar con el desarrollo del Sprint 2. En consideración con este sprint, se coordinó de manera oral las actividades que realizaría cada miembro dependiendo de sus habilidades fomentando un desarrollo ágil y eficiente. En síntesis, el equipo cumple con el student outcome al  comunicarse oralmente sobre las correciones, reflexiones, coordinaciones y entre otros para seguir con el desarrollo del Sprint 2.</li> <li><strong>TB2: </strong>La realización del backend y el reconocimiento e interpretación de los endpoints a implementar para esta entrega, aunque fue parcial, fue excelente para cumplir con el requisito propuesto para esta penúltima etapa. Además, las correcciones hechas en el frontend mejoraron significativamente la experiencia del usuario, lo que fue fundamental para cumplir con el Student Outcome. Estas mejoras no solo optimizaron la funcionalidad y usabilidad del sistema, sino que también sentaron una base sólida para los desarrollos futuros y aseguraron que los objetivos de la etapa se alcanzaran con éxito.</li>
+<li><strong>TF: </strong></li></td>  
     </tr>
     <tr>
       <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
@@ -136,38 +146,44 @@ La asignación individual de tareas permitió que cada miembro se concentrara en
           <li>Carpio Cornejo, Miguel Ángel:
             <ul>
               <li><strong>TB1:</strong> Lideró reuniones de avance donde comunicó de manera objetiva los resultados y progresos del proyecto a un público diverso, incluyendo miembros del equipo con diferentes puntos de vista y edades, así como stakeholders externos.</li>  <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li><li><strong>TB2: </strong></li>
+              <li><strong>TF: </strong></li>
             </ul>
           </li>
           <li>Miguel Ángel Ybañez Esquerre:
             <ul>
               <li><strong>TB1:</strong> Se analizaron las convenciones de código para el desarrollo correcto de características, landing pages y próximamente la aplicación web. Se elaboraron los wireframes y mockups de las páginas de destino, así como la guía de estilos.</li>
 		<li><strong>TP:</strong> Durante el transcurso del segundo sprint, se llevó a cabo la implementación de los componentes esenciales para el frontend del proyecto. Este proceso implicó la traducción de los diseños y especificaciones en código funcional y estéticamente atractivo para el usuario final. Se prestaron especial atención a los detalles de usabilidad y experiencia de usuario, garantizando así que la interfaz fuera intuitiva y fácil de navegar. Además, se adoptó una metodología de desarrollo basada en el uso correcto de branches, siguiendo fielmente el flujo de trabajo establecido por Gitflow. Esta práctica permitió una gestión eficiente del código, facilitando la colaboración entre los miembros del equipo y minimizando el riesgo de conflictos durante el proceso de integración. </li>   <li><strong>TB2: </strong>Se redactaron las propuestas para el desarrollo del feature delegado en Web Services, así como las correcciones y adiciones para Web Applications, y se compartieron con todo el equipo para su verificación. Además, se documentaron los commits realizados. Se informó al equipo sobre los avances en sus respectivas branches y se comunicaron los pasos para desplegar la nueva versión de Web Applications.</li>
+        <li><strong>TF: </strong></li>
             </ul>
           </li>
           <li>Llacchua Peralta Joseph Ulysses:
             <ul>
               <li><strong>TB1:</strong> He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps.</li>
             <li><strong>TP:</strong>Durante la realización de este proyecto, me comprometí a diseñar mockups para ordenador, cuidando la selección de colores, texturas y tamaños. Además, llevé a cabo entrevistas adicionales y realicé sus respectivos análisis para profundizar en la comprensión de las necesidades de los usuarios.</li> <li><strong>TB2:</strong> Para esta entrega del proyecto, se implementó una estrategia para mejorar la gestión y planificación del trabajo en equipo. Específicamente, se realizó una distribución detallada del boudent context a fin de facilitar la planificación de las tareas del sprint.</li>
+            <li><strong>TF: </strong></li>
             </ul> 
           </li>
-          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li>              <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li> <li><strong>TB2: Durante la TB2, realicé las correciones respectivas en documentación y frontend. Me involucrado en la organización de carpetas del backend y en el deployment el que desplegar nuestro producto. Gracias a estos aportes, mi participación en el equipo tuvo un impacto considerable.</strong></li>
+          <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li> <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li> <li><strong>TB2: </strong>Durante la TB2, realicé las correciones respectivas en documentación y frontend. Me involucrado en la organización de carpetas del backend y en el deployment el que desplegar nuestro producto. Gracias a estos aportes, mi participación en el equipo tuvo un impacto considerable.</li><li><strong>TF: </strong></li>
          </ul>
           <li>Yen Cerna, Lucio Heli:
             <ul>
               <li><strong>TB1:</strong> Durante el proyecto, documenté efectivamente diferentes secciones como el LEAN UX CANVAS, El Ubiquitous language que es fundamental para comunicarse con los stakeholders, las epics y user stories, el impact mapping y la arquitectura de información de la plataforma web y landing page. De esta manera, he podido aportar en el desarrollo del proyecto de forma escrita incorporando información vital para el desarrollo del producto a nivel de usuario y a nivel de estructura</li>
-              <li><strong>TP: </strong>Durante la TP, corregí los errores identificados en el Sprint Review, además, agregue documentación de calidad en las entrevistas, User Stories, los Wireframes, Userflows, Mockups, Wireflows y prototyping. Mi aporte en este proyecto ha tenido un impactoo positivo puesto que alimenté la documentación del proyecto brindando información que refleja mayor entendimiento y permite comunicar el propósito de nuestr product a los interesados del negocio.</li> <li><strong>TB2: Durante la TB2, realicé las correciones respectivas en documentación y frontend. Estuve involucrado en la organización de carpetas del backend y en el deployment para que desplegar nuestro producto. Gracias a estos aportes, mi participación comoo equipo fue de buen impactoo.</strong></li>
+              <li><strong>TP: </strong>Durante la TP, corregí los errores identificados en el Sprint Review, además, agregue documentación de calidad en las entrevistas, User Stories, los Wireframes, Userflows, Mockups, Wireflows y prototyping. Mi aporte en este proyecto ha tenido un impactoo positivo puesto que alimenté la documentación del proyecto brindando información que refleja mayor entendimiento y permite comunicar el propósito de nuestr product a los interesados del negocio.</li> <li><strong>TB2: </strong> Durante la TB2, realicé las correciones respectivas en documentación y frontend. Estuve involucrado en la organización de carpetas del backend y en el deployment para que desplegar nuestro producto. Gracias a estos aportes, mi participación como equipo fue de buen impacto.</li><li><strong>TF: </strong></li>
             </ul>
           </li>
           <li>Barrial Marin, Sharon Antuanet Ivet:
             <ul>
               <li><strong>TB1:</strong> Análisis y comparación de los registros de entrevistas, junto con los assumptions y la retroalimentación.</li>
               <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li> <li><strong>TB2: </strong>La comunicación asertiva fue clave para la repartición eficiente de los bounded contexts, asegurando que cada miembro del equipo comprendiera claramente sus responsabilidades y las interdependencias entre las distintas áreas del proyecto. Además, creamos un video sobre el equipo para compartir nuestras reflexiones como grupo, lo que fomentó la cohesión y permitió una autoevaluación constructiva de nuestro trabajo y dinámicas de colaboración. Durante la exposición del Sprint 3 y la Sprint Review, presentamos los avances logrados, discutimos los desafíos encontrados y recopilamos feedback valioso, permitiendo ajustes precisos y mejoras continuas en el desarrollo del proyecto.</li>
+              <li><strong>TF: </strong></li>
             </ul>
           </li>
         </ul>
       </td>
       <td><li><strong>TB1:</strong> 
-Durante este sprint, cada miembro del equipo se dedicó de manera focalizada al desarrollo de las tareas escritas asignadas para esta fase que documentaban el contexto y diseño del proyecto relacionando los conceptos con el sector correspondiente, lo que garantizó un progreso significativo y eficiente en el proyecto. Posteriormente, cada integrante compartió formalmente sus contribuciones por escrito, lo que resultó en una presentación unificada y clara de nuestros avances mediante Github Desktop y otros medios de comunicación. Esta práctica aseguró que las ideas y resultados se comunicaran de manera objetiva y comprensible a un público diverso, incluidos aquellos con diferentes especialidades y niveles jerárquicos. Este enfoque en la comunicación escrita demostró una habilidad efectiva para transmitir información técnica y compleja de manera accesible, cumpliendo así con el criterio evaluado de comunicación escrita en el contexto del desarrollo de un proyecto en ingeniería. Además, el equipo de trabajo avanzó de forma pareja con una meta en común lo cuál logró que cada aporte sea beneficioso para el desarrollo.</li> <br> <br> <li><strong> TP:</strong> Durante este Sprint, cada miembro del equipó brindo documentación de calidad que permitió alimentar la articulación del proyecto, por otro lado, existió comunicación oral para desarrollar el código de la plataforma web mediante Github Desktop permitiendo al grupo trabajar de forma asíncrona mediante un desarrollo iterativo. Igualmente, hubo comunicación escrita en el código del proyecto para que todos los miembros del equipo puedan conocer todas las funcionalidades implementadas mediante breves explicación en forma de comentarios o en descripciones de los commits registrados en el repositorio donde está alojado el proyecto. En síntesis, se cumplió el criterio del student outcome de manera que el grupo pudo brindar documentación de mayor calidad a los interesados del negocio y pudo comunicarse mediante explicaciones para entender y seguir desarrollando el proyecto</li> <li><strong>TB2: </strong>La elaboración de nuestras entrevistas fue crucial para transmitir a nuestro usuario el propósito, la finalidad y los beneficios de nuestro proyecto. Además, la exposición clara y precisa de lo logrado en el video sobre el producto mostró que se cumplieron los objetivos de esta entrega. Asimismo, la exposición de nuestras reflexiones, tanto individuales como grupales, nos ayudó a identificar formas de mejorar nuestro funcionamiento como equipo, cumpliendo con el punto del Student Outcome correspondiente. Estas acciones no solo demostraron nuestro progreso, sino que también reforzaron nuestra capacidad de comunicación y colaboración efectiva.</li></td>
+Durante este sprint, cada miembro del equipo se dedicó de manera focalizada al desarrollo de las tareas escritas asignadas para esta fase que documentaban el contexto y diseño del proyecto relacionando los conceptos con el sector correspondiente, lo que garantizó un progreso significativo y eficiente en el proyecto. Posteriormente, cada integrante compartió formalmente sus contribuciones por escrito, lo que resultó en una presentación unificada y clara de nuestros avances mediante Github Desktop y otros medios de comunicación. Esta práctica aseguró que las ideas y resultados se comunicaran de manera objetiva y comprensible a un público diverso, incluidos aquellos con diferentes especialidades y niveles jerárquicos. Este enfoque en la comunicación escrita demostró una habilidad efectiva para transmitir información técnica y compleja de manera accesible, cumpliendo así con el criterio evaluado de comunicación escrita en el contexto del desarrollo de un proyecto en ingeniería. Además, el equipo de trabajo avanzó de forma pareja con una meta en común lo cuál logró que cada aporte sea beneficioso para el desarrollo.</li> <br> <br> <li><strong> TP:</strong> Durante este Sprint, cada miembro del equipó brindo documentación de calidad que permitió alimentar la articulación del proyecto, por otro lado, existió comunicación oral para desarrollar el código de la plataforma web mediante Github Desktop permitiendo al grupo trabajar de forma asíncrona mediante un desarrollo iterativo. Igualmente, hubo comunicación escrita en el código del proyecto para que todos los miembros del equipo puedan conocer todas las funcionalidades implementadas mediante breves explicación en forma de comentarios o en descripciones de los commits registrados en el repositorio donde está alojado el proyecto. En síntesis, se cumplió el criterio del student outcome de manera que el grupo pudo brindar documentación de mayor calidad a los interesados del negocio y pudo comunicarse mediante explicaciones para entender y seguir desarrollando el proyecto</li> <li><strong>TB2: </strong>La elaboración de nuestras entrevistas fue crucial para transmitir a nuestro usuario el propósito, la finalidad y los beneficios de nuestro proyecto. Además, la exposición clara y precisa de lo logrado en el video sobre el producto mostró que se cumplieron los objetivos de esta entrega. Asimismo, la exposición de nuestras reflexiones, tanto individuales como grupales, nos ayudó a identificar formas de mejorar nuestro funcionamiento como equipo, cumpliendo con el punto del Student Outcome correspondiente. Estas acciones no solo demostraron nuestro progreso, sino que también reforzaron nuestra capacidad de comunicación y colaboración efectiva.</li>
+<li><strong>TF: </strong></li>
+</td>
    </tr>
   </tbody>
 </table>
@@ -4367,9 +4383,9 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 #### 5.2.3.1. Sprint Planning 3
 
-| Sprint #                         | 3                                                                                                                                                                            | 
+| Sprint # | 3  | 
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| **Sprint Planning Background**   | -                                                                                                                                                                            |
+| **Sprint Planning Background**   | -                                    |
 | Date                             | 2024 - 06 - 08  |
 | Time                             | 21:32 PM |
 | Location                         | Virtual via Discord |
@@ -4517,14 +4533,12 @@ Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend
 
 | Endpoint          | Detalles  |
 |---------------------|---------|
-| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
-| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
-| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario |
-| /api/v1/favorite | En este endpoint se obtienen los scooters favoritos seleccionados por el usuario | 
-| /api/v1/payment | En este endpoint se obtiene el método de pago ingresado por el usuario | 
-| /api/v1/rent | En este endpoint se obtiene las rentas realizadas por el usuario | 
-| /api/v1/scooter | En este endpoint se obtiene los scooters disponibles en la aplicación|
-| /api/v1/user | En este endpoint se obtiene los users registrados en la aplicación |  
+| /api/v1/profile | En este endpoint se obtienen los perfiles de los usuarios de la aplicación | 
+| /api/v1/profile/{id} | En este endpoint se obtiene un pérfil de usuario ingresando su id | 
+| /api/v1/ | En este endpoint se obtiene las rentas realizadas por el usuario |
+| /api/v1/notification | En este endpoint se obtienen las notificaciones de la aplicación | 
+| /api/v1/notification/{id} | En este endpoint se obtiene un pérfil de usuario ingresando su id | 
+| /api/v1/notification/user/{id} | En este endpoint se obtiene las rentas realizadas por el usuario |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -4569,10 +4583,36 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 ![controbution](assets/1tb2/contriback.png)
 ![network](assets/1tb2/networkback.png)
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+| Sprint # | 4  | 
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| **Sprint Planning Background**   | -                                    |
+| Date                             | 2024 - 06 - 21  |
+| Time                             | 22:00 PM |
+| Location                         | Virtual via Discord |
+| Prepared By                      | Carpio Cornejo, Miguel Ángel|
+| Attendees (to planning meeting)  | Barrial Marin, Sharon Antuanet Ivet <br> Carpio Cornejo, Miguel Ángel <br> Llacchua Peralta, Joseph Ulysses <br> Minaya Mundines, Pietro Gerardo <br> Ybañez Esquerre, Miguel Angel <br> Yen Cerna, Lucio Heli |
+| Sprint 4 - Review Summary        | |
+| Sprint 4 - Retrospective Summary | |
+| Sprint Goal & User Stories       | |
+| Sprint 4 Goal                    | |
+| Sprint 4 - Velocity              | |
+| Sprint 4 - Story Points          | |
+
+#### 5.2.4.2. Sprint Backlog 4
+#### 5.2.4.3. Development Evidence for Sprint Review
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 ## 5.3.Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
->**Segemento Objetivo 1: Institución Educativa**
+>**Segmento Objetivo 1: Institución Educativa**
 
 **Presentación del entrevistado**
 
@@ -4603,10 +4643,10 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 **UserFlow-1:** Ver Juegos disponibles, visualizar el progreso académico en la sección de progreso,  Añadir método de pago y Visualización de los planes a pagar y escoger
 
-  - El usuario ingresa desde el botón call to action del landing page
+  - El usuario ingresa desde el botón "call to action" del landing page
   - Se redirige a la sección de registro de usuarios y llena los campos solicitados
   - Se redirige a la sección de Home
-  - Muetsra todos los Juegos disponibles para el usuario
+  - Muestra todos los Juegos disponibles para el usuario
   - Seleccionar un Juego
   - Mostrar los detalles del Juego
   - Visualizar el mecanismo del juego

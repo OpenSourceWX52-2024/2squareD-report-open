@@ -4593,10 +4593,10 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | Location                         | Virtual via Discord |
 | Prepared By                      | Carpio Cornejo, Miguel Ángel|
 | Attendees (to planning meeting)  | Barrial Marin, Sharon Antuanet Ivet <br> Carpio Cornejo, Miguel Ángel <br> Llacchua Peralta, Joseph Ulysses <br> Minaya Mundines, Pietro Gerardo <br> Ybañez Esquerre, Miguel Angel <br> Yen Cerna, Lucio Heli |
-| Sprint 4 - Review Summary        | |
-| Sprint 4 - Retrospective Summary | |
-| Sprint Goal & User Stories       | |
-| Sprint 4 Goal                    | |
+| Sprint 4 - Review Summary        |La reunión trató los User stories restantes y preparó  al equipo para concluir el proyecto |
+| Sprint 4 - Retrospective Summary |El equipo se mostró optimista en cuánto a la parte final del desarrrollo del proyecto tras identificar los puntos de mejora con respecto al anterior sprint |
+| Sprint Goal & User Stories       |Finalizar los user stories restantes del product backlog |
+| Sprint 4 Goal                    |Concluir con los features faltantes y entregar el producto |
 | Sprint 4 - Velocity              | |
 | Sprint 4 - Story Points          | |
 

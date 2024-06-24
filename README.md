@@ -4617,6 +4617,12 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | b6fdcea | fix: update elements gherking for feature 17 test | -feature: teacher create class<br>scenarios: 3<br>test: unhappy and happy path | 23/06/2024 |
 | upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 052dbb4 | ffeat: add feature test 18 | - | 23/06/2024 |
 | upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 9b37934 | fix: update elements gherkin for feature 18 |-feature: join a class<br>scenarios: 4<br>test: unhappy and happy path| 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 67e3e85 | feat: add feature 19 test |-| 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | fb44195 | fix: update elements gherkin for feature test 19 | feature: add student to a class<br>scenarios: 3<br>test: unhappy and happy path| 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 475fc22 | fix: update gherkin elements for feature test 20 | feature: send messages<br>scenarios: 6<br>test: unhappy and happy path| 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 36a30e8 | feat: add feature test 20 |-| 23/06/2024 
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | c2e2bce | feat: add feature test 21 |-| 23/06/2024 
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | b1f88b5 | fix: update gherkin elements to feature test 21 |-feature: join to a competition<br>scenarios: 4<br>test: unhappy and happy path| 23/06/2024 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review

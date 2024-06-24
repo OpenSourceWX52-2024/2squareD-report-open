@@ -4608,15 +4608,16 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | ea133af | feat: add feature 13 test | - | 23/06/2024 |
 | upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 5b68069 | fix: add and update elements for testing feature |feature: select role <br> scenarios: 4<br> unhappe and happy path put on| 23/06/2024|
 | upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | bcec947 | feat: add feature 14 test|- | 23/06/2024 |
-| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | c7f5bba | fix: update feature 8 test artefacts |- feature 8: visualitation of the user profile<br>- Scenarios: 3<br>- Happy and unhappy map realese| 07/06/2024 |
-| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | c741d1e | feat: add feature 9 test|-| 07/06/2024 |
-|upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test| main | 203da35 | fix: update feature 9 test |- feature: update data profile<br>- Scenarios: 3<br>- happy and unhappy paths | 07/06/2024 |
-| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 25430d6 | feat: add feature 10 test | - | 07/06/2024 |
-| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | e04e1fa | fix: update terms of feature 10 test | - Scenarios: 3<br>- Feature 10: Change plan to use a new plan (premmium or free)  | 07/06/2024 |
-| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 503a8f0 | feta: add feature 11 test | - | 07/06/2024 |
-| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 90b7fb5 | feat: add feature 7 test | - | 07/06/2024 |
-| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 9b37934 | fix: update feature 11 test | - feature 11: log out<br>- Scenarios: 2 | 07/06/2024 |
-| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 9b37934 | feat: add feature 12 test |-| 07/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 4e2d545 | fix: update a elements fherkin for feature 14 |-feature: see carousel<br>games avaiables<br>scenarios: 3<br>test: unhappy and happy path| 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | c741d1e | feat: add feature 15 test|-| 23/06/2024 |
+|upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test| main | 56a6a5a | fix: update elements gherkin of feature 15 |-feature: tags functionality<br>scenarios: 4<br>test: unhappy and happy path | 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 25430d6 | feat: add feature 16 | - | 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 574b153 | fix: update feature 16 test | -feature: tags functionality of game deatils<br>scenarios: 7<br>test: unhappy and happy path | 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 523562e | feat: add feature 17 test | - | 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | b6fdcea | fix: update elements gherking for feature 17 test | -feature: teacher create class<br>scenarios: 3<br>test: unhappy and happy path | 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 052dbb4 | ffeat: add feature test 18 | - | 23/06/2024 |
+| upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | 9b37934 | fix: update elements gherkin for feature 18 |-feature: join a class<br>scenarios: 4<br>test: unhappy and happy path| 23/06/2024 |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review

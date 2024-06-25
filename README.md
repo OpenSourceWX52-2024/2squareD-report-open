@@ -4702,6 +4702,12 @@ Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sp
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Las actividades para el presente Sprint se repartieron en base a las secciones del fronted y el backend que se plantearon como equipo previamente, para ello, se realizaron primero los componentes y luego entre todo el equipo se desarrolló las rutas. De esta manera, el desarrollo del fronted fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+>**Fronted insights**
+
+![front-pulse](assets/sprint4front/pulse-front.png)
+![front-commits](image.png)
 
 ## 5.3.Validation Interviews
 ### 5.3.1. Diseño de Entrevistas

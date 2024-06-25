@@ -122,7 +122,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <ul>
               <li><strong>TB1:</strong> Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint.</li>
               <li><strong>TP: </strong> Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. A partir de estos hallazgos, desarrollé wireframes y formularios para estructurar la información obtenida y guiar el proceso de diseño. Mi contribución ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.</li><li>TB2: En esta entrega del proyecto, tuve la oportunidad de ampliar mis conocimientos y habilidades técnicas. Pude aprender a utilizar Spring Boot, una popular framework de Java, para desarrollar las APIs de mensajería. Esto me permitió construir soluciones que facilitaban la comunicación entre los usuarios del sistema.</li>
-              <li><strong>TF: </strong></li>
+              <li><strong>TF:</strong>Para esta entrega, se ha implementado el bounded context de IAM en el backend. Como resultado, se ha actualizado el frontend para que sea compatible con las nuevas verificaciones, y se han realizado mejoras para que los mensajes de la plataforma sean uniformes. </li>
             </ul>
           </li>
           <li>Barrial Marin, Sharon Antuanet Ivet:
@@ -160,7 +160,7 @@ La asignación individual de tareas permitió que cada miembro se concentrara en
             <ul>
               <li><strong>TB1:</strong> He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps.</li>
             <li><strong>TP:</strong>Durante la realización de este proyecto, me comprometí a diseñar mockups para ordenador, cuidando la selección de colores, texturas y tamaños. Además, llevé a cabo entrevistas adicionales y realicé sus respectivos análisis para profundizar en la comprensión de las necesidades de los usuarios.</li> <li><strong>TB2:</strong> Para esta entrega del proyecto, se implementó una estrategia para mejorar la gestión y planificación del trabajo en equipo. Específicamente, se realizó una distribución detallada del boudent context a fin de facilitar la planificación de las tareas del sprint.</li>
-            <li><strong>TF: </strong></li>
+            <li><strong>TF:</strong>En esta cuarta entrega, se integraron servicios IAM para el registro y el inicio de sesión en el frontend, y se documentaron las mejoras realizadas en el backend y frontend durante el Sprint 4. Además, se actualizaron el diseño de la base de datos y los diagramas de clases. Se añadieron las conclusiones y recomendaciones, abarcando todo el trabajo realizado desde el Sprint 1 hasta el Sprint 4.</li>
             </ul> 
           </li>
           <li>Pietro Gerardo Minaya Mundines: <ul><li><strong>TB1:</strong>Software Architecture Context Diagram, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Creacion Landing Page, Codificacion Landing Page y Despliegue Landing Page.</li> <li><strong>TP:</strong> En el segundo sprint, se comunicaron las ideas reconocidas y desarrolladas en varios puntos clave. Como el Sprint Planning 2 permitió establecer las metas y prioridades para el periodo en cuestión, definiendo claramente las tareas a realizar. El Sprint Backlog 2 para organizar y gestionar el trabajo asignado a cada miembro del equipo, garantizando así un avance fluido y eficiente del proyecto. Durante el proceso de desarrollo, se dedicó especial atención a recopilar evidencia relevante para la Revisión del Sprint, incluyendo pruebas de funcionalidad y rendimiento, así como documentación detallada de los servicios y despliegue de software. Esta información fue crucial para evaluar el progreso alcanzado y tomar decisiones informadas sobre los siguientes pasos a seguir.</li> <li><strong>TB2: </strong>Durante la TB2, realicé las correciones respectivas en documentación y frontend. Me involucrado en la organización de carpetas del backend y en el deployment el que desplegar nuestro producto. Gracias a estos aportes, mi participación en el equipo tuvo un impacto considerable.</li><li><strong>TF: </strong></li>
@@ -4511,13 +4511,18 @@ Implementación del fronted y backend acorde con las User Stories.
 
 Reseña.
 
-**Entrevistado 2:** Abel Andres Valle Zuta
-**Edad:** 24 años
-**Distrito:** La Molina
-**Cargo:** Director
+**Entrevistado 2:**  Augusto Mathias Leonardo Vasquez
+**Edad:** 30 años
+**Distrito:** San Isidro
+**Rol:** Ejecutivo en una institución educativa <br>
+**Inicio de Timing:** 01:00 min<br>
+**Fin de Timing:** 8:55 min<br>
 
-![empresario 2]()
-[URL de entrevista]()
+![estudiante1](assets/sprint4/image.png)
+
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EUsdDlqHTxRBvrJoexrTlAIBPxIp0xoIO8n535ik2UvZlQ?e=jkLijG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
+
+Augusto Mathias Leonardo Vasquez, ejecutivo de 30 años en una institución educativa, con 8 años de experiencia, describe MathPlayOpen como una plataforma innovadora y fácil de usar que hace el aprendizaje de matemáticas divertido. Considera la Landing Page atractiva y bien organizada, calificándola con un 9, y encontró la navegación por la aplicación web sencilla e intuitiva. Sugiere mejoras en la sección de análisis de progreso y la inclusión de más opciones de personalización y tutoriales en video. En general, Mathias opina que el diseño es adecuado y funcional, destacando la interactividad y el enfoque lúdico de la aplicación.
 
 Reseña.
 

@@ -4636,7 +4636,26 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | upc-pre-202401-si729-WX52-2SquareD-Acceptance-Test | main | b1f88b5 | fix: update gherkin elements to feature test 21 |-feature: join to a competition<br>scenarios: 4<br>test: unhappy and happy path| 23/06/2024 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+En este apartado se hace presenta la ejecución del frontend del servicio MathPlayOpen.
+
+**[Link del fronted](https://mathopenplay.web.app/login)**
+
+![imagen fronted](assets/1tb2/sprint3-despliegue.png)
+
+**[Link del backend](http://2squared.azurewebsites.net)**
+
+![imagen fronted](assets/1tb2/despliegueback.png)
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend.
+
+| Endpoint          | Detalles  |
+|---------------------|---------|
+| /api/v1/profile | En este endpoint se obtienen los perfiles de los usuarios de la aplicación | 
+| /api/v1/profile/{id} | En este endpoint se obtiene un pérfil de usuario ingresando su id | 
+| /api/v1/ | En este endpoint se obtiene las rentas realizadas por el usuario |
+| /api/v1/notification | En este endpoint se obtienen las notificaciones de la aplicación | 
+| /api/v1/notification/{id} | En este endpoint se obtiene un pérfil de usuario ingresando su id | 
+| /api/v1/notification/user/{id} | En este endpoint se obtiene las rentas realizadas por el usuario |
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -4701,7 +4720,7 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 - ¿Qué opina acerca de la distribución de secciones, tanto el toolbar como el sidebar?
 - ¿Cómo describiría nuestra aplicación web en pocas palabras?
 - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
-- ¿Utiliza actualmente una aplicación web para rentar scooters? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+- ¿Utiliza actualmente una aplicación web para estudiar maremáticas? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
 - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
 - ¿Considera que el diseño es adecuado?
 

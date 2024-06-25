@@ -4694,10 +4694,10 @@ Nuestro despliegue se ha hecho en Microsoft Azure:
 ![Paso para desplegar](assets/1tb2/azure3.png)
 ![Paso para desplegar](assets/1tb2/azure4.png)
 
-De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+De esta manera el avance del Sprint 4 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
 ![Imagen del despliegue](assets/1tb2/despliegueback.png)
 
-Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 4:
 [Link del backend desplegado](http://2squared.azurewebsites.net)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint

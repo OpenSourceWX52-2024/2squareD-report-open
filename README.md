@@ -4769,13 +4769,22 @@ Reseña.
 
 >**Segmento Objetivo 2: Estudiantes**
 
-**Entrevistado 1:** Jeremy Joel Quispe Anda
-**Edad:** 17 años
-**Distrito:** San Juan de Lurigancho
-**Cargo:** Estudiante 
+**Entrevistado 1:** Nicolás Fernando Javier Barrial Marin
+<br>
+**Edad:** 16 años
+<br>
+**Distrito:** Carbayllo
+<br>
+**Rol:** Estudiante de 5to año de secundaria
+<br>
+**Inicio de Timing:**
+<br>
+**Fin de Timing:**
+<br>
 
-![empresario 2]()
-[URL de entrevista]()
+![estudiante1]()
+
+[URL de entrevista](https://youtu.be/wRcueUaSZpM)
 
 Reseña.
 

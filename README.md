@@ -4769,26 +4769,20 @@ Reseña.
 
 >**Segmento Objetivo 2: Estudiantes**
 
-**Entrevistado 1:** Nicolás Fernando Javier Barrial Marin
-<br>
-**Edad:** 16 años
-<br>
-**Distrito:** Carbayllo
-<br>
-**Rol:** Estudiante de 5to año de secundaria
-<br>
-**Inicio de Timing:**
-<br>
-**Fin de Timing:**
-<br>
+**Entrevistado 1:** Nicolás Fernando Javier Barrial Marin<br>
+**Edad:** 16 años<br>
+**Distrito:** Carbayllo<br>
+**Rol:** Estudiante de 5to año de secundaria<br>
+**Inicio de Timing:** 01:20 min<br>
+**Fin de Timing:** 24:55 min<br>
 
-![estudiante1]()
+![estudiante1](assets/sprint4/student1.png)
 
-[URL de entrevista](https://youtu.be/wRcueUaSZpM)
+[URL de entrevista](https://youtu.be/wRcueUaSZpM)<br>
 
-Reseña.
+Reseña. Nicolás, uno de los primeros estudiantes entrevistados en este proyecto, fue identificado como un ejemplo representativo del fenotipo ideal de nuestro user persona estudiante. Durante la entrevista, Nicolás destacó que la landing page es efectiva, resumiendo todo lo necesario para captar la atención de los potenciales usuarios de manera clara y concisa. También señaló que la aplicación es muy intuitiva y fácil de manejar, cumpliendo con los requisitos primordiales y característicos que habíamos definido para este proyecto. Según su experiencia, la aplicación no solo es funcional sino también accesible, lo que mejora significativamente la experiencia del usuario y la probabilidad de adopción por parte del público objetivo. Su feedback positivo nos confirma que estamos en el camino correcto para satisfacer las necesidades de nuestros usuarios finales.
 
-**Entrevistado 1:** Alexander Perez Marin
+**Entrevistado 2:** Alexander 
 **Edad:** 15 años
 **Distrito:** EEUU
 **Cargo:** Estudiante 

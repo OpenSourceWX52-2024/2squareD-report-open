@@ -4707,7 +4707,14 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 >**Fronted insights**
 
 ![front-pulse](assets/sprint4front/pulse-front.png)
-![front-commits](image.png)
+![front-commits](assets/sprint4front/commits-front.png)
+![alt text](assets/sprint4front/network-front.png)
+
+>**Backend insights**
+
+![alt text](assets/sprint4front/backend-pulse.png)
+![alt text](assets/sprint4front/backend.commits.png)
+![alt text](assets/sprint4front/backend-network.png)
 
 ## 5.3.Validation Interviews
 ### 5.3.1. Diseño de Entrevistas

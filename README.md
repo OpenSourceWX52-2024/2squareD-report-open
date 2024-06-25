@@ -4602,6 +4602,17 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 
 #### 5.2.4.2. Sprint Backlog 4
 #### 5.2.4.3. Development Evidence for Sprint Review
+| Repository| Branch  | Commit Id | Commit Message| Commit Message Body | Commited on (Date) |
+|---------------------|---------|-----------|-----------------------------------------------|---------------------|--------------------|
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | eb57d7f | fix: update components |-| 25/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add overview games |-| 25/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-FrontEnd | main | 490f4ea | feat: add math games view |-| 25/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 32354bf | feat: update comunication api |-| 25/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 5b4344f | feat: add agreggates commands services |-| 25/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 10d4fe8 | feat: add files for performance controller |-| 25/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 584099e | feat: ProfileController |-| 09/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 584099e | chore: Directory Domain Driven Desing |-| 25/06/2024|
+| upc-pre-202401-si729-WX52-2SquareD-BackEnd | main | 040fb92 | initial commit |-| 25/06/2024|
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 | Repository          | Branch  | Commit Id | Commit Message               | Commit Message Body | Commited on (Date) |
 |---------------------|---------|-----------|------------------------------|---------------------|--------------------|

@@ -2165,22 +2165,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     </td>
     <td colspan="1">EP002</td>
 </tr>
-        <tr>
-    <td colspan="1">US014</td>
-    <td colspan="1">Agregar funcionalidades de barra de navegación </td>
-    <td colspan="1">
-        <strong>Como</strong> usuario, <strong>quiero</strong> quiero que se agreguen funcionalidades adicionales a la barra de navegación de la plataforma, <strong>para</strong> facilitar la navegación y el acceso a diferentes secciones y características
-    </td>
-    <td colspan="5">
-        <strong>E01: Dado que</strong> el usuario accede a la plataforma, <br>
-        <strong>Cuando</strong> la página se carga correctamente, <br>
-        <strong>Entonces</strong> Entonces la barra de navegación debe mostrar todas las funcionalidades adicionales de manera clara y organizada. <br><br>
-        <strong>E02: Dado que</strong> el usuario desea realizar una acción específica, <br>
-        <strong>Cuando</strong> hace clic en el enlace correspondiente en la barra de navegación, <br>
-        <strong>Entonces</strong> debe ser redirigido de manera rápida y precisa a la sección deseada. <br> 
-    </td>
-    <td colspan="1">EP003</td>
-</tr>
        <tr>
     <td colspan="1">US015</td>
     <td colspan="1">Anclar atajos a otros apartados</td>
@@ -2264,28 +2248,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
         <strong>Y el usuario presiona JUGAR pero se le va el internet</strong> <br>
         <strong>Entonces</strong> la plataforma soltará un error por ausencia de internet <br><br>
-    </td>
-    <td colspan="1">EP004</td>
-</tr>
-        <tr>
-    <td colspan="1">US020</td>
-    <td colspan="1">Ingreso a la sala del videojuego  multi-jugador</td>
-    <td colspan="1">
-        <strong>Como</strong> estudiante de la plataforma <strong>quiero</strong> interactuar con un botón "JUGAR" <strong>para</strong> acceder a la sala de espera con otros jugadores antes de comenzar a jugar
-    </td>
-    <td colspan="5">
-        <strong>E01: El usuario ingresa correctamente a la sala multi-jugador</strong> <br><br>
-        <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
-        <strong>Cuando</strong> le dé CLICK a un videojuego multi-jugador <br>
-        <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
-        <strong>Y el usuario presiona JUGAR</strong> <br>
-        <strong>Entonces</strong> accederá al apartado donde el videojuego se ejecute y se mostrará la sala de espera multi-jugador <br><br>
-        <strong>E02: El usuario no ingresa correctamente a la sala multi-jugador por no estar conectado a internet</strong> <br><br>
-        <strong>Dado que</strong> el usuario se encuentra en el menú principal <br>
-        <strong>Cuando</strong> le dé CLICK a un videojuego multi-jugador <br>
-        <strong>Y se muestre un apartado con los detalles del mismo y un botón JUGAR</strong> <br>
-        <strong>Y el usuario presiona JUGAR</strong> <br>
-        <strong>Entonces</strong> accederá al apartado donde el videojuego se ejecute y al detectar que no se está conectado a internet se mostrará un error <br><br>
     </td>
     <td colspan="1">EP004</td>
 </tr>
@@ -2410,82 +2372,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     </td>
     <td colspan="1">EP005</td>
 </tr>
-
-<tr>
-    <td colspan="1">TS027</td>
-    <td colspan="1">Desarrollo del Game Manager</td>
-    <td colspan="1">Como desarrollador, Quiero crear un GameManager en los videojuegos, Para tener un mayor control sobre el juego desde el inicio a fin</td>
-    <td colspan="5">
-        <strong>E01:</strong><br>
-        <strong>Dado que</strong> el desarrollador inicia la creación del GameManager para los videojuegos,<br>
-        <strong>Cuando</strong> diseña una estructura modular y escalable para el GameManager,<br>
-        <strong>Y</strong> implementa funcionalidades para controlar el flujo del juego, gestionar eventos y administrar recursos,<br>
-        <strong>Y</strong> integra el GameManager con las mecánicas específicas de cada juego de manera eficiente,<br>
-        <strong>Entonces</strong> el desarrollador tiene un mayor control sobre el juego desde el inicio hasta el final,<br>
-        <strong>Y</strong> puede realizar ajustes y mejoras en el juego de manera más rápida y fácil,<br>
-        <strong>Y</strong> los usuarios experimentan una experiencia de juego más fluida y coherente gracias al GameManager bien diseñado.<br>
-        <br>
-        <strong>E02:</strong><br>
-        <strong>Dado que</strong> el desarrollador está creando el GameManager para los videojuegos,<br>
-        <strong>Cuando</strong> diseña una estructura poco modular o difícil de mantener,<br>
-        <strong>O</strong> implementa funcionalidades del GameManager de manera confusa o poco eficiente,<br>
-        <strong>O</strong> el GameManager no se integra correctamente con las mecánicas específicas de cada juego,<br>
-        <strong>Entonces</strong> el desarrollador enfrenta dificultades para controlar el flujo del juego y gestionar eventos,<br>
-        <strong>Y</strong> realizar ajustes y mejoras en el juego se vuelve complicado y propenso a errores,<br>
-        <strong>O</strong> los usuarios pueden experimentar problemas de rendimiento o inconsistencias en el juego debido a un GameManager mal diseñado.<br>
-    </td>
-    <td colspan="1">EP005</td>
-</tr>
-<tr>
-    <td colspan="1">TS028</td>
-    <td colspan="1">Desarrollo de reglas de juego</td>
-    <td colspan="1">Como desarrollador, Quiero establecer las reglas de cada juego en la plataforma, Para que los usuarios sepan qué acciones tomar para progresar</td>
-    <td colspan="5">
-        <strong>E01:</strong><br>
-        <strong>Dado que</strong> el desarrollador comienza a definir las reglas de cada juego en la plataforma,<br>
-        <strong>Cuando</strong> investiga y analiza juegos similares para determinar reglas efectivas y equilibradas,<br>
-        <strong>Y</strong> documenta claramente las reglas de cada juego, incluyendo objetivos, mecánicas y condiciones de victoria,<br>
-        <strong>Y</strong> integra las reglas en la interfaz de usuario del juego de manera accesible y comprensible,<br>
-        <strong>Entonces</strong> los usuarios pueden consultar las reglas fácilmente antes y durante el juego,<br>
-        <strong>Y</strong> tienen claridad sobre las acciones que deben tomar para progresar y tener éxito en el juego,<br>
-        <strong>Y</strong> disfrutan de una experiencia de juego coherente y satisfactoria.<br>
-        <br>
-        <strong>E02:</strong><br>
-        <strong>Dado que</strong> el desarrollador está estableciendo las reglas de cada juego en la plataforma,<br>
-        <strong>Y</strong> no investiga ni analiza adecuadamente juegos similares para determinar reglas efectivas,<br>
-        <strong>O</strong> documenta las reglas de manera confusa o incompleta, dejando espacio para interpretaciones erróneas,<br>
-        <strong>O</strong> no integra las reglas de manera clara en la interfaz de usuario del juego,<br>
-        <strong>Entonces</strong> los usuarios encuentran dificultades para comprender las reglas del juego,<br>
-        <strong>Y</strong> pueden sentirse frustrados o desanimados al no saber qué acciones tomar para progresar,<br>
-        <strong>O</strong> experimentan inconsistencias o situaciones injustas debido a reglas poco claras o mal definidas.<br>
-    </td>
-    <td colspan="1">EP005</td>
-</tr>
-
-<tr>
-    <td colspan="1">TS029</td>
-    <td colspan="1">Implementación de salas multijugador</td>
-    <td colspan="1">Como desarrollador, Quiero implementar un sistema multijugador asincrónico y sencillo, Para la interacción en tiempo real entre los usuarios</td>
-    <td colspan="5">
-        <strong>E01:</strong><br>
-        <strong>Dado que</strong> el desarrollador comienza a diseñar e implementar el sistema multijugador asíncrono,<br>
-        <strong>Cuando</strong> selecciona una tecnología adecuada para la comunicación entre usuarios en tiempo real,<br>
-        <strong>Y</strong> diseña una interfaz de usuario intuitiva que permita a los usuarios interactuar fácilmente con el sistema multijugador,<br>
-        <strong>Y</strong> implementa un sistema de notificaciones para informar a los usuarios sobre las actualizaciones y acciones de otros jugadores,<br>
-        <strong>Entonces</strong> los usuarios pueden disfrutar de la interacción en tiempo real con otros jugadores de forma sencilla y fluida.<br>
-        <br>
-        <strong>E02:</strong><br>
-        <strong>Dado que</strong> el desarrollador está implementando el sistema multijugador asíncrono,<br>
-        <strong>Cuando</strong> selecciona una tecnología que no es adecuada para la comunicación en tiempo real,<br>
-        <strong>O</strong> diseña una interfaz de usuario complicada o poco intuitiva para interactuar con el sistema multijugador,<br>
-        <strong>O</strong> implementa un sistema de notificaciones poco confiable o ineficiente,<br>
-        <strong>Entonces</strong> los usuarios experimentan dificultades al intentar interactuar con otros jugadores en tiempo real,<br>
-        <strong>Y</strong> pueden sentirse frustrados por la falta de claridad en las acciones de otros jugadores,<br>
-        <strong>O</strong> la experiencia de juego puede verse afectada negativamente debido a la falta de sincronización entre los usuarios.<br>
-    </td>
-    <td colspan="1">EP005</td>
-</tr>
-
 <tr>
     <td colspan="1">TS030</td>
     <td colspan="1">Implementación de interfaz de videojuego</td>
@@ -2541,71 +2427,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     </td>
     <td colspan="1">EP006</td>
 </tr>
-
-<tr>
-    <td colspan="1">US032</td>
-    <td colspan="1">Evaluación de la dificultad de los videojuegos</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario de la plataforma, quiero que los videojuegos sean evaluados en cuanto a su dificultad <strong>para</strong> tener una experiencia de juego equilibrada y desafiante.
-    </td>
-    <td colspan="5">
-        <strong>E01: Evaluación exitosa de la dificultad</strong>
-        <br><br>
-        <strong>Caso 01: Evaluación de niveles de dificultad</strong>
-        <br><br>
-        <strong>Dado que</strong> el usuario está jugando un videojuego en la plataforma,
-        <br>
-        <strong>Y</strong> el usuario completa un nivel o sección del juego,
-        <br>
-        <strong>Cuando</strong> el usuario finaliza el nivel,
-        <br>
-        <strong>Entonces</strong> el sistema evalúa la dificultad del nivel en base a la experiencia del usuario y proporciona una retroalimentación sobre su equilibrio y desafío.
-        <br><br>
-        <strong>Caso 02: Ajuste dinámico de dificultad</strong>
-        <br><br>
-        <strong>Dado que</strong> el usuario está jugando un videojuego en la plataforma,
-        <br>
-        <strong>Y</strong> el usuario muestra un patrón de juego coherente,
-        <br>
-        <strong>Cuando</strong> el sistema detecta un nivel de dificultad inadecuado para el usuario,
-        <br>
-        <strong>Entonces</strong> el sistema ajusta dinámicamente la dificultad del juego para adaptarse al nivel de habilidad del usuario.
-    </td>
-    <td colspan="1">EP006</td>
-</tr>
-
-<tr>
-    <td colspan="1">US033</td>
-    <td colspan="1">Medición de eficacia de los elementos de enseñanza dentro del juego</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario de la plataforma, quiero que los elementos de enseñanza dentro de los juegos sean medidos en cuanto a su eficacia <strong>para</strong> asegurarme de que estoy recibiendo una educación efectiva mientras juego.
-    </td>
-    <td colspan="5">
-        <strong>E01: Medición exitosa de eficacia</strong>
-        <br><br>
-        <strong>Caso 01: Evaluación de conocimientos adquiridos</strong>
-        <br><br>
-        <strong>Dado que</strong> el usuario está jugando un juego educativo en la plataforma,
-        <br>
-        <strong>Y</strong> el usuario completa una sección o nivel del juego,
-        <br>
-        <strong>Cuando</strong> el usuario finaliza la actividad educativa,
-        <br>
-        <strong>Entonces</strong> el sistema evalúa la eficacia de los elementos de enseñanza, como preguntas, ejercicios o tutoriales, en base al conocimiento adquirido por el usuario durante el juego.
-        <br><br>
-        <strong>Caso 02: Retroalimentación en tiempo real</strong>
-        <br><br>
-        <strong>Dado que</strong> el usuario está jugando un juego educativo en la plataforma,
-        <br>
-        <strong>Y</strong> el usuario realiza una acción o responde a una pregunta,
-        <br>
-        <strong>Cuando</strong> el usuario proporciona una respuesta incorrecta o incompleta,
-        <br>
-        <strong>Entonces</strong> el sistema proporciona retroalimentación inmediata para corregir el error y mejorar la comprensión del usuario.
-    </td>
-    <td colspan="1">EP006</td>
-</tr>
-
 <tr>
     <td colspan="1">US034</td>
     <td colspan="1">Visualización del progreso del usuario en la plataforma</td>
@@ -2669,72 +2490,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     <td colspan="1">EP006</td>
 </tr>
 <tr>
-    <td colspan="1">US036</td>
-    <td colspan="1">Comunicación de errores o reclamos con soporte técnico</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario de la plataforma, quiero poder comunicar errores o reclamos al equipo de soporte técnico <strong>para</strong> recibir ayuda y solucionar problemas.
-    </td>
-    <td colspan="5">
-        <strong>E01: Comunicación exitosa de error o reclamo</strong>
-        <br><br>
-        <strong>Caso 01: Reporte de error</strong>
-        <br><br>
-        <strong>Dado que</strong> el usuario está en la plataforma,
-        <br>
-        <strong>Y</strong> el usuario encuentra un error o fallo en la aplicación,
-        <br>
-        <strong>Cuando</strong> el usuario accede al apartado de soporte técnico,
-        <br>
-        <strong>Y</strong> el usuario selecciona la opción de reportar un error,
-        <br>
-        <strong>Entonces</strong> el sistema registra el reporte de error y lo envía al equipo de soporte técnico para su revisión y solución.
-        <br><br>
-        <strong>Caso 02: Solicitud de asistencia técnica</strong>
-        <br><br>
-        <strong>Dado que</strong> el usuario está en la plataforma,
-        <br>
-        <strong>Y</strong> el usuario necesita ayuda o asistencia técnica,
-        <br>
-        <strong>Cuando</strong> el usuario accede al apartado de soporte técnico,
-        <br>
-        <strong>Entonces</strong> el sistema le permite al usuario enviar una solicitud de asistencia técnica, proporcionando detalles sobre el problema o pregunta.
-    </td>
-    <td colspan="1">EP007</td>
-</tr>
-
-<tr>
-    <td colspan="1">US037</td>
-    <td colspan="1">Implementación de apartado de preguntas frecuentes (FAQ)</td>
-    <td colspan="1">
-        <strong>Como</strong> usuario, quiero tener acceso a un apartado de preguntas frecuentes (FAQ) <strong>para</strong> resolver dudas comunes de manera rápida y sencilla.
-    </td>
-    <td colspan="5">
-        <strong>E01: Implementación de FAQ exitosa</strong>
-        <br><br>
-        <strong>Caso 01: Acceso al apartado de preguntas frecuentes</strong>
-        <br><br>
-        <strong>Dado que</strong> el usuario está en la plataforma,
-        <br>
-        <strong>Y</strong> el usuario accede al apartado de preguntas frecuentes (FAQ),
-        <br>
-        <strong>Cuando</strong> el sistema muestra una lista clara y organizada de preguntas y respuestas comunes,
-        <br>
-        <strong>Entonces</strong> el usuario puede resolver sus dudas de manera rápida y sencilla.
-        <br><br>
-        <strong>Caso 02: Búsqueda de preguntas específicas</strong>
-        <br><br>
-        <strong>Dado que</strong> el usuario está en la plataforma,
-        <br>
-        <strong>Y</strong> el usuario tiene una pregunta específica o problema,
-        <br>
-        <strong>Cuando</strong> el usuario utiliza la función de búsqueda en el apartado de preguntas frecuentes,
-        <br>
-        <strong>Entonces</strong> el sistema muestra resultados relevantes que ayudan al usuario a encontrar respuestas específicas a sus preguntas.
-    </td>
-    <td colspan="1">EP007</td>
-</tr>
-
-<tr>
             <td colspan="1">BS038</td>
             <td colspan="1">Análisis de los beneficios del plan premium</td>
         <td colspan="1"><strong>Como</strong> administrador, <strong>quiero</strong> realizar un análisis detallado de los beneficios ofrecidos por el plan premium, <strong>para</strong> comprender su impacto en la satisfacción del cliente y en la rentabilidad del negocio.</td>
@@ -2784,25 +2539,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
             <strong>E03: Dado que</strong> se ha completado una transacción con éxito, <br>
             <strong>Cuando</strong> se confirma el pago, <br>
             <strong>Entonces</strong> la plataforma debe proporcionar una confirmación al usuario y actualizar su estado de membresía si corresponde.
-            </td>
-            <td colspan="1">EP008</td>
-		</tr>
-		<tr>
-            <td colspan="1">BS041</td>
-            <td colspan="1">Exposición de métricas de la plataforma</td>
-            <td colspan="1"><strong>Como inversor,</strong> <strong>quiero</strong> tener acceso a métricas clave de la plataforma, <strong>para</strong> evaluar el rendimiento y tomar decisiones de inversión informadas.</td>
-            <td colspan="5">
-                <strong>E01: </strong> <strong>Dado que</strong> un inversor accede al panel de métricas, <br>
-                <strong>Cuando</strong> se cargan los datos de rendimiento de la plataforma, <br>
-                <strong>Entonces</strong> el panel debe mostrar métricas como el tiempo de carga, la velocidad de respuesta y el crecimiento de usuarios. <br>
-                <br>
-                <strong>E02: </strong> <strong>Dado que</strong> se muestran las métricas de la plataforma, <br>
-                <strong>Cuando</strong> un inversor analiza los datos, <br>
-                <strong>Entonces</strong> debe poder identificar tendencias y tomar decisiones de inversión basadas en el rendimiento histórico y las proyecciones futuras. <br>
-                <br>
-                <strong>E03: </strong> <strong>Dado que</strong> se realizan actualizaciones en la plataforma, <br>
-                <strong>Cuando</strong> se monitorea el impacto de las actualizaciones en las métricas, <br>
-                <strong>Entonces</strong> los cambios en el rendimiento deben reflejarse en el panel de control para evaluar el impacto en el valor de la inversión.
             </td>
             <td colspan="1">EP008</td>
 		</tr>
@@ -3026,25 +2762,11 @@ Dado</strong> que El usuario está interesado en la plataforma y visita la landi
       <td>5</td>
     </tr>
      <tr>
-      <td>21</td>
-      <td>HU-34</td>
-      <td>Medición de eficacia de los elementos de enseñanza dentro del juego</td>
-      <td>Como usuario de la plataforma, quiero que los elementos de enseñanza dentro de los juegos sean medidos en cuanto a su eficacia para asegurarme de que estoy recibiendo una educación efectiva mientras juego.</td>
-      <td>3</td>
-    </tr>
-     <tr>
       <td>22</td>
       <td>HU-31</td>
       <td>Visualización de barra de búsqueda</td>
       <td>Como usuario de la plataforma, quiero poder acceder fácilmente a la barra de búsqueda para encontrar contenido específico</td>
       <td>3</td>
-    </tr>
-     <tr>
-      <td>23</td>
-      <td>HU-29</td>
-      <td>Implementación de salas multijugador</td>
-      <td>Como desarrollador, Quiero implementar un sistema multijugador asíncrono y sencillo, Para la interacción en tiempo real entre los usuarios</td>
-      <td>5</td>
     </tr>
      <tr>
       <td>24</td>
@@ -3054,25 +2776,11 @@ Dado</strong> que El usuario está interesado en la plataforma y visita la landi
       <td>2</td>
     </tr>
      <tr>
-      <td>25</td>
-      <td>HU-27</td>
-      <td>Desarrollo del Game Manager</td>
-      <td>Como desarrollador, Quiero crear un GameManager en los videojuegos, Para tener un mayor control sobre el juego desde el inicio hasta el fin</td>
-      <td>3</td>
-    </tr>
-     <tr>
       <td>26</td>
       <td>HU-30</td>
       <td>Implementación de interfaz de videojuego</td>
       <td>Como desarrollador, Quiero implementar una interfaz amigable y clara para el videojuego, Para que los usuarios lo usen con facilidad</td>
       <td>3</td>
-    </tr>
-     <tr>
-      <td>27</td>
-      <td>HU-33</td>
-      <td>Evaluación de la dificultad de los videojuegos</td>
-      <td>Como usuario de la plataforma, quiero que los videojuegos sean evaluados en cuanto a su dificultad para tener una experiencia de juego equilibrada y desafiante.</td>
-      <td>2</td>
     </tr>
      <tr>
       <td>28</td>
@@ -3124,24 +2832,10 @@ Dado</strong> que El usuario está interesado en la plataforma y visita la landi
       <td>3</td>
     </tr>
      <tr>
-      <td>35</td>
-      <td>HU-39</td>
-      <td>Implementación de apartado de preguntas frecuentes (FAQ)</td>
-      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>3</td>
-    </tr>
-     <tr>
       <td>36</td>
       <td>HU-41</td>
       <td>Detección y establecimiento de plan</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>3</td>
-    </tr>
-     <tr>
-      <td>37</td>
-      <td>HU-37</td>
-      <td>Comunicación de errores o reclamos con soporte técnico</td>
-      <td>Como usuario de la plataforma, quiero poder comunicar errores o reclamos al equipo de soporte técnico para recibir ayuda y solucionar problemas.</td>
       <td>3</td>
     </tr>
      <tr>
@@ -3178,20 +2872,6 @@ Dado</strong> que El usuario está interesado en la plataforma y visita la landi
       <td>Agregar funcionalidades de Iconos</td>
       <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
       <td>3</td>
-    </tr>
-     <tr>
-      <td>43</td>
-      <td>HU-17</td>
-      <td>Agregar un buzón de notificaciones</td>
-      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>3</td>
-    </tr>
-	  <tr>
-      <td>44</td>
-      <td>HU-43</td>
-      <td>Exposición de métricas de la plataforma</td>
-      <td>Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo</td>
-      <td>1</td>
     </tr>
   </tbody>
 </table>

@@ -4871,13 +4871,13 @@ Reseña.
 
 >**Segmento Objetivo 2: Estudiantes**
 
-**Entrevistado 1:** Jeremy Joel Quispe Anda
-**Edad:** 17 años
-**Distrito:** San Juan de Lurigancho
+**Entrevistado 1:** Gerardo Quilla
+**Edad:** 21 años
+**Distrito:** San Miguel
 **Cargo:** Estudiante 
 
-![empresario 2]()
-[URL de entrevista]()
+![estudiante 2] 
+[ (https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b298_upc_edu_pe/EaWCUBza18RLjHLzq2fNs60B4drPJOhp6q0g0LBt-De1mA?e=JSagcK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)] 
 
 Reseña.
 

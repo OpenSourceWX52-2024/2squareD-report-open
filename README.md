@@ -4281,6 +4281,90 @@ equipo previamente, para ello, se realizaron primero los componentes y luego ent
 | Sprint 4 - Story Points          | |
 
 #### 5.2.4.2. Sprint Backlog 4
+Implementación del fronted y backend acorde con las User Stories.
+
+<table>
+<tbody>
+    <tr>
+        <th valign="top">Sprint 4</th>
+        <th colspan="7" valign="top">
+        Sprint: Implementar el backend y corrección del fronted acorde a las historias de usuario redactadas </th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US001</td>
+        <td rowspan="1" valign="top">Registro de usuarios clientes en la plataforma</td>
+        <td valign="top">001</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Validar datos, formato, manejar errores y excepciones para el registro de usuario.</td>
+        <td valign="top">5</td>
+        <td valign="top">Miguel Ibañez</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-35</td>
+        <td rowspan="1" valign="top">Visualización del progreso del usuario en la plataforma</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Promedio de la utilización de juegos del usuario</td>
+        <td valign="top">5</td>
+        <td valign="top">Joseph Llauca</td>
+        <td valign="top">In Process</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-36</td>
+        <td rowspan="1" valign="top">Visualización del progreso del usuario en la plataforma</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Despliegue de datos al apartado de visualización del progreso</td>
+        <td valign="top">5</td>
+        <td valign="top">Miguel Carpio</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-32</td>
+        <td rowspan="1" valign="top">Evaluación del progreso de estudiantes</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Análisis de los resultados por estudiante</td>
+        <td valign="top">3</td>
+        <td valign="top">Pietro Minaya</td>
+        <td valign="top">In progress</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">HU-23</td>
+        <td rowspan="1" valign="top">Visualización de resultados</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Mostrar al usuario sus resultados después de cada partida</td>
+        <td valign="top">5</td>
+        <td valign="top">Sharon Barrial</td>
+        <td valign="top">In progress</td>
+    </tr>
+        <tr>
+        <td rowspan="1" valign="top">HU-17</td>
+        <td rowspan="1" valign="top">Agregar un buzón de notificaciones</td>
+        <td valign="top">1</td>
+        <td valign="top">Desarrollo de Backend</td>
+        <td valign="top">Mostrar un buzón de notificaciones</td>
+        <td valign="top">5</td>
+        <td valign="top">Lucio Yen</td>
+        <td valign="top">In progress</td>
+    </tr>
+</tbody>
+</table>
 #### 5.2.4.3. Development Evidence for Sprint Review
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 #### 5.2.4.5. Execution Evidence for Sprint Review

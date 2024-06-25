@@ -4645,6 +4645,7 @@ En este apartado se hace presenta la ejecución del frontend del servicio MathPl
 **[Link del backend](http://2squared.azurewebsites.net)**
 
 ![imagen fronted](assets/1tb2/despliegueback.png)
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend.
 
@@ -4652,11 +4653,53 @@ Aquí, se hace enfoque de todos los endpoints utilizados y creados en el backend
 |---------------------|---------|
 | /api/v1/profile | En este endpoint se obtienen los perfiles de los usuarios de la aplicación | 
 | /api/v1/profile/{id} | En este endpoint se obtiene un pérfil de usuario ingresando su id | 
-| /api/v1/ | En este endpoint se obtiene las rentas realizadas por el usuario |
 | /api/v1/notification | En este endpoint se obtienen las notificaciones de la aplicación | 
 | /api/v1/notification/{id} | En este endpoint se obtiene un pérfil de usuario ingresando su id | 
 | /api/v1/notification/user/{id} | En este endpoint se obtiene las rentas realizadas por el usuario |
+| /api/v1/games | En este endpoint se obtiene los games disponibles en el site |
+| /api/v1/scores | En este endpoint se obtiene los puntos obtenidos en eljuego |
+| /api/v1/scores/{participantId} | En este endpoint se obtiene los puntos obtenidos en eljuego por cada id de usuario participante |
+| /api/v1/students | En este endpoint se obtiene los estudiantes registrados |
+| /api/v1/students/{id} | En este endpoint se obtiene los estudiantes registrados por id|
+| /api/v1/authorization/sign-in | En este endpoint es la autorización de registro |
+| /api/v1/authorization/log-in | En este endpoint es la autorización de ingreso |
+| /api/v1/teachers | En este endpoint se obtiene los profesores registrados |
+| /api/v1/teachers/{id} | En este endpoint se obtiene los profesores registrados |
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Luego de configurar el *file* application.properties:
+![Imagen de application.properties](assets/1tb2/application.png)
+
+Primero, ejecutamos el comando “run” representado por un ícono de play: "Run - MathPlayOpenApplication"
+![Imagen de run configuration](assets/1tb2/run.png)
+
+Visualización de no errores en la terminal:
+![Imagen de terminal local del proyecto](assets/1tb2/terminal.png)
+
+Demostración de las capas creadas:
+![Imagen de carpeta local src del proyecto](assets/1tb2/carpetas1.png)
+![Imagen de carpeta local src del proyecto](assets/1tb2/carpetas2.png)
+![Imagen de carpeta local src del proyecto](assets/1tb2/carpetas3.png)
+
+Visualización de los endpoints:
+![Imagen de las rutas](assets/1tb2/endpoints1.png)
+![Imagen de las rutas](assets/1tb2/endpoints2.png)
+
+Nuestro despliegue se ha hecho en Microsoft Azure:
+![Paso para desplegar](assets/1tb2/azure1.png)
+![Imagen del despliegue](assets/1tb2/azure2.png)
+![Paso para desplegar](assets/1tb2/azure3.png)
+![Paso para desplegar](assets/1tb2/azure4.png)
+
+De esta manera el avance del Sprint 3 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+![Imagen del despliegue](assets/1tb2/despliegueback.png)
+
+Finalmente, se logró desplegar con éxito todo el desarrollo trabajado en el Sprint 3:
+[Link del backend desplegado](http://2squared.azurewebsites.net)
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
 

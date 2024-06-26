@@ -4859,15 +4859,18 @@ Reseña.
 
 Reseña.
 
-**Entrevistado 3:** Mauro Perez Diaz
-**Edad:** 70 años
-**Distrito:** Distrito Villa el Salvador
-**Cargo:** Coordinador de secciones
+**Entrevistado 2:**  Augusto Mathias Leonardo Vasquez
+**Edad:** 30 años
+**Distrito:** San Isidro
+**Rol:** Ejecutivo en una institución educativa <br>
+**Inicio de Timing:** 01:00 min<br>
+**Fin de Timing:** 8:55 min<br>
 
-![empresario 2]()
-[URL de entrevista]()
+![estudiante1](assets/sprint4/image.png)
 
-Reseña.
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EUsdDlqHTxRBvrJoexrTlAIBPxIp0xoIO8n535ik2UvZlQ?e=jkLijG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
+
+Augusto Mathias Leonardo Vasquez, ejecutivo de 30 años en una institución educativa, con 8 años de experiencia, describe MathPlayOpen como una plataforma innovadora y fácil de usar que hace el aprendizaje de matemáticas divertido. Considera la Landing Page atractiva y bien organizada, calificándola con un 9, y encontró la navegación por la aplicación web sencilla e intuitiva. Sugiere mejoras en la sección de análisis de progreso y la inclusión de más opciones de personalización y tutoriales en video. En general, Mathias opina que el diseño es adecuado y funcional, destacando la interactividad y el enfoque lúdico de la aplicación.
 
 >**Segmento Objetivo 2: Estudiantes**
 
